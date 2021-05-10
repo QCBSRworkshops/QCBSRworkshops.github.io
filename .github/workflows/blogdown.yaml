@@ -57,7 +57,7 @@ jobs:
         
       - name: 💻 Install R packages and dependencies if needed
         run: |
-          Rscript -e 'list.of.packages <- c("blogdown", "remotes"); 
+          Rscript -e 'list.of.packages <- c("blogdown"); 
           new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]; 
           if(length(new.packages) > 0) {  
           install.packages(new.packages, dependencies = TRUE)   
@@ -73,11 +73,11 @@ jobs:
         run: |
           Rscript -e 'blogdown::build_site(TRUE)'
 
-      - name: 🔺 Upload artifact containing the book
+      - name: 🔺 Upload artifact containing the rendered website
         uses: actions/upload-artifact@v1
         with:
           name: website
-          path: /
+          path: website/
 
 # Need to first create an empty gh-pages branch
 # see https://pkgdown.r-lib.org/reference/deploy_site_github.html
@@ -107,6 +107,6 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: public/
+          FOLDER: website/public/
           TARGET_FOLDER: / # The folder the action should deploy
           CLEAN: true
