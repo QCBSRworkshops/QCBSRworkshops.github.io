@@ -16,7 +16,7 @@ jobs:
   build-job:
     runs-on: ubuntu-latest
     env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_PAT: ${{ secrets.ACCESS_TOKEN }}
     steps:
       - name: 🛎️ Checkout repository
         uses: actions/checkout@v2
