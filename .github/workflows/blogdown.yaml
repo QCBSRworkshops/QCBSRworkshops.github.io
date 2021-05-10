@@ -74,10 +74,9 @@ jobs:
           Rscript -e 'blogdown::build_site(TRUE)'
 
       - name: 🔺 Upload artifact containing the rendered website
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v2.2.3
         with:
           name: website
-          path: website/
 
 # Need to first create an empty gh-pages branch
 # see https://pkgdown.r-lib.org/reference/deploy_site_github.html
@@ -107,5 +106,5 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: website/public/
+          FOLDER: public/
           CLEAN: true

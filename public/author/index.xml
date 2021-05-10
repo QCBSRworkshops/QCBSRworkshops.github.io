@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on QCBS R Workshop Series</title>
-    <link>http://examplesite.org/author/</link>
+    <link>https://qcbsrworkshops.github.io/website/author/</link>
     <description>Recent content in Authors on QCBS R Workshop Series</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>Copyright &amp;copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved.</copyright><atom:link href="http://examplesite.org/author/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved.</copyright><atom:link href="https://qcbsrworkshops.github.io/website/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John Doe</title>
-      <link>http://examplesite.org/author/john-doe/</link>
+      <link>https://qcbsrworkshops.github.io/website/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://examplesite.org/author/john-doe/</guid>
+      <guid>https://qcbsrworkshops.github.io/website/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>http://examplesite.org/author/mark-dinn/</link>
+      <link>https://qcbsrworkshops.github.io/website/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://examplesite.org/author/mark-dinn/</guid>
+      <guid>https://qcbsrworkshops.github.io/website/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
     </item>
     
