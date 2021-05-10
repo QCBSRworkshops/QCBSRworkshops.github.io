@@ -77,6 +77,7 @@ jobs:
         uses: actions/upload-artifact@v2.2.3
         with:
           name: website
+          path: public/
 
 # Need to first create an empty gh-pages branch
 # see https://pkgdown.r-lib.org/reference/deploy_site_github.html
@@ -99,7 +100,7 @@ jobs:
          # Artifact name
          name: website # optional
          # Destination path
-         path: / # optional
+         path: public/ # optional
 
       - name: 💎 Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@releases/v3
