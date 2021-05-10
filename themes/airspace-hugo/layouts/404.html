@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+<section class="page-404">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1>404</h1>
+        <h2 class="text-muted">{{ i18n "404_message" | markdownify }}</h2>
+        <a href="{{ "/" | relLangURL }}" class="btn btn-main"><i class="tf-ion-android-arrow-back"></i> {{ i18n "go_home" | markdownify }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

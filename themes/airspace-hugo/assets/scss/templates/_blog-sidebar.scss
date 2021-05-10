@@ -1,0 +1,130 @@
+.widget {
+  margin-bottom: 65px;
+
+  @include tablet {
+    margin-bottom: 35px;
+  }
+
+  .widget-title {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    color: #333;
+    font-weight: 500;
+    border-bottom: 1px solid $border-color;
+  }
+
+  // Latest Posts
+  &.widget-latest-post {
+    .media {
+      .media-object {
+        width: 100px;
+        height: auto;
+      }
+
+      .media-heading {
+        a {
+          color: $black;
+          font-size: 16px;
+        }
+      }
+
+      p {
+        font-size: 12px;
+        color: #808080;
+      }
+    }
+
+    @include desktop {
+      padding-top: 20px;
+    }
+  }
+  //end Latest Posts
+
+  // Categories
+  &.widget-category {
+    ul {
+      li {
+        padding-top: 10px;
+        padding-bottom: 10px;
+
+        a {
+          color: #837f7e;
+          padding: 10px;
+          padding-left: 20px;
+          padding-right: 20px;
+          @include transition-multi (padding 0.3s ease, border 0.3s ease);
+
+          &:before {
+            padding-right: 10px;
+          }
+
+          &:hover {
+            color: $primary-color;
+            padding-left: 25px;
+          }
+
+          &:active {
+            padding-left: 24px;
+            border: 1px solid $primary-color;
+            border-radius: 30px;
+            @include transition (padding, 0s);
+          }
+        }
+
+        a.current {
+          color: #fff;
+          background: $primary-color;
+          border: 1px solid $primary-color;
+          border-radius: 30px;
+          pointer-events: none;
+          cursor: default;
+        }
+      }
+    }
+  }
+  // end Categories
+
+  // Tags
+  &.widget-tag {
+    ul {
+      li {
+        margin-bottom: 10px;
+        display: inline-block;
+        margin-right: 5px;
+
+        a {
+          color: #837f7e;
+          display: inline-block;
+          padding: 8px 15px;
+          border: 1px solid #dedede;
+          border-radius: 30px;
+          font-size: 14px;
+          @include transition-multi (background-color 0.3s ease, border 0.3s ease, color 0.1s ease);
+
+          &:hover {
+            color: $primary-color;
+            background: rgba($primary-color, 0.3);
+            border: 1px solid rgba($primary-color, 0.3);
+          }
+
+          &:active {
+            color: $primary-color;
+            border: 1px solid $primary-color;
+            background: #fff;
+            @include transition (background-color, 0.1s, ease);
+          }
+        }
+
+        a.current {
+          color: #fff;
+          background: $primary-color;
+          border: 1px solid $primary-color;
+          pointer-events: none;
+          cursor: default;
+        }
+      }
+    }
+  }
+  // end Tags
+}

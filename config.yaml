@@ -1,0 +1,153 @@
+baseURL: http://examplesite.org
+title: "QCBS R Workshop Series"
+theme: airspace-hugo
+paginate: '4'
+summaryLength: '30'
+disableLanguages: []
+disqusShortname: ''
+googleAnalytics: ''
+outputs:
+  home: HTML
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+  tableOfContents:
+    endLevel: 6
+    ordered: no
+    startLevel: 2
+params:
+  author: Themefisher
+  contact:
+    address_descriptors: no
+    email: qcbs.csbq.r@gmail.com
+    form:
+      action: '#'
+      enable: yes
+      success_image: images/paper-plane.svg
+      use_netlify: yes
+    location: \r\n**Themefisher**  \r\nNorth Main Street  \r\nQuébec, QC  \r\Canada\r\n
+    phone: 0124857985320
+  cookies:
+    enable: yes
+    expire_days: 2
+  counter:
+    enable: yes
+    username: ''
+  description: This is meta description
+  gmap:
+    enable: yes
+    gmap_api: AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU
+    map_latitude: '51.5223477'
+    map_longitude: '-0.1622023'
+    map_marker: images/marker.png
+  image: images/logo.png
+  logo: images/logo.png
+  logo_width: 150px
+  plugins:
+    css:
+      - attributes: media='screen'
+        link: plugins/bootstrap/css/bootstrap.min.css
+      - attributes: ''
+        link: plugins/ionicons/css/ionicons.min.css
+      - attributes: ''
+        link: plugins/magnific-popup/magnific-popup.min.css
+      - attributes: ''
+        link: plugins/slick/slick.css
+    js:
+      - attributes: ''
+        link: plugins/jquery/jquery.min.js
+      - attributes: ''
+        link: plugins/bootstrap/js/bootstrap.min.js
+      - attributes: ''
+        link: plugins/slick/slick.min.js
+      - attributes: ''
+        link: plugins/magnific-popup/magnific-popup.min.js
+      - attributes: ''
+        link: plugins/shuffle/shuffle.min.js
+      - attributes: defer
+        link: plugins/google-map/gmap.js
+  preloader:
+    enable: yes
+    preloader: ''
+  social:
+    - icon: ion-social-googleplus-outline
+      link: '#'
+    - icon: ion-social-linkedin-outline
+      link: '#'
+    - icon: ion-social-pinterest-outline
+      link: '#'
+    - icon: ion-social-dribbble-outline
+      link: '#'
+    - icon: ion-social-twitter-outline
+      link: '#'
+    - icon: ion-social-facebook-outline
+      link: '#'
+  widgets:
+    sidebar:
+      - recent_posts
+      - taxonomy_category
+      - taxonomy_tags
+languages:
+  en:
+    contentDir: content/english
+    copyright: Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights
+      Reserved.
+    languageCode: en-US
+    languageName: English
+    menu:
+      footer:
+        - URL: about
+          name: About
+          weight: 1
+        - URL: project
+          name: Register
+          weight: 2
+        - URL: service
+          name: Service
+          weight: 3
+        - URL: pricing
+          name: Pricing
+          weight: 4
+        - URL: faq
+          name: FAQ
+          weight: 5
+        - URL: contact
+          name: Contact
+          weight: 6
+      main:
+        - hasChildren: yes
+          name: More
+          weight: 5
+    weight: 1
+  fr:
+    contentDir: content/french
+    copyright: Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous
+      droits réservés.
+    languageCode: fr-FR
+    languageName: Français
+    menu:
+      footer:
+        - URL: about
+          name: À propos
+          weight: 1
+        - URL: project
+          name: Projet
+          weight: 2
+        - URL: service
+          name: Service
+          weight: 3
+        - URL: pricing
+          name: Tarification
+          weight: 4
+        - URL: faq
+          name: Questions fréquentes
+          weight: 5
+        - URL: contact
+          name: Contact
+          weight: 6
+      main:
+        - hasChildren: yes
+          name: Plus
+          weight: 5
+    weight: 2
