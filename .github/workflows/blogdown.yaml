@@ -17,9 +17,10 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.ACCESS_TOKEN }}
+      ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
     steps:
       - name: 🛎️ Checkout repository
-        uses: actions/checkout@main
+        uses: actions/checkout@v2
         
       - name: Checkout submodules
         uses: textbook/git-checkout-submodule-action@2.1.1
@@ -37,11 +38,16 @@ jobs:
 
       - name: 💻 Install pandoc and pandoc citeproc
         uses: r-lib/actions/setup-pandoc@v1
-        
+
+      - name: Install TinyTeX
+        uses: r-lib/actions/setup-tinytex@v1
+        env:
+          # install full prebuilt version
+          TINYTEX_INSTALLER: TinyTeX
+          
       - name: Query dependencies
         run: |
           install.packages('remotes')
-          install.packages('sessioninfo')
           saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
           writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
         shell: Rscript {0}
