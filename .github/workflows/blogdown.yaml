@@ -8,9 +8,9 @@ on:
       - main
       - master
   schedule:
-    - cron: '0 1 * * *'
+      - cron: '0 1 * * *'
   paths:
-    - .github/workflows/blogdown.yml  
+      - .github/workflows/blogdown.yml  
 
 name: blogdown
 
