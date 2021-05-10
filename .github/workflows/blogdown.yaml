@@ -40,38 +40,36 @@ jobs:
 
       - name: 💻 Install pandoc and pandoc citeproc
         uses: r-lib/actions/setup-pandoc@v1
-
+        with:
+          pandoc-version: '2.12'
+          
       - name: Install TinyTeX
         uses: r-lib/actions/setup-tinytex@v1
         env:
           # install full prebuilt version
           TINYTEX_INSTALLER: TinyTeX
           
-      - name: Query dependencies
-        run: |
-          install.packages('remotes')
-          saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
-          writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
-        shell: Rscript {0}
-
-      - name: Cache R packages
-        uses: actions/cache@v1
+      - name: 💾 Cache R packages
+        uses: actions/cache@v2 # Must be v2 so it accepts the GITHUB_REF from the repository_dispatch
         with:
           path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-${{ hashFiles('.github/depends.Rds') }}
-          restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-
+          key:  r-${{ hashFiles('DESCRIPTION') }}
         
       - name: 💻 Install R packages and dependencies if needed
         run: |
-          remotes::install_deps(dependencies = TRUE)
-          install.packages("rmarkdown", "blogdown")
-        shell: Rscript {0}
-        
-      - name: Install hugo
+          Rscript -e 'list.of.packages <- c("blogdown", "remotes"); 
+          new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]; 
+          if(length(new.packages) > 0) {  
+          install.packages(new.packages, dependencies = TRUE)   
+          print(paste0("The following package was installed:", new.packages))} else 
+          if(length(new.packages) == 0) {
+          print("All packages have been previously installed and fetched from cache.")}'
+          
+      - name: 💻 Install hugo
         run: |
           Rscript -e 'blogdown::install_hugo()'
 
-      - name: Build site
+      - name: 🧶 Build site
         run: |
           Rscript -e 'blogdown::build_site(TRUE)'
 
