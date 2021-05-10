@@ -20,6 +20,17 @@ jobs:
     steps:
       - name: 🛎️ Checkout repository
         uses: actions/checkout@v2
+        
+      - name: Checkout submodules
+        uses: textbook/git-checkout-submodule-action@2.1.1
+        
+      - name: Install npm
+        uses: actions/setup-node@v1
+
+      - name: Install postcss-cli and autoprefixer
+        run: |
+          npm install postcss-cli
+          npm install autoprefixer
 
       - name: 💻 Setup R
         uses: r-lib/actions/setup-r@v1
@@ -30,6 +41,7 @@ jobs:
       - name: Query dependencies
         run: |
           install.packages('remotes')
+          install.packages('sessioninfo')
           saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
           writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
         shell: Rscript {0}
@@ -39,7 +51,14 @@ jobs:
         with:
           path: ${{ env.R_LIBS_USER }}
           key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-${{ hashFiles('.github/depends.Rds') }}
-          restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-        
+          restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-     
+
+
+      - name: Install dependencies
+        run: |
+          remotes::install_deps(dependencies = TRUE)
+        shell: Rscript {0}
+        
         
       - name: 💻 Install R packages and dependencies if needed
         run: |
@@ -54,9 +73,6 @@ jobs:
       - name: Build site
         run: |
           Rscript -e 'blogdown::build_site(TRUE)'
-
-      - name: Install npm
-        uses: actions/setup-node@v1
 
       - name: 🔺 Upload artifact containing the book
         uses: actions/upload-artifact@v1
