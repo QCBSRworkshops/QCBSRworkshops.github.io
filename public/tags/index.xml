@@ -2,90 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on QCBS R Workshop Series</title>
-    <link>/tags/</link>
+    <link>https://qcbsrworkshops.github.io/website/tags/</link>
     <description>Recent content in Tags on QCBS R Workshop Series</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2021 [QCBS R Workshop Series](qcbsrworkshops.github.io/website). All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://qcbsrworkshops.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to</title>
-      <link>/tags/how-to/</link>
+      <link>https://qcbsrworkshops.github.io/website/tags/how-to/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
       
-      <guid>/tags/how-to/</guid>
+      <guid>https://qcbsrworkshops.github.io/website/tags/how-to/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>/tags/technology/</link>
+      <link>https://qcbsrworkshops.github.io/website/tags/technology/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
       
-      <guid>/tags/technology/</guid>
+      <guid>https://qcbsrworkshops.github.io/website/tags/technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Advice</title>
-      <link>/tags/advice/</link>
+      <link>https://qcbsrworkshops.github.io/website/tags/advice/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/advice/</guid>
+      <guid>https://qcbsrworkshops.github.io/website/tags/advice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AI</title>
-      <link>/tags/ai/</link>
+      <link>https://qcbsrworkshops.github.io/website/tags/ai/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/ai/</guid>
+      <guid>https://qcbsrworkshops.github.io/website/tags/ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>/tags/android/</link>
+      <link>https://qcbsrworkshops.github.io/website/tags/android/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/android/</guid>
+      <guid>https://qcbsrworkshops.github.io/website/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Company</title>
-      <link>/tags/company/</link>
+      <link>https://qcbsrworkshops.github.io/website/tags/company/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/company/</guid>
+      <guid>https://qcbsrworkshops.github.io/website/tags/company/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mechine</title>
-      <link>/tags/mechine/</link>
+      <link>https://qcbsrworkshops.github.io/website/tags/mechine/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/mechine/</guid>
+      <guid>https://qcbsrworkshops.github.io/website/tags/mechine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>/tags/news/</link>
+      <link>https://qcbsrworkshops.github.io/website/tags/news/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/news/</guid>
+      <guid>https://qcbsrworkshops.github.io/website/tags/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retro</title>
-      <link>/tags/retro/</link>
+      <link>https://qcbsrworkshops.github.io/website/tags/retro/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>/tags/retro/</guid>
+      <guid>https://qcbsrworkshops.github.io/website/tags/retro/</guid>
       <description></description>
     </item>
     
