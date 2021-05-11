@@ -2,9 +2,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - .github/workflows/blogdown.yaml
-      - /**
   pull_request:
     branches:
       - main
