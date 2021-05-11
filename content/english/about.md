@@ -62,7 +62,7 @@ features:
       tempor incididunt ut
     icon: ion-ios-star-outline
     name: Branding
-  title: We are indepented Design & Development Agency
+  title: Coordinators
 layout: about
 menu:
   main:
@@ -106,5 +106,5 @@ mission_vision:
     name: Approach
 testimonial:
   enable: true
-title: About Our Company
+title: About Us
 ---

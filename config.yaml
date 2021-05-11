@@ -74,7 +74,7 @@ params:
     - icon: ion-social-googleplus-outline
       link: '#'
     - icon: ion-social-github-outline
-      link: '#'
+      link: 'github.com/QCBSRworkshops/'
     - icon: ion-social-twitter-outline
       link: '#'
     - icon: ion-social-facebook-outline

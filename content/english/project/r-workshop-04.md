@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: [Linear-models, R]
+category: ["models", "R"]
 description: this is meta description
 draft: false
 image: images/portfolio/work4.jpg

@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: [linear-mixed-models, generalized-linear-mixed-models, random-effects]
+category: "Models"
 description: Let us learn how to work with random and fixed effects using LMM and GLMM!
 draft: false
 image: images/portfolio/work6.jpg

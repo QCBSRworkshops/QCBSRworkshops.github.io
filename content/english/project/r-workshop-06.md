@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: [generalized-linear-models]
+category: "Models"
 description: this is meta description
 draft: false
 image: images/portfolio/work6.jpg

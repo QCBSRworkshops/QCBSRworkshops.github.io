@@ -12,7 +12,7 @@ about:
     dolore officia adipisci neque!
   enable: true
   image: images/company/company-group-pic.jpg
-  title: Creative UX/UI Design Agency
+  title: The QCBS R Symposium
 bg_image: images/feature-bg.jpg
 cta:
   enable: true
@@ -80,6 +80,6 @@ service:
       tempor incididunt ut
     icon: ion-earth
     name: Brand Identity
-  title: Our Services
-title: Service
+  title: Contributing
+title: R Symposium
 ---

@@ -16,7 +16,7 @@ information:
 title: WK-03 - Introduction to Data Visualization
 ---
 
-## Workshop 3: Introduction to Data Visualization in `R` using `ggplot2()`
+## Workshop 3: Introduction to Data Visualization in `R` using `ggplot2`
 
 In this workshop, you will improve your data manipulation and visualization skills using ggplot2. 
 

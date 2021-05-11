@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: [programming, loops, R, functions]
+category: Programming
 description: Let us create our own loops and functions!
 draft: false
 image: images/portfolio/work5.jpg
