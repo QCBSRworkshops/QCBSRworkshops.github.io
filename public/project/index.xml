@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The R Series Workshops on QCBS R Workshop Series</title>
+    <link>qcbsrworkshops.github.io/website/project/</link>
+    <description>Recent content in The R Series Workshops on QCBS R Workshop Series</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright &amp;copy; 2021 [QCBS R Workshop Series](qcbsrworkshops.github.io/website). All Rights Reserved.</copyright><atom:link href="qcbsrworkshops.github.io/website/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WK-01 - Introduction to R</title>
+      <link>qcbsrworkshops.github.io/website/project/r-workshop-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>qcbsrworkshops.github.io/website/project/r-workshop-01/</guid>
+      <description>Workshop 1: Introduction to R In this introductory R Workshop you will learn what R open-source statistical software is, why you should absolutely start using it, and all the first steps to help you get started in R.</description>
+    </item>
+    
+    <item>
+      <title>WK-02 -  Loading and manipulating data in R</title>
+      <link>qcbsrworkshops.github.io/website/project/r-workshop-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>qcbsrworkshops.github.io/website/project/r-workshop-02/</guid>
+      <description>Workshop 2: Loading and manipulating data in R In this introductory R Workshop you will learn what R open-source statistical software is, why you should absolutely start using it, and all the first steps to help you get started in R.</description>
+    </item>
+    
+    <item>
+      <title>WK-03 - Introduction to Data Visualization</title>
+      <link>qcbsrworkshops.github.io/website/project/r-workshop-03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>qcbsrworkshops.github.io/website/project/r-workshop-03/</guid>
+      <description>Workshop 3: Introduction to Data Visualization in R using ggplot2() In this workshop, you will improve your data manipulation and visualization skills using ggplot2.
+We will explore the richness of ggplot2, which can be used as an alternative to base R.</description>
+    </item>
+    
+    <item>
+      <title>WK-04 - Linear models</title>
+      <link>qcbsrworkshops.github.io/website/project/r-workshop-04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>qcbsrworkshops.github.io/website/project/r-workshop-04/</guid>
+      <description>Workshop 4: Linear models in R In this workshop, you will learn how to implement in R basic linear models commonly used in ecology such as simple regression, analysis of variance (ANOVA), analysis of covariance (ANCOVA), and multiple regression.</description>
+    </item>
+    
+    <item>
+      <title>WK-05 - Programming in R</title>
+      <link>qcbsrworkshops.github.io/website/project/r-workshop-05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>qcbsrworkshops.github.io/website/project/r-workshop-05/</guid>
+      <description>Workshop 5: Programming in R This workshop focuses on basic programming in R. In this workshop, you will learn how to use control flow (for loops, if, while) methods to prevent code repetition, facilitate organization and run simulations.</description>
+    </item>
+    
+    <item>
+      <title>WK-06 - Generalized linear models</title>
+      <link>qcbsrworkshops.github.io/website/project/r-workshop-06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>qcbsrworkshops.github.io/website/project/r-workshop-06/</guid>
+      <description>Workshop 6: Generalized linear models in R A significant limitation of linear models is that they cannot accommodate response variables that do not have a normal error distribution. Most biological data do not follow the assumption of normality.</description>
+    </item>
+    
+    <item>
+      <title>WK-07 - Linear and generalized linear mixed models</title>
+      <link>qcbsrworkshops.github.io/website/project/r-workshop-07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>qcbsrworkshops.github.io/website/project/r-workshop-07/</guid>
+      <description>Workshop 7: Linear and generalized linear mixed models (LMM and GLMM) in R Mixed effects models allow ecologists to overcome a number of limitations associated with traditional linear models.
+In this workshop, you will learn when it is important to use a mixed effects model to analyze your data.</description>
+    </item>
+    
+    <item>
+      <title>WK-08 - Generalized additive models</title>
+      <link>qcbsrworkshops.github.io/website/project/r-workshop-08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>qcbsrworkshops.github.io/website/project/r-workshop-08/</guid>
+      <description>Workshop 8: Generalized additive models in R The goal of this workshop will be to first examine what is a non-linear model, and how Generalized Additive Models (GAM) allow us to handle non-linear relationships.</description>
+    </item>
+    
+    <item>
+      <title>WK-09 - Multivariate analyses</title>
+      <link>qcbsrworkshops.github.io/website/project/r-workshop-09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>qcbsrworkshops.github.io/website/project/r-workshop-09/</guid>
+      <description>Workshop 9: Multivariate analyses in R In this workshop, you will learn the basics of multivariate analyses that will allow you to reveal patterns in your community composition data.
+You will first learn to choose appropriate distance metrics and transformations to then perform various multivariate analyses: clustering analysis, Principal Component Analysis (PCA), Principal Coordinate Analysis (PCoA) and Non-Metric MultiDimensional Scaling (NMDS).</description>
+    </item>
+    
+    <item>
+      <title>WK-10 - Advanced multivariate analyses</title>
+      <link>qcbsrworkshops.github.io/website/project/r-workshop-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>qcbsrworkshops.github.io/website/project/r-workshop-10/</guid>
+      <description>Workshop 10: Advanced multivariate analyses in R In this workshop, you will learn how to perform advanced multivariate analyses on community data.
+This workshop concentrates on constrained methods such as redundancy analysis (RDA), multivariate regression tree (MRT) and linear discriminant analysis (LDA) to explore how environmental variables may be driving patterns in species assemblage across sites.</description>
+    </item>
+    
+  </channel>
+</rss>

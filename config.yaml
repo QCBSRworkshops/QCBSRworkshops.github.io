@@ -1,4 +1,4 @@
-baseURL: https://qcbsrworkshops.github.io/website
+baseURL: "/"
 title: QCBS R Workshop Series
 theme: airspace-hugo
 paginate: '4'
