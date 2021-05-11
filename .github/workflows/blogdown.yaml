@@ -10,7 +10,7 @@ on:
       - main
   schedule:
       - cron: '0 0 * * *'
-
+      
 name: website-deployment
 
 jobs:
