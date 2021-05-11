@@ -10,24 +10,24 @@ about:
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
   enable: true
   funfacts:
-  - count: "349"
-    icon: ion-ios-flask-outline
-    name: Completed Projects
-  - count: "35000"
-    icon: ion-ios-flame-outline
-    name: Lines Of Code
-  - count: "70"
-    icon: ion-ios-pint-outline
-    name: Satisfied Customer
   - count: "10"
-    icon: ion-ios-wineglass-outline
-    name: Awards Winner
-  - count: "75"
-    icon: ion-ios-chatboxes-outline
-    name: Satisfied Customer
-  - count: "20"
+    icon: ion-ios-flask-outline
+    name: R Workshops
+  - count: "13"
+    icon: ion-ios-flask-outline
+    name: R Symposium Workshops    
+  - count: "700"
     icon: ion-ios-body-outline
-    name: Awards Winner
+    name: Participants
+  - count: "70"
+    icon: ion-ios-body-outline
+    name: Presenters
+  - count: "100"
+    icon: ion-ios-wineglass-outline
+    name: Contributors
+  - count: "12"
+    icon: ion-ios-chatboxes-outline
+    name: Coordinators
   image: images/company/about.jpg
   title: We strive to be the best and <br> make awesome work.
 bg_image: images/feature-bg.jpg

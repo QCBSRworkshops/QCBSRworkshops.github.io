@@ -1,10 +1,10 @@
 ---
 bg_image: images/feature-bg.jpg
-description: this is meta description
+description: 
 draft: false
 menu:
   main:
-    name: Project
+    name: Workshops
     weight: 3
-title: Our Project
+title: The R Series Workshops
 ---

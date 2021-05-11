@@ -13,15 +13,15 @@ about:
   image: images/wrapper-img.png
   title: About Us
 banner:
-  bg_image: images/slider-bg.jpg
+  bg_image: images/leon-vbxyFxlgpjM-unsplash.jpg
   bg_overlay: true
   button:
     enable: true
-    label: Discover Our Project
+    label: Discover Our Workshops
     link: project
-  content: A graduate student and post-doctoral researcher organized series of open-access workshops on statistical analyses relevant to research in biology, ecology and evolution.
+  content: A graduate student and post-doctoral fellow initiative to instruct and help other graduate students and early-career researchers navigate statistics for research in ecology, evolution and biodiversity.
   enable: true
-  title: QCBS R Workshop Series <br/>
+  title: QCBS R Workshop Series
 cta:
   bg_image: images/call-to-action-bg.jpg
   button:
@@ -32,7 +32,7 @@ cta:
     The work and results <br> we’ve achieved for other clients, and meet our highly
     experienced Team who just love to design.
   enable: true
-  title: We design delightful digital experiences.
+  title: We offer a series of ten workshops on biostatistics.
 funfacts:
   description: '''Far far away, behind the word mountains, far from the countries
     Vokalia and Consonantia, <br> there live the blind texts. Separated they live

@@ -2,49 +2,35 @@
 bg_image: images/feature-bg.jpg
 cta:
   enable: true
-description: this is meta description
+description: 
 draft: false
 layout: pricing
 menu:
   main:
-    name: Pricing
+    name: Registration
     parent: More
     weight: 2
 pricing:
   enable: true
   pricing_table:
-  - content: Perfect for single freelancers who work by themselves
+  - content: Your (co-)supervisor is a QCBS member
     link: '#'
-    name: Basic
-    price: $99
+    name: QCBS Member
+    price: $0
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
-  - content: Suitable for small businesses with up to 5 employees
+    - Participation in one of the QCBS R Workshop Series
+    - Eligibility to receive a Learning and Development Award by contributing to one of the workshops
+  - content: Your (co)-supervisor is not a QCBS member
     link: '#'
-    name: Premium
-    price: $199
+    name: Student non-QCBS Member
+    price: $50
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
-  - content: Suitable for large businesses with unlimited employees
+    - Participation in one of the QCBS R Workshop Series
+  - content: You are not a student, nor a QCBS member.
     link: '#'
-    name: Advance
-    price: $299
+    name: Non-QCBS Member
+    price: $100
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
-title: Our Pricing
+    - Participation in one of the QCBS R Workshop Series
+title: Register to a workshop
 ---

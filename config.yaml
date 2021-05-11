@@ -1,9 +1,9 @@
-baseURL: https://qcbsrworkshops.github.io/website/
-title: "QCBS R Workshop Series"
+baseURL: https://qcbsrworkshops.github.io/website
+title: QCBS R Workshop Series
 theme: airspace-hugo
-paginate: '4'
+paginate: '5'
 summaryLength: '30'
-disableLanguages: []
+disableLanguages: [it, de]
 disqusShortname: ''
 googleAnalytics: ''
 outputs:
@@ -17,7 +17,7 @@ markup:
     ordered: no
     startLevel: 2
 params:
-  author: Themefisher
+  author: QCBS R Workshop Series
   contact:
     address_descriptors: no
     email: qcbs.csbq.r@gmail.com
@@ -26,8 +26,8 @@ params:
       enable: yes
       success_image: images/paper-plane.svg
       use_netlify: yes
-    location: \r\n**Themefisher**  \r\nNorth Main Street  \r\nQuébec, QC  \r\Canada\r\n
-    phone: 0124857985320
+    location: "\r\n**QCBS R Workshop Series**  \r\nQuévec  \r\nCanada"
+    phone: no
   cookies:
     enable: yes
     expire_days: 2
@@ -41,9 +41,9 @@ params:
     map_latitude: '51.5223477'
     map_longitude: '-0.1622023'
     map_marker: images/marker.png
-  image: images/logo.png
-  logo: images/logo.png
-  logo_width: 150px
+  image: images/qcbs_logo_image0032.png
+  logo: images/qcbs_logo_image0032.png
+  logo_width: 90px
   plugins:
     css:
       - attributes: media='screen'
@@ -89,9 +89,40 @@ params:
       - taxonomy_category
       - taxonomy_tags
 languages:
+  de:
+    contentDir: content/german
+    copyright: Copyright &copy; 2021 [QCBS R Workshop Series](https://themefisher.com). Alle
+      Rechte vorbehalten.
+    languageCode: de-DE
+    languageName: Deutsch
+    menu:
+      footer:
+        - URL: about
+          name: Über
+          weight: 1
+        - URL: project
+          name: Projekt
+          weight: 2
+        - URL: service
+          name: Dienstleistung
+          weight: 3
+        - URL: pricing
+          name: Preise
+          weight: 4
+        - URL: faq
+          name: Häufige Fragen
+          weight: 5
+        - URL: contact
+          name: Kontakt
+          weight: 6
+      main:
+        - hasChildren: yes
+          name: Mehr
+          weight: 5
+    weight: 3
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights
+    copyright: Copyright &copy; 2021 [QCBS R Workshop Series](qcbsrworkshops.github.io/website). All Rights
       Reserved.
     languageCode: en-US
     languageName: English
@@ -101,13 +132,13 @@ languages:
           name: About
           weight: 1
         - URL: project
-          name: Register
+          name: Workshops
           weight: 2
         - URL: service
-          name: Service
+          name: Events
           weight: 3
         - URL: pricing
-          name: Pricing
+          name: Registration
           weight: 4
         - URL: faq
           name: FAQ
@@ -122,7 +153,7 @@ languages:
     weight: 1
   fr:
     contentDir: content/french
-    copyright: Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous
+    copyright: Copyright &copy; 2021 [QCBS R Workshop Series](qcbsrworkshops.github.io/website). Tous
       droits réservés.
     languageCode: fr-FR
     languageName: Français
@@ -149,5 +180,36 @@ languages:
       main:
         - hasChildren: yes
           name: Plus
+          weight: 5
+    weight: 2
+  it:
+    contentDir: content/italian
+    copyright: Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tutti
+      i diritti riservati.
+    languageCode: it-IT
+    languageName: Italiano
+    menu:
+      footer:
+        - URL: about
+          name: Chi siamo
+          weight: 1
+        - URL: project
+          name: Progetto
+          weight: 2
+        - URL: service
+          name: Servizio
+          weight: 3
+        - URL: pricing
+          name: Tariffazione
+          weight: 4
+        - URL: faq
+          name: Domande frequenti
+          weight: 5
+        - URL: contact
+          name: Contatta
+          weight: 6
+      main:
+        - hasChildren: yes
+          name: Più
           weight: 5
     weight: 2

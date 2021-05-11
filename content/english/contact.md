@@ -1,11 +1,11 @@
 ---
 bg_image: images/feature-bg.jpg
-description: this is meta description
+description: Send us a message!
 draft: false
 layout: contact
 menu:
   main:
     name: Contact
     weight: 6
-title: Drop Us A Note
+title: Do you have any questions?
 ---
