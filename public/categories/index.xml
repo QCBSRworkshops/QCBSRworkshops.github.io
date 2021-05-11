@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on QCBS R Workshop Series</title>
-    <link>https://qcbsrworkshops.github.io/website/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on QCBS R Workshop Series</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2021 [QCBS R Workshop Series](qcbsrworkshops.github.io/website). All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://qcbsrworkshops.github.io/website/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technical Assistance</title>
-      <link>https://qcbsrworkshops.github.io/website/categories/technical-assistance/</link>
+      <link>/categories/technical-assistance/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://qcbsrworkshops.github.io/website/categories/technical-assistance/</guid>
+      <guid>/categories/technical-assistance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artificial Intelligence</title>
-      <link>https://qcbsrworkshops.github.io/website/categories/artificial-intelligence/</link>
+      <link>/categories/artificial-intelligence/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://qcbsrworkshops.github.io/website/categories/artificial-intelligence/</guid>
+      <guid>/categories/artificial-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Company News</title>
-      <link>https://qcbsrworkshops.github.io/website/categories/company-news/</link>
+      <link>/categories/company-news/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://qcbsrworkshops.github.io/website/categories/company-news/</guid>
+      <guid>/categories/company-news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Legacy Support</title>
-      <link>https://qcbsrworkshops.github.io/website/categories/legacy-support/</link>
+      <link>/categories/legacy-support/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://qcbsrworkshops.github.io/website/categories/legacy-support/</guid>
+      <guid>/categories/legacy-support/</guid>
       <description></description>
     </item>
     

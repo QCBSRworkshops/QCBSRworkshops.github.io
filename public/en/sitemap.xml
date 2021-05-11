@@ -2,457 +2,460 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://qcbsrworkshops.github.io/website/faq/</loc>
+    <loc>/code-of-conduct/</loc>
+    <lastmod>2021-05-11T14:06:46+00:00</lastmod>
+  </url><url>
+    <loc>/faq/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/faq/"
+                href="/fr/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/faq/"
+                href="/faq/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/</loc>
+    <loc>/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/"
+                href="/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/tags/how-to/</loc>
+    <loc>/tags/how-to/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/tags/how-to/"
+                href="/fr/tags/how-to/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/tags/how-to/"
+                href="/tags/how-to/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/blog/"
+                href="/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/blog/"
+                href="/blog/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/blog/date-i18n/</loc>
+    <loc>/blog/date-i18n/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/blog/date-i18n/"
+                href="/fr/blog/date-i18n/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/blog/date-i18n/"
+                href="/blog/date-i18n/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/tags/"
+                href="/tags/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/categories/technical-assistance/</loc>
+    <loc>/categories/technical-assistance/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/categories/technical-assistance/"
+                href="/fr/categories/technical-assistance/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/categories/technical-assistance/"
+                href="/categories/technical-assistance/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/tags/technology/</loc>
+    <loc>/tags/technology/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/tags/technology/"
+                href="/fr/tags/technology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/tags/technology/"
+                href="/tags/technology/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/tags/advice/</loc>
+    <loc>/tags/advice/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/tags/advice/"
+                href="/fr/tags/advice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/tags/advice/"
+                href="/tags/advice/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/tags/ai/</loc>
+    <loc>/tags/ai/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/tags/ai/"
+                href="/fr/tags/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/tags/ai/"
+                href="/tags/ai/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/tags/android/</loc>
+    <loc>/tags/android/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/tags/android/"
+                href="/fr/tags/android/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/tags/android/"
+                href="/tags/android/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/categories/artificial-intelligence/</loc>
+    <loc>/categories/artificial-intelligence/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/categories/artificial-intelligence/"
+                href="/fr/categories/artificial-intelligence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/categories/artificial-intelligence/"
+                href="/categories/artificial-intelligence/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/tags/company/</loc>
+    <loc>/tags/company/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/tags/company/"
+                href="/fr/tags/company/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/tags/company/"
+                href="/tags/company/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/categories/company-news/</loc>
+    <loc>/categories/company-news/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/categories/company-news/"
+                href="/fr/categories/company-news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/categories/company-news/"
+                href="/categories/company-news/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/blog/blog-post-1/</loc>
+    <loc>/blog/blog-post-1/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/blog/blog-post-1/"
+                href="/fr/blog/blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/blog/blog-post-1/"
+                href="/blog/blog-post-1/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/blog/blog-post-2/</loc>
+    <loc>/blog/blog-post-2/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/blog/blog-post-2/"
+                href="/fr/blog/blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/blog/blog-post-2/"
+                href="/blog/blog-post-2/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/blog/blog-post-3/</loc>
+    <loc>/blog/blog-post-3/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/blog/blog-post-3/"
+                href="/fr/blog/blog-post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/blog/blog-post-3/"
+                href="/blog/blog-post-3/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/blog/blog-post-4/</loc>
+    <loc>/blog/blog-post-4/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/blog/blog-post-4/"
+                href="/fr/blog/blog-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/blog/blog-post-4/"
+                href="/blog/blog-post-4/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/blog/blog-post-5/</loc>
+    <loc>/blog/blog-post-5/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/blog/blog-post-5/"
+                href="/fr/blog/blog-post-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/blog/blog-post-5/"
+                href="/blog/blog-post-5/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/blog/blog-post-6/</loc>
+    <loc>/blog/blog-post-6/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/blog/blog-post-6/"
+                href="/fr/blog/blog-post-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/blog/blog-post-6/"
+                href="/blog/blog-post-6/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/categories/legacy-support/</loc>
+    <loc>/categories/legacy-support/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/categories/legacy-support/"
+                href="/fr/categories/legacy-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/categories/legacy-support/"
+                href="/categories/legacy-support/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/tags/mechine/</loc>
+    <loc>/tags/mechine/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/tags/mechine/"
+                href="/fr/tags/mechine/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/tags/mechine/"
+                href="/tags/mechine/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/tags/news/</loc>
+    <loc>/tags/news/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/tags/news/"
+                href="/fr/tags/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/tags/news/"
+                href="/tags/news/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/tags/retro/</loc>
+    <loc>/tags/retro/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/tags/retro/"
+                href="/fr/tags/retro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/tags/retro/"
+                href="/tags/retro/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/message_sent/</loc>
+    <loc>/message_sent/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/message_sent/"
+                href="/fr/message_sent/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/message_sent/"
+                href="/message_sent/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/about/</loc>
+    <loc>/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/about/"
+                href="/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/about/"
+                href="/about/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/author/</loc>
+    <loc>/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/author/"
+                href="/fr/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/author/"
+                href="/author/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/contact/</loc>
+    <loc>/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/contact/"
+                href="/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/contact/"
+                href="/contact/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/author/john-doe/</loc>
+    <loc>/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/author/john-doe/"
+                href="/fr/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/author/john-doe/"
+                href="/author/john-doe/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/author/mark-dinn/</loc>
+    <loc>/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/author/mark-dinn/"
+                href="/fr/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/author/mark-dinn/"
+                href="/author/mark-dinn/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/pricing/</loc>
+    <loc>/service/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/pricing/"
+                href="/fr/service/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/pricing/"
+                href="/service/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/service/</loc>
+    <loc>/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/service/"
+                href="/fr/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/service/"
+                href="/pricing/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/project/</loc>
+    <loc>/project/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://qcbsrworkshops.github.io/website/fr/project/"
+                href="/fr/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qcbsrworkshops.github.io/website/project/"
+                href="/project/"
                 />
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/project/r-workshop-01/</loc>
+    <loc>/project/r-workshop-01/</loc>
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/project/r-workshop-02/</loc>
+    <loc>/project/r-workshop-02/</loc>
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/project/r-workshop-03/</loc>
+    <loc>/project/r-workshop-03/</loc>
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/project/r-workshop-04/</loc>
+    <loc>/project/r-workshop-04/</loc>
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/project/r-workshop-05/</loc>
+    <loc>/project/r-workshop-05/</loc>
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/project/r-workshop-06/</loc>
+    <loc>/project/r-workshop-06/</loc>
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/project/r-workshop-07/</loc>
+    <loc>/project/r-workshop-07/</loc>
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/project/r-workshop-08/</loc>
+    <loc>/project/r-workshop-08/</loc>
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/project/r-workshop-09/</loc>
+    <loc>/project/r-workshop-09/</loc>
   </url><url>
-    <loc>https://qcbsrworkshops.github.io/website/project/r-workshop-10/</loc>
+    <loc>/project/r-workshop-10/</loc>
   </url>
 </urlset>

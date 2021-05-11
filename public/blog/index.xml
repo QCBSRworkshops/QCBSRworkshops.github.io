@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News on QCBS R Workshop Series</title>
-    <link>https://qcbsrworkshops.github.io/website/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Latest News on QCBS R Workshop Series</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2021 [QCBS R Workshop Series](qcbsrworkshops.github.io/website). All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://qcbsrworkshops.github.io/website/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pretty-print dates</title>
-      <link>https://qcbsrworkshops.github.io/website/blog/date-i18n/</link>
+      <link>/blog/date-i18n/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://qcbsrworkshops.github.io/website/blog/date-i18n/</guid>
+      <guid>/blog/date-i18n/</guid>
       <description>To write out an ISO 8601 timestamp in the current language, you can use the date_i18n shortcode:
 Writing
 {{% date_i18n &amp;quot;2020-10-20&amp;quot; %}} will result in
@@ -22,55 +22,55 @@ October 20, 2020 </description>
     
     <item>
       <title>How To Wear Bright Shoes</title>
-      <link>https://qcbsrworkshops.github.io/website/blog/blog-post-1/</link>
+      <link>/blog/blog-post-1/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://qcbsrworkshops.github.io/website/blog/blog-post-1/</guid>
+      <guid>/blog/blog-post-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>How To Wear Bright Shoes</title>
-      <link>https://qcbsrworkshops.github.io/website/blog/blog-post-2/</link>
+      <link>/blog/blog-post-2/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://qcbsrworkshops.github.io/website/blog/blog-post-2/</guid>
+      <guid>/blog/blog-post-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>How To Wear Bright Shoes</title>
-      <link>https://qcbsrworkshops.github.io/website/blog/blog-post-3/</link>
+      <link>/blog/blog-post-3/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://qcbsrworkshops.github.io/website/blog/blog-post-3/</guid>
+      <guid>/blog/blog-post-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>How To Wear Bright Shoes</title>
-      <link>https://qcbsrworkshops.github.io/website/blog/blog-post-4/</link>
+      <link>/blog/blog-post-4/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://qcbsrworkshops.github.io/website/blog/blog-post-4/</guid>
+      <guid>/blog/blog-post-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>How To Wear Bright Shoes</title>
-      <link>https://qcbsrworkshops.github.io/website/blog/blog-post-5/</link>
+      <link>/blog/blog-post-5/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://qcbsrworkshops.github.io/website/blog/blog-post-5/</guid>
+      <guid>/blog/blog-post-5/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     
     <item>
       <title>How To Wear Bright Shoes</title>
-      <link>https://qcbsrworkshops.github.io/website/blog/blog-post-6/</link>
+      <link>/blog/blog-post-6/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       
-      <guid>https://qcbsrworkshops.github.io/website/blog/blog-post-6/</guid>
+      <guid>/blog/blog-post-6/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
     </item>
     

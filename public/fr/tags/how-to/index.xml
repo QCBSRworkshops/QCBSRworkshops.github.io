@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How to on QCBS R Workshop Series</title>
-    <link>https://qcbsrworkshops.github.io/website/fr/tags/how-to/</link>
+    <link>/fr/tags/how-to/</link>
     <description>Recent content in How to on QCBS R Workshop Series</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Copyright &amp;copy; 2021 [QCBS R Workshop Series](qcbsrworkshops.github.io/website). Tous droits réservés.</copyright>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://qcbsrworkshops.github.io/website/fr/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="/fr/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pretty-print dates</title>
-      <link>https://qcbsrworkshops.github.io/website/fr/blog/date-i18n/</link>
+      <link>/fr/blog/date-i18n/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://qcbsrworkshops.github.io/website/fr/blog/date-i18n/</guid>
+      <guid>/fr/blog/date-i18n/</guid>
       <description>Pour écrire un horodatage ISO 8601 dans la langue courante, vous pouvez utiliser le shortcode date_i18n :
 L&amp;rsquo;écriture de
 {{% date_i18n &amp;quot;2020-10-20&amp;quot; %}} donne
