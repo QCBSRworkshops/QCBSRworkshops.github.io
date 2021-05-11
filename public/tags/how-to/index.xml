@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>How to on QCBS R Workshop Series</title>
-    <link>qcbsrworkshops.github.io/website/tags/how-to/</link>
+    <link>/tags/how-to/</link>
     <description>Recent content in How to on QCBS R Workshop Series</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright &amp;copy; 2021 [QCBS R Workshop Series](qcbsrworkshops.github.io/website). All Rights Reserved.</copyright>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="qcbsrworkshops.github.io/website/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate><atom:link href="/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pretty-print dates</title>
-      <link>qcbsrworkshops.github.io/website/blog/date-i18n/</link>
+      <link>/blog/date-i18n/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
       
-      <guid>qcbsrworkshops.github.io/website/blog/date-i18n/</guid>
+      <guid>/blog/date-i18n/</guid>
       <description>To write out an ISO 8601 timestamp in the current language, you can use the date_i18n shortcode:
 Writing
 {{% date_i18n &amp;quot;2020-10-20&amp;quot; %}} will result in
