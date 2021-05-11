@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: [multivariate-analyses, ordination]
+category: "Multivariate analyses"
 description: this is meta description
 draft: false
 image: images/portfolio/work6.jpg

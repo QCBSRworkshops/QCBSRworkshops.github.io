@@ -1,9 +1,9 @@
 ---
 bg_image: images/feature-bg.jpg
-category: [data-manipulation]
-description: Let us learn how to load, view, and manipulate your data in R!
+category: ["Introduction", "R"]
+description: If you are new to R, this is your start point.
 draft: false
-image: images/portfolio/work2.jpg
+image: images/portfolio/work1.jpg
 information:
 - info: Beginner
   label: Level
@@ -11,12 +11,12 @@ information:
   label: Material required
 - info: 17th March 2022
   label: Next instruction date
-- info: Batman
+- info: Robocop
   label: Next instructor
-title: WK-2 -  Loading and manipulating data in R
+title: WK-01 - Introduction to R
 ---
 
-## Workshop 2: Loading and manipulating data in R
+## Workshop 1: Introduction to `R`
 
 In this introductory `R` Workshop you will learn what `R` open-source statistical software is, why you should absolutely start using it, and all the first steps to help you get started in R. 
 

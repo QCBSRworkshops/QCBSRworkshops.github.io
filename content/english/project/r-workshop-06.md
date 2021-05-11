@@ -13,7 +13,7 @@ information:
   label: Next instruction date
 - info: Batman
   label: Next instructor
-title: WK-6 - Generalized linear models
+title: WK-06 - Generalized linear models
 ---
 
 ## Workshop 6: Generalized linear models in `R`

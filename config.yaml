@@ -1,7 +1,7 @@
-baseURL: https://qcbsrworkshops.github.io/website
+baseURL: qcbsrworkshops.github.io/website
 title: QCBS R Workshop Series
 theme: airspace-hugo
-paginate: '5'
+paginate: '4'
 summaryLength: '30'
 disableLanguages: [it, de]
 disqusShortname: ''
@@ -73,11 +73,7 @@ params:
   social:
     - icon: ion-social-googleplus-outline
       link: '#'
-    - icon: ion-social-linkedin-outline
-      link: '#'
-    - icon: ion-social-pinterest-outline
-      link: '#'
-    - icon: ion-social-dribbble-outline
+    - icon: ion-social-github-outline
       link: '#'
     - icon: ion-social-twitter-outline
       link: '#'

@@ -1,23 +1,19 @@
 ---
 bg_image: images/feature-bg.jpg
-category: [generalized-additive-models, smooth-fitting]
+category: "Models"
 description: this is meta description
 draft: false
 image: images/portfolio/work6.jpg
 information:
-- info: Jannie Kelonsky
-  label: Client
-- info: Website Redesign
-  label: What We Did
-- info: Photoshop,Illustrator
-  label: Tools Used
-- info: 17th March 2014
-  label: Completed on
-- info: HTML5 / PHP / CSS3
-  label: Skills
-- info: Jannie Kelonsky
-  label: Client
-title: WK-8 - Generalized additive models
+- info: Advanced
+  label: Level
+- info: R and RStudio
+  label: Material required
+- info: 17th March 2022
+  label: Next instruction date
+- info: Batman
+  label: Next instructor
+title: WK-08 - Generalized additive models
 ---
 
 ## Workshop 8: Generalized additive models in R

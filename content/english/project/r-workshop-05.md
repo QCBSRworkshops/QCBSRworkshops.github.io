@@ -13,7 +13,7 @@ information:
   label: Next instruction date
 - info: Batman
   label: Next instructor
-title: WK-5 - Programming in R
+title: WK-05 - Programming in R
 ---
 
 ## Workshop 5: Programming in `R`

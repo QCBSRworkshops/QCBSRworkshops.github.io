@@ -13,7 +13,7 @@ information:
   label: Next instruction date
 - info: Batman
   label: Next instructor
-title: WK-4 - Linear models
+title: WK-04 - Linear models
 ---
 
 ## Workshop 4: Linear models in `R`
