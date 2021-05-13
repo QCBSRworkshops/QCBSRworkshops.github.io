@@ -19,7 +19,7 @@ banner:
     enable: true
     label: Discover Our Workshops
     link: project
-  content: A graduate student and post-doctoral fellow initiative to instruct and help other graduate students and early-career researchers navigate statistics for research in ecology, evolution and biodiversity.
+  content: A graduate student and post-doctoral fellow initiative. <br>We aim at instructing other graduate students and early-career researchers navigate statistics for research in ecology, evolution and biodiversity.
   enable: true
   title: QCBS R Workshop Series
 cta:
@@ -34,9 +34,7 @@ cta:
   enable: true
   title: We offer a series of ten workshops on biostatistics.
 funfacts:
-  description: '''Far far away, behind the word mountains, far from the countries
-    Vokalia and Consonantia, <br> there live the blind texts. Separated they live
-    in Bookmarksgrove right at the coast of the Semantics'''
+  description: '''We are all graduate students and post-doctoral fellows from the Québec Centre for Biodiversity Science. <br> We develop and instruct workshops on a wide-array of statistical and computational methods to help other fellow early-career researchers from the network to nagivate their analyses in ecology, evolution and biodiversity.'''
   enable: true
   funfact_item:
   - count: "99"
@@ -94,3 +92,4 @@ portfolio:
 service:
   enable: true
 ---
+
