@@ -6,7 +6,7 @@ about:
 bg_image: images/feature-bg.jpg
 cta:
   enable: true
-description: this is meta description
+description: How to get involved in the QCBS R Workshop Series
 draft: false
 featured_service:
   enable: true
@@ -26,7 +26,7 @@ featured_service:
 layout: service
 menu:
   main:
-    name: Service
+    name: Contributing
     parent: More
     weight: 1
 service:
@@ -36,16 +36,15 @@ service:
   - content: All workshops are instructed in English and in French by graduate students and post-doctoral fellows looking to practice their teaching abilities.
     icon: ion-easel
     name: INSTRUCTION
-  - content: Graduate students and post-doctoral fellows constantly improve our presentations, which are all written in RMarkdown and hosted on our GitHub. This is a great opportunity to learn or practice RMarkdown and version control.
+  - content: Graduate students and post-doctoral fellows constantly improve our presentations, which are all written in RMarkdown and hosted on our GitHub.
     icon: ion-code
     name: WORKSHOP DEVELOPMENT
-  - content: Each workshop presentation is accompanied by a Bookdown document, which contains more explanations and code you can play with on your own time. Graduate students and post-doctoral fellows collaboratively develop this material, and practice RMarkdown and version control in the process.
-      tempor incididunt ut
+  - content: Each workshop presentation is accompanied by a Bookdown document, which contains more explanations and code you can play with on your own time. 
     icon: ion-ios-bookmarks
     name: BOOK DEVELOPMENT
   - content: Reach out to the Coordination team if you have suggestions, comments, or questions about the QCBS R Workshop Series. If you would like to flag specific issues in a workshop (typos, errors, clarifications), please open an issue on GitHub to let us know!
     icon: ion-ios-list
     name: FEEDBACK
   title: Contributions
-title: Contributing to the QCBS R Workshop Series
+title: Contributing
 ---

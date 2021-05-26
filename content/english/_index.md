@@ -63,21 +63,14 @@ menu:
     name: Home
     weight: 1
 portfolio:
-  bg_image: images/feature-bg.jpg
+  bg_image: images/freddie-marriage-vSchPA-YA_A-unsplash.jpeg
   button:
     enable: true
     label: View Workshops
     link: project
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
-  enable: false
-  title: WE BELIEVE IN GREAT IDEAS
+  content: "Learning R can be challenging, even for the most experienced researchers. When you add statistical analyses to the mix, it's easy to get overwhelmed. The QCBS R Workshop Series is here to help the QCBS community (and beyond!) get familiarized with R, programming strategies, and popular R packages so you can get started with the data management, visualizations, and statistical analyses you need to answer the research questions you're interested in."
+  enable: true
+  title: R IS FOR EVERYONE
 service:
   enable: true
 ---
