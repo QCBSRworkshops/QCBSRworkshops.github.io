@@ -130,22 +130,25 @@ languages:
         - URL: project
           name: Workshops
           weight: 2
+        - URL: symposium
+          name: R Symposium
+          weight: 3  
         - URL: service
-          name: Events
-          weight: 3
+          name: Contribute
+          weight: 4
         - URL: pricing
           name: Registration
-          weight: 4
+          weight: 5
         - URL: faq
           name: FAQ
-          weight: 5
+          weight: 6
         - URL: contact
           name: Contact
-          weight: 6
+          weight: 7
       main:
         - hasChildren: yes
           name: More
-          weight: 5
+          weight: 6
     weight: 1
   fr:
     contentDir: content/french
