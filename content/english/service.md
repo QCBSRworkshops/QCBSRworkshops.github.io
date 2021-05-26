@@ -47,15 +47,9 @@ service:
       tempor incididunt ut
     icon: ion-ios-bookmarks
     name: BOOK DEVELOPMENT
-  - content: Feel free to reach out to the Coordination team if you have suggestions, comments, or questions about the QCBS R Workshop Series
-    icon: ion-paper-airplane
-    name: GENERAL FEEDBACK
-  - content: If you would like to flag specific issues in a workshop (typos, errors, clarifications), please open an issue on GitHub to let us know!
+  - content: Reach out to the Coordination team if you have suggestions, comments, or questions about the QCBS R Workshop Series. If you would like to flag specific issues in a workshop (typos, errors, clarifications), please open an issue on GitHub to let us know!
     icon: ion-ios-list
-    name: SPECIFIC FEEDBACK
-  - content: Join the QCBS R Workshop Series community and participate in the workshops!
-    icon: ion-ios-people
-    name: COMMUNITY
-  title: Contributing
+    name: FEEDBACK
+  title: Contributing to the series
 title: R Symposium
 ---
