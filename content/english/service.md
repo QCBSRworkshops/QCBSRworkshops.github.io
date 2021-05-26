@@ -1,15 +1,6 @@
 ---
 about:
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
-    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
-    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
-    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
-    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
-    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
-    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
-    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
-    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
-    dolore officia adipisci neque!
+  content: The QCBS R Symposium provides an opportunity for the discussion and exchange of ideas between participants and presenter in the application of biodiversity science analyses using R. For this, we provide a venue for teaching and participation in a series of contributed R workshops that are not offered during the annual QCBS R Workshop Series.
   enable: true
   image: images/company/company-group-pic.jpg
   title: The QCBS R Symposium
@@ -43,43 +34,28 @@ menu:
     parent: More
     weight: 1
 service:
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: The QCBS R Workshop Series provides a venue for graduate students and postdoctoral fellows to improve their teaching and learning abilities through the instruction and the development of statistical and programming workshops. We immensely value the contributions provided to the series, and we rely on the QCBS community's engagement to constantly improve our workshops.
   enable: true
   service_item:
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  - content: All workshops are instructed in English and in French by graduate students and post-doctoral fellows looking to practice their teaching abilities.
+    icon: ion-easel
+    name: INSTRUCTION
+  - content: Graduate students and post-doctoral fellows constantly improve our presentations, which are all written in RMarkdown and hosted on our GitHub. This is a great opportunity to learn or practice RMarkdown and version control.
+    icon: ion-code
+    name: WORKSHOP DEVELOPMENT
+  - content: Each workshop presentation is accompanied by a Bookdown document, which contains more explanations and code you can play with on your own time. Graduate students and post-doctoral fellows collaboratively develop this material, and practice RMarkdown and version control in the process.
       tempor incididunt ut
-    icon: ion-coffee
-    name: Branding
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-    icon: ion-compass
-    name: Web Design
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-    icon: ion-image
-    name: App Design
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-    icon: ion-bug
-    name: Start Up
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-    icon: ion-headphone
-    name: Logo Design
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-    icon: ion-leaf
-    name: Development
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-    icon: ion-planet
-    name: Brand Identity
-  - content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-    icon: ion-earth
-    name: Brand Identity
+    icon: ion-ios-bookmarks
+    name: BOOK DEVELOPMENT
+  - content: Feel free to reach out to the Coordination team if you have suggestions, comments, or questions about the QCBS R Workshop Series
+    icon: ion-paper-airplane
+    name: GENERAL FEEDBACK
+  - content: If you would like to flag specific issues in a workshop (typos, errors, clarifications), please open an issue on GitHub to let us know!
+    icon: ion-ios-list
+    name: SPECIFIC FEEDBACK
+  - content: Join the QCBS R Workshop Series community and participate in the workshops!
+    icon: ion-ios-people
+    name: COMMUNITY
   title: Contributing
 title: R Symposium
 ---
