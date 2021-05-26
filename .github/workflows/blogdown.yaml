@@ -101,10 +101,10 @@ jobs:
          path: public/ # optional
 
       - name: 💎 Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@releases/v4.1.3
+        uses: JamesIves/github-pages-deploy-action@4.1.3
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: public/
-          CLEAN: true
+          branch: gh-pages # The branch the action should deploy to.
+          folder: public/
+          clean: true
           single-commit: true
