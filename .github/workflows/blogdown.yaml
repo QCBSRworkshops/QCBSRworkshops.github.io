@@ -107,3 +107,4 @@ jobs:
           BRANCH: gh-pages # The branch the action should deploy to.
           FOLDER: public/
           CLEAN: true
+          single-commit: true
