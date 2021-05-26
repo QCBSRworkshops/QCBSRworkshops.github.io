@@ -16,8 +16,8 @@
       <guid>/blog/date-i18n/</guid>
       <description>To write out an ISO 8601 timestamp in the current language, you can use the date_i18n shortcode:
 Writing
-{{% date_i18n &amp;quot;2020-10-20&amp;quot; %}} will result in
-October 20, 2020 </description>
+{{% date_i18n &amp;quot;2020-10-20&amp;quot; %}}will result in
+October 20, 2020</description>
     </item>
     
   </channel>
