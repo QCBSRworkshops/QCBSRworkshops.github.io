@@ -1,11 +1,11 @@
 ---
 bg_image: images/feature-bg.jpg
-description: this is meta description
+description: Workshop schedule announcements, contribution opportunities, and more
 draft: false
 menu:
   main:
     identifier: blog
-    name: Blog
-    weight: 4
+    name: News
+    weight: 5
 title: Latest News
 ---

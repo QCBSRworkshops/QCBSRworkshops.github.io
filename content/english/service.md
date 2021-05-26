@@ -1,9 +1,8 @@
 ---
 about:
-  content: The QCBS R Symposium provides an opportunity for the discussion and exchange of ideas between participants and presenter in the application of biodiversity science analyses using R. For this, we provide a venue for teaching and participation in a series of contributed R workshops that are not offered during the annual QCBS R Workshop Series.
+  content: The QCBS R Workshop Series provides a venue for graduate students and postdoctoral fellows to improve their teaching and learning abilities through the instruction and the development of statistical and programming workshops. We immensely value the contributions provided to the series, and we rely on the QCBS community's engagement to constantly improve our workshops. To encourage community contributions, we keep our workshops openly accessible, reproducible, and encourage collaboration between contributors as they work to improve workshop materials.
   enable: true
-  image: images/company/company-group-pic.jpg
-  title: The QCBS R Symposium
+  title: Learning opportunities
 bg_image: images/feature-bg.jpg
 cta:
   enable: true
@@ -13,20 +12,17 @@ featured_service:
   enable: true
   service_item:
   - color: primary
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
-    icon: ion-erlenmeyer-flask
-    name: Interface Design
+    content: All workshops materials are open and accessible year-round
+    icon: ion-android-globe
+    name: Open access
   - color: primary-dark
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
-    icon: ion-leaf
-    name: Product Branding
+    content: We use version control on all workshop materials to ensure reproducibility
+    icon: ion-social-github
+    name: Reproducible
   - color: primary-darker
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
-    icon: ion-lightbulb
-    name: Game Development
+    content: All workshop content is developed collaboratively according to community feedback
+    icon: ion-android-chat
+    name: Collaborative
 layout: service
 menu:
   main:
@@ -34,7 +30,7 @@ menu:
     parent: More
     weight: 1
 service:
-  description: The QCBS R Workshop Series provides a venue for graduate students and postdoctoral fellows to improve their teaching and learning abilities through the instruction and the development of statistical and programming workshops. We immensely value the contributions provided to the series, and we rely on the QCBS community's engagement to constantly improve our workshops.
+  description: The QCBS R Workshop Series offers many learning opportunities for any graduate student or post-doctoral fellow in the QCBS community. Whether you are interested in practising your teaching abilities, improving your technical skills, or working collaboratively with a broad network of graduate students and post-doctoral fellows, there is always room for contributions. We also welcome community feedback to keep the workshops up to date and as helpful as possible. 
   enable: true
   service_item:
   - content: All workshops are instructed in English and in French by graduate students and post-doctoral fellows looking to practice their teaching abilities.
@@ -50,6 +46,6 @@ service:
   - content: Reach out to the Coordination team if you have suggestions, comments, or questions about the QCBS R Workshop Series. If you would like to flag specific issues in a workshop (typos, errors, clarifications), please open an issue on GitHub to let us know!
     icon: ion-ios-list
     name: FEEDBACK
-  title: Contributing to the series
-title: R Symposium
+  title: Contributions
+title: Contributing to the QCBS R Workshop Series
 ---
