@@ -1,37 +1,25 @@
 ---
-bg_image: images/feature-bg.jpg
-category: ["R", "RStudio"]
-description: A workshop by Person A and Person B
+bg_image: images/symposium/gault.png
+category: ["Reproducibility", "Open science", "Github", "Markdown"]
+description: by Monica Granados
 draft: false
-image: images/portfolio/work1.jpg
+image: images/symposium/open.jpeg
 information:
-- info: Beginner
-  label: Level
+- info: English
+  label: Language
 - info: R and RStudio
   label: Material required
-- info: 17th March 2022
+- info: R Symposium 2017
   label: Instructed
-- info: Robocop
+- info: Monica Granados
   label: Contributed by
-title: Symposium Workshop XYZ
+title: Open Science and Reproducibility in R
 ---
 
-## Workshop title
+## Open Science and Reproducibility in R
 
-In this introductory `R` Workshop you will learn what `R` open-source statistical software is, why you should absolutely start using it, and all the first steps to help you get started in R. 
+Imagine if every paper you ever publish from now on could be reproduced by anyone around the world. Or a platform that gives you the power to integrate new data seamlessly into a manuscript complete with text and figures. In this workshop, we will be covering how to work in the open using R, R Markdown and GitHub. These three open platforms allow us to host data, analyze, visualize and produce a manuscript in one reproducible workflow. You will learn how to set up a repository in GitHub and manage branches, draw data from GitHub into R, write an R Markdown script for your manuscript and how to upload the R Markdown script into GitHub for reproducibility. The advantages of open, reproducible science are many. When working collaboratively, reproducible workflows allow collaborators to contribute simultaneously to the project with version control to preserve different iterations of the project. Working in the open also allows you share your research more widely, facilitating collaborative opportunities. At the end of the workshop we will also discuss the wider movement of open science, how it is helping breakdown economic barriers in science and education and how you can contribute.
 
-We will show you how R can act as a calculator, teach you about the various types of objects in R, show you how to use functions and load packages, and find all the resources you need to get help. 
+### Workshop material
 
-If any of this sounds obscure, do not worry! By the end of this workshop you will know what all these words mean!
-
-### Material
-Language | Slides | Bookdown | Wiki | Script | GitHub 
-:--------|:-------:|:-----:|:-----:|:------: |:-------:
-EN | [![badge](https://img.shields.io/static/v1?style=flat-square&label=slides&message=01&color=red&logo=html5)](https://qcbsrworkshops.github.io/workshop01/pres-en/workshop01-pres-en.html) | [![badge](https://img.shields.io/static/v1?style=flat-square&label=book&message=01&logo=github)](https://qcbsrworkshops.github.io/workshop01/book-en/index.html) | [![badge](https://img.shields.io/static/v1?style=flat-square&label=wiki&message=01&logo=wikipedia)](https://wiki.qcbs.ca/r_workshop1) | ![badge](https://img.shields.io/static/v1?style=flat-square&label=script&message=01&color=2a50b8&logo=r) | [![badge](https://img.shields.io/static/v1?style=flat-square&label=repo&message=dev&color=6f42c1&logo=github)](https://github.com/QCBSRworkshops/workshop01) 
-FR | [![badge](https://img.shields.io/static/v1?style=flat-square&label=diapos&message=01&color=red&logo=html5)](https://qcbsrworkshops.github.io/workshop01/pres-fr/workshop01-pres-fr.html) | [![badge](https://img.shields.io/static/v1?style=flat-square&label=livre&message=01&logo=github)](https://qcbsrworkshops.github.io/workshop01/book-fr/index.html) | [![badge](https://img.shields.io/static/v1?style=flat-square&label=wiki&message=01&logo=wikipedia)](https://wiki.qcbs.ca/r_atelier1) | ![badge](https://img.shields.io/static/v1?style=flat-square&label=script&message=01&color=2a50b8&logo=r) | [![badge](https://img.shields.io/static/v1?style=flat-square&label=repo&message=dev&color=6f42c1&logo=github)](https://github.com/QCBSRworkshops/workshop01)
-
-### Developed by
-
-Since 2014, several QCBS members contributed to consistently and collaboratively develop and update this workshop, as part of the *Learning and Development Award* from the Québec Centre for Biodiversity Science. They were:
-
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- The workshop material can be accessed [here](https://wiki.qcbs.ca/r_symposium_open_science#workshop_5open_science_and_reproducibility_in_r).
