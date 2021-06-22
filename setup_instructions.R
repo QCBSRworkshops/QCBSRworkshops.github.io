@@ -8,6 +8,8 @@ remotes::install_github("rstudio/blogdown")
 
 blogdown::serve_site()
 
+blogdown::build_site()
+
 blogdown::new_post(title = "Hi Hugo", 
                    ext = '.Rmarkdown', 
                    subdir = "post")
