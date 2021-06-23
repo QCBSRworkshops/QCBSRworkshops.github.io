@@ -17,7 +17,7 @@
               </label>
               {{ $categories := slice -}}
               {{ range .Data.Pages -}}
-              {{ $categories = $categories | append .Params.category -}}
+              {{ $categories = $categories | append .Params.Category -}}
               {{ end -}}
               {{ range ( $categories | uniq ) -}}
               <label class="btn btn-sm btn-primary">

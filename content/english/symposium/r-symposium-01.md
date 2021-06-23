@@ -1,6 +1,6 @@
 ---
 bg_image: images/symposium/gault.png
-category: ["Reproducibility", "Open science", "Github", "Markdown"]
+category: ["Reproducibility", "Open Science", "Github", "Markdown"]
 description: by Monica Granados
 draft: false
 image: images/symposium/open.jpeg
