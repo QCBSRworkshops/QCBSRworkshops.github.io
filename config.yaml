@@ -5,7 +5,7 @@ paginate: '4'
 summaryLength: '30'
 disableLanguages: [it, de]
 disqusShortname: ''
-googleAnalytics: ''
+googleAnalytics: 'UA-200956415-1'
 outputs:
   home: HTML
 markup:
