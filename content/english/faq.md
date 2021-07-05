@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-description: this is meta description
+description: 
 draft: false
 lastmod: 2021-04-01T00:00:00
 layout: faq
@@ -8,60 +8,94 @@ menu:
   main:
     name: FAQ
     parent: More
-    weight: 3
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
+    weight: 2
+subtitle: 
 title: Frequently Asked Questions
 ---
 
-### Welcome to Airspace!
+## About the workshops
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
-
-#### 1.Overview
+**Do I need to know R before coming to a workshop?**
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
 neque excepturi aliquid. Eligendi, mollitia.
 
-#### 2. Data We Collect
+**What can I expect from these workshops?**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
+neque excepturi aliquid. Eligendi, mollitia.
 
-#### 3. How We Use Data
+**I can't make it to a workshop I'm interested in. Are the workshops recorded?**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
+neque excepturi aliquid. Eligendi, mollitia.
 
-#### 4. How We Disclose Data.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
+## Schedule & Registration
 
-#### 5. Security
+**When is the next workshop?**
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
+neque excepturi aliquid. Eligendi, mollitia.
+
+**Can I register for a workshop if I am not a QCBS member?**
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
+neque excepturi aliquid. Eligendi, mollitia.
+
+
+**I registered for a workshop, but did not receive a link for the Zoom. How can I access the workshop?**
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
+neque excepturi aliquid. Eligendi, mollitia.
+
+
+## Cancellation
+
+**I registered for a workshop, but can no longer attend. What should I do?**
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
+neque excepturi aliquid. Eligendi, mollitia.
+
+
+## Feedback & Contributions
+
+**How can I give feedback about a workshop I attended?**
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
 cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
 
-#### 6. Advertising.
+**How can I contribute to the QCBS R Workshop Series?**
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
 Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
 voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
 provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
 expedita, ad.
+
+**How can I sign up to instruct a workshop for the QCBS R Workshop Series?**
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
+Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
+voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
+provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
+expedita, ad.
+
+
+**How can I sign up to develop workshop content for the QCBS R Workshop Series?**
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
+Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
+voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
+provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
+expedita, ad.
+
+**I instructed or developed content for the QCBS R Workshop Series, but have not yet received my LeaDA. What should I do?**
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
+neque excepturi aliquid. Eligendi, mollitia.
+
+**Who can I contact if I have suggestions, concerns, or more questions?**
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
+neque excepturi aliquid. Eligendi, mollitia.
