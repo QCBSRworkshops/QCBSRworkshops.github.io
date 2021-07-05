@@ -8,8 +8,8 @@ layout: pricing
 menu:
   main:
     name: Registration
-    parent: More
-    weight: 2
+    parent: 
+    weight: 4
 pricing:
   enable: true
   pricing_table:

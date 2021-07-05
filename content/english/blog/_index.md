@@ -6,6 +6,6 @@ menu:
   main:
     identifier: blog
     name: News
-    weight: 5
+    weight: 6
 title: Latest News
 ---

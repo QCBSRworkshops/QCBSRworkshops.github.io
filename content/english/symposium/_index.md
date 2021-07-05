@@ -6,7 +6,7 @@ menu:
   main:
     identifier: symposium
     name: Symposium
-    weight: 4
+    weight: 5
 title: QCBS R Symposium
 ---
 
