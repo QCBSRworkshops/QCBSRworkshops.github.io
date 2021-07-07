@@ -30,16 +30,16 @@ menu:
     parent: 
     weight: 5
 service:
-  description: The QCBS R Workshop Series offers many learning opportunities for any graduate student or post-doctoral fellow in the QCBS community. Whether you are interested in practising your teaching abilities, improving your technical skills, or working collaboratively with a broad network of graduate students and post-doctoral fellows, there is always room for contributions. We also welcome community feedback to keep the workshops up to date and as helpful as possible. 
+  description: The QCBS R Workshop Series offers many learning opportunities for any graduate student or post-doctoral fellow in the QCBS community. Whether you are interested in practising your teaching abilities, improving your technical skills, or working collaboratively with a broad network of graduate students and post-doctoral fellows, there is always room for contributions. <br><br>The QCBS offers <a href = "https://qcbs.ca/student-grants/learning-development-award-leada">Learning and Development Awards (LeaDA)</a> to support graduates student and post-doctoral QCBS members who instruct or develop workshops. We also welcome voluntary community feedback to keep the workshops up to date and as helpful as possible!
   enable: true
   service_item:
-  - content: All workshops are instructed in English and in French by graduate students and post-doctoral fellows looking to practice their teaching abilities.
+  - content: All workshops are instructed in English and in French by graduate students and post-doctoral fellows looking to practice their teaching abilities. Instructors receive a <a href = "https://qcbs.ca/student-grants/learning-development-award-leada">Learning and Development Award (LeaDA)</a>.
     icon: ion-easel
     name: INSTRUCTION
-  - content: Graduate students and post-doctoral fellows constantly improve our presentations, which are all written in RMarkdown and hosted on our GitHub.
+  - content: Graduate students and post-doctoral fellows constantly improve our presentations, which are all written in RMarkdown and hosted on our GitHub. Presentation developers receive a <a href = "https://qcbs.ca/student-grants/learning-development-award-leada">Learning and Development Award (LeaDA)</a>.
     icon: ion-code
     name: WORKSHOP DEVELOPMENT
-  - content: Each workshop presentation is accompanied by a Bookdown document, which contains more explanations and code you can play with on your own time. 
+  - content: Each workshop is accompanied by a "book", which contains more explanations and code you can play with on your own time. Book developers receive a <a href = "https://qcbs.ca/student-grants/learning-development-award-leada">Learning and Development Award (LeaDA)</a>.
     icon: ion-ios-bookmarks
     name: BOOK DEVELOPMENT
   - content: Reach out to the Coordination team if you have suggestions, comments, or questions about the QCBS R Workshop Series. If you would like to flag specific issues in a workshop (typos, errors, clarifications), please open an issue on GitHub to let us know!
