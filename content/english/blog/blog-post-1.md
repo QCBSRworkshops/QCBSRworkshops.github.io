@@ -1,67 +1,38 @@
 ---
-author: John Doe
+author: Katherine Hébert
 bg_image: images/feature-bg.jpg
 categories:
-- Company News
-date: "2018-09-24T11:07:10+06:00"
-description: this is meta description
+- Reviews
+date: "2021-07-08"
+description: 
 draft: false
-image: images/blog/blog-post-1.jpg
+#image: images/blog/blog-post-1.jpg
 tags:
-- Advice
-- Technology
-title: How To Wear Bright Shoes
+- Review
+title: Wrapping up the 2020-2021 Series
 type: post
 ---
 
+The QCBS R Workshop Series went through several major changes in 2020-2021: we implemented remote workshops for the first time ever, due to the impossibility of offering in-person workshops at universities during the COVID-19 pandemic, and welcomed a new coordination cohort!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. </p>
+The switch to a remote setting could never have been possible without the hard work of our developers, and the flexibility of our (very patient!) instructors, who navigated the difficult and unpredictable transition with us. Each of our 10 workshops were adapted in French and English to a new, shorter workshop length, with exercises tailored to the virtual setting. That means a total of *20 workshop presentations* went through major changes, on top of the continuous improvements we strive to apply annually according to participant and instructor feedback. That's a *lot* of changes to apply! 
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+The coordination team also went through a major transition in the midst of these changes: we said goodbye to Marie-Hélène Brice (Ph.D., Université de Montréal) after 3 years of coordination and Alexis Carteron (Ph.D., Université de Montréal) after 1 year of coordination. Thank you both for your contributions to the series! Pedro Henrique P. Braga stayed on as coordinator, and was joined by Linley Sherin (M.Sc., McGill), Esteban Gongora (Ph.D. McGill), and Katherine Hébert (Ph.D., Université de Sherbrooke) in Fall 2020.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
+Though managing these transitions was difficult, it was also rewarding: we were able to offer all 10 workshops in French and in English in a way that was equally accessible to all QCBS members, regardless of their host institution. We also received overwhelmingly positive feedback from attendees about our instructors' capabilities and the quality of the materials. More than **100 people (!)** participated in the workshop series this year, from 14 different universities and research institutes from within the QCBS community and beyond. Most participants who responded to our surveys reported that they felt that their knowledge and skills in R improved, thanks to community engagement in the R Workshop Series!
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+We would like to thank our 19 instructors, our 18 developers, and our 101 participants for your patience and willingness to participate, instruct, and/or develop these workshops with us, as we navigated this exceptionally difficult year: 
 
+#### Thank you to our 2020-2021 instructor team: 
 
-* hello
-* hello
-* hello
-* hello
-* hello
+Andrew Macdonald (UdeS), Benjamin Larue (UdeS), Daniel Schöenig (UQAM), David Hunt (McGill), Dominique Caron (McGill), Francis Banville (UdeM), Gabriel Muñoz (Concordia), Jake Lawlor (McGill), Laurie Maynard (UdeMoncton), Linley Sherin (McGill), Marc-Olivier Beausoleil (McGill), Mathieu Vaillancourt (ULaval), Maxime Fraser Franco (UQAM), Mi Lin (McGill), Pedro Henrique P. Braga (Concordia), Poliana Mendes (ULaval), Simon Morvan (UdeM), Sylvain Christin (UdeMoncton), Victor Cameron (UdeS).
 
-1. hello
-2. hello
-3. hello
-4. hello
+#### Thank you to our 2020-2021 developer team: 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.</p>
+Alexandre Arkilanian (McGill), Benjamin Larue (UdeS), Daniel Schöenig (UQAM), Dominique Caron (McGill), Gabriel Muñoz (Concordia), Hassen Allegue (UQAM), Jake Lawlor (McGill), Kate Sheridan (McGill), Katherine Hébert (UdeS), Laurie Maynard (UdeMoncton), Linley Sherin (McGill), Marc-Olivier Beausoleil (McGill), Marie-Hélène Brice (UdeM), Mathieu Vaillancourt (ULaval), Maxime Fraser Franco (UQAM), Mi Lin (McGill), Parnian Pourtaherian (Concordia), and Pedro Henrique P. Braga (Concordia).
+
+We hope to see you at next year's workshops, or to work with you again soon!
+
+Wishing you all a wonderful rest of the summer,
+
+The QCBS R Workshop Series coordination team
