@@ -127,7 +127,7 @@ languages:
         - URL: about
           name: About
           weight: 1
-        - URL: project
+        - URL: workshops
           name: Workshops
           weight: 2
         - URL: symposium
