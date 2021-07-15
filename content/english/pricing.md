@@ -1,7 +1,7 @@
 ---
 bg_image: images/feature-bg.jpg
 cta:
-  enable: true
+  enable: false
 description: 
 draft: false
 layout: pricing
@@ -18,19 +18,18 @@ pricing:
     name: QCBS Member
     price: $0
     services:
-    - Participation in one of the QCBS R Workshop Series
-    - Eligibility to receive a Learning and Development Award by contributing to one of the workshops
+    - Participation per workshop in the QCBS R Workshop Series.<br>*Please read our **[cancellation policy](https://wiki.qcbs.ca/r/cancellation_policy)** before registering for a workshop.*
   - content: Your (co)-supervisor is not a QCBS member
     link: '#'
     name: Student non-QCBS Member
     price: $50
     services:
-    - Participation in one of the QCBS R Workshop Series
+    - Participation per workshop in the QCBS R Workshop Series<br>*Please read our **[cancellation policy](https://wiki.qcbs.ca/r/cancellation_policy)** before registering for a workshop.*
   - content: You are not a student, nor a QCBS member.
     link: '#'
     name: Non-QCBS Member
     price: $100
     services:
-    - Participation in one of the QCBS R Workshop Series
+    - Participation per workshop in the QCBS R Workshop Series<br>*Please read our **[cancellation policy](https://wiki.qcbs.ca/r/cancellation_policy)** before registering for a workshop.*
 title: Register to a workshop
 ---
