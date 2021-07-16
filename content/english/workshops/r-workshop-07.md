@@ -1,9 +1,9 @@
 ---
 bg_image: images/feature-bg.jpg
-category: "Models"
+category: ["Models", "LMMs", "GLMMs"]
 description: Learn how to work with random and fixed effects using LMM and GLMM!
 draft: false
-image: images/portfolio/work6.jpg
+image: images/workshops/forest2.png
 information:
 - info: Beginner
   label: Level

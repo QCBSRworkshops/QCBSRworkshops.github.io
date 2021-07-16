@@ -1,17 +1,17 @@
 ---
 bg_image: images/feature-bg.jpg
-category: "Data visualization"
-description: Let us improve our data manipulation and visualization skills.
+category: ["Data Visualization", "ggplot2", "tidyverse"]
+description: We'll improve our data manipulation and visualization skills in R!
 draft: false
-image: images/portfolio/work3.jpg
+image: images/workshops/forest3.png
 information:
 - info: Beginner
   label: Level
 - info: R and RStudio
   label: Material required
-- info: 17th March 2022
+- info: TBA
   label: Next instruction date
-- info: Batman
+- info: TBA
   label: Next instructor
 title: WK-03 - Introduction to Data Visualization
 ---

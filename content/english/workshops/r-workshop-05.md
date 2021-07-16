@@ -1,9 +1,9 @@
 ---
 bg_image: images/feature-bg.jpg
-category: Programming
-description: Let us create our own loops and functions!
+category: ["Programming"]
+description: Create your own loops and functions!
 draft: false
-image: images/portfolio/work5.jpg
+image: images/workshops/forest6.png
 information:
 - info: Beginner
   label: Level

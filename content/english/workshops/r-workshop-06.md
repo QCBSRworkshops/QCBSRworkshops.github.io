@@ -1,9 +1,9 @@
 ---
 bg_image: images/feature-bg.jpg
-category: "Models"
+category: ["GLMs", "Linear Models"]
 description: this is meta description
 draft: false
-image: images/portfolio/work6.jpg
+image: images/workshops/forest1.png
 information:
 - info: Beginner
   label: Level

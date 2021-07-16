@@ -1,9 +1,9 @@
 ---
 bg_image: images/feature-bg.jpg
-category: "Multivariate analyses"
+category: ["Multivariate analyses", "Ordination"]
 description: Learn how to use constrained multivariate analyses!
 draft: false
-image: images/portfolio/work6.jpg
+image: images/workshops/forest6.png
 information:
 - info: Beginner
   label: Level

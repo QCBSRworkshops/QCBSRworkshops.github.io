@@ -1,9 +1,9 @@
 ---
 bg_image: images/feature-bg.jpg
-category: "Models"
+category: ["Non-linear Models", "GAMs"]
 description: Use GAMs to model non-linear relationships!
 draft: false
-image: images/portfolio/work6.jpg
+image: images/workshops/forest3.png
 information:
 - info: Advanced
   label: Level

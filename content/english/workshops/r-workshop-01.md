@@ -1,9 +1,9 @@
 ---
 bg_image: images/feature-bg.jpg
-category: ["Introduction", "R"]
+category: ["Introduction"]
 description: If you are new to R, this is your start point.
 draft: false
-image: images/portfolio/work1.jpg
+image: images/workshops/forest1.png
 information:
 - info: Beginner
   label: Level
@@ -23,14 +23,18 @@ We will show you how R can act as a calculator, teach you about the various type
 
 ### Material
 
+[![badge](https://img.shields.io/static/v1?style=flat&label=Workshop&message=01&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop01) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 {{< bootstrap-table "table table-dark table-striped table-bordered" >}}
-Language | Slides | Bookdown | Wiki | Script | GitHub 
-:--------|:-------:|:-----:|:-----:|:------: |:-------:
-EN | [![badge](https://img.shields.io/static/v1?style=flat&label=slides&message=01&color=red)](https://qcbsrworkshops.github.io/workshop01/pres-en/workshop01-pres-en.html) | [![badge](https://img.shields.io/static/v1?style=flat&label=book&message=01&logo=github)](https://qcbsrworkshops.github.io/workshop01/book-en/index.html) | [![badge](https://img.shields.io/static/v1?style=flat&label=wiki&message=01&logo=wikipedia)](https://wiki.qcbs.ca/r_workshop1) | ![badge](https://img.shields.io/static/v1?style=flat&label=script&message=01&color=2a50b8&logo=r) | [![badge](https://img.shields.io/static/v1?style=flat&label=repo&message=dev&color=6f42c1&logo=github)](https://github.com/QCBSRworkshops/workshop01) 
-FR | [![badge](https://img.shields.io/static/v1?style=flat&label=diapos&message=01&color=red)](https://qcbsrworkshops.github.io/workshop01/pres-fr/workshop01-pres-fr.html) | [![badge](https://img.shields.io/static/v1?style=flat&label=livre&message=01&logo=github)](https://qcbsrworkshops.github.io/workshop01/book-fr/index.html) | [![badge](https://img.shields.io/static/v1?style=flat&label=wiki&message=01&logo=wikipedia)](https://wiki.qcbs.ca/r_atelier1) | ![badge](https://img.shields.io/static/v1?style=flat&label=script&message=01&color=2a50b8&logo=r) | [![badge](https://img.shields.io/static/v1?style=flat&label=repo&message=dev&color=6f42c1&logo=github)](https://github.com/QCBSRworkshops/workshop01)
+ Slides | Book | Script* | Wiki** 
+:-------:|:-----:|:-----:|:------: 
+<a href="https://qcbsrworkshops.github.io/workshop01/pres-en/workshop01-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-en/workshop01-script-en.R" button type="button" class="btn btn-default">English</button></a> | <a href="https://wiki.qcbs.ca/r_workshop1" button type="button" class="btn btn-default">English</button></a> |
+<a href="https://qcbsrworkshops.github.io/workshop01/pres-fr/workshop01-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-fr/workshop01-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | <a href="https://wiki.qcbs.ca/r_atelier1" button type="button" class="btn btn-default">Français</button></a> |
 {{< /bootstrap-table >}}
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+\* *The script for this workshop is under construction.* <br>
+\*\* *The book for this workshop is under construction. The wiki for this workshop is deprecated, and will be replaced by the Book once the book is developed.*
+
                                         
 ### Contributors 
 
