@@ -16,7 +16,7 @@ information:
 title: WK-01 - Introduction to R
 ---
 <div class="btn-group" role="group" aria-label="...">
-  <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-03/"button type="button" class="btn btn-default">></button></a>
+  <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-02/"button type="button" class="btn btn-default">></button></a>
 
   <div class="btn-group" role="group">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
