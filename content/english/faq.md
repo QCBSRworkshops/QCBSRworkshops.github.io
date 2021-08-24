@@ -34,13 +34,11 @@ The R Workshops are not recorded. However, the slides, script, and books that ac
 
 **When is the next workshop?**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+The 2021-2022 R Workshop Series schedule is not yet available. The workshop schedule will be posted on **[https://wiki.qcbs.ca/r](https://wiki.qcbs.ca/r)** in the beginning of the Fall semester. We will announce the opening of registration for these workshops via the QCBS email list and the **[QCBS Facebook group](https://www.facebook.com/groups/csbq.qcbs/)**. 
 
 **Can I register for a workshop if I am not a QCBS member?**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+Yes, you can register for a workshop if you are not a QCBS member. You can find the registration cost for non-QCBS members on our **[registration page](https://qcbsrworkshops.github.io/pricing/)**.
 
 
 **I registered for a workshop, but did not receive a link for the Zoom. How can I access the workshop?**
