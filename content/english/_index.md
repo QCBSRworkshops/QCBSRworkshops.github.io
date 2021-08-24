@@ -16,7 +16,7 @@ banner:
   enable: true
   title: QCBS R Workshop Series
 cta:
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: images/call-to-action-bg.jpeg
   button:
     enable: true
     label: Get in touch

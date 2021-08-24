@@ -26,7 +26,7 @@ about:
   - count: "12"
     icon: ion-ios-chatboxes-outline
     name: Coordinators
-  image: images/company/about.jpg
+  image: images/about.png
   title: QCBS R Workshop Series
 bg_image: images/feature-bg.jpg
 cta:
