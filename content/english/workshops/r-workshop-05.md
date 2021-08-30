@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: ["Programming"]
+category: ["Programming", "Functions", "Loops", "Iterations"]
 description: Create your own loops and functions!
 draft: false
 image: images/workshops/forest6.png

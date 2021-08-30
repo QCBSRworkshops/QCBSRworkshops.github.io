@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: ["Data Visualization", "ggplot2", "tidyverse"]
+category: ["Data Visualization", "ggplot2", "tidyverse", "plot"]
 description: We'll improve our data manipulation and visualization skills in R!
 draft: false
 image: images/workshops/forest3.png

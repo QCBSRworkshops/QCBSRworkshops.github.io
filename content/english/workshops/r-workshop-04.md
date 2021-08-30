@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: ["Linear Models"]
+category: ["Linear Models", "General Linear Models", "Univariate statistics", "Data analysis"]
 description: Learn how to implement linear models in R!
 draft: false
 image: images/workshops/forest4.png

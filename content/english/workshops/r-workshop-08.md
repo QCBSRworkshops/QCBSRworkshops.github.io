@@ -1,7 +1,7 @@
 ---
 bg_image: images/feature-bg.jpg
-category: ["Non-linear Models", "GAMs"]
-description: Use GAMs to model non-linear relationships!
+category: ["Non-linear Models", "Generalized Aditive Models", "GAM", "GAMM", "Mixed Models"]
+description: Using GAM to model non-linear relationships!
 draft: false
 image: images/workshops/forest3.png
 information:

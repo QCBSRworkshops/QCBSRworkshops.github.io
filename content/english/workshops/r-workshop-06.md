@@ -1,7 +1,7 @@
 ---
 bg_image: images/feature-bg.jpg
-category: ["GLMs", "Linear Models"]
-description: this is meta description
+category: ["GLM", "Linear Models","Generalized Linear Models"]
+description: Let us allow our response variable to be have non-normal errors
 draft: false
 image: images/workshops/forest1.png
 information:

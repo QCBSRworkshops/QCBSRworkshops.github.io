@@ -7,7 +7,7 @@ image: images/workshops/forest1.png
 information:
 - info: Beginner
   label: Level
-- info: R and RStudio
+- info: <a href="https://cloud.r-project.org/">R</a> and <a href="https://www.rstudio.com/products/rstudio/">RStudio</a>
   label: Material required
 - info: TBA
   label: Next instruction date
@@ -15,6 +15,7 @@ information:
   label: Next instructor
 title: WK-01 - Introduction to R
 ---
+
 <div class="btn-group" role="group" aria-label="...">
   <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-02/"button type="button" class="btn btn-default">></button></a>
 
@@ -42,7 +43,7 @@ title: WK-01 - Introduction to R
 
 In this introductory `R` Workshop you will learn what `R` open-source statistical software is, why you should absolutely start using it, and all the first steps to help you get started in `R`. 
 
-We will show you how R can act as a calculator, teach you about the various types of objects in R, show you how to use functions and load packages, and find all the resources you need to get help. 
+We will show you how `R` can act as a calculator, teach you about the various types of objects in R, show you how to use functions and load packages, and find all the resources you need to get help. 
 
 ----
 

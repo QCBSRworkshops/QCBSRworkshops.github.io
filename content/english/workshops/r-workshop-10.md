@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: ["Multivariate analyses", "Ordination"]
+category: ["Multivariate analyses", "Ordination", "Eigendecomposition", "Constrained Ordination"]
 description: Learn how to use constrained multivariate analyses!
 draft: false
 image: images/workshops/forest6.png

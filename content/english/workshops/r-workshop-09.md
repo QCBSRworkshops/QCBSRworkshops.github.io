@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-category: ["Multivariate analyses", "Distance Metrics", "Ordination"]
+category: ["Multivariate analyses", "Distance Metrics", "Ordination", "Eigendecomposition", "Unconstrained Ordination"]
 description: Learn how to use unconstrained multivariate analyses!
 draft: false
 image: images/workshops/forest4.png
