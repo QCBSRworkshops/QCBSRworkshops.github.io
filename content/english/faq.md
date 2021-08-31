@@ -68,8 +68,11 @@ If you cancel your participation at least 5 days before the workshop, you will r
 
 **How can I give feedback about a workshop I attended?**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
+There are several ways of giving feedback about a workshop you attended! We use this feedback to improve the workshops every year, so we greatly encourage you to provide feedback. 
+
+First, the lead instructor of the workshop will send a follow-up email about the workshop containing a link to a survey requesting your feedback. If you do not have this link, feel free to contact the lead presenter for the link. 
+
+If you have specific feedback about the presentation slides or the book content such as mistakes or inconsistencies, or if you would like to make any other suggestions about the workshop form or content, you are invited to [open an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) on the [GitHub](https://github.com/QCBSRworkshops) repository for the workshop in question. If you do not have a GitHub account, or are not comfortable with GitHub, please [contact](https://qcbsrworkshops.github.io/contact/) the workshop coordinators directly with your feedback.
 
 **How can I contribute to the QCBS R Workshop Series?**
 
@@ -96,10 +99,9 @@ voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam volup
 provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
 expedita, ad.
 
-**I instructed or developed content for the QCBS R Workshop Series, but have not yet received my LeaDA. What should I do?**
+**I instructed or developed content for the QCBS R Workshop Series, but have not yet received my Learning and Development Award (LeaDA). What should I do?**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+LeaDA are processed according to several steps outlined in our [Presenter and Developer Protocol](https://qcbsrworkshops.github.io/presenter-developer-protocol/payment-en.html). Please ensure that you have completed all the  steps required for your institution and affiliation status. If you do not receive any notification that your payment is being processed within a maximum of 45 days, please contact Dr. Elina (<helen.elina@mcgill.ca>), the Administrative Associate of the QCBS, to follow up on your award request.
 
 **Who can I contact if I have suggestions, concerns, or more questions?**
 
