@@ -6,5 +6,5 @@ menu:
   main:
     name: Workshops
     weight: 3
-title: The R Series Workshops
+title: The R Workshop Series
 ---
