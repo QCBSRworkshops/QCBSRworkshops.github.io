@@ -72,11 +72,11 @@ Since 2014, several QCBS members contributed to consistently and collaboratively
 
 |      2022 - 2021 - 2020     |      2019 - 2018 - 2017     |      2016 - 2015 - 2014      |
 |:---------------------------:|:---------------------------:|:----------------------------:|
-|  Jake Lawlor | Marie-Hélène Brice | Xavier Giroux-Bougard |
+| Linley Sherin  | Marie-Hélène Brice | Xavier Giroux-Bougard |
 | Katherine Hébert  | Willian Vieira  | Maxwell Farrell |
-| Marie-Hélène Brice  |  Rémi Maglione | Amanda Winegardner |
-| Kevin Cazelles  | Pedro Henrique P. Braga | Étienne Low-Decarie |
-|   | Alexis Carteron | Monica Granados |
+| Jake Lawlor  |  Rémi Maglione | Amanda Winegardner |
+| Marie-Hélène Brice  | Pedro Henrique P. Braga | Étienne Low-Decarie |
+| Kevin Cazelles  | Alexis Carteron | Monica Granados |
 |   | Katherine Hébert |  |
 
 {{< /bootstrap-table >}}
