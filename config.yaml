@@ -132,8 +132,8 @@ languages:
           weight: 2
         - URL: symposium
           name: R Symposium
-          weight: 3  
-        - URL: service
+          weight: 3
+        - URL: contributing
           name: Contribute
           weight: 4
         - URL: pricing

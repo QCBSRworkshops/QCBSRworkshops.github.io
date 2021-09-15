@@ -28,10 +28,10 @@ layout: service
 menu:
   main:
     name: Contributing
-    parent: 
+    parent:
     weight: 5
 service:
-  description: The QCBS R Workshop Series offers many learning opportunities for any graduate student or post-doctoral fellow in the QCBS community. Whether you are interested in practising your teaching abilities, improving your technical skills, or working collaboratively with a broad network of graduate students and post-doctoral fellows, there is <b>always</b> room for contributions. <br><br><b>The QCBS offers <a href = "https://qcbs.ca/student-grants/learning-development-award-leada">Learning and Development Awards (LeaDA)</a> to support graduates student and post-doctoral QCBS members who instruct or develop workshops.</b> We also welcome voluntary community feedback to keep the workshops up to date and as helpful as possible!
+  description: The QCBS R Workshop Series offers many learning opportunities for any graduate student or post-doctoral fellow in the QCBS community. Whether you are interested in practising your teaching abilities, improving your technical skills, or working collaboratively with a broad network of graduate students and post-doctoral fellows, there is <b>always</b> room for contributions. <br><br><b>The QCBS offers <a href = "https://qcbs.ca/student-grants/learning-development-award-leada">Learning and Development Awards (LeaDA)</a> to support graduates student and post-doctoral QCBS members who instruct or develop workshops.</b> We also welcome voluntary community feedback to keep the workshops up to date and as helpful as possible!<br>
   enable: true
   service_item:
   - content: All workshops are instructed in English and in French by graduate students and post-doctoral fellows looking to practice their teaching abilities. Instructors receive a <b><a href = "https://qcbs.ca/student-grants/learning-development-award-leada">Learning and Development Award (LeaDA)</a></b>.
