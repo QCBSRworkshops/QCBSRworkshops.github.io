@@ -59,7 +59,7 @@ If you cancel your participation at least 5 days before the workshop, there are 
 
 If you cancel your participation at least 5 days before the workshop, you will receive 80% refund of your registration fee. If you fail to attend a workshop or did not cancel your registration at least 5 days before, your registration fee will not be refunded. Refunds are provided directly to the credit card used during the registration.
 
-**If a workshop is canceled**, the organizers will inform the participants and all registration fees will be reimbursed.
+**If a workshop is cancelled**, the organizers will inform the participants and all registration fees will be reimbursed.
 
 
 ## Feedback & Contributions

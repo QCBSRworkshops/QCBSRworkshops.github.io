@@ -67,7 +67,7 @@ portfolio:
   button:
     enable: true
     label: About Registration
-    link: pricing
+    link: registration
   content: "Learning R can be challenging, even for the most experienced researchers. When you add statistical analyses to the mix, it's easy to get overwhelmed. The QCBS R Workshop Series is here to help the QCBS community (and beyond!) get familiarized with R, programming strategies, and popular R packages so you can get started with the data management, visualizations, and statistical analyses you need to answer the research questions you're interested in."
   enable: true
   title: R IS FOR EVERYONE

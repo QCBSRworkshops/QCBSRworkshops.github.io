@@ -136,15 +136,18 @@ languages:
         - URL: contributing
           name: Contribute
           weight: 4
-        - URL: pricing
+        - URL: registration
           name: Registration
           weight: 5
         - URL: faq
           name: FAQ
           weight: 6
+        - URL: cancellation
+          name: Cancellation
+          weight: 7
         - URL: contact
           name: Contact
-          weight: 7
+          weight: 8
       main:
         - hasChildren: yes
           name: More
