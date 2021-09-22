@@ -164,21 +164,27 @@ languages:
         - URL: about
           name: À propos
           weight: 1
-        - URL: project
-          name: Projet
+        - URL: workshops
+          name: Ateliers
           weight: 2
-        - URL: service
-          name: Service
+        - URL: symposium
+          name: Colloque R
           weight: 3
-        - URL: pricing
-          name: Tarification
+        - URL: contributing
+          name: Contribuer
           weight: 4
+        - URL: registration
+          name: Inscription
+          weight: 5
         - URL: faq
           name: Questions fréquentes
-          weight: 5
+          weight: 6
+        - URL: cancellation
+          name: Annulation
+          weight: 7
         - URL: contact
           name: Contact
-          weight: 6
+          weight: 8
       main:
         - hasChildren: yes
           name: Plus
