@@ -60,23 +60,23 @@ with new tools and packages.
 [![badge](https://img.shields.io/static/v1?style=flat&label=Workshop&message=02&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop02) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
- Slides | Book | Script* | Wiki** 
-:-------:|:-----:|:-----:|:------: 
+ Slides | Book | Script* | Wiki**
+:-------:|:-----:|:-----:|:------:
 <a href="https://qcbsrworkshops.github.io/workshop02/pres-en/workshop02-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-en/workshop02-script-en.R" button type="button" class="btn btn-default">English</button></a> | <a href="https://wiki.qcbs.ca/r_workshop2" button type="button" class="btn btn-default">English</button></a> |
 <a href="https://qcbsrworkshops.github.io/workshop02/pres-fr/workshop02-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-fr/workshop02-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | <a href="https://wiki.qcbs.ca/r_atelier2" button type="button" class="btn btn-default">Français</button></a> |
 {{< /bootstrap-table >}}
 
 
-> **Thank you for your patience as we make the following changes:**  
+> **Thank you for your patience as we make the following changes:**
 > \* *The script and book for this workshop are under construction.* <br>
 > \*\* *The wiki for this workshop is deprecated, and will be replaced by the book.*
 
 ----
 
 
-### Contributors 
+### Contributors
 
-This workshop was originally developed by Johanna Bradie, Vincent Fugère, and Thomas Lamy. 
+This workshop was originally developed by Johanna Bradie, Vincent Fugère, and Thomas Lamy.
 
 Since 2014, several QCBS members contributed to consistently and collaboratively develop and update this workshop, as part of the *Learning and Development Award* from the Québec Centre for Biodiversity Science. They were:
 
@@ -84,12 +84,13 @@ Since 2014, several QCBS members contributed to consistently and collaboratively
 
 |      2022 - 2021 - 2020     |      2019 - 2018 - 2017     |      2016 - 2015 - 2014      |
 |:---------------------------:|:---------------------------:|:----------------------------:|
-| Kevin Cazelles | Gabriel Muñoz | Johanna Bradie |
-| Pedro Henrique P. Braga | Katherine Hébert | Vincent Fugère |
-| Marie-Hélène Brice | Marie-Hélène Brice | Thomas Lamy |
-| Gabriel Muñoz |  | Sebastien Portalier |
-| Hassen Allegue |  | Zofia Taranu |
-| Willian Vieira |  | Cédric Frenette Dussault |
+| Valentin Lucet | Gabriel Muñoz | Johanna Bradie |
+| Kevin Cazelles | Katherine Hébert | Vincent Fugère |
+| Pedro Henrique P. Braga | Marie-Hélène Brice | Thomas Lamy |
+| Marie-Hélène Brice |  | Sebastien Portalier |
+| Gabriel Muñoz |  | Zofia Taranu |
+| Hassen Allegue |  | Cédric Frenette Dussault |
+| Willian Vieira |  | |
 
 {{< /bootstrap-table >}}
 

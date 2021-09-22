@@ -41,30 +41,30 @@ title: WK-01 - Introduction to R
 
 ## Workshop 1: Introduction to `R`
 
-In this introductory `R` Workshop you will learn what `R` open-source statistical software is, why you should absolutely start using it, and all the first steps to help you get started in `R`. 
+In this introductory `R` Workshop you will learn what `R` open-source statistical software is, why you should absolutely start using it, and all the first steps to help you get started in `R`.
 
-We will show you how `R` can act as a calculator, teach you about the various types of objects in R, show you how to use functions and load packages, and find all the resources you need to get help. 
+We will show you how `R` can act as a calculator, teach you about the various types of objects in R, show you how to use functions and load packages, and find all the resources you need to get help.
 
 ----
 
-### Material  
+### Material
 
-[![badge](https://img.shields.io/static/v1?style=flat&label=Workshop&message=01&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop01) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
+[![badge](https://img.shields.io/static/v1?style=flat&label=Workshop&message=01&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop01) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
- Slides | Book* | Script* | Wiki** 
-:-------:|:-----:|:-----:|:------: 
+ Slides | Book* | Script* | Wiki**
+:-------:|:-----:|:-----:|:------:
 <a href="https://qcbsrworkshops.github.io/workshop01/pres-en/workshop01-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-en/workshop01-script-en.R" button type="button" class="btn btn-default">English</button></a> | <a href="https://wiki.qcbs.ca/r_workshop1" button type="button" class="btn btn-default">English</button></a> |
 <a href="https://qcbsrworkshops.github.io/workshop01/pres-fr/workshop01-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-fr/workshop01-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | <a href="https://wiki.qcbs.ca/r_atelier1" button type="button" class="btn btn-default">Français</button></a> |
 {{< /bootstrap-table >}}
 
-> **Thank you for your patience as we make the following changes:**  
+> **Thank you for your patience as we make the following changes:**
 > \* *The script and book for this workshop are under construction.* <br>
 > \*\* *The wiki for this workshop is deprecated, and will be replaced by the book.*
 
 ----
-                                        
-### Contributors 
+
+### Contributors
 
 This workshop was originally developed by Sylvain Christin, Cédric Frenette Dussault, and Dalal Hanna.
 
@@ -74,16 +74,16 @@ Since 2014, several QCBS members contributed to consistently and collaboratively
 
 |      2022 - 2021 - 2020     |      2019 - 2018 - 2017     |      2016 - 2015 - 2014      |
 |:---------------------------:|:---------------------------:|:----------------------------:|
-| Marc-Olivier Beausoleil    |     Claire-Cécile Juhasz   | Sylvain Christin |
+| Ella Martin    |     Claire-Cécile Juhasz   | Sylvain Christin |
 |  Dominique Caron         |      Marc-Olivier Beausoleil |Cédric Frenette Dussault|
-|     Kevin Cazelles      | Marie-Hélène Brice                     |       Dalal Hanna       |
-| Claire-Cécile Juhasz |   Katherine Hébert                          |      Marc-Olivier Beausoleil     |
-|   Pedro Henrique P. Braga      |                             |   Vincent Fugère                           |
-|   Marie-Hélène Brice      |                             |                              |
+|     Marc-Olivier Beausoleil      | Marie-Hélène Brice                     |       Dalal Hanna       |
+| Kevin Cazelles |   Katherine Hébert                          |      Marc-Olivier Beausoleil     |
+|   Claire-Cécile Juhasz     |                             |   Vincent Fugère                           |
+|   Pedro Henrique P. Braga   |                             |                              |
+|   Marie-Hélène Brice     |                             |                              |
 
 {{< /bootstrap-table >}}
 
 *Note: The contributor table is under construction.*
 
 ----
-

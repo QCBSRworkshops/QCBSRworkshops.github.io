@@ -41,7 +41,7 @@ title: WK-03 - Introduction to Data Visualization
 
 ## Workshop 3: Introduction to Data Visualization in `R` using `ggplot2`
 
-In this workshop, you will improve your data manipulation and visualization skills using `ggplot2`. 
+In this workshop, you will improve your data manipulation and visualization skills using `ggplot2`.
 
 We will explore the richness of `ggplot2`, which can be used as an alternative to base R. We will learn how to exploit this package for both diagnostic and publication quality plots.
 
@@ -50,21 +50,21 @@ We will explore the richness of `ggplot2`, which can be used as an alternative t
 [![badge](https://img.shields.io/static/v1?style=flat&label=Workshop&message=03&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop03) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
- Slides | Book | Script* | Wiki** 
-:-------:|:-----:|:-----:|:------: 
+ Slides | Book | Script* | Wiki**
+:-------:|:-----:|:-----:|:------:
 <a href="https://qcbsrworkshops.github.io/workshop03/pres-en/workshop03-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop03/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop03/book-en/workshop03-script-en.R" button type="button" class="btn btn-default">English</button></a> | <a href="https://wiki.qcbs.ca/r_workshop3" button type="button" class="btn btn-default">English</button></a> |
 <a href="https://qcbsrworkshops.github.io/workshop03/pres-fr/workshop03-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop03/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop03/book-fr/workshop03-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | <a href="https://wiki.qcbs.ca/r_atelier3" button type="button" class="btn btn-default">Français</button></a> |
 {{< /bootstrap-table >}}
 
 
-> **Thank you for your patience as we make the following changes:**  
+> **Thank you for your patience as we make the following changes:**
 > \* *The script and book for this workshop are under construction.* <br>
 > \*\* *The wiki for this workshop is deprecated, and will be replaced by the book.*
 
 
-### Contributors 
+### Contributors
 
-This workshop was originally developed by Xavier Giroux-Bougard, Maxwell Farrell, Amanda Winegardner, Étienne Low-Decarie and Monica Granados. 
+This workshop was originally developed by Xavier Giroux-Bougard, Maxwell Farrell, Amanda Winegardner, Étienne Low-Decarie and Monica Granados.
 
 Since 2014, several QCBS members contributed to consistently and collaboratively develop and update this workshop, as part of the *Learning and Development Award* from the Québec Centre for Biodiversity Science. They were:
 

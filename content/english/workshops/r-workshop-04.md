@@ -50,22 +50,22 @@ In this workshop, you will learn how to implement basic linear models commonly u
 [![badge](https://img.shields.io/static/v1?style=flat&label=Workshop&message=04&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop04) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-dark table-striped table-bordered" >}}
- Slides | Book | Script* | Wiki** 
-:-------:|:-----:|:-----:|:------: 
+ Slides | Book | Script* | Wiki**
+:-------:|:-----:|:-----:|:------:
 <a href="https://qcbsrworkshops.github.io/workshop04/pres-en/workshop04-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop04/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop04/book-en/workshop04-script-en.R" button type="button" class="btn btn-default">English</button></a> | <a href="https://wiki.qcbs.ca/r_workshop4" button type="button" class="btn btn-default">English</button></a> |
 <a href="https://qcbsrworkshops.github.io/workshop04/pres-fr/workshop04-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop04/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop04/book-fr/workshop04-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | <a href="https://wiki.qcbs.ca/r_atelier4" button type="button" class="btn btn-default">Français</button></a> |
 {{< /bootstrap-table >}}
 
 
-> **Thank you for your patience as we make the following changes:**  
+> **Thank you for your patience as we make the following changes:**
 > \* *The script and book for this workshop are under construction.* <br>
 > \*\* *The wiki for this workshop is deprecated, and will be replaced by the book.*
 
 ----
 
-### Contributors 
+### Contributors
 
-This workshop was originally developed by Catherine Baltazar, Bérenger Bourgeois, Zofia Taranu, and Shaun Turney. 
+This workshop was originally developed by Catherine Baltazar, Bérenger Bourgeois, Zofia Taranu, and Shaun Turney.
 
 Since 2014, several QCBS members contributed to consistently and collaboratively develop and update this workshop, as part of the *Learning and Development Award* from the Québec Centre for Biodiversity Science. They were:
 
@@ -73,9 +73,9 @@ Since 2014, several QCBS members contributed to consistently and collaboratively
 
 |      2022 - 2021 - 2020     |      2019 - 2018 - 2017     |      2016 - 2015 - 2014      |
 |:---------------------------:|:---------------------------:|:----------------------------:|
-| Daniel Schoenig  | Willian Vieira | Catherine Baltazar |
+| Victor Cameron  | Willian Vieira | Catherine Baltazar |
 | Laurie Maynard  | Shaun Turney  | Bérenger Bourgeois |
-|   | Marie-Hélène Brice | Zofia Taranu |
+| Daniel Schoenig  | Marie-Hélène Brice | Zofia Taranu |
 |   | Katherine Hébert | Shaun Turney |
 |   |  | Emmanuelle Chrétien |
 |   |  | Maxwell Farrell |
