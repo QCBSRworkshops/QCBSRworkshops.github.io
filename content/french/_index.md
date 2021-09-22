@@ -23,7 +23,7 @@ cta:
     link: contact
   content: Cette série est un projet en constante évolution qui est rendu possible par l'engagement d'une communauté enthousiaste d'étudiant(e)s des cycles supérieurs et des postdoctorant(e)s. Si vous souhaitez vous joindre à cette communauté et renforcer vos capacités d'enseignement et d'apprentissage, n'hésitez pas à nous contacter au sujet de l'enseignement et/ou du développement de la série d'ateliers R du CSBQ.
   enable: true
-  title: Vous voulez contribuer à la Série R?
+  title: Vous voulez vous impliquer?
 funfacts:
   description: Nous sommes des étudiant(e)s des cycles supérieurs et des postdoctorant(e)s du Centre québécois des sciences de la biodiversité. Nous développons et instruisons des ateliers sur un large répertoire de méthodes statistiques et computationelles pour aider d'autres chercheurs et chercheuses en début de carrière à réaliser leurs analyses en écologie, évolution et science de la biodiversité.
   enable: true
