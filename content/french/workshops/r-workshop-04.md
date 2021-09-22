@@ -58,6 +58,7 @@ Dans cet atelier, vous apprendrez comment effectuer en R les modèles linéaires
 
 > Note : Le wiki de cet atelier a été converti en Bookdown en septembre 2021. <br>
 > Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop4), [FR](https://wiki.qcbs.ca/r_atelier4)).
+
 ----
 
 ### Contributions
