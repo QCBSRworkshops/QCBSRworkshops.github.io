@@ -60,7 +60,7 @@ Dans cet atelier, vous apprendrez comment effectuer en R les modèles linéaires
 > Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop4), [FR](https://wiki.qcbs.ca/r_atelier4)).
 ----
 
-### Contributors
+### Contributions
 
 Cet atelier a été développé à l'origine par Catherine Baltazar, Bérenger Bourgeois, Zofia Taranu, et Shaun Turney.
 
