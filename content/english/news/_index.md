@@ -1,11 +1,11 @@
 ---
 bg_image: images/feature-bg.jpg
-description: Annonces du calendrier des ateliers, opportunités de contribution, etc.
+description: Workshop schedule announcements, contribution opportunities, and more
 draft: false
 menu:
   main:
     identifier: blog
-    name: Nouvelles
+    name: News
     weight: 6
-title: Nouvelles
+title: Latest News
 ---
