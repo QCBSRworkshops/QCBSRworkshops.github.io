@@ -2,7 +2,7 @@
 bg_image: images/feature-bg.jpg
 description: Please read our cancellation and reimbursement policy before registering for a workshop.
 draft: false
-lastmod: 2021-04-01T00:00:00
+lastmod: 2021-09-21
 layout: faq
 menu:
   main:
@@ -10,7 +10,7 @@ menu:
     parent: More
     weight: 2
 subtitle: 
-title: Cancellation and Reimbursement Policy
+title: Cancellation & Reimbursement Policy
 ---
 
 ## Cancelling your registration
