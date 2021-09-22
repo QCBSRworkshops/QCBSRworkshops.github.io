@@ -13,7 +13,7 @@ information:
   label: Next instruction date
 - info: TBA
   label: Next instructor
-title: WK-01 - Introduction à R
+title: AT-01 - Introduction à R
 ---
 
 <div class="btn-group" role="group" aria-label="...">
@@ -52,8 +52,9 @@ Dans cet atelier d’introduction à R, vous apprendrez ce qu’est le logiciel 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 Présentation | Livre | Script 
 :-----:|:-----:|:-----:
-<a href="https://qcbsrworkshops.github.io/workshop01/pres-fr/workshop01-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-fr/workshop01-script-fr.R" button type="button" class="btn btn-default">Français</button></a> 
 <a href="https://qcbsrworkshops.github.io/workshop01/pres-en/workshop01-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-en/workshop01-script-en.R" button type="button" class="btn btn-default">English</button></a> 
+<a href="https://qcbsrworkshops.github.io/workshop01/pres-fr/workshop01-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-fr/workshop01-script-fr.R" button type="button" class="btn btn-default">Français</button></a> 
+
 
 {{< /bootstrap-table >}}
 

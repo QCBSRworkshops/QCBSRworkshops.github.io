@@ -13,7 +13,7 @@ information:
   label: Next instruction date
 - info: TBA
   label: Next instructor
-title: WK-02 - Charger et manipuler des données
+title: AT-02 - Charger et manipuler des données
 ---
 <div class="btn-group" role="group" aria-label="...">
   <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-01/" button type="button" class="btn btn-default"><</button></a>
@@ -62,10 +62,10 @@ pour l'analyse et la visualisation de vos données.
 [![badge](https://img.shields.io/static/v1?style=flat&label=GitHub&message=02&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop02) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
- Slides | Book | Script* | Wiki**
+ Présentation | Livre | Script* | Wiki**
 :-------:|:-----:|:-----:|:------:
-<a href="https://qcbsrworkshops.github.io/workshop02/pres-en/workshop02-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-en/workshop02-script-en.R" button type="button" class="btn btn-default">English</button></a> | <a href="https://wiki.qcbs.ca/r_workshop2" button type="button" class="btn btn-default">English</button></a> |
-<a href="https://qcbsrworkshops.github.io/workshop02/pres-fr/workshop02-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-fr/workshop02-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | <a href="https://wiki.qcbs.ca/r_atelier2" button type="button" class="btn btn-default">Français</button></a> |
+<a href="https://qcbsrworkshops.github.io/workshop02/pres-en/workshop02-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-en/workshop02-script-en.R" button type="button" class="btn btn-default">English</button></a> | <a href="https://wiki.qcbs.ca/r_workshop2" button type="button" class="btn btn-default">English</button></a> 
+<a href="https://qcbsrworkshops.github.io/workshop02/pres-fr/workshop02-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-fr/workshop02-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | <a href="https://wiki.qcbs.ca/r_atelier2" button type="button" class="btn btn-default">Français</button></a> | 
 {{< /bootstrap-table >}}
 
 
