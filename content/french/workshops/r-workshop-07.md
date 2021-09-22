@@ -47,7 +47,7 @@ Les modèles à effets mixtes permettent aux écologistes de surmonter un certai
 
 ### Matériel
 
-[![badge](https://img.shields.io/static/v1?style=flat&label=Workshop&message=07&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop07) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![badge](https://img.shields.io/static/v1?style=flat&label=GitHub&message=07&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop07) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
  Présentation | Livre | Script 
