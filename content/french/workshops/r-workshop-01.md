@@ -57,7 +57,8 @@ Présentation | Livre | Script
 
 {{< /bootstrap-table >}}
 
-*Note : Le wiki de cet atelier a été converti en Bookdown en septembre 2021. <br>Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop1), [FR](https://wiki.qcbs.ca/r_atelier1)).* 
+> Note : Le wiki de cet atelier a été converti en Bookdown en septembre 2021. <br>
+> Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop1), [FR](https://wiki.qcbs.ca/r_atelier1)). 
 
 ----
 

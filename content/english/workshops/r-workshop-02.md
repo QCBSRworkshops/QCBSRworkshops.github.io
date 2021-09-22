@@ -93,5 +93,3 @@ Since 2014, several QCBS members contributed to consistently and collaboratively
 | Willian Vieira |  | |
 
 {{< /bootstrap-table >}}
-
-*Note: The contributor table is still under construction.*
