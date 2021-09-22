@@ -56,7 +56,7 @@ Présentation | Livre | Script
 <a href="https://qcbsrworkshops.github.io/workshop06/pres-fr/workshop06-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop06/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop06/book-fr/workshop06-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
 {{< /bootstrap-table >}}
 
-> Note : Le wiki de cet atelier a été converti en Bookdown en septembre 2021. <br>
+> Note : Le wiki de cet atelier a été converti en Bookdown en février 2021. <br>
 > Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop7), [FR](https://wiki.qcbs.ca/r_atelier7)).
 
 ----
