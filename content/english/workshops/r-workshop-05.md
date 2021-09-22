@@ -75,9 +75,9 @@ Since 2014, several QCBS members contributed to consistently and collaboratively
 |      2022 - 2021 - 2020     |      2019 - 2018 - 2017     |      2016 - 2015 - 2014      |
 |:---------------------------:|:---------------------------:|:----------------------------:|
 | Pedro Henrique P. Braga  | Gabriel Muñoz | Johanna Bradie |
-| Parnian Pourtaherian  | Katherine Hébert  | Sylvain Christin |
+| Gabriel Muñoz  | Katherine Hébert  | Sylvain Christin |
 | Kate Sheridan  | Pedro Henrique P. Braga | Ben Haller |
-|   | Marie-Hélène Brice | Guillaume Larocque |
+| Parnian Pourtaherian  | Marie-Hélène Brice | Guillaume Larocque |
 |   |  | Pedro Henrique P. Braga |
 |   |  | Sebastien Portalier |
 |   |  | Jacob Ziegler |
@@ -85,5 +85,3 @@ Since 2014, several QCBS members contributed to consistently and collaboratively
 |   |  | Cédric Frenette Dussault |
 
 {{< /bootstrap-table >}}
-
-*Note: The contributor table is still under construction.*
