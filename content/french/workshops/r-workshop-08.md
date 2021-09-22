@@ -19,7 +19,7 @@ title: AT-08 - Modèles additifs généralisés
   <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-07/" button type="button" class="btn btn-default"><</button></a>
   <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-09/"button type="button" class="btn btn-default">></button></a>
 
-<div class="btn-group" role="group">
+  <div class="btn-group" role="group">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
       Tous les ateliers
       <span class="caret"></span>
