@@ -1,7 +1,7 @@
 ---
 bg_image: images/feature-bg.jpg
-category: ["Linear Models", "Generalized Linear Models", "Mixed Models", "GLM", "LMM"]
-description: Learn how to work with random and fixed effects using LMM and GLMM!
+category: ["GLMM", "Modèles linéaires", "Modèles linéaires généralisés", "Modèles mixtes", "LMM"]
+description: Apprenez à traiter les effets aléatoires et fixes à l'aide de LMM et GLMM!
 draft: false
 image: images/workshops/forest2.png
 information:
@@ -13,63 +13,60 @@ information:
   label: Next instruction date
 - info: Batman
   label: Next instructor
-title: WK-07 - Linear and generalized linear mixed models
+title: AT-07 - Modèles linéaires et généralisés linéaires mixtes
 ---
 <div class="btn-group" role="group" aria-label="...">
   <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-06/" button type="button" class="btn btn-default"><</button></a>
   <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-08/"button type="button" class="btn btn-default">></button></a>
 
-  <div class="btn-group" role="group">
+<div class="btn-group" role="group">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      All workshops
+      Tous les ateliers
       <span class="caret"></span>
     </button>
     <ul class="dropdown-menu">
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-01/">WK 1: Intro to R</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-02/">WK 2: Data manipulation</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-03/">WK 3: Data visualisation</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-04/">WK 4: Linear models</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-05/">WK 5: Programming</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-01/">WK 1: Intro à R</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-02/">WK 2: Manipulation de données</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-03/">WK 3: Visualisation de données</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-04/">WK 4: Modèles linéaires</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-05/">WK 5: Programmation</a></li>
       <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-06/">WK 6: GLMs</a></li>
       <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-07/">WK 7: LMMs</a></li>
       <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-08/">WK 8: GAMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-09/">WK 9: Multivariate</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-10/">WK 10: Advanced multivariate</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-09/">WK 9: Analyses multivariés</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-10/">WK 10: Analyses multivariés avancés</a></li>
     </ul>
   </div>
 </div>
 
-## Workshop 7: Linear and generalized linear mixed models (LMM and GLMM) in `R`
+## Atelier 7: Modèles linéaires et généralisés linéaires mixtes (LMM et GLMM)
 
-Mixed effects models allow ecologists to overcome a number of limitations associated with traditional linear models. 
-
-In this workshop, you will learn when it is important to use a mixed effects model to analyze your data. 
-
-We will walk you through the steps to conduct a linear mixed model analysis, check its assumptions, report results, and visually represent your model in R.
+Les modèles à effets mixtes permettent aux écologistes de surmonter un certain nombre de limitations liées aux modèles linéaires traditionnels. Dans cet atelier, vous apprendrez à déterminer si vous devez utiliser un modèle à effets mixtes pour analyser vos données. Nous allons vous guider à travers les étapes nécessaires pour utiliser un modèle linéaire mixte, vérifier les suppositions de base et présenter les résultats de votre modèle dans R.
 
 ----
 
-### Material
+### Matériel
 
 [![badge](https://img.shields.io/static/v1?style=flat&label=Workshop&message=07&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop07) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
- Slides | Book | Script 
+ Présentation | Livre | Script 
 :-------:|:-----:|:-----:
 <a href="https://qcbsrworkshops.github.io/workshop07/pres-en/workshop07-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop07/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop07/book-en/workshop07-script-en.R" button type="button" class="btn btn-default">English</button></a> | 
 <a href="https://qcbsrworkshops.github.io/workshop07/pres-fr/workshop07-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop07/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop07/book-fr/workshop07-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
 {{< /bootstrap-table >}}
 
-Archived written material is available on our wiki (<a href="https://wiki.qcbs.ca/r_workshop6">**EN**</a>, <a href="https://wiki.qcbs.ca/r_atelier6">**FR**</a>).
+> Note : Le wiki de cet atelier a été converti en Bookdown en septembre 2021. <br>
+> Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop6), [FR](https://wiki.qcbs.ca/r_atelier6)).
 
 
 ----
 
-### Contributors
+### Contributions
 
-This workshop was originally developed by Catherine Baltazar, Dalal Hanna, Jacob Ziegler. Content about GLMMs was developed by Cédric Frenette Dussault, Vincent Fugère, Thomas Lamy, Zofia Taranu.
+Cet atelier a été développé à l'origine par Catherine Baltazar, Dalal Hanna, et Jacob Ziegler. Le contenu sur les GLMMs a été développé à l'origine par Cédric Frenette Dussault, Vincent Fugère, Thomas Lamy, et Zofia Taranu.
 
-Since 2014, several QCBS members contributed to consistently and collaboratively develop and update this workshop, as part of the *Learning and Development Award* from the Québec Centre for Biodiversity Science. They were:
+Depuis 2014, plusieurs membres du CSBQ ont contribué à développer et à mettre à jour cet atelier collaborativement sur une base régulière, dans le cadre du *Prix d'apprentissage et de développement* du Centre de science de la biodiversité du Québec. Ces membres sont:
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 

@@ -50,14 +50,14 @@ Les modèles linéaires généralisés sont des outils importants afin de surmon
 [![badge](https://img.shields.io/static/v1?style=flat&label=GitHub&message=06&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop06) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-dark table-striped table-bordered" >}}
- Slides | Book | Script 
+Présentation | Livre | Script 
 :-------:|:-----:|:-----:
 <a href="https://qcbsrworkshops.github.io/workshop06/pres-en/workshop06-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop06/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop06/book-en/workshop06-script-en.R" button type="button" class="btn btn-default">English</button></a> | 
 <a href="https://qcbsrworkshops.github.io/workshop06/pres-fr/workshop06-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop06/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop06/book-fr/workshop06-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
 {{< /bootstrap-table >}}
 
 > Note : Le wiki de cet atelier a été converti en Bookdown en septembre 2021. <br>
-> Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop6), [FR](https://wiki.qcbs.ca/r_atelier6)).
+> Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop7), [FR](https://wiki.qcbs.ca/r_atelier7)).
 
 ----
 
