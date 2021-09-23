@@ -17,7 +17,7 @@ about:
   - count: "700"
     icon: ion-ios-body-outline
     name: Participants
-  - count: "70"
+  - count: "95"
     icon: ion-ios-body-outline
     name: Instructeurs et instructrices
   - count: "100"
