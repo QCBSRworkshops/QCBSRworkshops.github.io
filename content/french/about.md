@@ -14,9 +14,12 @@ about:
   - count: "13"
     icon: ion-ios-flask-outline
     name: Ateliers de Colloque R
-  - count: "TBD"
+  - count: "646"
     icon: ion-ios-body-outline
-    name: Participants
+    name: Participant(e)s
+  - count: "3382"
+    icon: ion-ios-body-outline
+    name: Inscriptions
   - count: "95"
     icon: ion-ios-body-outline
     name: Instructeurs et instructrices

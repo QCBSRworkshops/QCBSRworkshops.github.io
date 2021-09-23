@@ -14,9 +14,12 @@ about:
   - count: "13"
     icon: ion-ios-flask-outline
     name: R Symposium Workshops    
-  - count: "TBD"
+  - count: "646"
     icon: ion-ios-body-outline
     name: Participants
+  - count: "3382"
+    icon: ion-ios-body-outline
+    name: Registrations
   - count: "95"
     icon: ion-ios-body-outline
     name: Presenters
