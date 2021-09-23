@@ -23,4 +23,4 @@ Publication per peer-review process is made by and for scientists. It is also a 
 ### Workshop material
 
 * The workshop slides can be accessed [here](https://insileco.github.io/ResearchDown/#1).
-* The workshop material and requirements can be assessed [here](https://github.com/inSileco/ResearchDown).
+* The workshop material and requirements can be accessed [here](https://github.com/inSileco/ResearchDown).

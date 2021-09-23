@@ -1,7 +1,7 @@
 ---
 bg_image: images/feature-bg.jpg
-category: ["Programming", "Functions", "Loops", "Iterations"]
-description: Create your own loops and functions!
+category: ["Programmation", "Fonctions", "Boucles", "Itérations"]
+description: Créez vos propres boucles et fonctions!
 draft: false
 image: images/workshops/forest6.png
 information:
@@ -13,42 +13,42 @@ information:
   label: Next instruction date
 - info: Batman
   label: Next instructor
-title: WK-05 - Programming in R
+title: AT-05 - Programmation en R
 ---
 <div class="btn-group" role="group" aria-label="...">
   <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-04/" button type="button" class="btn btn-default"><</button></a>
   <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-06/"button type="button" class="btn btn-default">></button></a>
 
-  <div class="btn-group" role="group">
+<div class="btn-group" role="group">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      All workshops
+      Tous les ateliers
       <span class="caret"></span>
     </button>
     <ul class="dropdown-menu">
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-01/">WK 1: Intro to R</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-02/">WK 2: Data manipulation</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-03/">WK 3: Data visualisation</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-04/">WK 4: Linear models</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-05/">WK 5: Programming</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-01/">WK 1: Intro à R</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-02/">WK 2: Manipulation de données</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-03/">WK 3: Visualisation de données</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-04/">WK 4: Modèles linéaires</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-05/">WK 5: Programmation</a></li>
       <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-06/">WK 6: GLMs</a></li>
       <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-07/">WK 7: LMMs</a></li>
       <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-08/">WK 8: GAMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-09/">WK 9: Multivariate</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-10/">WK 10: Advanced multivariate</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-09/">WK 9: Analyses multivariés</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-10/">WK 10: Analyses multivariés avancés</a></li>
     </ul>
   </div>
 </div>
 
 
-## Workshop 5: Programming in `R`
+## Atelier 5: Programmation en R
 
-This workshop focuses on basic programming in R. In this workshop, you will learn how to use control flow (`for` loops, `if`, `while`) methods to prevent code repetition, facilitate organization and run simulations. In addition, you will learn to write your own functions, and tips to program efficiently. The last part of the workshop will discuss packages that will not be covered elsewhere in this workshop series, but that may be of interest to participants.
+Cet atelier vise à vous apprendre les bases de la programmation en R. Vous apprendrez à utiliser des structures de contrôle (boucles `for`, `if`, `while`) afin d'éviter la répétition de code, de faciliter l'organisation et d'effectuer des simulations. Vous apprendrez également à écrire vos propres fonctions et quelques astuces pour programmer plus efficacement. La dernière partie de l'atelier portera sur des librairies de R qui peuvent être très utiles pour les participants, mais qui ne seront pas couvertes ailleurs dans la série d'ateliers en R du CSBQ.
 
 ----
 
-### Material
+### Matériel
 
-[![badge](https://img.shields.io/static/v1?style=flat&label=Workshop&message=05&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop05) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![badge](https://img.shields.io/static/v1?style=flat&label=GitHub&message=05&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop05) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-dark table-striped table-bordered" >}}
  Slides | Book | Script* | Wiki** 
@@ -64,11 +64,11 @@ This workshop focuses on basic programming in R. In this workshop, you will lear
 
 ----
 
-### Contributors 
+### Contributions
 
-This workshop was originally developed by Johanna Bradie, Sylvain Christin, Ben Haller, and Guillaume Larocque.
+Cet atelier a été développé à l'origine par Johanna Bradie, Sylvain Christin, Ben Haller, and Guillaume Larocque.
 
-Since 2014, several QCBS members contributed to consistently and collaboratively develop and update this workshop, as part of the *Learning and Development Award* from the Québec Centre for Biodiversity Science. They were:
+Depuis 2014, plusieurs membres du CSBQ ont contribué à développer et à mettre à jour cet atelier collaborativement sur une base régulière, dans le cadre du *Prix d'apprentissage et de développement* du Centre de science de la biodiversité du Québec. Ces membres sont:
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 

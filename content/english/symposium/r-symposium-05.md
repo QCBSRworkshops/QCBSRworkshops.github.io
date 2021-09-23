@@ -18,7 +18,7 @@ title: You are probably more Bayesian than you think
 
 ## The Bayesian Biologist: You are probably more Bayesian than you think
 
-Natural systems are complex and understanding them is a challenging task. In recent years, there has been an explosion in the amount of data that were gathered and made available that can potentially increase our knowledge of why and how species distribute as they do. It is now possible to obtain highly precise environmental and habitat characteristics for large areas of the world, traits are now available for a wealth of species and it is now possible to obtain high quality phylogenies for large groups of species. But how can we link these data together to better understand and predict the distribution of multiple species in a single model? In recent years, joint species distribution models (JSDMs) have emerged as an attractive way to approach such question. In this workshop, I will show you how to construct JSDMs using Bayesian hierarchical models. I will also briefly discuss the concept behind hierarchical models and how they can be used in a community ecology context.
+Jump with us into the world of probabilities with a workshop on Bayesian inference. We are going to explore this statistical framework with simple and meaningful examples for biologists. We plan to guide you through some theory, history, applications, and get your hands dirty with some code. At the end of the workshop, you’ll be convinced that Bayesian statistics are a super powerful framework to interpret the world, and get a taste of the ways you might implement them in your own research. 
 
 ### Workshop material
 

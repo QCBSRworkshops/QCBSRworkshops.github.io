@@ -1,7 +1,7 @@
 ---
 bg_image: images/feature-bg.jpg
-category: ["GLM", "Linear Models","Generalized Linear Models"]
-description: Let us allow our response variable to be have non-normal errors
+category: ["GLM", "Modèles linéaires", "Modèles linéaires généralisés"]
+description: Permettons à notre variable de réponse d'avoir des erreurs non Normales.
 draft: false
 image: images/workshops/forest1.png
 information:
@@ -13,62 +13,59 @@ information:
   label: Next instruction date
 - info: Batman
   label: Next instructor
-title: WK-06 - Generalized linear models
+title: AT-06 - Modèles linéaires généralisés
 ---
 <div class="btn-group" role="group" aria-label="...">
   <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-05/" button type="button" class="btn btn-default"><</button></a>
   <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-07/"button type="button" class="btn btn-default">></button></a>
 
-  <div class="btn-group" role="group">
+<div class="btn-group" role="group">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      All workshops
+      Tous les ateliers
       <span class="caret"></span>
     </button>
     <ul class="dropdown-menu">
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-01/">WK 1: Intro to R</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-02/">WK 2: Data manipulation</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-03/">WK 3: Data visualisation</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-04/">WK 4: Linear models</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-05/">WK 5: Programming</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-01/">WK 1: Intro à R</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-02/">WK 2: Manipulation de données</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-03/">WK 3: Visualisation de données</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-04/">WK 4: Modèles linéaires</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-05/">WK 5: Programmation</a></li>
       <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-06/">WK 6: GLMs</a></li>
       <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-07/">WK 7: LMMs</a></li>
       <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-08/">WK 8: GAMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-09/">WK 9: Multivariate</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-10/">WK 10: Advanced multivariate</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-09/">WK 9: Analyses multivariés</a></li>
+      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-10/">WK 10: Analyses multivariés avancés</a></li>
     </ul>
   </div>
 </div>
 
-## Workshop 6: Generalized linear models in `R`
+## Atelier 6: Modèles linéaires généralisés
 
-A significant limitation of linear models is that they cannot accommodate response variables that do not have a normal error distribution. Most biological data do not follow the assumption of normality. 
-
-In this workshop, you will learn how to use generalized linear models, which are important tools to overcome the distributional assumptions of linear models. 
-
-You will learn the major distributions used depending on the nature of the response variables, the concept of the link function, and how to verify assumptions of such models.
+Les modèles linéaires généralisés sont des outils importants afin de surmonter un problème récurrent des modèles linéaires, c.-à-d. les variables réponses n'ayant pas une distribution normale des résidus. Dans cet atelier, vous apprendrez les distributions principales en fonction de la nature de la variable réponse, le concept de fonction de lien, et comment vérifier les suppositions de base de ces modèles.
 
 ----
 
-### Material
+### Matériel
 
-[![badge](https://img.shields.io/static/v1?style=flat&label=Workshop&message=06&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop06) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![badge](https://img.shields.io/static/v1?style=flat&label=GitHub&message=06&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop06) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-dark table-striped table-bordered" >}}
- Slides | Book | Script 
+Présentation | Livre | Script 
 :-------:|:-----:|:-----:
 <a href="https://qcbsrworkshops.github.io/workshop06/pres-en/workshop06-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop06/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop06/book-en/workshop06-script-en.R" button type="button" class="btn btn-default">English</button></a> | 
 <a href="https://qcbsrworkshops.github.io/workshop06/pres-fr/workshop06-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop06/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop06/book-fr/workshop06-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
 {{< /bootstrap-table >}}
 
-Archived written material is available on our wiki (<a href="https://wiki.qcbs.ca/r_workshop7">**EN**</a>, <a href="https://wiki.qcbs.ca/r_atelier7">**FR**</a>).
+> Note : Le wiki de cet atelier a été converti en Bookdown en février 2021. <br>
+> Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop7), [FR](https://wiki.qcbs.ca/r_atelier7)).
 
 ----
 
-### Contributors 
+### Contributions
 
-This workshop was originally developed by Cédric Frenette Dussault, Vincent Fugère, Thomas Lamy, and Zofia Taranu.
+Cet atelier a été développé à l'origine par Cédric Frenette Dussault, Vincent Fugère, Thomas Lamy, and Zofia Taranu.
 
-Since 2014, several QCBS members contributed to consistently and collaboratively develop and update this workshop, as part of the *Learning and Development Award* from the Québec Centre for Biodiversity Science. They were:
+Depuis 2014, plusieurs membres du CSBQ ont contribué à développer et à mettre à jour cet atelier collaborativement sur une base régulière, dans le cadre du *Prix d'apprentissage et de développement* du Centre de science de la biodiversité du Québec. Ces membres sont:
 
 {{< bootstrap-table "table table-dark table-striped table-bordered" >}}
 

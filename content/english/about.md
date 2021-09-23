@@ -2,7 +2,7 @@
 about:
   button:
     enable: false
-    label: About the Workshop Series
+    label: The QCBS R Workshop Series
     link: '#'
   content: |-
     The QCBS R Workshop Series is graduate student and post-doctoral fellow initiative from the Québec Centre for Biodiversity Science. We organize, develop and instruct R workshops in English and in French to other graduate students and early-career researchers every year to help them navigate statistics for research in ecology, evolution and biodiversity science.
@@ -48,7 +48,7 @@ features:
   - content: McGill University<br>(2020 - current)<br>linley.sherin@mail.mcgill.ca
     icon: ion-happy-outline
     name: Linley Sherin
-  title: Current Coordination Team
+  title: Coordination Team
 layout: about
 menu:
   main:
@@ -67,5 +67,5 @@ mission_vision:
     name: Who we are
 testimonial:
   enable: true
-title: About the QCBS R Workshop series
+title: The QCBS R Workshop series
 ---

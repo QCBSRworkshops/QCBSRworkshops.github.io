@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-description: this is meta description
+description: 
 draft: false
 lastmod: 2021-05-11T14:06:46 #do (Sys.Date(), "T", format(Sys.time(), "%H:%M:%S"))
 layout: faq

@@ -52,15 +52,14 @@ We will show you how `R` can act as a calculator, teach you about the various ty
 [![badge](https://img.shields.io/static/v1?style=flat&label=Workshop&message=01&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop01) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
- Slides | Book* | Script* | Wiki**
+ Slides | Book | Script | 
 :-------:|:-----:|:-----:|:------:
-<a href="https://qcbsrworkshops.github.io/workshop01/pres-en/workshop01-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-en/workshop01-script-en.R" button type="button" class="btn btn-default">English</button></a> | <a href="https://wiki.qcbs.ca/r_workshop1" button type="button" class="btn btn-default">English</button></a> |
-<a href="https://qcbsrworkshops.github.io/workshop01/pres-fr/workshop01-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-fr/workshop01-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | <a href="https://wiki.qcbs.ca/r_atelier1" button type="button" class="btn btn-default">Français</button></a> |
+<a href="https://qcbsrworkshops.github.io/workshop01/pres-en/workshop01-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-en/workshop01-script-en.R" button type="button" class="btn btn-default">English</button></a> | 
+<a href="https://qcbsrworkshops.github.io/workshop01/pres-fr/workshop01-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-fr/workshop01-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
 {{< /bootstrap-table >}}
 
-> **Thank you for your patience as we make the following changes:**
-> \* *The script and book for this workshop are under construction.* <br>
-> \*\* *The wiki for this workshop is deprecated, and will be replaced by the book.*
+> Note: The wiki for this workshop was converted to Bookdown in September 2021. <br>
+> The wiki pages for this workshop will no longer be updated (Archive: [EN](https://wiki.qcbs.ca/r_workshop1), [FR](https://wiki.qcbs.ca/r_atelier1)).
 
 ----
 
@@ -83,7 +82,5 @@ Since 2014, several QCBS members contributed to consistently and collaboratively
 |   Marie-Hélène Brice     |                             |                              |
 
 {{< /bootstrap-table >}}
-
-*Note: The contributor table is under construction.*
 
 ----
