@@ -23,6 +23,9 @@ about:
   - count: "12"
     icon: ion-ios-chatboxes-outline
     name: Coordinators
+  - count: "10"
+    icon: ion-ios-flask-outline
+    name: R Workshops
   image: images/about.png
   title: QCBS R Workshop Series
 bg_image: images/feature-bg.jpg

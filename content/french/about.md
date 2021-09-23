@@ -23,6 +23,9 @@ about:
   - count: "12"
     icon: ion-ios-chatboxes-outline
     name: Coordinateurs et coordinatrices
+  - count: "10"
+    icon: ion-ios-flask-outline
+    name: Ateliers R
   image: images/about.png
   title: Série d'ateliers R du CSBQ
 bg_image: images/feature-bg.jpg
