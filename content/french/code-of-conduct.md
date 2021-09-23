@@ -1,12 +1,12 @@
 ---
 bg_image: images/feature-bg.jpg
-description: this is meta description
+description: 
 draft: false
 lastmod: 2021-09-21
 layout: faq
 menu:
   main:
-    name: code-de-conduite
+    name: Code de conduite
     parent: Plus
     weight: 3
 subtitle: Toutes les personnes qui participent et contribuent à la série d'ateliers R du CSBQ acceptent ce code de conduite.
