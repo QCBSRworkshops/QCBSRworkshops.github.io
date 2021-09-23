@@ -28,18 +28,18 @@ funfacts:
   description: Nous sommes des étudiant(e)s des cycles supérieurs et des postdoctorant(e)s du Centre québécois des sciences de la biodiversité. Nous développons et instruisons des ateliers sur un large répertoire de méthodes statistiques et computationelles pour aider d'autres chercheurs et chercheuses en début de carrière à réaliser leurs analyses en écologie, évolution et science de la biodiversité.
   enable: true
   funfact_item:
-  - count: "70"
+  - count: "3382"
     icon: ion-ios-chatboxes-outline
-    name: Ateliers instruits
-  - count: "700"
+    name: Inscriptions
+  - count: "646"
     icon: ion-ios-glasses-outline
     name: Participants
-  - count: "100"
+  - count: "95"
     icon: ion-ios-compose-outline
-    name: Contributeurs et contributrices
-  - count: "70"
-    icon: ion-ios-timer-outline
     name: Instructeurs et instructrices
+  - count: "51"
+    icon: ion-ios-timer-outline
+    name: Contributeurs et contributrices
   testimonial_slider:
   - content: I love the QCBS courses and am so grateful that it is available online for free. It's exactly what I need for my Master's research and I have not been able to find any other resources that are so helpful, clear, and applicable to ecological research.
     designation: Étudiant(e) des cycles supérieurs du CSBQ

@@ -28,18 +28,18 @@ funfacts:
   description: We are graduate students and post-doctoral fellows from the Québec Centre for Biodiversity Science. We develop and instruct workshops on a wide-array of statistical and computational methods to help other fellow early-career researchers from the network to navigate their analyses in ecology, evolution and biodiversity science.
   enable: true
   funfact_item:
-  - count: "70"
+  - count: "3382"
     icon: ion-ios-chatboxes-outline
-    name: Workshops Instructed
-  - count: "700"
+    name: Registrations
+  - count: "646"
     icon: ion-ios-glasses-outline
     name: Participants
-  - count: "100"
+  - count: "95"
     icon: ion-ios-compose-outline
-    name: Contributors
-  - count: "70"
+    name: Instructors
+  - count: "51"
     icon: ion-ios-timer-outline
-    name: Presenters
+    name: Contributors
   testimonial_slider:
   - content: I love the QCBS courses and am so grateful that it is available online for free. It's exactly what I need for my Master's research and I have not been able to find any other resources that are so helpful, clear, and applicable to ecological research.
     designation: QCBS Graduate Student
