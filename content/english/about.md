@@ -8,18 +8,12 @@ about:
     The QCBS R Workshop Series is graduate student and post-doctoral fellow initiative from the Québec Centre for Biodiversity Science. We organize, develop and instruct R workshops in English and in French to other graduate students and early-career researchers every year to help them navigate statistics for research in ecology, evolution and biodiversity science.
   enable: true
   funfacts:
-  - count: "10"
-    icon: ion-ios-flask-outline
-    name: R Workshops
-  - count: "13"
-    icon: ion-ios-flask-outline
-    name: R Symposium Workshops    
-  - count: "646"
-    icon: ion-ios-body-outline
-    name: Participants
   - count: "3382"
     icon: ion-ios-body-outline
     name: Registrations
+  - count: "646"
+    icon: ion-ios-body-outline
+    name: Participants
   - count: "95"
     icon: ion-ios-body-outline
     name: Presenters
