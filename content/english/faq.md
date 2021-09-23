@@ -13,6 +13,8 @@ subtitle:
 title: Frequently Asked Questions
 ---
 
+> *Please note that some questions and answers are not yet finalised by the coordination team. Thank you for your patience.*
+
 ## About the workshops
 
 **Do I need to know `R` before coming to a workshop?**
@@ -27,7 +29,7 @@ In terms of structure, workshops typically run for three hours, split into two h
 
 **I can't make it to a workshop I'm interested in. Are the workshops recorded?**
 
-The R Workshops are not recorded. However, the slides, script, and books that accompany each workshop are open and free to access in both English and French. You can find links to the materials of each workshop by accessing the <a href = "https://qcbsrworkshops.github.io/project/">workshops page</a>, or by navigating to the workshop's repository on our <a href = "https://github.com/QCBSRworkshops">GitHub</a>. 
+The R Workshops are not recorded. However, the slides, script, and books that accompany each workshop are open and free to access in both English and French. You can find links to the materials of each workshop by accessing the <a href = "https://qcbsrworkshops.github.io/workshops/">workshops page</a>, or by navigating to the workshop's repository on our <a href = "https://github.com/QCBSRworkshops">GitHub</a>. 
 
 ## Schedule & Registration
 
@@ -42,7 +44,7 @@ Yes, you can register for a workshop if you are not a QCBS member. You can find 
 
 **I registered for a workshop, but did not receive a link for the Zoom meeting. How can I access the workshop?**
 
-You will receive a link for the Zoom meeting within the week for the workshop. Make sure to look into the Spam folder of your email provider. If you have not received a link before three days prior to your workshop, send a message to [the presenter responsible for the workshop](includelink) you are attending.  
+You will receive a link for the Zoom meeting within the week for the workshop. Make sure to look into the Spam folder of your email provider. If you have not received a link before three days prior to your workshop, send a message to the presenter responsible for the workshop you are attending.  
 
 
 ## Cancellation

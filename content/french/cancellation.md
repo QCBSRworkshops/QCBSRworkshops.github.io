@@ -7,7 +7,7 @@ layout: faq
 menu:
   main:
     name: Annulation
-    parent: More
+    parent: Plus
     weight: 2
 subtitle: 
 title: Annulation & Remboursement
