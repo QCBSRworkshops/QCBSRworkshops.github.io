@@ -152,8 +152,6 @@ languages:
     languageName: Français
     menu:
       footer:
-    menu:
-      footer:
         - URL: workshops
           name: Ateliers R
           weight: 3
