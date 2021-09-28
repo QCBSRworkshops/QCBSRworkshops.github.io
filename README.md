@@ -22,15 +22,22 @@ This website presents information about the QCBS R Workshop Series, including:
 * `code-of-conduct` : Our full code of conduct, to which participants and contributors of the Series must agree to before participating in the QCBS R Workshop Series.
 * `contact` : Contact information for the QCBS R Workshop Series.
 
-These pages are stored in content/english/ or in content/french.
+To edit these pages, modify the file of your choice in `content/english/` or in `content/french`.
 
-## Set-up and building the website
+## Building the website
 
-To come!
+1. Set your working directory to the website repository folder, or simply open the R project `website.Rproj`.
+
+2. To serve the site locally in order to preview your changes, run `blogdown::serve_site()`.
+
+3. To build the site locally, run `blogdown::build_site()`. You must build the site before pushing any changes to this repository in order to ensure it is still buildable.
+
+4. To build the website through GitHub Pages, see the development workflow details below. 
+
 
 ## Development workflow
 
-To come!
+The website is built and deployed with the following GitHub Actions workflow: [`blogdown.yaml`](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/blob/main/.github/workflows/blogdown.yaml).
 
 ## Authors
 
