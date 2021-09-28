@@ -6,7 +6,6 @@ layout: contact
 menu:
   main:
     name: Contact
-    parent: Plus
-    weight: 3
+    weight: 7
 title: Avez-vous des questions?
 ---

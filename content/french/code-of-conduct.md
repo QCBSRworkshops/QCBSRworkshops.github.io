@@ -7,8 +7,8 @@ layout: faq
 menu:
   main:
     name: Code de conduite
-    parent: Plus
-    weight: 3
+    parent: À propos
+    weight: 2
 subtitle: Toutes les personnes qui participent et contribuent à la série d'ateliers R du CSBQ acceptent ce code de conduite.
 title: Code de conduite 
 ---

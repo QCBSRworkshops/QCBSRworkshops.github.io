@@ -4,7 +4,7 @@ description:
 draft: false
 menu:
   main:
-    name: Workshops
+    name: R Workshops
     weight: 3
 title: The R Workshop Series
 ---

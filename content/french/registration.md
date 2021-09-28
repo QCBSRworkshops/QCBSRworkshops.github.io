@@ -8,8 +8,8 @@ layout: pricing
 menu:
   main:
     name: Inscription
-    parent: 
-    weight: 4
+    parent: Inscrivez-vous
+    weight: 2
 pricing:
   enable: true
   pricing_table:

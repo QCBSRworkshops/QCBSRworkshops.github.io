@@ -5,7 +5,7 @@ draft: false
 menu:
   main:
     identifier: symposium
-    name: Symposium
+    name: R Symposium
     weight: 5
 title: QCBS R Symposium
 ---

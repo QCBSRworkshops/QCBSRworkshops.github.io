@@ -7,9 +7,9 @@ draft: false
 layout: pricing
 menu:
   main:
-    name: Registration
-    parent: 
-    weight: 4
+    name: Register
+    parent: Registration
+    weight: 2
 pricing:
   enable: true
   pricing_table:

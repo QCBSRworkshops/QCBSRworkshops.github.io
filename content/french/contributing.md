@@ -28,8 +28,8 @@ layout: service
 menu:
   main:
     name: Contributions
-    parent:
-    weight: 5
+    parent: À propos
+    weight: 3
 service:
   description: La série d'ateliers R du CSBQ offre de nombreuses opportunités d'apprentissage pour toute la communauté du CSBQ. Que vous soyez intéressé à développer vos capacités d'enseignement, à améliorer vos compétences techniques, ou à travailler en collaboration avec un large réseau étudiant(e)s des cycles supérieurs et des postdoctorant(e)s du CSBQ, il y a <b>toujours</b> de la place pour vos contributions. <br><br><b>Le CSBQ offre des <a href = "https://qcbs.ca/fr/bourses/prix-dapprentissage-et-de-developpement-pad/">Prix d'Apprentissage et de Développement (PAD)</a> pour soutenir étudiant(e)s des cycles supérieurs et des postdoctorant(e)s du CSBQ qui instruisent ou développent des ateliers.</b> Nous accueillons également les commentaires volontaires de la communauté pour garder les ateliers à jour et aussi utiles que possible!<br>
   enable: true

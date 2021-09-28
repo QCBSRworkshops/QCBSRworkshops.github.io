@@ -5,7 +5,7 @@ draft: false
 menu:
   main:
     identifier: symposium
-    name: Colloque
+    name: Colloque R
     weight: 5
 title: Colloque R du CSBQ
 ---

@@ -4,7 +4,7 @@ description:
 draft: false
 menu:
   main:
-    name: Ateliers
+    name: Ateliers R
     weight: 3
 title: Série d'ateliers R
 ---

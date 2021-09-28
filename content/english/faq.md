@@ -7,8 +7,8 @@ layout: faq
 menu:
   main:
     name: FAQ
-    parent: More
-    weight: 2
+    parent: About
+    weight: 4
 subtitle: 
 title: Frequently Asked Questions
 ---

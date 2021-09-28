@@ -6,9 +6,9 @@ lastmod: 2021-09-21
 layout: faq
 menu:
   main:
-    name: Annulation
-    parent: Plus
-    weight: 2
+    name: Politique d'annulation
+    parent: Inscription
+    weight: 3
 subtitle: 
 title: Annulation & Remboursement
 ---

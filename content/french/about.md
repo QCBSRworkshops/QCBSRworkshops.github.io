@@ -52,8 +52,9 @@ features:
 layout: about
 menu:
   main:
-    name: About
-    weight: 2
+    name: La série d'ateliers R
+    parent: À propos
+    weight: 1
 mission_vision:
   enable: true
   tabs:

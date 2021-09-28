@@ -52,8 +52,9 @@ features:
 layout: about
 menu:
   main:
-    name: About
-    weight: 2
+    name: The QCBS R Series
+    parent: About
+    weight: 1    
 mission_vision:
   enable: true
   tabs:

@@ -7,8 +7,8 @@ layout: faq
 menu:
   main:
     name: Code of conduct
-    parent: More
-    weight: 3
+    parent: About
+    weight: 2
 subtitle: All participants and contributors of the QCBS R Workshop Series accept this code of conduct.
 title: Code of conduct
 ---

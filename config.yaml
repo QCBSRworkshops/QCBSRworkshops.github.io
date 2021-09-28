@@ -124,34 +124,25 @@ languages:
     languageName: English
     menu:
       footer:
-        - URL: about
-          name: About
-          weight: 1
         - URL: workshops
-          name: Workshops
-          weight: 2
+          name: R Workshops
+          weight: 3
         - URL: symposium
           name: R Symposium
-          weight: 3
-        - URL: contributing
-          name: Contribute
           weight: 4
-        - URL: registration
-          name: Registration
-          weight: 5
-        - URL: faq
-          name: FAQ
+        - URL: news
+          name: News
           weight: 6
-        - URL: cancellation
-          name: Cancellation
-          weight: 7
         - URL: contact
           name: Contact
-          weight: 8
+          weight: 7
       main:
         - hasChildren: yes
-          name: More
-          weight: 6
+          name: About
+          weight: 2
+        - hasChildren: yes
+          name: Registration
+          weight: 5
     weight: 1
   fr:
     contentDir: content/french
@@ -161,33 +152,26 @@ languages:
     languageName: Français
     menu:
       footer:
-        - URL: about
-          name: À propos
-          weight: 1
+    menu:
+      footer:
         - URL: workshops
-          name: Ateliers
-          weight: 2
+          name: Ateliers R
+          weight: 3
         - URL: symposium
           name: Colloque R
-          weight: 3
-        - URL: contributing
-          name: Contribuer
           weight: 4
-        - URL: registration
-          name: Inscription
-          weight: 5
-        - URL: faq
-          name: Questions fréquentes
+        - URL: news
+          name: Nouvelles
           weight: 6
-        - URL: cancellation
-          name: Annulation
-          weight: 7
         - URL: contact
           name: Contact
-          weight: 8
+          weight: 7
       main:
         - hasChildren: yes
-          name: Plus
+          name: À propos
+          weight: 2
+        - hasChildren: yes
+          name: Inscription
           weight: 5
     weight: 2
   it:

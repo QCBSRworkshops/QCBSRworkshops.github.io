@@ -6,9 +6,9 @@ lastmod: 2021-09-21
 layout: faq
 menu:
   main:
-    name: Cancellation
-    parent: More
-    weight: 2
+    name: Cancellation policy
+    parent: Registration
+    weight: 3
 subtitle: 
 title: Cancellation & Reimbursement Policy
 ---
