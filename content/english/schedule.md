@@ -74,3 +74,11 @@ Any changes will be automatically synced with your Google Calendar.
 </div>
 
 {{< fullcalendar_gcal >}}
+
+## Health safety measures
+
+In keeping with recommendations from both local and national health authorities and universities, the QCBS R Workshop Series has decided to suspend all in person activities requiring the gathering of participants and instructors.
+
+We understand that the QCBS R Workshop Series and its related activities are a valuable resource to the many graduate students, post-doctoral researchers and other research professionals that participate in the series.
+
+Therefore, all R workshops will be conducted remotely for both the Fall 2021 and Winter 2022 semesters.
