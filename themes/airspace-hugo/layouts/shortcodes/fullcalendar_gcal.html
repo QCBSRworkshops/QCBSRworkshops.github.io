@@ -1,0 +1,50 @@
+<script src='//cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js'></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/gcal.min.js"></script>
+<link href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.min.css" rel="stylesheet" type="text/css">
+<link href="//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.4.0/fullcalendar.print.css" rel="stylesheet" type="text/css" media='print'>
+<script>
+
+// This code is taken from the demo code at fullcalendar.js
+
+$(document).ready(function() {
+
+$('#calendar').fullCalendar( {
+
+  header: {
+    left: 'prev,next today',
+    center: 'title',
+    right: 'month,listYear'
+  },
+
+  displayEventTime: false, // do not show the time column in list view
+
+  googleCalendarApiKey: 'e8f13ac14f359078f4ef27689187d933e86a9856',
+  eventSources: [
+    {
+// QCBS R Workshop Series Events
+      googleCalendarId: '5qdl2s8t2jet1ktoohii3tpato@group.calendar.google.com'
+    },
+    {
+// QCBS R Workshop Series Events
+      googleCalendarId: 'cgchpi0dg31h679mt4tkrp3638@group.calendar.google.com',
+      className: 'nice-event'
+    }
+  ],
+
+  eventClick: function(event) {
+    // opens events in a popup window
+    window.open(event.url, 'gcalevent', 'width=700, height=600');
+    return false;
+  },
+
+  loading: function(bool) {
+    $('#loading').toggle(bool);
+  }
+
+});
+
+});
+</script>
+
+<div id="calendar"></div>
