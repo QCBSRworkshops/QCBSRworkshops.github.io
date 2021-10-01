@@ -1,5 +1,5 @@
 ---
-bg_image: images/feature-bg.jpg
+bg_image: images/emile-perron-xrVDYZRGdw4-unsplash.jpeg
 description: Workshop schedule announcements, contribution opportunities, and more
 draft: false
 menu:

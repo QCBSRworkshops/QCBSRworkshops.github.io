@@ -1,5 +1,5 @@
 ---
-bg_image: images/feature-bg.jpg
+bg_image: images/emile-perron-xrVDYZRGdw4-unsplash.jpeg
 description: Annonces du calendrier des ateliers, opportunités de contribution, etc.
 draft: false
 menu:
