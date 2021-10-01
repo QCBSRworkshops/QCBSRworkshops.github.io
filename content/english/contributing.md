@@ -4,7 +4,7 @@ about:
   enable: true
   image: images/teaching.png
   title: Learning & development
-bg_image: images/sigmund-YUuSAJkS3U4-unsplash.jpeg
+bg_image: images/feature-bg.jpg
 cta:
   enable: true
 description: How to get involved in the QCBS R Workshop Series

@@ -4,7 +4,7 @@ about:
   enable: true
   image: images/teaching.png
   title: Apprentissage & développement
-bg_image: images/sigmund-YUuSAJkS3U4-unsplash.jpeg
+bg_image: images/feature-bg.jpg
 cta:
   enable: true
   description: Comment s'impliquer dans la série d'ateliers R du CSBQ
