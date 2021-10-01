@@ -2,9 +2,9 @@
 about:
   content: The QCBS R Workshop Series provides a venue for graduate students and postdoctoral fellows to improve their teaching and learning abilities through the instruction and the development of statistical and programming workshops. We immensely value the contributions provided to the series, and we rely on the QCBS community's engagement to constantly improve our workshops. To encourage community contributions, we keep our workshops openly accessible, reproducible, and encourage collaboration between contributors. <br><br><b>The QCBS offers <a href = "https://qcbs.ca/student-grants/learning-development-award-leada">Learning and Development Awards (LeaDA)</a> to support graduates student and post-doctoral QCBS members who instruct or develop workshops.</b> We also welcome voluntary community feedback to keep the workshops up to date and as helpful as possible!
   enable: true
-  image: images/sigmund-YUuSAJkS3U4-unsplash.jpeg
+  image: images/teaching.png
   title: Learning & development
-bg_image: images/feature-bg.jpg
+bg_image: images/sigmund-YUuSAJkS3U4-unsplash.jpeg
 cta:
   enable: true
 description: How to get involved in the QCBS R Workshop Series

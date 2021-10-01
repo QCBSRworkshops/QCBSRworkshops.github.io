@@ -1,5 +1,5 @@
 ---
-bg_image: images/feature-bg.jpg
+bg_image: images/sigmund-YUuSAJkS3U4-unsplash.jpeg
 description: 
 draft: false
 lastmod: 2021-09-21

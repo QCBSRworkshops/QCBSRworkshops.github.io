@@ -6,7 +6,7 @@ about:
   image: images/canva-R.png
   title: À propos de la Série d'Ateliers R
 banner:
-  bg_image: images/leon-vbxyFxlgpjM-unsplash.jpg
+  bg_image: images/homebanner.jpeg
   bg_overlay: true
   button:
     enable: true
@@ -63,14 +63,14 @@ menu:
     name: Home
     weight: 1
 portfolio:
-  bg_image: images/freddie-marriage-vSchPA-YA_A-unsplash.jpeg
+  bg_image: images/fakurian-design-UqP7U400AZs-unsplash.jpeg
   button:
     enable: true
-    label: Plus sur les inscriptions
+    label:  COMMENT S'INSCRIRE
     link: registration
   content: "Apprendre R peut être un défi, même pour les chercheurs et chercheuses les plus compétent(e)s. Lorsque vous ajoutez des analyses statistiques à tout ça, il est facile de se sentir débordé. La série d'ateliers R du CSBQ est là pour aider la communauté du CSBQ (et au-delà!) à se familiariser avec R, les stratégies de programmation, et les librairies R les plus populaires afin que vous puissiez commencer à gérer vos données, à les visualiser et à effectuer les analyses statistiques dont vous avez besoin pour répondre aux questions de recherche qui vous intéressent."
   enable: true
-  title: R EST POUR TOUS
+  title: R EST POUR TOUT LE MONDE
 service:
   enable: true
 ---

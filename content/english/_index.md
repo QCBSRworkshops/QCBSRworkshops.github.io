@@ -6,7 +6,7 @@ about:
   image: images/canva-R.png
   title: About The R Workshop Series
 banner:
-  bg_image: images/leon-vbxyFxlgpjM-unsplash.jpg
+  bg_image: images/homebanner.jpeg
   bg_overlay: true
   button:
     enable: true
@@ -63,10 +63,10 @@ menu:
     name: Home
     weight: 1
 portfolio:
-  bg_image: images/freddie-marriage-vSchPA-YA_A-unsplash.jpeg
+  bg_image: images/fakurian-design-UqP7U400AZs-unsplash.jpeg
   button:
     enable: true
-    label: About Registration
+    label: ABOUT REGISTRATION
     link: registration
   content: "Learning R can be challenging, even for the most experienced researchers. When you add statistical analyses to the mix, it's easy to get overwhelmed. The QCBS R Workshop Series is here to help the QCBS community (and beyond!) get familiarized with R, programming strategies, and popular R packages so you can get started with the data management, visualizations, and statistical analyses you need to answer the research questions you're interested in."
   enable: true

@@ -28,7 +28,7 @@ about:
     name: Ateliers R
   image: images/about.png
   title: Série d'ateliers R du CSBQ
-bg_image: images/feature-bg.jpg
+bg_image: images/sigmund-YUuSAJkS3U4-unsplash.jpeg
 cta:
   enable: true
 description:

@@ -2,9 +2,9 @@
 about:
   content: La série d'ateliers R du CSBQ offre l'occasion étudiant(e)s des cycles supérieurs et des postdoctorant(e)s du CSBQ d'améliorer leurs capacités d'enseignement et d'apprentissage par la présentation et le développement d'ateliers de statistique et de programmation. Nous apprécions énormément les contributions apportées à la série, et nous comptons sur l'engagement de la communauté du CSBQ pour améliorer constamment nos ateliers. Pour encourager les contributions de la communauté, nous gardons nos ateliers en libre accès, reproductibles, et encourageons la collaboration entre les contributeurs et contributrices. <br><br><b>Le CSBQ offre des <a href = "https://qcbs.ca/fr/bourses/prix-dapprentissage-et-de-developpement-pad/">Prix d'Apprentissage et de Développement (PAD)</a> pour soutenir étudiant(e)s des cycles supérieurs et des postdoctorant(e)s du CSBQ qui instruisent ou développent des ateliers.</b> Nous accueillons également les commentaires volontaires de la communauté pour garder les ateliers à jour et aussi utiles que possible!
   enable: true
-  image: images/sigmund-YUuSAJkS3U4-unsplash.jpeg
+  image: images/teaching.png
   title: Apprentissage & développement
-bg_image: images/feature-bg.jpg
+bg_image: images/sigmund-YUuSAJkS3U4-unsplash.jpeg
 cta:
   enable: true
   description: Comment s'impliquer dans la série d'ateliers R du CSBQ
