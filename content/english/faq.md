@@ -82,11 +82,11 @@ If you have specific feedback about the presentation slides or the book content 
 
 Thank you for your interest in contributing to the workshop series! 
 
-We regularly send messages and make Facebook and twitter posts inviting developers to think critically and apply improvements to the workshop. To make sure we will keep you on the loop, you can begin by filling this questionnaire about which workshops(s) you would like to contribute. All invited contributors to the series are eligible to receive a Learning and Development Award!
+We regularly send messages and make Facebook and Twitter posts inviting developers to think critically and apply improvements to the workshop. To make sure we will keep you on the loop, you can begin by filling out the questionnaires included in our emails and social media posts about which workshops(s) you would like to contribute. All invited contributors to the series are eligible to receive a Learning and Development Award!
 
 **How can I sign up to instruct a workshop for the QCBS R Workshop Series?**
 
-Workshops are currently instructed during the Fall and during the Winter. We regurlaly send messages and make Facebook and twitter posts inviting QCBS members to instruct one or more workshops for the R Workshop Series. If you are an active member of the QCBS, you will receive a message around September and October for the Fall workshops, and around December and January for the Winter workshops. Stay tuned! All instructors for the QCBS R Workshop Series are eligible to receive a Learning and Development Award from the QCBS.
+Workshops are currently instructed during the Fall and during the Winter. We regurlaly send messages and make Facebook and Twitter posts inviting QCBS members to instruct one or more workshops for the R Workshop Series. If you are an active member of the QCBS, you will receive a message around September and October for the Fall workshops, and around December and January for the Winter workshops. Stay tuned! All instructors for the QCBS R Workshop Series are eligible to receive a Learning and Development Award from the QCBS.
 
 **I instructed or developed content for the QCBS R Workshop Series, but have not yet received my Learning and Development Award (LeaDA). What should I do?**
 
@@ -94,4 +94,4 @@ LeaDA are processed according to several steps outlined in our [Presenter and De
 
 **Who can I contact if I have suggestions, concerns, or more questions?**
 
-Please, tell us about your concerns, suggestions and other questions by clicking on [this link](mailto:ph.pereirabraga@gmail.com,katherine.hebert@usherbrooke.ca,esteban.gongora@mail.mcgill.ca,linley.sherin@mail.mcgill.ca) to send a message to all the coordinators of the QCBS R Workshop Series.
+Please, tell us about your concerns, suggestions and other questions by clicking on [this link](mailto:ph.pereirabraga@gmail.com; katherine.hebert@usherbrooke.ca; esteban.gongora@mail.mcgill.ca; linley.sherin@mail.mcgill.ca) to send a message to all the coordinators of the QCBS R Workshop Series.
