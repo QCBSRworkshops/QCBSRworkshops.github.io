@@ -13,8 +13,6 @@ subtitle:
 title: Frequently Asked Questions
 ---
 
-> *Please note that some questions and answers are not yet finalised by the coordination team. Thank you for your patience.*
-
 ## About the workshops
 
 **Do I need to know `R` before coming to a workshop?**
@@ -78,15 +76,15 @@ First, the lead instructor of the workshop will send a follow-up email about the
 
 If you have specific feedback about the presentation slides or the book content such as mistakes or inconsistencies, or if you would like to make any other suggestions about the workshop form or content, you are invited to [open an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) on the [GitHub](https://github.com/QCBSRworkshops) repository for the workshop in question. If you do not have a GitHub account, or are not comfortable with GitHub, please [contact](https://qcbsrworkshops.github.io/contact/) the workshop coordinators directly with your feedback.
 
-**How can I contribute in the development of workshops from the QCBS R Workshop Series?**
+**How can I contribute in the development of workshops for the QCBS R Workshop Series?**
 
 Thank you for your interest in contributing to the workshop series! 
 
-We regularly send messages and make Facebook and Twitter posts inviting developers to think critically and apply improvements to the workshop. To make sure we will keep you on the loop, you can begin by filling out the questionnaires included in our emails and social media posts about which workshops(s) you would like to contribute. All invited contributors to the series are eligible to receive a Learning and Development Award!
+We regularly send messages and make Facebook and Twitter posts inviting developers to think critically and apply improvements to the workshop. To make sure we will keep you on the loop, you can begin by filling out the [questionnaire](https://forms.gle/uKbreyjBJmX328AV9) included in our emails and social media posts about which workshops(s) you would like to contribute. All invited contributors to the series are eligible to receive a Learning and Development Award from the QCBS!
 
 **How can I sign up to instruct a workshop for the QCBS R Workshop Series?**
 
-Workshops are currently instructed during the Fall and during the Winter. We regurlaly send messages and make Facebook and Twitter posts inviting QCBS members to instruct one or more workshops for the R Workshop Series. If you are an active member of the QCBS, you will receive a message around September and October for the Fall workshops, and around December and January for the Winter workshops. Stay tuned! All instructors for the QCBS R Workshop Series are eligible to receive a Learning and Development Award from the QCBS.
+Workshops are currently instructed during the Fall and during the Winter. We regularly send messages and make Facebook and Twitter posts inviting QCBS members to instruct one or more workshops for the R Workshop Series. If you are an active member of the QCBS, you will receive a message around September and October for the Fall workshops, and around December and January for the Winter workshops. Stay tuned! All instructors for the QCBS R Workshop Series are eligible to receive a Learning and Development Award from the QCBS.
 
 **I instructed or developed content for the QCBS R Workshop Series, but have not yet received my Learning and Development Award (LeaDA). What should I do?**
 

@@ -13,8 +13,6 @@ subtitle:
 title: Foire aux questions
 ---
 
-> *Veuillez noter que les réponses aux questions ci-dessous ne sont pas tous finalisées par l'équipe de coordination. Merci de votre patience.*
-
 ## À propos des ateliers
 
 **Est-ce que je dois connaître `R` avant de venir à un atelier?**
@@ -80,17 +78,16 @@ Tout d'abord, l'instructeur ou l'instructrice principal(e) de l'atelier enverra 
 
 Si vous avez des commentaires spécifiques sur les présentations ou le contenu du livre, tels que des erreurs ou des incohérences, ou si vous souhaitez faire d'autres suggestions sur la forme ou le contenu de l'atelier, vous êtes invité à [ouvrir un numéro](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) sur le dépôt [GitHub](https://github.com/QCBSRworkshops) pour l'atelier en question. Si vous ne détenez pas de compte GitHub, ou si vous n'êtes pas à l'aise avec GitHub, veuillez [contacter](https://qcbsrworkshops.github.io/contact/) directement l'équipe de coordination des ateliers R pour nous faire part de vos commentaires.
 
-**Comment puis-je contribuer à la série d'ateliers `R` du CSBQ?**
+**Comment puis-je contribuer au développement d'ateliers pour la série d'ateliers `R` du CSBQ?**
 
-*REMPLIR*
+Merci de votre intérêt à contribuer à la série d'ateliers ! 
+
+Nous envoyons régulièrement des courriels et publions des messages sur Facebook et Twitter pour inviter les développeurs à faire preuve d'esprit critique pour améliorer les ateliers. Pour vous assurer que nous vous tiendrons au courant, vous pouvez commencer par remplir le [questionnaire](https://forms.gle/uKbreyjBJmX328AV9) inclus dans nos courriels et nos messages sur les médias sociaux concernant les ateliers auxquels vous souhaitez contribuer. Tous les contributeurs et contributrices invité(e)s à la série d'ateliers R sont éligibles pour recevoir un prix d'apprentissage et de développement du CSBQ!
 
 **Comment puis-je m'inscrire pour enseigner un atelier de la série d'ateliers R du CSBQ?**
 
-*REMPLIR*
+Les ateliers sont actuellement offerts à l'automne et à l'hiver. Nous envoyons régulièrement des messages et publions des messages sur Facebook et Twitter pour inviter les membres du CSBQ à enseigner un ou plusieurs ateliers de la série d'ateliers R. Si vous êtes un membre actif du CSBQ, vous recevrez un message vers septembre et octobre pour les ateliers d'automne, et vers décembre et janvier pour les ateliers d'hiver. Restez à l'écoute! Tous les instructeurs et instructrices de la série d'ateliers R du CSBQ sont éligibles pour recevoir une bourse d'apprentissage et de développement du CSBQ.
 
-**Comment puis-je m'inscrire pour développer le contenu d'un atelier pour la série d'ateliers R du CSBQ?**
-
-*REMPLIR*
 
 **J'ai enseigné ou développé du contenu pour la série d'ateliers R du CSBQ, mais je n'ai pas encore reçu mon Prix d'apprentissage et de développement (PAD, ou LeaDA en anglais) du CSBQ. Que devrais-je faire?**
 
@@ -98,4 +95,4 @@ Les Prix d'apprentissage et de développement du CSBQ sont traités selon plusie
 
 **Qui puis-je contacter si j'ai des suggestions, des plaintes ou d'autres questions?**
 
-*REMPLIR*
+Faites-nous part de vos commentaires, suggestions et autres questions en cliquant sur [ce lien](mailto:ph.pereirabraga@gmail.com; katherine.hebert@usherbrooke.ca; esteban.gongora@mail.mcgill.ca; linley.sherin@mail.mcgill.ca) pour envoyer un message à toute l'équipe de coordination de la série d'ateliers R du CSBQ.
