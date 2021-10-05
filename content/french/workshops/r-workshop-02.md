@@ -62,16 +62,15 @@ pour l'analyse et la visualisation de vos données.
 [![badge](https://img.shields.io/static/v1?style=flat&label=GitHub&message=02&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop02) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
- Présentation | Livre | Script* | Wiki**
-:-------:|:-----:|:-----:|:------:
-<a href="https://qcbsrworkshops.github.io/workshop02/pres-en/workshop02-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-en/workshop02-script-en.R" button type="button" class="btn btn-default">English</button></a> | <a href="https://wiki.qcbs.ca/r_workshop2" button type="button" class="btn btn-default">English</button></a> 
-<a href="https://qcbsrworkshops.github.io/workshop02/pres-fr/workshop02-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-fr/workshop02-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | <a href="https://wiki.qcbs.ca/r_atelier2" button type="button" class="btn btn-default">Français</button></a> | 
+ Présentation | Livre | Script 
+:-------:|:-----:|:-----:|
+<a href="https://qcbsrworkshops.github.io/workshop02/pres-en/workshop02-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-en/workshop02-script-en.R" button type="button" class="btn btn-default">English</button></a> | 
+<a href="https://qcbsrworkshops.github.io/workshop02/pres-fr/workshop02-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop02/book-fr/workshop02-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
 {{< /bootstrap-table >}}
 
 
-> **Merci de votre patience pendant que nous effectuons les changements suivants:**  
-> \* *Le script et le livre de cet atelier sont en cours de développement.* <br>
-> \*\* *Le wiki de cet atelier est obsolète et sera remplacé par le livre.*
+> Note : Le wiki de cet atelier a été converti en Bookdown en septembre 2021. <br>
+> Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop2), [FR](https://wiki.qcbs.ca/r_atelier2)). 
 
 ----
 
