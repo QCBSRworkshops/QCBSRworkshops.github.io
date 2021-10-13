@@ -4,7 +4,7 @@
 
 # Website for the QCBS R Workshop Series
 
-[![](https://img.shields.io/badge/site-under_construction-orange.svg?style=flat)](https://qcbsrworkshops.github.io/) [![website-deployment](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/actions/workflows/blogdown.yaml/badge.svg)](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/actions/workflows/blogdown.yaml) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![](https://img.shields.io/badge/url-r.qcbs.ca-blue.svg?style=flat)](https://qcbsrworkshops.github.io/) [![website-deployment](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/actions/workflows/blogdown.yaml/badge.svg)](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/actions/workflows/blogdown.yaml) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Organised by students, for the whole community, this series of 10 workshops walks participants through the steps required to use R for a wide array of statistical analyses relevant to research in biology and ecology. These open-access workshops were created and are continuously developed by members of the [Quebec Centre for Biodiversity Science (QCBS)](https://qcbs.ca/). This website presents the Series, its contents, and the students that contribute to this initiative.
 
