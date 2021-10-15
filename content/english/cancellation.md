@@ -17,7 +17,7 @@ title: Cancellation & Reimbursement Policy
 
 All cancellations notices and refund requests must be received by e-mail **at least 5 days before the workshop date**. Exceptions can be made for unpredictable circumstances. 
 
-**To cancel your registration,** notify the lead presenter of the workshop (listed on the schedule on the <a href = "https://wiki.qcbs.ca/r">wiki</a> page), and carbon-copy (CC) your message to Philippe Auzel (QCBS coordinator, <philippe.auzel@mcgill.ca>) and Helen Elina (QCBS administrative assistant, <helen.elina@mcgill.ca>).
+**To cancel your registration,** notify the lead presenter of the workshop (listed on the <a href = "https://r.qcbs.ca/schedule/">schedule</a> page), and carbon-copy (CC) your message to Philippe Auzel (QCBS coordinator, <philippe.auzel@mcgill.ca>) and Helen Elina (QCBS administrative assistant, <helen.elina@mcgill.ca>).
  
 ### If you are a QCBS member
 

@@ -41,7 +41,7 @@ features:
     name: Pedro Henrique P. Braga
   - content: McGill University<br>(2020 - current)<br>esteban.gongora@mail.mcgill.ca
     icon: ion-happy-outline
-    name: Esteban Gongora
+    name: Esteban Góngora
   - content: Université de Sherbrooke<br>(2020 - current)<br>katherine.hebert@usherbrooke.ca
     icon: ion-happy-outline
     name: Katherine Hébert

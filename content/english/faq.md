@@ -41,7 +41,7 @@ We will also announce the opening of registration for these workshops via the QC
 
 **Can I register for a workshop if I am not a QCBS member?**
 
-Yes, you can register for a workshop if you are not a QCBS member. You can find the registration cost for non-QCBS members on our **[registration page](https://qcbsrworkshops.github.io/pricing/)**.
+Yes, you can register for a workshop if you are not a QCBS member. You can find the registration cost for non-QCBS members on our **[registration page](https://r.qcbs.ca/registration/)**.
 
 
 **I registered for a workshop, but did not receive a link for the Zoom meeting. How can I access the workshop?**
@@ -76,7 +76,7 @@ There are several ways of giving feedback about a workshop you attended! We use 
 
 First, the lead instructor of the workshop will send a follow-up email about the workshop containing a link to a survey requesting your feedback. If you do not have this link, feel free to contact the lead presenter for the link. 
 
-If you have specific feedback about the presentation slides or the book content such as mistakes or inconsistencies, or if you would like to make any other suggestions about the workshop form or content, you are invited to [open an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) on the [GitHub](https://github.com/QCBSRworkshops) repository for the workshop in question. If you do not have a GitHub account, or are not comfortable with GitHub, please [contact](https://qcbsrworkshops.github.io/contact/) the workshop coordinators directly with your feedback.
+If you have specific feedback about the presentation slides or the book content such as mistakes or inconsistencies, or if you would like to make any other suggestions about the workshop form or content, you are invited to [open an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) on the [GitHub](https://github.com/QCBSRworkshops) repository for the workshop in question. If you do not have a GitHub account, or are not comfortable with GitHub, please [contact](https://r.qcbs.ca/contact/) the workshop coordinators directly with your feedback.
 
 **How can I contribute in the development of workshops from the QCBS R Workshop Series?**
 
@@ -94,4 +94,4 @@ LeaDA are processed according to several steps outlined in our [Presenter and De
 
 **Who can I contact if I have suggestions, concerns, or more questions?**
 
-Please, tell us about your concerns, suggestions and other questions by clicking on [this link](mailto:ph.pereirabraga@gmail.com; katherine.hebert@usherbrooke.ca; esteban.gongora@mail.mcgill.ca; linley.sherin@mail.mcgill.ca) to send a message to all the coordinators of the QCBS R Workshop Series.
+Please, tell us about your concerns, suggestions and other questions by clicking on [this link](mailto:ph.pereirabraga@gmail.com;katherine.hebert@usherbrooke.ca;esteban.gongora@mail.mcgill.ca;linley.sherin@mail.mcgill.ca) to send a message to all the coordinators of the QCBS R Workshop Series.
