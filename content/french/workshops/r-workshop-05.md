@@ -16,8 +16,8 @@ information:
 title: AT-05 - Programmation en R
 ---
 <div class="btn-group" role="group" aria-label="...">
-  <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-04/" button type="button" class="btn btn-default"><</button></a>
-  <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-06/"button type="button" class="btn btn-default">></button></a>
+  <a href="https://r.qcbs.ca/workshops/r-workshop-04/" button type="button" class="btn btn-default"><</button></a>
+  <a href="https://r.qcbs.ca/workshops/r-workshop-06/"button type="button" class="btn btn-default">></button></a>
 
 <div class="btn-group" role="group">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -25,16 +25,16 @@ title: AT-05 - Programmation en R
       <span class="caret"></span>
     </button>
     <ul class="dropdown-menu">
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-01/">WK 1: Intro à R</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-02/">WK 2: Manipulation de données</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-03/">WK 3: Visualisation de données</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-04/">WK 4: Modèles linéaires</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-05/">WK 5: Programmation</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-06/">WK 6: GLMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-07/">WK 7: LMMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-08/">WK 8: GAMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-09/">WK 9: Analyses multivariés</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-10/">WK 10: Analyses multivariés avancés</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-01/">WK 1: Intro à R</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-02/">WK 2: Manipulation de données</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-03/">WK 3: Visualisation de données</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-04/">WK 4: Modèles linéaires</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-05/">WK 5: Programmation</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-06/">WK 6: GLMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-07/">WK 7: LMMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-08/">WK 8: GAMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-09/">WK 9: Analyses multivariés</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-10/">WK 10: Analyses multivariés avancés</a></li>
     </ul>
   </div>
 </div>
@@ -51,16 +51,15 @@ Cet atelier vise à vous apprendre les bases de la programmation en R. Vous appr
 [![badge](https://img.shields.io/static/v1?style=flat&label=GitHub&message=05&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop05) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-dark table-striped table-bordered" >}}
- Slides | Book | Script* | Wiki** 
-:-------:|:-----:|:-----:|:------: 
-<a href="https://qcbsrworkshops.github.io/workshop05/pres-en/workshop05-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop05/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop05/book-en/workshop05-script-en.R" button type="button" class="btn btn-default">English</button></a> | <a href="https://wiki.qcbs.ca/r_workshop5" button type="button" class="btn btn-default">English</button></a> |
-<a href="https://qcbsrworkshops.github.io/workshop05/pres-fr/workshop05-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop05/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop05/book-fr/workshop05-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | <a href="https://wiki.qcbs.ca/r_atelier5" button type="button" class="btn btn-default">Français</button></a> |
+ Slides | Book | Script
+:-------:|:-----:|:-----:| 
+<a href="https://r.qcbs.ca/workshop05/pres-en/workshop05-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop05/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop05/book-en/workshop05-script-en.R" button type="button" class="btn btn-default">English</button></a> |
+<a href="https://r.qcbs.ca/workshop05/pres-fr/workshop05-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop05/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop05/book-fr/workshop05-script-fr.R" button type="button" class="btn btn-default">Français</button></a> |
 {{< /bootstrap-table >}}
 
 
-> **Thank you for your patience as we make the following changes:**  
-> \* *The script and book for this workshop are under construction.* <br>
-> \*\* *The wiki for this workshop is deprecated, and will be replaced by the book.*
+> Note : Le wiki de cet atelier a été converti en Bookdown en septembre 2021. <br>
+> Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop5), [FR](https://wiki.qcbs.ca/r_atelier5)). 
 
 ----
 

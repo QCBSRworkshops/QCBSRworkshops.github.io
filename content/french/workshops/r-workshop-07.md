@@ -16,8 +16,8 @@ information:
 title: AT-07 - Modèles linéaires et généralisés linéaires mixtes
 ---
 <div class="btn-group" role="group" aria-label="...">
-  <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-06/" button type="button" class="btn btn-default"><</button></a>
-  <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-08/"button type="button" class="btn btn-default">></button></a>
+  <a href="https://r.qcbs.ca/workshops/r-workshop-06/" button type="button" class="btn btn-default"><</button></a>
+  <a href="https://r.qcbs.ca/workshops/r-workshop-08/"button type="button" class="btn btn-default">></button></a>
 
 <div class="btn-group" role="group">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -25,16 +25,16 @@ title: AT-07 - Modèles linéaires et généralisés linéaires mixtes
       <span class="caret"></span>
     </button>
     <ul class="dropdown-menu">
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-01/">WK 1: Intro à R</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-02/">WK 2: Manipulation de données</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-03/">WK 3: Visualisation de données</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-04/">WK 4: Modèles linéaires</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-05/">WK 5: Programmation</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-06/">WK 6: GLMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-07/">WK 7: LMMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-08/">WK 8: GAMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-09/">WK 9: Analyses multivariés</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-10/">WK 10: Analyses multivariés avancés</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-01/">WK 1: Intro à R</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-02/">WK 2: Manipulation de données</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-03/">WK 3: Visualisation de données</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-04/">WK 4: Modèles linéaires</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-05/">WK 5: Programmation</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-06/">WK 6: GLMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-07/">WK 7: LMMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-08/">WK 8: GAMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-09/">WK 9: Analyses multivariés</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-10/">WK 10: Analyses multivariés avancés</a></li>
     </ul>
   </div>
 </div>
@@ -52,8 +52,8 @@ Les modèles à effets mixtes permettent aux écologistes de surmonter un certai
 {{< bootstrap-table "table table-striped table-bordered" >}}
  Présentation | Livre | Script 
 :-------:|:-----:|:-----:
-<a href="https://qcbsrworkshops.github.io/workshop07/pres-en/workshop07-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop07/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop07/book-en/workshop07-script-en.R" button type="button" class="btn btn-default">English</button></a> | 
-<a href="https://qcbsrworkshops.github.io/workshop07/pres-fr/workshop07-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop07/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop07/book-fr/workshop07-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
+<a href="https://r.qcbs.ca/workshop07/pres-en/workshop07-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop07/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop07/book-en/workshop07-script-en.R" button type="button" class="btn btn-default">English</button></a> | 
+<a href="https://r.qcbs.ca/workshop07/pres-fr/workshop07-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop07/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop07/book-fr/workshop07-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
 {{< /bootstrap-table >}}
 
 > Note : Le wiki de cet atelier a été converti en Bookdown en février 2021. <br>

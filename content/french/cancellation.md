@@ -17,7 +17,7 @@ title: Annulation & Remboursement
 
 Toutes les annulations et demandes de remboursement doivent être reçues par courriel **au moins 5 jours avant la date de l'atelier**. Des exceptions peuvent être faites pour des circonstances imprévisibles. 
 
-**Pour annuler votre inscription**, veuillez aviser l'instructeur ou l'instructrice principal(e) de l'atelier (indiqué dans l'horaire sur la page <a href = "https://wiki.qcbs.ca/r">wiki</a>), et copiez (CC) votre message à Philippe Auzel (coordinateur du CSBQ, <philippe.auzel@mcgill.ca>) et Helen Elina (assistante administrative du CSBQ, <helen.elina@mcgill.ca>).
+**Pour annuler votre inscription**, veuillez aviser l'instructeur ou l'instructrice principal(e) de l'atelier (indiqué sur <a href = "https://r.qcbs.ca/fr/schedule/">l'horaire</a>), et copiez (CC) votre message à Philippe Auzel (coordinateur du CSBQ, <philippe.auzel@mcgill.ca>) et Helen Elina (assistante administrative du CSBQ, <helen.elina@mcgill.ca>).
  
 ### Si vous êtes membre du CSBQ
 
