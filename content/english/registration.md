@@ -2,7 +2,7 @@
 bg_image: images/feature-bg.jpg
 cta:
   enable: false
-description: Registration for R workshops is NOT yet open!
+description: Registration for R workshops is open!
 draft: false
 layout: pricing
 menu:

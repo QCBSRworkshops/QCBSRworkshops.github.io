@@ -2,7 +2,7 @@
 bg_image: images/feature-bg.jpg
 cta:
   enable: false
-description: Les inscriptions pour les ateliers R ne sont PAS encore ouvertes !
+description: Les inscriptions pour les ateliers R sont ouvertes !
 draft: false
 layout: pricing
 menu:
