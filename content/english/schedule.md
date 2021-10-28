@@ -21,15 +21,13 @@ title: R Workshop Series Schedule
 
 |      | Workshop | Location | Date | Time (EST) | Instructed by | 
 |:---: |:-------------------|:--------:|:--------:|:----:|:----------------:|
-| WK-1 | Introduction to R            |Online|03-11-2021|13:30 - 17:30|Pedro Henrique P. Braga <br> Linley Sherin|
-| WK-2 | Loading and manipulating data |Online|10-11-2021|13:30 - 17:30|Ella Martin <br> Laurie Maynard|
-| WK-3 | Introduction to data visualization |Online|17-11-2021|13:30 - 17:30|Jake Lawlor <br> Linley Sherin|
-| WK-4 | Linear models                | Online|24-11-2021|13:30 - 17:30|TBD <br> Laurie Maynard|
-| WK-5 | Introduction to Programming in R             |Online|01-12-2021|13:30 - 17:30|Pedro Henrique P. Braga <br>	Jake Lawlor|
+| WK-1 | Introduction to R            |Online|03-11-2021|13:30 - 17:30|[Pedro Henrique P. Braga <br> Linley Sherin](mailto:ph.pereirabraga@gmail.com,linley.sherin@mail.mcgill.ca)|
+| WK-2 | Loading and manipulating data |Online|10-11-2021|13:30 - 17:30|[Ella Martin <br> Laurie Maynard](mailto:ella.martin@mail.mcgill.ca,elm7008@umoncton.ca)|
+| WK-3 | Introduction to data visualization |Online|17-11-2021|13:30 - 17:30|[Jake Lawlor <br> Linley Sherin](mailto:jake.lawlor@mail.mcgill.ca,linley.sherin@mail.mcgill.ca)|
+| WK-4 | Linear models                | Online|24-11-2021|13:30 - 17:30|T[BD <br> Laurie Maynard](mailto:elm7008@umoncton.ca)|
+| WK-5 | Introduction to Programming in R             |Online|01-12-2021|13:30 - 17:30|[Pedro Henrique P. Braga <br>	Jake Lawlor](mailto:ph.pereirabraga@gmail.com,jake.lawlor@mail.mcgill.ca)|
 
 {{< /bootstrap-table >}}
-
-Lead presenters are in bold.
 
 <div class="default">
      <a href="/registration" class="cta btn-yellow" style="background-color: #D6DBDF; font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-weight:bold; text-decoration: none; padding: 14px 20px; color: #1D2025; border-radius: 5px; display:inline-block; mso-padding-alt:0; box-shadow:0 3px 6px rgba(0,0,0,.2);"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt"> </i><![endif]--><span style="mso-text-raise:15pt;">Register now!</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%"> </i><![endif]--></a>
@@ -42,15 +40,13 @@ Lead presenters are in bold.
 
 | | Workshop | Location | Date | Time (EST) | Instructed by | 
 |:---:|:-------------------|:--------:|:--------:|:----:|:----------------:|
-| WK-1 | Introduction à R            |En ligne|04-11-2021|13:30 - 17:30|Paola Galloso <br> Sylvain Christin|
-| WK-2 | Charger et manipuler des données|En ligne|11-11-2021|13:30 - 17:30|Paola Galloso <br> Sylvain Christin|
-| WK-3 | Introduction à la visualization des données     |En ligne|18-11-2021|13:30 - 17:30|Laurie Maynard <br> Sylvain Christin|
-| WK-4 | Modèles linéaires                |En ligne|25-11-2021|13:30 - 17:30|Laurie Maynard <br> Sylvain Christin|
-| WK-5 | Introduction à la programmation avec R             |En ligne|02-12-2021|13:30 - 17:30|Sylvain Christin <br> Paola Galloso|
+| WK-1 | Introduction à R            |En ligne|04-11-2021|13:30 - 17:30|[Paola Galloso <br> Sylvain Christin](mailto:paola.lisset.galloso.sanchez@umontreal.ca,esc2203@umoncton.ca)|
+| WK-2 | Charger et manipuler des données|En ligne|11-11-2021|13:30 - 17:30|[Paola Galloso <br> Sylvain Christin](mailto:paola.lisset.galloso.sanchez@umontreal.ca,esc2203@umoncton.ca)|
+| WK-3 | Introduction à la visualization des données     |En ligne|18-11-2021|13:30 - 17:30|[Laurie Maynard <br> Sylvain Christin](mailto:elm7008@umoncton.ca,esc2203@umoncton.ca)|
+| WK-4 | Modèles linéaires                |En ligne|25-11-2021|13:30 - 17:30|[Laurie Maynard <br> Sylvain Christin](mailto:elm7008@umoncton.ca,esc2203@umoncton.ca)|
+| WK-5 | Introduction à la programmation avec R             |En ligne|02-12-2021|13:30 - 17:30|[Sylvain Christin <br> Paola Galloso](mailto:esc2203@umoncton.ca,paola.lisset.galloso.sanchez@umontreal.ca)|
 
 {{< /bootstrap-table >}}
-
-Lead presenters are in bold.
 
 <div class="default">
      <a href="/registration" class="cta btn-yellow" style="background-color: #D6DBDF; font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-weight:bold; text-decoration: none; padding: 14px 20px; color: #1D2025; border-radius: 5px; display:inline-block; mso-padding-alt:0; box-shadow:0 3px 6px rgba(0,0,0,.2);"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt"> </i><![endif]--><span style="mso-text-raise:15pt;">Register now!</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%"> </i><![endif]--></a>
