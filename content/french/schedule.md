@@ -2,7 +2,7 @@
 bg_image: images/feature-bg.jpg
 description:
 draft: false
-lastmod: 2021-09-27
+lastmod: 2021-10-28
 layout: faq
 menu:
   main:
