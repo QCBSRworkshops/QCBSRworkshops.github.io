@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Reproductibilité", "Visualisation des données"]
 description: par Tania Maxwell
 draft: false
-image: images/portfolio/work1.jpg
+image: images/symposium/dataviz.png
 information:
 - info: Anglais
   label: Langue
@@ -22,4 +22,4 @@ En tant que scientifiques, nous sommes des écrivains et des artistes. Les image
 
 ### Matériel de l'atelier
 
-* Malheureusement, le matériel de l'atelier n'est pas accessible.
+* La présentation est accessible [ici](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/blob/main/static/data/Maxwell_data_visualization_2019.pdf).
