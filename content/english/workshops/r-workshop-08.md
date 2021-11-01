@@ -16,8 +16,8 @@ information:
 title: WK-08 - Generalized additive models
 ---
 <div class="btn-group" role="group" aria-label="...">
-  <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-07/" button type="button" class="btn btn-default"><</button></a>
-  <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-09/"button type="button" class="btn btn-default">></button></a>
+  <a href="https://r.qcbs.ca/workshops/r-workshop-07/" button type="button" class="btn btn-default"><</button></a>
+  <a href="https://r.qcbs.ca/workshops/r-workshop-09/"button type="button" class="btn btn-default">></button></a>
 
   <div class="btn-group" role="group">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -25,16 +25,16 @@ title: WK-08 - Generalized additive models
       <span class="caret"></span>
     </button>
     <ul class="dropdown-menu">
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-01/">WK 1: Intro to R</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-02/">WK 2: Data manipulation</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-03/">WK 3: Data visualisation</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-04/">WK 4: Linear models</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-05/">WK 5: Programming</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-06/">WK 6: GLMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-07/">WK 7: LMMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-08/">WK 8: GAMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-09/">WK 9: Multivariate</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-10/">WK 10: Advanced multivariate</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-01/">WK 1: Intro to R</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-02/">WK 2: Data manipulation</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-03/">WK 3: Data visualisation</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-04/">WK 4: Linear models</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-05/">WK 5: Programming</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-06/">WK 6: GLMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-07/">WK 7: LMMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-08/">WK 8: GAMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-09/">WK 9: Multivariate</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-10/">WK 10: Advanced multivariate</a></li>
     </ul>
   </div>
 </div>
@@ -56,8 +56,8 @@ We will also briefly touch upon what GAM are doing behind the scenes.
 {{< bootstrap-table "table table-striped table-bordered" >}}
  Slides | Book | Script 
 :-------:|:-----:|:-----:
-<a href="https://qcbsrworkshops.github.io/workshop08/pres-en/workshop08-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop08/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop08/book-en/workshop08-script-en.R" button type="button" class="btn btn-default">English</button></a> | 
-<a href="https://qcbsrworkshops.github.io/workshop08/pres-fr/workshop08-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop08/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop08/book-fr/workshop08-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
+<a href="https://r.qcbs.ca/workshop08/pres-en/workshop08-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop08/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop08/book-en/workshop08-script-en.R" button type="button" class="btn btn-default">English</button></a> | 
+<a href="https://r.qcbs.ca/workshop08/pres-fr/workshop08-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop08/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop08/book-fr/workshop08-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
 {{< /bootstrap-table >}}
 
 Archived written material is available on our wiki (<a href="https://wiki.qcbs.ca/r_workshop8">**EN**</a>, <a href="https://wiki.qcbs.ca/r_atelier8">**FR**</a>).

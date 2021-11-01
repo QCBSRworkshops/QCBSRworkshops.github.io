@@ -17,7 +17,7 @@ title: AT-01 - Introduction à R
 ---
 
 <div class="btn-group" role="group" aria-label="...">
-  <a href="https://qcbsrworkshops.github.io/workshops/r-workshop-02/"button type="button" class="btn btn-default">></button></a>
+  <a href="https://r.qcbs.ca/workshops/r-workshop-02/"button type="button" class="btn btn-default">></button></a>
 
   <div class="btn-group" role="group">
     <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -25,16 +25,16 @@ title: AT-01 - Introduction à R
       <span class="caret"></span>
     </button>
     <ul class="dropdown-menu">
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-01/">WK 1: Intro à R</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-02/">WK 2: Manipulation de données</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-03/">WK 3: Visualisation de données</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-04/">WK 4: Modèles linéaires</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-05/">WK 5: Programmation</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-06/">WK 6: GLMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-07/">WK 7: LMMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-08/">WK 8: GAMs</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-09/">WK 9: Analyses multivariés</a></li>
-      <li><a href="https://qcbsrworkshops.github.io/workshops/r-workshop-10/">WK 10: Analyses multivariés avancés</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-01/">WK 1: Intro à R</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-02/">WK 2: Manipulation de données</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-03/">WK 3: Visualisation de données</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-04/">WK 4: Modèles linéaires</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-05/">WK 5: Programmation</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-06/">WK 6: GLMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-07/">WK 7: LMMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-08/">WK 8: GAMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-09/">WK 9: Analyses multivariés</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-10/">WK 10: Analyses multivariés avancés</a></li>
     </ul>
   </div>
 </div>
@@ -52,8 +52,8 @@ Dans cet atelier d’introduction à R, vous apprendrez ce qu’est le logiciel 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 Présentation | Livre | Script 
 :-----:|:-----:|:-----:
-<a href="https://qcbsrworkshops.github.io/workshop01/pres-en/workshop01-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-en/workshop01-script-en.R" button type="button" class="btn btn-default">English</button></a> 
-<a href="https://qcbsrworkshops.github.io/workshop01/pres-fr/workshop01-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://qcbsrworkshops.github.io/workshop01/book-fr/workshop01-script-fr.R" button type="button" class="btn btn-default">Français</button></a> 
+<a href="https://r.qcbs.ca/workshop01/pres-en/workshop01-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop01/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop01/book-en/workshop01-script-en.R" button type="button" class="btn btn-default">English</button></a> 
+<a href="https://r.qcbs.ca/workshop01/pres-fr/workshop01-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop01/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop01/book-fr/workshop01-script-fr.R" button type="button" class="btn btn-default">Français</button></a> 
 
 
 {{< /bootstrap-table >}}
