@@ -34,7 +34,7 @@ params:
   counter:
     enable: yes
     username: ''
-  description: This is meta description
+  description: The QCBS R Workshop Series helps researchers navigate programming and statistics for research in ecology, evolution and biodiversity.
   gmap:
     enable: no
     gmap_api: AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU
