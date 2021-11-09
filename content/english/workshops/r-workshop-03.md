@@ -1,7 +1,7 @@
 ---
 bg_image: images/feature-bg.jpg
 category: ["Data Visualization", "ggplot2", "tidyverse", "plot"]
-description: We'll improve our data manipulation and visualization skills in R!
+description: We will improve our data manipulation and visualization skills in R!
 draft: false
 image: images/workshops/forest3.png
 information:
@@ -13,7 +13,7 @@ information:
   label: Next instruction date
 - info: TBA
   label: Next instructor
-title: WK-03 - Introduction to Data Visualization
+title: WK-03 - Introduction to data visualisation with `ggplot2`    
 ---
 <div class="btn-group" role="group" aria-label="...">
   <a href="https://r.qcbs.ca/workshops/r-workshop-02/" button type="button" class="btn btn-default"><</button></a>
@@ -39,7 +39,7 @@ title: WK-03 - Introduction to Data Visualization
   </div>
 </div>
 
-## Workshop 3: Introduction to Data Visualization in `R` using `ggplot2`
+## Workshop 3: Introduction to data visualization in `R` using `ggplot2`
 
 In this workshop, you will improve your data manipulation and visualization skills using `ggplot2`.
 
