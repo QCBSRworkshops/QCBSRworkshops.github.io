@@ -13,7 +13,7 @@ information:
   label: Next instruction date
 - info: TBA
   label: Next instructor
-title: AT-03 - Introduction à ggplot2
+title: AT-03 -Introduction à la visualisation des données avec `ggplot2`
 ---
 <div class="btn-group" role="group" aria-label="...">
   <a href="https://r.qcbs.ca/workshops/r-workshop-02/" button type="button" class="btn btn-default"><</button></a>
@@ -39,7 +39,7 @@ title: AT-03 - Introduction à ggplot2
   </div>
 </div>
 
-## Atelier 3: Introduction à `ggplot2`
+## Atelier 3: Introduction à la visualisation des données avec `ggplot2`
 
 Pendant cet atelier, vous perfectionnerez vos compétences en visualisation et manipulation de jeux de données à l'aide de la bibliothèque `ggplot2`. Nous explorerons toute la richesse de `ggplot2`, qui peut être utilisé comme alternative aux outils graphiques de base dans R. Nous apprendrons comment exploiter cette bibliothèque à la fois pour explorer des données visuellement et pour produire des figures dignes de publications scientifiques.
 
