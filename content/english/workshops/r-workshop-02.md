@@ -60,15 +60,19 @@ with new tools and packages.
 [![badge](https://img.shields.io/static/v1?style=flat&label=Workshop&message=02&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop02) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
- Slides | Book | Script |
+ Slides | Book | Script | 
 :-------:|:-----:|:-----:|
 <a href="https://r.qcbs.ca/workshop02/pres-en/workshop02-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop02/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop02/book-en/workshop02-script-en.R" button type="button" class="btn btn-default">English</button></a> | 
-<a href="https://r.qcbs.ca/workshop02/pres-fr/workshop02-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop02/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop02/book-fr/workshop02-script-fr.R" button type="button" class="btn btn-default">Français</button></a> |
+<a href="https://r.qcbs.ca/workshop02/pres-fr/workshop02-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop02/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop02/book-fr/workshop02-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
 {{< /bootstrap-table >}}
 
 
 > Note: The wiki for this workshop was converted to Bookdown in September 2021. <br>
 > The wiki pages for this workshop will no longer be updated (Archive: [EN](https://wiki.qcbs.ca/r_workshop2), [FR](https://wiki.qcbs.ca/r_atelier2)).
+
+#### Datasets
+
+<a href="https://r.qcbs.ca/workshop02/pres-fr/data/co2_good.csv" button type="button" class="btn btn-primary">co2_good.csv</button></a> <a href="https://r.qcbs.ca/workshop02/pres-fr/data/co2_broken.csv" button type="button" class="btn btn-primary">co2_broken.csv</button></a>
 
 ----
 
