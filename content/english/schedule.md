@@ -22,9 +22,9 @@ title: R Workshop Series Schedule
 |      | Workshop | Location | Date | Time (EST) | Instructed by | 
 |:---: |:-------------------|:--------:|:--------:|:----:|:----------------:|
 | WK-1 | Introduction to R            |Online|03-11-2021|13:30 - 17:30|[Pedro Henrique P. Braga <br> Linley Sherin](mailto:ph.pereirabraga@gmail.com,linley.sherin@mail.mcgill.ca)|
-| WK-2 | Loading and manipulating data |Online|10-11-2021|13:30 - 17:30|[Ella Martin <br> Laurie Maynard <br> Janaína Serrano](mailto:ella.martin@mail.mcgill.ca,elm7008@umoncton.ca, janaina.serrano@mail.mcgill.ca)|
-| WK-3 | Introduction to data visualization |Online|17-11-2021|13:30 - 17:30|[Jake Lawlor <br> Linley Sherin <br> Pedro Henrique P. Braga](mailto:jake.lawlor@mail.mcgill.ca,linley.sherin@mail.mcgill.ca, ph.pereirabraga@gmail.com)|
-| WK-4 | Linear models                | Online|24-11-2021|13:30 - 17:30|[Morgane Henry <br> Laurie Maynard <br> Pedro Henrique P. Braga](mailto:elm7008@umoncton.ca, morgane.henry2@mail.mcgill.ca, ph.pereirabraga@gmail.com)|
+| WK-2 | Loading and manipulating data |Online|10-11-2021|13:30 - 17:30|[Ella Martin <br> Laurie Maynard <br> Janaína Serrano](mailto:ella.martin@mail.mcgill.ca,elm7008@umoncton.ca,janaina.serrano@mail.mcgill.ca)|
+| WK-3 | Introduction to data visualization |Online|17-11-2021|13:30 - 17:30|[Jake Lawlor <br> Linley Sherin <br> Pedro Henrique P. Braga](mailto:jake.lawlor@mail.mcgill.ca,linley.sherin@mail.mcgill.ca,ph.pereirabraga@gmail.com)|
+| WK-4 | Linear models                | Online|24-11-2021|13:30 - 17:30|[Morgane Henry <br> Laurie Maynard <br> Pedro Henrique P. Braga](mailto:elm7008@umoncton.ca,morgane.henry2@mail.mcgill.ca,ph.pereirabraga@gmail.com)|
 | WK-5 | Introduction to Programming in R             |Online|01-12-2021|13:30 - 17:30|[Pedro Henrique P. Braga <br>	Jake Lawlor](mailto:ph.pereirabraga@gmail.com,jake.lawlor@mail.mcgill.ca)|
 
 {{< /bootstrap-table >}}
