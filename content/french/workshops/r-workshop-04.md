@@ -59,6 +59,15 @@ Dans cet atelier, vous apprendrez comment effectuer en R les modèles linéaires
 > Note : Le wiki de cet atelier a été converti en Bookdown en septembre 2021. <br>
 > Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop4), [FR](https://wiki.qcbs.ca/r_atelier4)).
 
+#### Jeux de données
+
+<a href="https://r.qcbs.ca/workshop04/pres-fr/data/birdsdiet.csv" button type="button" class="btn btn-primary">birdsdiet.csv</button></a> <a href="https://r.qcbs.ca/workshop04/pres-fr/data/dickcissel.csv" button type="button" class="btn btn-primary">dickcissel.csv</button></a>
+
+#### Fonctions R supplémentaires
+
+<a href="https://r.qcbs.ca/workshop04/pres-fr/data/col.plotcorr.r" button type="button" class="btn btn-primary">col.plotcorr.R</button></a> <a href="https://r.qcbs.ca/workshop04/pres-fr/data/lm_adv.r" button type="button" class="btn btn-primary">lm_adv.R</button></a>
+<a href="https://r.qcbs.ca/workshop04/pres-fr/data/lm_f.r" button type="button" class="btn btn-primary">lm_f.R</button></a>
+
 ----
 
 ### Contributions

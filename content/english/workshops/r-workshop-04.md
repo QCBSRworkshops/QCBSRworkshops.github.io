@@ -59,6 +59,15 @@ In this workshop, you will learn how to implement basic linear models commonly u
 > Note: The wiki for this workshop was converted to Bookdown in September 2021. <br> 
 > The wiki pages for this workshop will no longer be updated (Archive: [EN](https://wiki.qcbs.ca/r_workshop4), [FR](https://wiki.qcbs.ca/r_atelier4)). 
 
+#### Datasets
+
+<a href="https://r.qcbs.ca/workshop04/pres-en/data/birdsdiet.csv" button type="button" class="btn btn-primary">birdsdiet.csv</button></a> <a href="https://r.qcbs.ca/workshop04/pres-en/data/dickcissel.csv" button type="button" class="btn btn-primary">dickcissel.csv</button></a>
+
+#### Additional R functions
+
+<a href="https://r.qcbs.ca/workshop04/pres-en/data/col.plotcorr.r" button type="button" class="btn btn-primary">col.plotcorr.R</button></a> <a href="https://r.qcbs.ca/workshop04/pres-en/data/lm_adv.r" button type="button" class="btn btn-primary">lm_adv.R</button></a>
+<a href="https://r.qcbs.ca/workshop04/pres-en/data/lm_e.r" button type="button" class="btn btn-primary">lm_e.R</button></a>
+
 ----
 
 ### Contributors
