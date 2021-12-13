@@ -155,9 +155,6 @@ languages:
         - URL: workshops
           name: Ateliers R
           weight: 3
-        - URL: symposium
-          name: Colloque R
-          weight: 4
         - URL: news
           name: Nouvelles
           weight: 6
@@ -171,6 +168,9 @@ languages:
         - hasChildren: yes
           name: Inscription
           weight: 5
+        - hasChildren: yes
+          name: Colloque R
+          weight: 4
     weight: 2
   it:
     contentDir: content/italian
