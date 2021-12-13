@@ -8,13 +8,13 @@ about:
     La Série d'ateliers R du CSBQ est une initiative des étudiant(e)s des cycles supérieurs et des postdoctorant(e)s du Centre québécois des sciences de la biodiversité (CSBQ). <br>Nous offrons des ateliers à d'autres étudiant(e)s des cycles supérieurs et des postdoctorant(e)s pour les aider à s'orienter dans les statistiques pour la recherche en écologie, évolution et biodiversité.
   enable: true
   funfacts:
-  - count: "3382"
+  - count: "3518"
     icon: ion-ios-body-outline
     name: Inscriptions
-  - count: "646"
+  - count: "686"
     icon: ion-ios-body-outline
     name: Participant(e)s
-  - count: "95"
+  - count: "99"
     icon: ion-ios-body-outline
     name: Instructeurs et instructrices
   - count: "51"
