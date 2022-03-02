@@ -19,13 +19,13 @@ title: Horaire de la Série d'ateliers R
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 
-|    | Atelier | Lieu | Date | Heure (EST) | Instruit par |
-| :--: | :------------------------------------------------ | :------: | :--------: | :-----------: | :-------------: |
-| WK-6 | Modèles linéaires généralisés                     | En ligne | 31-03-2022 | 13:30 - 17:30 | À venir |
-| WK-7 | Modèles linéaires et généralisés linéaires mixtes | En ligne | 07-04-2022 | 13:30 - 17:30 | À venir |
-| WK-8 | Modèles additifs généralisés                      | En ligne | 14-04-2022 | 13:30 - 17:30 | À venir |
-| WK-9 | Analyses multivariées                             | En ligne | 21-04-2022 | 13:30 - 17:30 | À venir |
-| WK-10 | Analyses multivariées avancées                   | En ligne | 28-04-2022 | 13:30 - 17:30 | À venir |
+|       | Atelier                                           |   Lieu   |    Date    |  Heure (EST)  | Instruit par |
+| :---: | :------------------------------------------------ | :------: | :--------: | :-----------: | :----------: |
+| WK-6  | Modèles linéaires généralisés                     | En ligne | 31-03-2022 | 13:30 - 17:30 |   À venir    |
+| WK-7  | Modèles linéaires et généralisés linéaires mixtes | En ligne | 07-04-2022 | 13:30 - 17:30 |   À venir    |
+| WK-8  | Modèles additifs généralisés                      | En ligne | 14-04-2022 | 13:30 - 17:30 |   À venir    |
+| WK-9  | Analyses multivariées                             | En ligne | 21-04-2022 | 13:30 - 17:30 |   À venir    |
+| WK-10 | Analyses multivariées avancées                    | En ligne | 28-04-2022 | 13:30 - 17:30 |   À venir    |
 
 {{< /bootstrap-table >}}
 
@@ -39,13 +39,13 @@ title: Horaire de la Série d'ateliers R
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 
-|       | Atelier                                    |  Lieu  |    Date    |  Heure (EST)  |  Instruit par   |
-| :---: | :----------------------------------------- | :----: | :--------: | :-----------: | :-------------: |
-| WK-6  | Generalized linear models                  | Online | 30-03-2022 | 13:30 - 17:30 | À venir |
-| WK-7  | Linear and generalized linear mixed models | Online | 06-04-2022 | 13:30 - 17:30 | À venir |
-| WK-8  | Generalized additive models                | Online | 13-04-2022 | 13:30 - 17:30 | À venir |
-| WK-9  | Multivariate analyses                      | Online | 20-04-2022 | 13:30 - 17:30 | À venir |
-| WK-10 | Advanced multivariate analyses             | Online | 27-04-2022 | 13:30 - 17:30 | À venir |
+|       | Atelier                                    |  Lieu  |    Date    |  Heure (EST)  | Instruit par |
+| :---: | :----------------------------------------- | :----: | :--------: | :-----------: | :----------: |
+| WK-6  | Generalized linear models                  | Online | 30-03-2022 | 13:30 - 17:30 |   À venir    |
+| WK-7  | Linear and generalized linear mixed models | Online | 06-04-2022 | 13:30 - 17:30 |   À venir    |
+| WK-8  | Generalized additive models                | Online | 13-04-2022 | 13:30 - 17:30 |   À venir    |
+| WK-9  | Multivariate analyses                      | Online | 20-04-2022 | 13:30 - 17:30 |   À venir    |
+| WK-10 | Advanced multivariate analyses             | Online | 27-04-2022 | 13:30 - 17:30 |   À venir    |
 
 {{< /bootstrap-table >}}
 
