@@ -1,6 +1,6 @@
 ---
 bg_image: images/feature-bg.jpg
-description: 
+description:
 draft: false
 lastmod: 2022-03-03
 layout: faq
@@ -9,7 +9,7 @@ menu:
     name: Workshop schedule
     parent: Registration
     weight: 1
-subtitle: 
+subtitle:
 title: R Workshop Series Schedule
 ---
 
@@ -23,7 +23,7 @@ title: R Workshop Series Schedule
 | :---: | :----------------------------------------- | :------: | :--------: | :-----------: | :-------------: |
 | WK-6  | Generalized linear models                  |  Online  | 30-03-2022 | 13:30 - 17:30 | To be announced |
 | WK-7  | Linear and generalized linear mixed models |  Online  | 06-04-2022 | 13:30 - 17:30 | To be announced |
-| WK-8  | Generalized additive models                |  Online  | 13-04-2022 | 13:30 - 17:30 | To be announced |
+| WK-8  | Generalized additive models                |  Online  | 11-04-2022 | 13:30 - 17:30 | To be announced |
 | WK-9  | Multivariate analyses                      |  Online  | 20-04-2022 | 13:30 - 17:30 | To be announced |
 | WK-10 | Advanced multivariate analyses             |  Online  | 27-04-2022 | 13:30 - 17:30 | To be announced |
 
@@ -54,13 +54,13 @@ title: R Workshop Series Schedule
 <br>
 
 
-## Fall 2021 
+## Fall 2021
 
 ### Workshops in English
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 
-|      | Workshop | Location | Date | Time (EST) | Instructed by | 
+|      | Workshop | Location | Date | Time (EST) | Instructed by |
 |:---: |:-------------------|:--------:|:--------:|:----:|:----------------:|
 | WK-1 | Introduction to R            |Online|03-11-2021|13:30 - 17:30|[Pedro Henrique P. Braga <br> Linley Sherin](mailto:ph.pereirabraga@gmail.com,linley.sherin@mail.mcgill.ca)|
 | WK-2 | Loading and manipulating data |Online|10-11-2021|13:30 - 17:30|[Ella Martin <br> Laurie Maynard <br> Janaína Serrano](mailto:ella.martin@mail.mcgill.ca,elm7008@umoncton.ca,janaina.serrano@mail.mcgill.ca)|
@@ -75,7 +75,7 @@ title: R Workshop Series Schedule
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 
-| | Workshop | Location | Date | Time (EST) | Instructed by | 
+| | Workshop | Location | Date | Time (EST) | Instructed by |
 |:---:|:-------------------|:--------:|:--------:|:----:|:----------------:|
 | WK-1 | Introduction à R            |En ligne|04-11-2021|13:30 - 17:30|[Paola Galloso <br> Sylvain Christin](mailto:paola.lisset.galloso.sanchez@umontreal.ca,esc2203@umoncton.ca)|
 | WK-2 | Charger et manipuler des données|En ligne|11-11-2021|13:30 - 17:30|[Paola Galloso <br> Sylvain Christin](mailto:paola.lisset.galloso.sanchez@umontreal.ca,esc2203@umoncton.ca)|
@@ -88,7 +88,7 @@ title: R Workshop Series Schedule
 
 ## Subscribe to the schedules
 
-Use the buttons below to subscribe to the schedule of the QCBS R Workshop Series. 
+Use the buttons below to subscribe to the schedule of the QCBS R Workshop Series.
 
 Any changes will be automatically synced with your Google Calendar.
 
