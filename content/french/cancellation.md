@@ -17,11 +17,11 @@ title: Annulation & Remboursement
 
 Toutes les annulations et demandes de remboursement doivent être reçues par courriel **au moins 5 jours avant la date de l'atelier**. Des exceptions peuvent être faites pour des circonstances imprévisibles. 
 
-**Pour annuler votre inscription**, veuillez aviser l'instructeur ou l'instructrice principal(e) de l'atelier (indiqué dans l'horaire sur la page <a href = "https://wiki.qcbs.ca/r">wiki</a>), et copiez (CC) votre message à Philippe Auzel (coordinateur du CSBQ, <philippe.auzel@mcgill.ca>) et Helen Elina (assistante administrative du CSBQ, <helen.elina@mcgill.ca>).
+**Pour annuler votre inscription**, veuillez aviser l'équipe de présentation de l'atelier (indiqué dans l'horaire sur la page <a href = "https://wiki.qcbs.ca/r">wiki</a>), et copiez (CC) votre message à l'équipe de coordination des ateliers R [csbq.qcbs.r@gmail.com](mailto:csbq.qcbs.r@gmail.com).
  
 ### Si vous êtes membre du CSBQ
 
-Si vous êtes membre du CSBQ et que vous annulez votre participation au moins 5 jours avant l'atelier, il n'y a aucune pénalité. Si vous ne participez pas à un atelier ou si vous n'avez pas annulé votre inscription au moins 5 jours avant la date de l'atelier, vous serez pénalisé de 50 $, qui sera directement déduit du compte de votre directeur de recherche.
+Si vous êtes membre du CSBQ et que vous annulez votre participation au moins 5 jours avant l'atelier, il n'y a aucune pénalité. Si vous ne participez pas à un atelier ou si vous n'avez pas annulé votre inscription au moins 5 jours avant la date de l'atelier, vous serez pénalisé de 50 $, qui sera directement déduit du compte du membre du CSBQ qui dirige votre recherche.
 
 ### Si vous n'êtes pas membre du CSBQ
 
@@ -29,4 +29,4 @@ Si vous n'êtes pas membre du CSBQ et que vous annulez votre participation au mo
 
 ### Si un atelier est annulé
 
-Si un atelier est annulé, le CSBQ en informera tous les participant(e)s et procèdera à un remboursement complet des frais d'inscription.
+Si un atelier est annulé, le CSBQ en informera tous les personnes inscrites et procèdera à un remboursement complet des frais d'inscription.
