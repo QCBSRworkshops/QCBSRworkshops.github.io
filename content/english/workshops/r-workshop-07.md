@@ -81,6 +81,7 @@ Since 2014, several QCBS members contributed to consistently and collaboratively
 | Pedro Henrique P. Braga |                             |      Cédric Frenette Dussault  |
 |   Katherine Hébert      |                             |    Vincent Fugère         |
 |   Kevin Cazelles        |                             |    Thomas Lamy      |
-|           |                             |    Zofia Taranu      |
+|    Janaína Serrano      |                             |    Zofia Taranu      |
+|    Dominique Caron      |                             |                     |
 
 {{< /bootstrap-table >}}
