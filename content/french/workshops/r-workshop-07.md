@@ -78,6 +78,7 @@ Depuis 2014, plusieurs membres du CSBQ ont contribué à développer et à mettr
 | Pedro Henrique P. Braga |                             |      Cédric Frenette Dussault  |
 |   Katherine Hébert      |                             |    Vincent Fugère         |
 |   Kevin Cazelles        |                             |    Thomas Lamy      |
-|           |                             |    Zofia Taranu      |
+|    Janaína Serrano      |                             |    Zofia Taranu      |
+|    Dominique Caron      |                             |                     |
 
 {{< /bootstrap-table >}}
