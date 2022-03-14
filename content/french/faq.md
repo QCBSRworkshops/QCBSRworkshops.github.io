@@ -85,7 +85,7 @@ Les ateliers sont actuellement offerts à l'automne et à l'hiver. Nous envoyons
 
 **J'ai enseigné ou développé du contenu pour la série d'ateliers R du CSBQ, mais je n'ai pas encore reçu mon Prix d'apprentissage et de développement (PAD, ou LeaDA en anglais) du CSBQ. Que devrais-je faire?**
 
-Les Prix d'apprentissage et de développement du CSBQ sont traités selon plusieurs étapes décrites dans notre [Protocole pour les présentateurs et les développeurs](https://qcbsrworkshops.github.io/presenter-developer-protocol/payment-en.html). Veuillez vous assurer que vous avez effectué toutes les étapes requises pour votre institution et votre statut d'affiliation. Si vous ne recevez aucune notification indiquant que votre paiement est en cours de traitement dans un délai maximum de 45 jours, veuillez contacter la Dre. Elina (<helen.elina@mcgill.ca>), l'associée administrative du CSBQ, pour assurer le suivi de votre demande de bourse.
+Les Prix d'apprentissage et de développement du CSBQ sont traités selon plusieurs étapes décrites dans notre [Protocole pour l'instruction et le developpement](https://qcbsrworkshops.github.io/presenter-developer-protocol/payment-en.html). Veuillez vous assurer que vous avez effectué toutes les étapes requises pour votre institution et votre statut d'affiliation. Si vous ne recevez aucune notification indiquant que votre paiement est en cours de traitement dans un délai maximum de 45 jours, veuillez contacter la Dre. Elina (<helen.elina@mcgill.ca>), l'associée administrative du CSBQ, pour assurer le suivi de votre demande de bourse.
 
 **Qui puis-je contacter si j'ai des suggestions, des plaintes ou d'autres questions?**
 
