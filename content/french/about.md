@@ -13,16 +13,16 @@ about:
     name: Inscriptions
   - count: "686"
     icon: ion-ios-body-outline
-    name: Participant(e)s
+    name: Personnes participantes
   - count: "99"
     icon: ion-ios-body-outline
-    name: Instructeurs et instructrices
+    name: Personnes chargées de l'instruction
   - count: "51"
     icon: ion-ios-wineglass-outline
-    name: Contributeurs et contributrices
+    name: Personnes ayant contribué au contenu
   - count: "12"
     icon: ion-ios-chatboxes-outline
-    name: Coordinateurs et coordinatrices
+    name: Personnes chargées de la coordination
   - count: "10"
     icon: ion-ios-flask-outline
     name: Ateliers R
