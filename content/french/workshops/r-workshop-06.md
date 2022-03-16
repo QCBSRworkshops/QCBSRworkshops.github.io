@@ -75,8 +75,8 @@ Depuis 2014, plusieurs membres du CSBQ ont contribué à développer et à mettr
 |     Katherine Hébert    |      Willian Vieira     |        Thomas Lamy       |
 |     Alex Arkilanian     | Pedro Henrique P. Braga |       Zofia Taranu       |
 |   Mathieu Vaillancourt  |    Marie Hélène Brice   |      Vincent Fugère      |
-|                             |      Kevin Cazelles     |                              |
-|                             |      Marc-Olivier Beausoleil     |                           |
+|      Laurie Maynard     |      Kevin Cazelles     |                              |
+|      Esteban Góngora    |      Marc-Olivier Beausoleil     |                           |
 
 {{< /bootstrap-table >}}
 
