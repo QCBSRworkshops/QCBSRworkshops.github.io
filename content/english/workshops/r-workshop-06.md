@@ -60,7 +60,13 @@ You will learn the major distributions used depending on the nature of the respo
 <a href="https://r.qcbs.ca/workshop06/pres-fr/workshop06-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop06/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop06/book-fr/workshop06-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
 {{< /bootstrap-table >}}
 
-Archived written material is available on our wiki (<a href="https://wiki.qcbs.ca/r_workshop7">**EN**</a>, <a href="https://wiki.qcbs.ca/r_atelier7">**FR**</a>).
+> Note: The wiki for this workshop was converted to Bookdown in February 2021. <br> 
+> The wiki pages for this workshop will no longer be updated (Archive: [EN](https://wiki.qcbs.ca/r_workshop7), [FR](https://wiki.qcbs.ca/r_atelier7)). 
+
+#### Datasets
+
+<a href="https://r.qcbs.ca/workshop06/pres-en/data/mites.csv" button type="button" class="btn btn-primary">mites.csv</button></a> <a href="https://r.qcbs.ca/workshop06/pres-en/data/faramea.csv" button type="button" class="btn btn-primary">faramea.csv</button></a>
+
 
 ----
 

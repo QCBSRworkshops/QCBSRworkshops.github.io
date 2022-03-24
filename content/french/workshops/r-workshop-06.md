@@ -59,6 +59,10 @@ Présentation | Livre | Script
 > Note : Le wiki de cet atelier a été converti en Bookdown en février 2021. <br>
 > Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop7), [FR](https://wiki.qcbs.ca/r_atelier7)).
 
+#### Jeux de données
+
+<a href="https://r.qcbs.ca/workshop06/pres-fr/data/mites.csv" button type="button" class="btn btn-primary">mites.csv</button></a> <a href="https://r.qcbs.ca/workshop06/pres-fr/data/faramea.csv" button type="button" class="btn btn-primary">faramea.csv</button></a>
+
 ----
 
 ### Contributions
