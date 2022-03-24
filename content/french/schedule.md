@@ -2,7 +2,7 @@
 bg_image: images/feature-bg.jpg
 description:
 draft: false
-lastmod: 2022-03-03
+lastmod: 2022-03-24
 layout: faq
 menu:
   main:
@@ -21,11 +21,11 @@ title: Horaire de la Série d'ateliers R
 
 |       | Atelier                                           |   Lieu   |    Date    |  Heure (EST)  | Instruit par |
 | :---: | :------------------------------------------------ | :------: | :--------: | :-----------: | :----------: |
-| WK-6  | Modèles linéaires généralisés                     | En ligne | 31-03-2022 | 13:30 - 17:30 |   À venir    |
-| WK-7  | Modèles linéaires et généralisés linéaires mixtes | En ligne | 07-04-2022 | 13:30 - 17:30 |   À venir    |
-| WK-8  | Modèles additifs généralisés                      | En ligne | 14-04-2022 | 13:30 - 17:30 |   À venir    |
-| WK-9  | Analyses multivariées                             | En ligne | 21-04-2022 | 13:30 - 17:30 |   À venir    |
-| WK-10 | Analyses multivariées avancées                    | En ligne | 28-04-2022 | 13:30 - 17:30 |   À venir    |
+| WK-6  | Modèles linéaires généralisés                     | En ligne | 31-03-2022 | 13:30 - 17:30 |   [Laurie Maynard, <br> Sara Correa Garcia](mailto:elm7008@umoncton.ca,sara.garcia@inrs.ca)    |
+| WK-7  | Modèles linéaires et généralisés linéaires mixtes | En ligne | 07-04-2022 | 13:30 - 17:30 |   [Clara Casabona i Amat, <br> Laurie Maynard](mailto:Clara.Casabona.I.Amat@USherbrooke.ca,elm7008@umoncton.ca)    |
+| WK-8  | Modèles additifs généralisés                      | En ligne | 14-04-2022 | 13:30 - 17:30 |   [Laurie Maynard](mailto:elm7008@umoncton.ca) <br> À venir    |
+| WK-9  | Analyses multivariées                             | En ligne | 21-04-2022 | 13:30 - 17:30 |   [Sara Correa Garcia, <br>	Mathieu Vaillancourt](mailto:sara.garcia@inrs.ca,mathieu.vaillancourt.2@ulaval.ca)    |
+| WK-10 | Analyses multivariées avancées                    | En ligne | 28-04-2022 | 13:30 - 17:30 |   [Mathieu Vaillancourt, <br> Sara Correa Garcia	](mailto:mathieu.vaillancourt.2@ulaval.ca,sara.garcia@inrs.ca)    |
 
 {{< /bootstrap-table >}}
 
@@ -41,11 +41,11 @@ title: Horaire de la Série d'ateliers R
 
 |       | Atelier                                    |  Lieu  |    Date    |  Heure (EST)  | Instruit par |
 | :---: | :----------------------------------------- | :----: | :--------: | :-----------: | :----------: |
-| WK-6  | Generalized linear models                  | Online | 30-03-2022 | 13:30 - 17:30 |   À venir    |
-| WK-7  | Linear and generalized linear mixed models | Online | 06-04-2022 | 13:30 - 17:30 |   À venir    |
-| WK-8  | Generalized additive models                | Online | 13-04-2022 | 13:30 - 17:30 |   À venir    |
-| WK-9  | Multivariate analyses                      | Online | 20-04-2022 | 13:30 - 17:30 |   À venir    |
-| WK-10 | Advanced multivariate analyses             | Online | 27-04-2022 | 13:30 - 17:30 |   À venir    |
+| WK-6  | Generalized linear models                  | Online | 30-03-2022 | 13:30 - 17:30 |   [Pedro Henrique P. Braga, <br> Sara Correa Garcia](mailto:ph.pereirabraga@gmail.com,sara.garcia@inrs.ca)    |
+| WK-7  | Linear and generalized linear mixed models | Online | 06-04-2022 | 13:30 - 17:30 |   À venir <br> [Florentin Jaeger](mailto:jaeger.florentin_clemens@courrier.uqam.ca)   |
+| WK-8  | Generalized additive models                | Online | 13-04-2022 | 13:30 - 17:30 |   [Daniel Schoenig, <br> Pedro Henrique P. Braga](mailto:schonig.daniel@courrier.uqam.ca,ph.pereirabraga@gmail.com)    |
+| WK-9  | Multivariate analyses                      | Online | 20-04-2022 | 13:30 - 17:30 |   [Pedro Henrique P. Braga, <br> Animesh Ghose, <br> Sara Correa Garcia ](mailto:ph.pereirabraga@gmail.com,animesh.ghose@mail.mcgill.ca,sara.garcia@inrs.ca)    |
+| WK-10 | Advanced multivariate analyses             | Online | 27-04-2022 | 13:30 - 17:30 |   To be announced <br> [Pedro Henrique P. Braga](mailto:ph.pereirabraga@gmail.com)    |
 
 {{< /bootstrap-table >}}
 
