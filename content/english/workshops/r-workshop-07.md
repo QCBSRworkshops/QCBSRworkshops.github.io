@@ -65,11 +65,11 @@ We will walk you through the steps to conduct a linear mixed model analysis, che
 
 #### Datasets
 
-<a href="https://raw.githubusercontent.com/QCBSRworkshops/workshop07/main/book-en/data/qcbs_w7_data.csv" button type="button" class="btn btn-primary">fishdata.csv</button></a> <a href="https://raw.githubusercontent.com/QCBSRworkshops/workshop07/main/book-en/data/banta_totalfruits.csv" button type="button" class="btn btn-primary">arabidopsis.csv</button></a> <a href="https://raw.githubusercontent.com/QCBSRworkshops/workshop07/main/book-en/data/inverts.csv" button type="button" class="btn btn-primary">invertsdata.csv</button></a> 
+<a href="https://r.qcbs.ca/workshop07/pres-en/data/fishdata.csv" button type="button" class="btn btn-primary">fishdata.csv</button></a> <a href="https://r.qcbs.ca/workshop07/pres-en/data/arabidopsis.csv" button type="button" class="btn btn-primary">arabidopsis.csv</button></a> <a href="https://r.qcbs.ca/workshop07/pres-en/data/inverts.csv" button type="button" class="btn btn-primary">invertsdata.csv</button></a> 
 
 #### Additional scripts
 
-<a href="https://raw.githubusercontent.com/QCBSRworkshops/workshop07/main/book-fr/data/glmm_funs.R" button type="button" class="btn btn-primary">glmm_funs.R</button></a>
+<a href="https://r.qcbs.ca/workshop07/pres-en/data/glmm_funs.R" button type="button" class="btn btn-primary">glmm_funs.R</button></a>
 
 ----
 
