@@ -62,6 +62,9 @@ We will also briefly touch upon what GAM are doing behind the scenes.
 
 Archived written material is available on our wiki (<a href="https://wiki.qcbs.ca/r_workshop8">**EN**</a>, <a href="https://wiki.qcbs.ca/r_atelier8">**FR**</a>).
 
+#### Datasets
+
+<a href="https://r.qcbs.ca/workshop08/pres-en/data/ISIT.csv" button type="button" class="btn btn-primary">ISIT.csv</button></a> <a href="https://r.qcbs.ca/workshop08/pres-en/data/other_dist.csv" button type="button" class="btn btn-primary">other_dist.csv</button></a>
 
 ----
 

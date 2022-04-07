@@ -59,6 +59,13 @@ Les modèles à effets mixtes permettent aux écologistes de surmonter un certai
 > Note : Le wiki de cet atelier a été converti en Bookdown en février 2021. <br>
 > Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop6), [FR](https://wiki.qcbs.ca/r_atelier6)).
 
+#### Jeux de données
+
+<a href="https://r.qcbs.ca/workshop07/pres-en/data/fishdata.csv" button type="button" class="btn btn-primary">fishdata.csv</button></a> <a href="https://r.qcbs.ca/workshop07/pres-en/data/arabidopsis.csv" button type="button" class="btn btn-primary">arabidopsis.csv</button></a> <a href="https://r.qcbs.ca/workshop07/pres-en/data/inverts.csv" button type="button" class="btn btn-primary">invertsdata.csv</button></a> 
+
+#### Scripts supplémentaires
+
+<a href="https://r.qcbs.ca/workshop07/pres-en/data/glmm_funs.R" button type="button" class="btn btn-primary">glmm_funs.R</button></a>
 
 ----
 
@@ -78,6 +85,7 @@ Depuis 2014, plusieurs membres du CSBQ ont contribué à développer et à mettr
 | Pedro Henrique P. Braga |                             |      Cédric Frenette Dussault  |
 |   Katherine Hébert      |                             |    Vincent Fugère         |
 |   Kevin Cazelles        |                             |    Thomas Lamy      |
-|           |                             |    Zofia Taranu      |
+|    Janaína Serrano      |                             |    Zofia Taranu      |
+|    Dominique Caron      |                             |                     |
 
 {{< /bootstrap-table >}}

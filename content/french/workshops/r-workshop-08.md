@@ -70,6 +70,10 @@ Présentation | Livre | Script
 > Note : Le wiki de cet atelier a été converti en Bookdown en février 2021. <br>
 > Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop8), [FR](https://wiki.qcbs.ca/r_atelier8)).
 
+#### Jeux de données
+
+<a href="https://r.qcbs.ca/workshop08/pres-fr/data/ISIT.csv" button type="button" class="btn btn-primary">ISIT.csv</button></a> <a href="https://r.qcbs.ca/workshop08/pres-fr/data/other_dist.csv" button type="button" class="btn btn-primary">other_dist.csv</button></a>
+
 ----
 
 ### Contributions

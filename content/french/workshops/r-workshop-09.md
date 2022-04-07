@@ -55,18 +55,24 @@ multivariées: des groupements, des Analyses en Composantes Principales (PCA), d
 
 [![badge](https://img.shields.io/static/v1?style=flat&label=GitHub&message=09&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop09) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-{{< bootstrap-table "table table-dark table-striped table-bordered" >}}
-Présentation | Livre | Script* | Wiki** 
-:-------:|:-----:|:-----:|:------: 
-<a href="https://r.qcbs.ca/workshop09/pres-en/workshop09-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop09/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop09/book-en/workshop09-script-en.R" button type="button" class="btn btn-default">English</button></a> | <a href="https://wiki.qcbs.ca/r_workshop9" button type="button" class="btn btn-default">English</button></a> |
-<a href="https://r.qcbs.ca/workshop09/pres-fr/workshop09-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop09/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop09/book-fr/workshop09-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | <a href="https://wiki.qcbs.ca/r_atelier9" button type="button" class="btn btn-default">Français</button></a> |
+{{< bootstrap-table "table table-striped table-bordered" >}}
+ Présentation | Livre | Script 
+:-------:|:-----:|:-----:
+<a href="https://r.qcbs.ca/workshop09/pres-en/workshop09-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop09/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop09/book-en/workshop09-script-fr.R" button type="button" class="btn btn-default">English</button></a> | 
+<a href="https://r.qcbs.ca/workshop09/pres-fr/workshop09-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop09/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop09/book-fr/workshop09-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
 {{< /bootstrap-table >}}
 
 
-> **Merci de votre patience pendant que nous effectuons les changements suivants:**  
-> \* *Le script et le livre de cet atelier sont en cours de développement.* <br>
-> \*\* *Le wiki de cet atelier est obsolète et sera remplacé par le livre.*
+> Note : Le wiki de cet atelier a été converti en Bookdown en 2021-2022. <br>
+> Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop9), [FR](https://wiki.qcbs.ca/r_atelier9)).
 
+#### Jeux de données
+
+<a href="https://r.qcbs.ca/workshop09/pres-fr/data/doubsspe.csv" button type="button" class="btn btn-primary">doubsspe.csv</button></a> <a href="https://r.qcbs.ca/workshop09/pres-fr/data/doubsenv.csv" button type="button" class="btn btn-primary">doubsenv.csv</button></a>
+
+#### Scripts supplémentaires
+
+<a href="https://r.qcbs.ca/workshop09/pres-fr/data/coldiss.R" button type="button" class="btn btn-primary">coldiss.R</button></a>
 
 ### Contributions
 

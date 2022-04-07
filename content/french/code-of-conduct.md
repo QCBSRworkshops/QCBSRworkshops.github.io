@@ -2,7 +2,7 @@
 bg_image: images/sigmund-YUuSAJkS3U4-unsplash.jpeg
 description: 
 draft: false
-lastmod: 2021-09-21
+lastmod: 2022-03-01
 layout: faq
 menu:
   main:
@@ -17,7 +17,7 @@ title: Code de conduite
 
 La **série d’ateliers et le symposium R du CSBQ** ont l’objectif de fournir un environnement accueillant et favorable à toutes les personnes, indépendamment de leur origine ou de leur identité.
 
-Les participants, les présentateurs et les organisateurs de l'atelier et d'autres activités connexes **acceptent** le présent code de conduite lorsqu'ils sont présents à une activité liée à un atelier.
+Toute personne qui participe, présente, développe, ou organise un atelier R du CSBQ et d'autres activités connexes **accepte** le présent code de conduite lorsqu'elle est présente à une activité liée à un atelier.
 
 Nous ne tolérons pas les comportements irrespectueux, intimidants ou gênants pour les autres.
 
@@ -25,11 +25,11 @@ Nous ne tolérons pas la discrimination contre (y compris, sans toutefois s'y li
 
 Ce code s'applique à tous les espaces gérés par l'atelier ou affiliés à l'atelier, y compris, sans toutefois s'y limiter, les ateliers, les listes de diffusion et les forums en ligne tels que GitHub, Slack et Twitter.
 
-Les participants aux ateliers qui enfreignent ces règles peuvent être sanctionnés ou expulsés, sans remboursement, à notre discrétion.
+Les personnes qui participent aux ateliers qui enfreignent ces règles peuvent être sanctionnées ou expulsées, sans remboursement, à notre discrétion.
 
 ### Comportement prévisible
 
-Tous les participants et présentateurs doivent faire preuve de respect et de courtoisie envers les autres. Toutes les interactions doivent être professionnelles, quelle que soit la plate-forme: en ligne ou en personne. Afin de créer un environnement d'apprentissage positif et professionnel, nous encourageons les comportements suivants dans tous les ateliers et plateformes:
+Toutes les personnes qui participent ou présentent un atelier doivent faire preuve de respect et de courtoisie envers les autres. Toutes les interactions doivent être professionnelles, quelle que soit la plate-forme: en ligne ou en personne. Afin de créer un environnement d'apprentissage positif et professionnel, nous encourageons les comportements suivants dans tous les ateliers et plateformes:
 
 1. Utilisez un langage accueillant et inclusif;
 2. Soyez respectueux des différents points de vue et expériences;
@@ -39,7 +39,7 @@ Tous les participants et présentateurs doivent faire preuve de respect et de co
 
 ### Comportement inacceptable
 
-Les exemples de comportement inacceptable des participants et des présentateurs à tout événement / plate-forme d'atelier incluent:
+Les exemples de comportement inacceptable des personnes qui présentes à tout événement / plate-forme d'atelier incluent:
 
 1. les commentaires écrits ou verbaux qui ont pour effet d'exclure des personnes en raison de leur appartenance à un groupe spécifique;
 2. amener une personne à craindre pour sa sécurité, par exemple par le harcèlement criminel ou l'intimidation;
@@ -55,8 +55,6 @@ Les exemples de comportement inacceptable des participants et des présentateurs
 
 ## Actions
 
-Si un participant adopte un comportement harcelant, nous pouvons prendre toutes les mesures que nous jugeons appropriées, y compris avertir le délinquant ou l’expulser de l'atelier sans remboursement. 
+Si une personne qui participe à l'atelier adopte un comportement harcelant, nous pouvons prendre toutes les mesures que nous jugeons appropriées, y compris avertir cette personne ou l’expulser de l'atelier sans remboursement. Les personnes à qui il est demandé de mettre fin à tout comportement de harcèlement doivent se conformer immédiatement.
 
-Les participants à qui il est demandé de mettre fin à tout comportement de harcèlement doivent se conformer immédiatement.
-
-**Si vous êtes harcelé(e) ou remarquez que quelqu'un(e) d'autre est harcelé(e) ou pour toute autre question, veuillez contacter immédiatement les organisateurs de l'atelier.**
+En cas d'harcèlement, ou pour toute autre question, veuillez contacter immédiatement l'équipe de présentation de l'atelier, ainsi que l'équipe de coordination de la série d'ateliers R du CSBQ.

@@ -60,8 +60,16 @@ We will walk you through the steps to conduct a linear mixed model analysis, che
 <a href="https://r.qcbs.ca/workshop07/pres-fr/workshop07-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop07/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop07/book-fr/workshop07-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
 {{< /bootstrap-table >}}
 
-Archived written material is available on our wiki (<a href="https://wiki.qcbs.ca/r_workshop6">**EN**</a>, <a href="https://wiki.qcbs.ca/r_atelier6">**FR**</a>).
+> Note: The wiki for this workshop was converted to Bookdown in February 2021. <br> 
+> The wiki pages for this workshop will no longer be updated (Archive: [EN](https://wiki.qcbs.ca/r_workshop6), [FR](https://wiki.qcbs.ca/r_atelier6)). 
 
+#### Datasets
+
+<a href="https://r.qcbs.ca/workshop07/pres-en/data/fishdata.csv" button type="button" class="btn btn-primary">fishdata.csv</button></a> <a href="https://r.qcbs.ca/workshop07/pres-en/data/arabidopsis.csv" button type="button" class="btn btn-primary">arabidopsis.csv</button></a> <a href="https://r.qcbs.ca/workshop07/pres-en/data/inverts.csv" button type="button" class="btn btn-primary">invertsdata.csv</button></a> 
+
+#### Additional scripts
+
+<a href="https://r.qcbs.ca/workshop07/pres-en/data/glmm_funs.R" button type="button" class="btn btn-primary">glmm_funs.R</button></a>
 
 ----
 
@@ -81,6 +89,7 @@ Since 2014, several QCBS members contributed to consistently and collaboratively
 | Pedro Henrique P. Braga |                             |      Cédric Frenette Dussault  |
 |   Katherine Hébert      |                             |    Vincent Fugère         |
 |   Kevin Cazelles        |                             |    Thomas Lamy      |
-|           |                             |    Zofia Taranu      |
+|    Janaína Serrano      |                             |    Zofia Taranu      |
+|    Dominique Caron      |                             |                     |
 
 {{< /bootstrap-table >}}

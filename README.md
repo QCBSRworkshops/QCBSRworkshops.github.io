@@ -37,7 +37,7 @@ To edit these pages, modify the file of your choice in `content/english/` or in 
 
 ## Development workflow
 
-The website is built and deployed with the following GitHub Actions workflow: [`blogdown.yaml`](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/blob/main/.github/workflows/blogdown.yaml).
+The website is built and deployed with the following GitHub Actions workflow: [`blogdown.yaml`](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/blob/main/.github/workflows/blogdown.yaml). This workflow pauses if the repository is not edited for more than 19 days. If new changes are not showing on the website, try checking that this workflow is still enabled, and commit a small change to `main/` in order to trigger it.
 
 ## Authors
 
