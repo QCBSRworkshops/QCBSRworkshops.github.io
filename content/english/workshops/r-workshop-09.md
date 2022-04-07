@@ -51,18 +51,22 @@ You will first learn to choose appropriate distance metrics and transformations 
 
 [![badge](https://img.shields.io/static/v1?style=flat&label=Workshop&message=09&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop09) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-{{< bootstrap-table "table table-dark table-striped table-bordered" >}}
- Slides | Book | Script* | Wiki** 
-:-------:|:-----:|:-----:|:------: 
-<a href="https://r.qcbs.ca/workshop09/pres-en/workshop09-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop09/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop09/book-en/workshop09-script-en.R" button type="button" class="btn btn-default">English</button></a> | <a href="https://wiki.qcbs.ca/r_workshop9" button type="button" class="btn btn-default">English</button></a> |
-<a href="https://r.qcbs.ca/workshop09/pres-fr/workshop09-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop09/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop09/book-fr/workshop09-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | <a href="https://wiki.qcbs.ca/r_atelier9" button type="button" class="btn btn-default">Français</button></a> |
+{{< bootstrap-table "table table-striped table-bordered" >}}
+ Slides | Book | Script 
+:-------:|:-----:|:-----:
+<a href="https://r.qcbs.ca/workshop09/pres-en/workshop09-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop09/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop09/book-en/workshop09-script-en.R" button type="button" class="btn btn-default">English</button></a> | 
+<a href="https://r.qcbs.ca/workshop09/pres-fr/workshop09-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop09/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop09/book-fr/workshop09-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | 
 {{< /bootstrap-table >}}
 
+Archived written material is available on our wiki (<a href="https://wiki.qcbs.ca/r_workshop9">**EN**</a>, <a href="https://wiki.qcbs.ca/r_atelier9">**FR**</a>).
 
-> **Thank you for your patience as we make the following changes:**  
-> \* *The script and book for this workshop are under construction.* <br>
-> \*\* *The wiki for this workshop is deprecated, and will be replaced by the book.*
+#### Datasets
 
+<a href="https://r.qcbs.ca/workshop09/pres-en/data/doubsspe.csv" button type="button" class="btn btn-primary">doubsspe.csv</button></a> <a href="https://r.qcbs.ca/workshop09/pres-en/data/doubsenv.csv" button type="button" class="btn btn-primary">doubsenv.csv</button></a>
+
+#### Additional scripts
+
+<a href="https://r.qcbs.ca/workshop09/pres-en/data/coldiss.R" button type="button" class="btn btn-primary">coldiss.R</button></a>
 
 ### Contributors
 
