@@ -65,6 +65,10 @@ Présentation | Livre | Script
 > Note : Le wiki de cet atelier a été converti en Bookdown en février 2021. <br>
 > Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop10), [FR](https://wiki.qcbs.ca/r_atelier10)).
 
+#### Jeux de données
+
+<a href="https://r.qcbs.ca/workshop10/pres-fr/data/doubsspe.csv" button type="button" class="btn btn-primary">doubsspe.csv</button></a> <a href="https://r.qcbs.ca/workshop10/pres-fr/data/doubsenv.csv" button type="button" class="btn btn-primary">doubsenv.csv</button></a> <a href="https://r.qcbs.ca/workshop10/pres-fr/data/doubsspa.csv" button type="button" class="btn btn-primary">doubsspa.csv</button></a> <a href="https://r.qcbs.ca/workshop10/pres-fr/data/classifyme.csv" button type="button" class="btn btn-primary">classifyme.csv</button></a>
+
 ----
 
 ### Contributions

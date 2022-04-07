@@ -59,6 +59,10 @@ This workshop concentrates on constrained methods such as redundancy analysis (R
 
 Archived written material is available on our wiki (<a href="https://wiki.qcbs.ca/r_workshop10">**EN**</a>, <a href="https://wiki.qcbs.ca/r_atelier10">**FR**</a>).
 
+#### Datasets
+
+<a href="https://r.qcbs.ca/workshop10/pres-en/data/doubsspe.csv" button type="button" class="btn btn-primary">doubsspe.csv</button></a> <a href="https://r.qcbs.ca/workshop10/pres-en/data/doubsenv.csv" button type="button" class="btn btn-primary">doubsenv.csv</button></a> <a href="https://r.qcbs.ca/workshop10/pres-en/data/doubsspa.csv" button type="button" class="btn btn-primary">doubsspa.csv</button></a> <a href="https://r.qcbs.ca/workshop10/pres-en/data/classifyme.csv" button type="button" class="btn btn-primary">classifyme.csv</button></a>
+
 ----
 
 ### Contributors
