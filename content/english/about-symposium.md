@@ -25,6 +25,9 @@ We encourage the involvement of scientists at different career levels, from diff
 
 Workshops can be created and presented in English or in French. The language in which the workshop will be presented will be announced in the R Symposium schedule.
 
+### Learning and Development Award
+
+Each contributed workshop to the R Symposium will receive a Learning and Development Award (300$ per workshop).
 
 ### Submitting your proposal
 

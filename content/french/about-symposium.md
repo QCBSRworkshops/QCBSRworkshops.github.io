@@ -25,6 +25,11 @@ Il est important de noter que nous encourageons la participation de différents 
 
 Les ateliers peuvent être créés et présentés en anglais ou en français. La langue dans laquelle l'atelier sera présentée sera spécifé dans l'horaire du colloque.
 
+### Prix d’Apprentissage et Développement
+
+Chaque atelier contribué au Colloque R recevra un Prix d’Apprentissage et Développement (300$ par atelier). 
+
+
 ### Soumettre votre proposition
 
 Veuillez soumettre votre proposition afin d'être considéré pour le colloque avant le __29 avril 2022__:
