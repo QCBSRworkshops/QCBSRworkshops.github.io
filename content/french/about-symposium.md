@@ -1,6 +1,6 @@
 ---
 bg_image: images/symposium/gault.png
-description: 
+description:
 draft: false
 lastmod: 2021-12-08
 layout: faq
@@ -15,7 +15,7 @@ title: 4ème Colloque R du CSBQ
 
 ## Appel à la proposition d'ateliers
 
-Le 4ème Colloque R du CSBQ invite tous les membres du CSBQ aux études supérieurs ou au postdoctorat à soumettre des propositions d’ateliers R qui auront lieu en fin juin 2022, à l’Université Concordia, à Montréal (Québec). 
+Le 4ème Colloque R du CSBQ invite tous les membres du CSBQ aux études supérieurs ou au postdoctorat à soumettre des propositions d’ateliers R qui auront lieu en fin juin 2022, à l’Université Concordia, à Montréal (Québec).
 
 Le but du Colloque R est de fournir un cadre structuré pour la discussion et l’échange d’idées entre les participants et les présentateurs d’ateliers en ce qui a trait à l’utilisation de R pour les analyses en science de la biodiversité. À cette fin, nous fournirons un lieu pour l’enseignement et la participation à une série d’ateliers avancés en R qui ne sont pas offerts par la série d’ateliers annuelles en R du CSBQ.
 
@@ -27,8 +27,7 @@ Les ateliers peuvent être créés et présentés en anglais ou en français. La
 
 ### Prix d’Apprentissage et Développement
 
-Chaque atelier contribué au Colloque R recevra un Prix d’Apprentissage et Développement (300$ par atelier). 
-
+Chaque atelier contribué au Colloque R recevra un Prix d’Apprentissage et Développement de 300$ si l'atelier est contribué par une personne, ou de 400$ si l'atelier est contribué en collaboration avec une autre personne.
 
 ### Soumettre votre proposition
 

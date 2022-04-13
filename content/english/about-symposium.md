@@ -1,6 +1,6 @@
 ---
 bg_image: images/symposium/gault.png
-description: 
+description:
 draft: false
 lastmod: 2021-12-08
 layout: faq
@@ -15,7 +15,7 @@ title: 4th QCBS R Symposium
 
 ## Call for workshop proposals
 
-The 4th QCBS R Symposium invites all QCBS-associated graduate students and postdoctoral fellows to submit proposals for R workshops to be held in late June 2022, at Concordia University in Montreal (Québec).
+The 4th QCBS R Symposium invites all QCBS graduate students and postdoctoral fellows to submit proposals for R workshops to be held in late June 2022, at Concordia University in Montreal (Québec).
 
 The aim of the QCBS R Symposium is to provide a structured setting for the discussion and exchange of ideas between attendees and workshop presenters concerning the use of R in biodiversity analyses. For this, we provide a venue for the instruction and participation in a series of advanced R workshops that are not covered by the annual QCBS R Workshop Series.
 
@@ -27,7 +27,7 @@ Workshops can be created and presented in English or in French. The language in 
 
 ### Learning and Development Award
 
-Each contributed workshop to the R Symposium will receive a Learning and Development Award (300$ per workshop).
+Each contributed workshop to the R Symposium will receive a Learning and Development Award of 300$ per workshop contributed by one person, or of 400$ per workshop contributed in collaboration with another person.
 
 ### Submitting your proposal
 
