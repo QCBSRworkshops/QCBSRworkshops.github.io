@@ -15,19 +15,19 @@ title: 4th QCBS R Symposium
 
 ## Call for workshop proposals
 
-The 4th QCBS R Symposium invites all QCBS graduate students and postdoctoral fellows to submit proposals for R workshops to be held in late June 2022, at Concordia University in Montreal (Québec).
+__The 4th QCBS R Symposium invites all QCBS graduate students and postdoctoral fellows to submit proposals for R workshops to be held in late June 2022, at Concordia University in Montreal (Québec).__
 
 The aim of the QCBS R Symposium is to provide a structured setting for the discussion and exchange of ideas between attendees and workshop presenters concerning the use of R in biodiversity analyses. For this, we provide a venue for the instruction and participation in a series of advanced R workshops that are not covered by the annual QCBS R Workshop Series.
 
 Workshops should cover the concepts and the application of methods addressing relevant questions and content for graduate and post-doctoral scientists working in biodiversity research. We particularly encourage topics that are not covered by the regular QCBS R Workshop Series.
 
-We encourage the involvement of scientists at different career levels, from different institutions, and geographical locations. We also note that we are mindful of the gender balance of presenters and participants and of the participation of under-represented groups within the QCBS R Workshop related activities. To participate in the Symposium, you are required to read and agree to our [Code of Conduct](https://r.qcbs.ca/code-of-conduct/).
+We encourage the involvement of scientists at different career levels, from different institutions, and geographical locations. We also note that we are mindful of the gender balance of presenters and participants and of the participation of under-represented groups within the QCBS R Workshop related activities. To participate in the Symposium, you are required to read and agree to our __[Code of Conduct](https://r.qcbs.ca/code-of-conduct/)__.
 
-Workshops can be created and presented in English or in French. The language in which the workshop will be presented will be announced in the R Symposium schedule.
+__Workshops can be created and presented in English or in French.__ The language in which the workshop will be presented will be announced in the R Symposium schedule.
 
 ### Learning and Development Award
 
-Each contributed workshop to the R Symposium will receive a Learning and Development Award of 300$ per workshop contributed by one person, or of 400$ per workshop contributed in collaboration with another person.
+Each contributed workshop to the R Symposium will receive a __Learning and Development Award__ of 300$ per workshop contributed by one person, or of 400$ per workshop contributed in collaboration with another person.
 
 ### Submitting your proposal
 
