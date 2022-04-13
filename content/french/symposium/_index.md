@@ -4,9 +4,9 @@ description: Le Colloque R du CSBQ offre une opportunité pour enseigner et part
 draft: false
 menu:
   main:
-    identifier: symposium
-    name: Colloque R
-    weight: 5
-title: Colloque R du CSBQ
+    parent: Colloque R
+    name: Archive d'ateliers
+    weight: 2
+title: Archive des Colloques R du CSBQ
 ---
 
