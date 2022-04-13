@@ -34,7 +34,7 @@ Each contributed workshop to the R Symposium will receive a Learning and Develop
 Please submit your proposal to be considered for the symposium by __April 29, 2022__:
 
 <div class="default">
-     <a href="https://forms.gle/pAQRehVK5HxmDyPC6" class="cta btn-yellow" style="background-color: #8FBCBB; font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-weight:bold; text-decoration: none; padding: 14px 20px; color: #1D2025; border-radius: 5px; display:inline-block; mso-padding-alt:0; box-shadow:0 3px 6px rgba(0,0,0,.2);"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt"> </i><![endif]--><span style="mso-text-raise:15pt;">Propose a workshop!</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%"> </i><![endif]--></a>
+     <a href="https://forms.gle/7uXDifC117AWqBq4A" class="cta btn-yellow" style="background-color: #8FBCBB; font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-weight:bold; text-decoration: none; padding: 14px 20px; color: #1D2025; border-radius: 5px; display:inline-block; mso-padding-alt:0; box-shadow:0 3px 6px rgba(0,0,0,.2);"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt"> </i><![endif]--><span style="mso-text-raise:15pt;">Propose a workshop!</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%"> </i><![endif]--></a>
 </div>
 
 <br>
