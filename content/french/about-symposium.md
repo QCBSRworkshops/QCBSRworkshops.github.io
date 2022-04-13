@@ -39,7 +39,7 @@ Veuillez soumettre votre proposition afin d'être considéré pour le colloque a
 
 <br>
 
-Vous serez informé de la décision prise concernant votre proposition d'atelier par courriel au cours de la première semaine de mai.
+Vous recevrez une décision sur votre proposition d’atelier par courriel pendant la première semaine de mai 2022. 
 
 ## Lieu et date
 
