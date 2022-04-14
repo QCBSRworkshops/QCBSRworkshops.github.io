@@ -19,7 +19,7 @@ __The 4th QCBS R Symposium invites all QCBS graduate students and postdoctoral f
 
 The aim of the QCBS R Symposium is to provide a structured setting for the discussion and exchange of ideas between attendees and workshop presenters concerning the use of R in biodiversity analyses. For this, we provide a venue for the instruction and participation in a series of advanced R workshops that are not covered by the annual QCBS R Workshop Series.
 
-Workshops should cover the concepts and the application of methods addressing relevant questions and content for graduate and post-doctoral scientists working in biodiversity research. We particularly encourage topics that are not covered by the regular QCBS R Workshop Series.
+Workshops should cover the concepts and the application of methods addressing relevant questions and content for graduate and post-doctoral scientists working in biodiversity research. We particularly encourage topics that are not covered by the regular QCBS R Workshop Series. __You can check out contributed workshops from previous R Symposia [here](https://r.qcbs.ca/symposium/)__.
 
 We encourage the involvement of scientists at different career levels, from different institutions, and geographical locations. We also note that we are mindful of the gender balance of presenters and participants and of the participation of under-represented groups within the QCBS R Workshop related activities. To participate in the Symposium, you are required to read and agree to our __[Code of Conduct](https://r.qcbs.ca/code-of-conduct/)__.
 

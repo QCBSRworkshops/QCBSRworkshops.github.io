@@ -19,7 +19,7 @@ __Le 4ème Colloque R du CSBQ invite tous les membres du CSBQ aux études supér
 
 Le but du Colloque R est de fournir un cadre structuré pour la discussion et l’échange d’idées entre les participants et les présentateurs d’ateliers en ce qui a trait à l’utilisation de R pour les analyses en science de la biodiversité. À cette fin, nous fournissons un lieu pour l’enseignement et la participation à une série d’ateliers avancés en R qui ne sont pas offerts par la série d’ateliers annuelles en R du CSBQ.
 
-Les ateliers proposés devraient couvrir des concepts et des outils en R pour s'adresser à des questions pertinentes pour la science de la biodiversité, et qui ne sont pas offerts par la série d’ateliers annuelles en R du CSBQ.
+Les ateliers proposés devraient couvrir des concepts et des outils en R pour s'adresser à des questions pertinentes pour la science de la biodiversité, et qui ne sont pas offerts par la série d’ateliers annuelles en R du CSBQ. __Vous pouvez consulter des exemples d'ateliers contribués aux Colloques R précédents [ici](https://r.qcbs.ca/fr/symposium/)__.
 
 Il est important de noter que nous encourageons la participation de différents niveaux de carrières, institutions, et emplacements géographiques. Nous porterons également attention à l’équilibre entre les genres des personnes participantes, ainsi qu’à la représentation des groupes sous-représentés au sein des activités reliées aux Ateliers R du CSBQ. Pour participer au colloque, vous êtes tenu de lire et d'accepter notre [Code de Conduite](https://r.qcbs.ca/fr/code-of-conduct/).
 
