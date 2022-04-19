@@ -66,7 +66,7 @@ Archived written material is available on our wiki (<a href="https://wiki.qcbs.c
 
 #### Additional scripts
 
-<a href="https://r.qcbs.ca/workshop09/pres-en/data/coldiss.R" button type="button" class="btn btn-primary">coldiss.R</button></a>
+<a href="https://r.qcbs.ca/workshop09/pres-en/data/coldiss.r" button type="button" class="btn btn-primary">coldiss.R</button></a>
 
 ### Contributors
 

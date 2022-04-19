@@ -72,7 +72,7 @@ multivariées: des groupements, des Analyses en Composantes Principales (PCA), d
 
 #### Scripts supplémentaires
 
-<a href="https://r.qcbs.ca/workshop09/pres-fr/data/coldiss.R" button type="button" class="btn btn-primary">coldiss.R</button></a>
+<a href="https://r.qcbs.ca/workshop09/pres-fr/data/coldiss.r" button type="button" class="btn btn-primary">coldiss.R</button></a>
 
 ### Contributions
 
