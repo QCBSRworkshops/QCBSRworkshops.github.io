@@ -31,7 +31,7 @@ __Chaque atelier contribué au Colloque R recevra un Prix d’Apprentissage et D
 
 ### Soumettre votre proposition
 
-Veuillez soumettre votre proposition afin d'être considéré pour le colloque avant le __29 avril 2022__:
+Veuillez soumettre votre proposition afin d'être considéré pour le colloque avant le __4 mai 2022__:
 
 <div class="default">
      <a href="https://forms.gle/7uXDifC117AWqBq4A" class="cta btn-yellow" style="background-color: #8FBCBB; font-size: 14px; font-family: Helvetica, Arial, sans-serif; font-weight:bold; text-decoration: none; padding: 14px 20px; color: #1D2025; border-radius: 5px; display:inline-block; mso-padding-alt:0; box-shadow:0 3px 6px rgba(0,0,0,.2);"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt"> </i><![endif]--><span style="mso-text-raise:15pt;">Proposez un atelier!</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%"> </i><![endif]--></a>
@@ -39,7 +39,7 @@ Veuillez soumettre votre proposition afin d'être considéré pour le colloque a
 
 <br>
 
-Vous recevrez une décision sur votre proposition d’atelier par courriel pendant la première semaine de mai 2022.
+Vous recevrez une décision sur votre proposition d’atelier par courriel pendant la semaine du 9 mai 2022.
 
 ## Lieu et date
 
