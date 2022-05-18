@@ -28,12 +28,12 @@ __Date:__ 22 & 23 juin 2022 (9:00 AM - 16:30 PM).
 
 ## Inscription
 
-L'inscription au 4e Colloque R du CSBQ est maintenant __ouverte__ !
+Les inscriptions pour le 4e Colloque R du CSBQ sont maintenant __ouvertes__ !
 
 Les frais de participation au 4ème Symposium R du CSBQ sont de __20$ pour les membres du CSBQ__, et de __100$ pour les non-membres du CSBQ__. _Ces frais incluent le dîner et les pauses-café pour les deux journées du Colloque, et nous aident à compenser les coûts d'organisation de cet événement_.
 
 <div class="default">
-     <a href="LINK HERE LINK HERE" class="cta btn-yellow" style="background-color: #746c84; font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-weight:bold; text-decoration: none; padding: 14px 20px; color: #FFFFFF; border-radius: 5px; display:inline-block; mso-padding-alt:0; box-shadow:0 3px 6px rgba(0,0,0,.2);"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt"> </i><![endif]--><span style="mso-text-raise:15pt;">Inscrivez-vous ici</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%"> </i><![endif]--></a>
+     <a href="https://registration.qcbs.ca/r-symposium-2022" class="cta btn-yellow" style="background-color: #746c84; font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-weight:bold; text-decoration: none; padding: 14px 20px; color: #FFFFFF; border-radius: 5px; display:inline-block; mso-padding-alt:0; box-shadow:0 3px 6px rgba(0,0,0,.2);"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt"> </i><![endif]--><span style="mso-text-raise:15pt;">Inscrivez-vous ici</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%"> </i><![endif]--></a>
 </div>
 
 <br>
