@@ -13,18 +13,16 @@ subtitle: L'objectif du Colloque R du CSBQ est de fournir un cadre structuré po
 title: 4ème Colloque R du CSBQ
 ---
 
+<<<<<<< HEAD
 Le Colloque R du CSBQ est de retour! La 4ème édition du Colloque R vous invite à participer à des ateliers R contribués par des membres du CSBQ qui auront lieu __en présentiel__ le 22 et 23 juin 2022 à l’Université Concordia à Montréal, Québec.
 
 Le but du Colloque R est de fournir un cadre structuré pour la discussion et l’échange d’idées entre les participants et les présentateurs d’ateliers en ce qui a trait à l’utilisation de R pour les analyses en science de la biodiversité. À cette fin, nous fournissons un lieu pour l’enseignement et la participation à une série d’ateliers avancés en R qui ne sont pas offerts par la série d’ateliers annuelles en R du CSBQ.
 
 ## Lieu et date
 
-Le 4ème Colloque R aura lieu le __22 au 23 juin 2022__ au __campus Loyola de l'Université Concordia__ à Montréal, Québec. Consultez le programme complet [__ici__](#program).
-
 __Lieu:__ Jesuit Hall Conference Center, Local RF-110.
 
-__Date:__ 22 & 23 juin 2022 (9:00 AM - 16:30 PM). 
-
+__Date:__ 22 & 23 juin 2022 (9:00 AM - 16:30 PM).
 
 ## Inscription
 
@@ -40,10 +38,10 @@ Les frais de participation au 4ème Symposium R du CSBQ sont de __20$ pour les m
 
 ## Programme {#program}
 
-### Jour 1: 22 juin 2022 
+### Jour 1: 22 juin 2022
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
- Heure (EST) | Événement  |  Presenté par | Description 
+ Heure (EST) | Événement  |  Presenté par | Description
 :------:|:---|:---:|:---:|
 | 9:00 - 10:00  | Bienvenu (avec café!)  | Série d'ateliers R |   |
 | 10:00 - 11:30  | Modélisation par équations structurelles <br>et inférence écologique [EN] | [Nicole Knight](nicole.knight@mail.mcgill.ca) | [Plus de détails](#sem)  |
@@ -62,11 +60,11 @@ Les frais de participation au 4ème Symposium R du CSBQ sont de __20$ pour les m
 | 9:00 - 10:30  | Simulations dans R  [EN/FR]  | [Marc-Olivier Beausoleil](marc-olivier.beausoleil@mail.mcgill.ca)  | [Plus de détails](#sims) |
 | 10:30 - 11:00 | _Break_  |   |   |
 | 9:00 - 10:30  | Simulations dans R [EN/FR]  | [Marc-Olivier Beausoleil](marc-olivier.beausoleil@mail.mcgill.ca)  | [Plus de détails](#sims) |
-| 12:00 - 13:00  | _Lunch_  |   |  |  
+| 12:00 - 13:00  | _Lunch_  |   |  |
 | 13:00 - 14:00  | Introduction à GitHub et&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [Plus de détails](#git) |
 | 14:00 - 14:30 | _Break_  |   |   |
 | 14:30 - 16:00  | Introduction à GitHub et&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [Plus de détails](#git) |
-| 16:00 - 16:30  | Conclusion  | Série d'ateliers R  |   |  
+| 16:00 - 16:30  | Conclusion  | Série d'ateliers R  |   |
 {{< /bootstrap-table >}}
 
 > __*Note__ : La langue qui sera utilisée pour présenter le matériel est indiquée entre parenthèses après chaque titre d'atelier. Les ateliers bilingues seront présentés dans une langue, tandis que les diapositives et/ou le matériel écrit seront dans l'autre langue. L'équipe de la série d'ateliers R du CSBQ sera disponible pour répondre à toute question ou discussion en anglais ou en français tout au long du Symposium.

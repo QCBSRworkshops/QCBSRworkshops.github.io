@@ -23,7 +23,7 @@ The 4th QCBS R Symposium will be held from __June 22 to June 23rd 2022__ at __Co
 
 __Venue:__ Jesuit Hall Conference Center, Room RF-110.
 
-__Date:__ June 22 & 23rd 2022 (9:00 AM - 16:30 PM). 
+__Date:__ June 22 & 23rd 2022 (9:00 AM - 16:30 PM).
 
 ## Registration
 
@@ -38,13 +38,12 @@ The attendance fee for the 4th QCBS R Symposium is __20$ for QCBS members__, and
 <br>
 
 
-
 ## Program {#program}
 
-### Day 1: June 22, 2022 
+### Day 1: June 22, 2022
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
- Time (EST) | Event  |  Presented by | Description 
+ Time (EST) | Event  |  Presented by | Description
 :------:|:---|:---:|:---:|
 | 9:00 - 10:00  | Welcome (with coffee!)  | QCBS R Workshop Series |   |
 | 10:00 - 11:30  | Structural equation modelling <br>and ecological inference [EN] | [Nicole Knight](nicole.knight@mail.mcgill.ca) | [More details](#sem)  |
@@ -63,11 +62,11 @@ The attendance fee for the 4th QCBS R Symposium is __20$ for QCBS members__, and
 | 9:00 - 10:30  | Simulations in R  [EN/FR]  | [Marc-Olivier Beausoleil](marc-olivier.beausoleil@mail.mcgill.ca)  | [More details](#sims) |
 | 10:30 - 11:00 | _Break_  |   |   |
 | 9:00 - 10:30  | Simulations in R [EN/FR]  | [Marc-Olivier Beausoleil](marc-olivier.beausoleil@mail.mcgill.ca)  | [More details](#sims) |
-| 12:00 - 13:00  | _Lunch_  |   |  |  
+| 12:00 - 13:00  | _Lunch_  |   |  |
 | 13:00 - 14:00  | Introduction to GitHub and&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [More details](#git) |
 | 14:00 - 14:30 | _Break_  |   |   |
 | 14:30 - 16:00  | Introduction to GitHub and&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [More details](#git) |
-| 16:00 - 16:30  | Wrap-up  | QCBS R Workshop Series  |   |  
+| 16:00 - 16:30  | Wrap-up  | QCBS R Workshop Series  |   |
 {{< /bootstrap-table >}}
 
 > __*Note__: The language that will be used to present the material is indicated between brackets after each workshop title. Bilingual workshops will be presented in one language, while the slides and/or written material will be in the other language. The QCBS R Workshop Series team will be available to help with any questions or discussions in English or in French throughout the Symposium.
