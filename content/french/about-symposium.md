@@ -13,7 +13,6 @@ subtitle: L'objectif du Colloque R du CSBQ est de fournir un cadre structuré po
 title: 4ème Colloque R du CSBQ
 ---
 
-<<<<<<< HEAD
 Le Colloque R du CSBQ est de retour! La 4ème édition du Colloque R vous invite à participer à des ateliers R contribués par des membres du CSBQ qui auront lieu __en présentiel__ le 22 et 23 juin 2022 à l’Université Concordia à Montréal, Québec.
 
 Le but du Colloque R est de fournir un cadre structuré pour la discussion et l’échange d’idées entre les participants et les présentateurs d’ateliers en ce qui a trait à l’utilisation de R pour les analyses en science de la biodiversité. À cette fin, nous fournissons un lieu pour l’enseignement et la participation à une série d’ateliers avancés en R qui ne sont pas offerts par la série d’ateliers annuelles en R du CSBQ.
