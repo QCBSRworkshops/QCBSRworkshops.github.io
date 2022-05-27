@@ -20,7 +20,9 @@ Le but du Colloque R est de fournir un cadre structuré pour la discussion et l�
 
 ## Lieu et date
 
-__Lieu:__ Jesuit Hall Conference Center, Local RF-110.
+__Lieu:__ Loyola [Salle des Jésuites (Jesuit Hall) et centre de conférence](https://www.concordia.ca/maps/buildings/concordia-panoramas/rf-refectory-exterior.html), [room RF-110](https://www.concordia.ca/maps/buildings/concordia-panoramas/rf-main-3.html).
+
+__Addresse:__ [7141, rue Sherbrooke Ouest, Montréal, H4B 1R6](https://www.google.com/maps/place/7141+Sherbrooke+St+W,+Montreal,+QC+H4B+1R6/data=!4m2!3m1!1s0x4cc91731f42c28a5:0xae5ffe0824e83f0e?sa=X&ved=2ahUKEwiJwsTv8f73AhVnSjABHbn4BL4Q8gF6BAghEAE)
 
 __Date:__ 22 & 23 juin 2022 (9:00 AM - 16:30 PM).
 
@@ -77,13 +79,13 @@ Contribué par [__Nicole Knight__](nicole.knight@mail.mcgill.ca) (McGill Univers
 
 Les modèles d'équations structurelles (MES) constituent un outil puissant pour l'analyse des systèmes écologiques complexes, car ils peuvent tenir compte des relations directes et indirectes. Cependant, un grand pouvoir statistique implique une grande responsabilité statistique, et les SEM doivent donc être conçus et mis en œuvre avec soin.
 
-Cet atelier fournira une introduction conceptuelle et pratique aux SEM. Il mettra l'accent sur 1) l'utilisation des connaissances préalables pour créer des diagrammes causaux significatifs, 2) la traduction des relations hypothétiques en modèles appropriés, et 3) l'interprétation des résultats statistiques pour faire des inférences valides sur les relations écologiques. Nous examinerons des exemples de SEM par morceaux décrivant des systèmes écologiques et couvrirons des sujets supplémentaires tels que les variables latentes et composites, la validation des modèles et la sélection des modèles.
+Cet atelier fournira une introduction conceptuelle et pratique aux MES. Il mettra l'accent sur 1) l'utilisation des connaissances préalables pour créer des diagrammes causaux significatifs, 2) la traduction des relations hypothétiques en modèles appropriés, et 3) l'interprétation des résultats statistiques pour faire des inférences valides sur les relations écologiques. Nous examinerons des exemples de SEM par morceaux décrivant des systèmes écologiques et couvrirons des sujets supplémentaires tels que les variables latentes et composites, la validation des modèles et la sélection des modèles.
 
 ### Modèles d’occupation {#occmodels}
 
 Contribué par [__Clara Casabona i Amat__](Clara.Casabona.I.Amat@USherbrooke.ca) (Université de Sherbrooke)
 
-Les modèles d’occupation de sites sont des modèles qui prennent en compte de la détection imparfaite d’organismes pour déterminer la probabilité de présence d’une espèce sur un site. Ils peuvent être considérés comme une extension des modèles linéaires généralisés à effets mixtes (GLMM). Dans les données d'échantillonnage, la présence d’une espèce sur un site est le résultat de deux processus: l’espèce est présente et l’espèce a été détectée. Cependant, l’absence d'une l’espèce sur site peut être le résultat de deux phénomènes: l'espèce n’est pas présente ou l’espèce est présente, mais elle n’a pas été détecté. Dans les modèles d’occupation, nous pouvons quantifier cette incertitude de détection en utilisant des sites qui ont été visités au moins deux fois. Nous allons montrer des exemples d'application en utilisant le package R "unmarked".
+Les modèles d’occupation de sites sont des modèles qui prennent en compte de la détection imparfaite d’organismes pour déterminer la probabilité de présence d’une espèce sur un site. Ils peuvent être considérés comme une extension des modèles linéaires généralisés à effets mixtes (GLMM). Dans les données d'échantillonnage, la présence d’une espèce sur un site est le résultat de deux processus: l’espèce est présente et l’espèce a été détectée. Cependant, l’absence d'une l’espèce sur site peut être le résultat de deux phénomènes: l'espèce n’est pas présente ou l’espèce est présente, mais elle n’a pas été détecté. Dans les modèles d’occupation, nous pouvons quantifier cette incertitude de détection en utilisant des sites qui ont été visités au moins deux fois. Nous allons montrer des exemples d'application en utilisant le package R `unmarked`.
 
 
 ### Applications web Shiny pour communiquer votre science {#shiny}
@@ -105,4 +107,6 @@ Les simulations ont l'avantage de rendre explicite la conception expérimentale 
 
 Contribué par [__Pedro Henrique P. Braga__](ph.pereirabraga@gmail.com) (Concordia University) & [__Katherine Hébert__](katherine.hebert@usherbrooke.ca) (Université de Sherbrooke)
 
-_Using GitHub Actions to apply continuous integration during document development to safely add and test contributed changes from many users (who use different systems)._
+Les collaborations sont rarement statiques : lorsque des personnes travaillent ensemble sur des projets, il s'agit d'un processus de développement continu qui consiste à apporter des idées, à donner et à recevoir des commentaires, et à répondre à ces recommandations par des modifications jusqu'à ce que l'objectif soit atteint. Ces étapes se chevauchent souvent, les personnes qui collaborent modifiant simultanément les fichiers du projet. Cette dynamique rend très difficile (et très déroutant !) le travail sur des documents qui circulent dans le groupe, les versions des changements étant suivies en mettant à jour les noms de fichiers avec des initiales, des dates ou "`document_version_finale_233`". C'est là que GitHub entre en jeu !
+
+Dans cet atelier, nous allons démontrer et discuter comment GitHub - une plateforme commune de contrôle de version et de collaboration - peut aider à gérer les collaborations de manière dynamique, avec transparence et traçabilité. Nous commencerons par montrer brièvement comment GitHub peut être utilisé pour collecter, traiter et suivre les commentaires et les contributions au code et aux documents par le biais de problèmes et de demandes de retrait. Nous ferons ensuite une démonstration et une discussion sur les actions GitHub, qui peuvent automatiser les flux de travail pour construire, tester et publier du contenu dans vos dépôts. Nous examinerons comment mettre en œuvre et dépanner les actions qui effectuent des tests de code R, le rendu de documents Rmarkdown et la publication de sites Web afin de garantir que toutes les contributions sont intégrées de manière sûre et continue dans votre projet.
