@@ -31,7 +31,7 @@ __Date:__ June 22nd & 23rd, 2022, from 9:00 AM to 4:30 PM.
 
 Registration for the 4th QCBS R Symposium is now __open__!
 
-The attendance fee for the 4th QCBS R Symposium is __20$ for QCBS members__, and __100$ for QCBS non-members__. _This fee includes lunch and coffee breaks on both symposium dates, and helps us offset the costs of hosting this event._
+The attendance fee for the 4th QCBS R Symposium is __20$ for QCBS members__, and __150$ for QCBS non-members__. _This fee includes lunch and coffee breaks on both symposium dates, and helps us offset the costs of hosting this event._
 
 <div class="default">
      <a href="https://registration.qcbs.ca/r-symposium-2022" class="cta btn-yellow" style="background-color: #746c84; font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-weight:bold; text-decoration: none; padding: 14px 20px; color: #FFFFFF; border-radius: 5px; display:inline-block; mso-padding-alt:0; box-shadow:0 3px 6px rgba(0,0,0,.2);"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt"> </i><![endif]--><span style="mso-text-raise:15pt;">Register here</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%"> </i><![endif]--></a>
@@ -63,7 +63,7 @@ The attendance fee for the 4th QCBS R Symposium is __20$ for QCBS members__, and
 :------:|:---|:---:|:---:
 | 9:00 - 10:30  | Simulations in R  [EN/FR]  | [Marc-Olivier Beausoleil](marc-olivier.beausoleil@mail.mcgill.ca)  | [More details](#sims) |
 | 10:30 - 11:00 | _Break_  |   |   |
-| 9:00 - 10:30  | Simulations in R [EN/FR]  | [Marc-Olivier Beausoleil](marc-olivier.beausoleil@mail.mcgill.ca)  | [More details](#sims) |
+| 11:00 - 12:00  | Simulations in R [EN/FR]  | [Marc-Olivier Beausoleil](marc-olivier.beausoleil@mail.mcgill.ca)  | [More details](#sims) |
 | 12:00 - 13:00  | _Lunch_  |   |  |
 | 13:00 - 14:00  | Introduction to GitHub and&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [More details](#git) |
 | 14:00 - 14:30 | _Break_  |   |   |
