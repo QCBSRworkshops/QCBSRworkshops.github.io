@@ -25,6 +25,10 @@ __Addresse:__ [7141, rue Sherbrooke Ouest, Montréal, H4B 1R6](https://www.googl
 
 __Date:__ 22 & 23 juin 2022 (9:00 AM - 16:30 PM).
 
+## Remerciements pour le soutien
+
+L'aide logistique de [Danielle Mac Rae](https://qcbs.ca/student-member/?student=2949) par son role dans [l'Association des étudiants des cycles supérieurs en biologie de Concordia](https://concordiabgsa.weebly.com/) a été essentielle pour l'organisation de cet événement.
+
 ## Inscription
 
 Les inscriptions pour le 4e Colloque R du CSBQ sont maintenant __ouvertes__ !
