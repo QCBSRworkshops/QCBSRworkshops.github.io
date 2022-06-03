@@ -27,6 +27,10 @@ __Address:__ [7141 Sherbrooke Street W., Montreal, H4B 1R6](https://www.google.c
 
 __Date:__ June 22nd & 23rd, 2022, from 9:00 AM to 4:30 PM.
 
+## Support Acknowledgement
+
+Logistical help from the [Concordia Biology Graduate Student Association](https://concordiabgsa.weebly.com/) (through [Danielle Mac Rae](https://qcbs.ca/student-member/?student=2949)) has been essential for the organization of this event.
+
 ## Registration
 
 Registration for the 4th QCBS R Symposium is now __open__!
