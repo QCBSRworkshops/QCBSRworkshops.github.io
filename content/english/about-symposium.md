@@ -44,7 +44,26 @@ The attendance fee for the 4th QCBS R Symposium is __20$ for QCBS members__, and
 <br>
 
 
+## Virtual attendance
+
+Many R Symposium workshop contributors have kindly agreed to stream their workshop on Zoom, for those of you who cannot make it to the R Symposium in person. __Workshops marked with an asterisk (*) in the program will be streamed.__
+
+Register in advance here to watch the streamed workshops on Zoom (this link applies for both R Symposium dates):
+
+<div class="default">
+     <a href="https://us02web.zoom.us/meeting/register/tZMudeyppz0pHtSN6ym5fqFIH7UAqW5CPEHG" class="cta btn-yellow" style="background-color: #746c84; font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-weight:bold; text-decoration: none; padding: 14px 20px; color: #FFFFFF; border-radius: 5px; display:inline-block; mso-padding-alt:0; box-shadow:0 3px 6px rgba(0,0,0,.2);"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt"> </i><![endif]--><span style="mso-text-raise:15pt;">Register to attend on Zoom</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%"> </i><![endif]--></a>
+</div>
+
+<br>
+
+After registering, you will receive a confirmation email containing information about joining the meeting.
+
+It is important to note that the workshops will __not__ be run as hybrid workshops, meaning presentations, exercises, and discussions may not be optimised for a remote setting. Chat questions will be fielded to the workshop presenters whenever possible. We thank you for your understanding.
+
+
 ## Program {#program}
+
+> __Note__: Workshops marked with * will be streamed on Zoom.
 
 ### Day 1: June 22, 2022
 
@@ -52,11 +71,11 @@ The attendance fee for the 4th QCBS R Symposium is __20$ for QCBS members__, and
  Time (EST) | Event  |  Presented by | Description
 :------:|:---|:---:|:---:|
 | 9:00 - 10:00  | Welcome (with coffee!)  | QCBS R Workshop Series |   |
-| 10:00 - 11:30  | Structural equation modelling <br>and ecological inference [EN] | [Nicole Knight](nicole.knight@mail.mcgill.ca) | [More details](#sem)  |
+| 10:00 - 11:30  | Structural equation modelling <br>and ecological inference* [EN] | [Nicole Knight](nicole.knight@mail.mcgill.ca) | [More details](#sem)  |
 | 12:00 - 13:00  | _Lunch_  |   |  |  |
-| 13:00 - 14:30  | Occupation Models [FR] | [Clara Casabona i Amat](Clara.Casabona.I.Amat@USherbrooke.ca) |  [More details](#occmodels) |
+| 13:00 - 14:30  | Occupation Models* [FR] | [Clara Casabona i Amat](Clara.Casabona.I.Amat@USherbrooke.ca) |  [More details](#occmodels) |
 | 14:30 - 15:00  | _Break_ |   |   |
-| 15:00 - 16:30  | Shiny Web Apps for <br> Communicating Science [EN] |  [Jake Lawlor](jake.lawlor@mail.mcgill.ca) | [More details](#shiny) |
+| 15:00 - 16:30  | Shiny Web Apps for <br> Communicating Science* [EN] |  [Jake Lawlor](jake.lawlor@mail.mcgill.ca) | [More details](#shiny) |
 | TBD  | Social event (details to come) |   |  |
 {{< /bootstrap-table >}}
 
@@ -69,13 +88,13 @@ The attendance fee for the 4th QCBS R Symposium is __20$ for QCBS members__, and
 | 10:30 - 11:00 | _Break_  |   |   |
 | 11:00 - 12:00  | Simulations in R [EN/FR]  | [Marc-Olivier Beausoleil](marc-olivier.beausoleil@mail.mcgill.ca)  | [More details](#sims) |
 | 12:00 - 13:00  | _Lunch_  |   |  |
-| 13:00 - 14:00  | Introduction to GitHub and&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [More details](#git) |
+| 13:00 - 14:00  | Introduction to GitHub and&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions* [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [More details](#git) |
 | 14:00 - 14:30 | _Break_  |   |   |
-| 14:30 - 16:00  | Introduction to GitHub and&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [More details](#git) |
+| 14:30 - 16:00  | Introduction to GitHub and&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions* [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [More details](#git) |
 | 16:00 - 16:30  | Wrap-up  | QCBS R Workshop Series  |   |
 {{< /bootstrap-table >}}
 
-> __*Note__: The language that will be used to present the material is indicated between brackets after each workshop title. Bilingual workshops will be presented in one language, while the slides and/or written material will be in the other language. The QCBS R Workshop Series team will be available to help with any questions or discussions in English or in French throughout the Symposium.
+> __Note__: The language that will be used to present the material is indicated between brackets after each workshop title. Bilingual workshops will be presented in one language, while the slides and/or written material will be in the other language. The QCBS R Workshop Series team will be available to help with any questions or discussions in English or in French throughout the Symposium.
 
 
 ## Contributed Workshops

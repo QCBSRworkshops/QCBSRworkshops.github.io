@@ -41,7 +41,26 @@ Les frais de participation au 4ème Symposium R du CSBQ sont de __20$ pour les m
 
 <br>
 
+## Participer à distance
+
+Plusieurs personnes qui contribuent des ateliers pendant le Colloque R ont gentiment accepté de diffuser leur atelier sur Zoom, pour les personnes qui ne peuvent pas participer au Colloque R en personne! 
+
+Inscrivez-vous à l'avance ici pour assister aux ateliers en streaming sur Zoom (ce lien s'applique aux deux dates du Colloque R) :
+
+<div class="default">
+     <a href="https://us02web.zoom.us/meeting/register/tZMudeyppz0pHtSN6ym5fqFIH7UAqW5CPEHG" class="cta btn-yellow" style="background-color: #746c84; font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-weight:bold; text-decoration: none; padding: 14px 20px; color: #FFFFFF; border-radius: 5px; display:inline-block; mso-padding-alt:0; box-shadow:0 3px 6px rgba(0,0,0,.2);"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt"> </i><![endif]--><span style="mso-text-raise:15pt;">Inscrivez-vous pour participer sur Zoom</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%"> </i><![endif]--></a>
+</div>
+
+<br>
+
+Après votre inscription, vous recevrez un courriel de confirmation contenant les informations nécessaires pour participer à la réunion.
+
+Il est important de noter que les ateliers ne seront __pas__ animés en tant qu'ateliers hybrides, ce qui signifie que les présentations, les exercices et les discussions peuvent ne pas être optimisés pour un environnement à distance. Les questions écrites dans le “chat” seront transmises à la personne qui présente. Nous vous remercions pour votre compréhension.
+
+
 ## Programme {#program}
+
+> __Note__: Les ateliers suivis par * seront diffusés sur Zoom.
 
 ### Jour 1: 22 juin 2022
 
@@ -49,11 +68,11 @@ Les frais de participation au 4ème Symposium R du CSBQ sont de __20$ pour les m
  Heure (EST) | Événement  |  Presenté par | Description
 :------:|:---|:---:|:---:|
 | 9:00 - 10:00  | Bienvenu (avec café!)  | Série d'ateliers R |   |
-| 10:00 - 11:30  | Modélisation par équations structurelles <br>et inférence écologique [EN] | [Nicole Knight](nicole.knight@mail.mcgill.ca) | [Plus de détails](#sem)  |
+| 10:00 - 11:30  | Modélisation par équations structurelles <br>et inférence écologique* [EN] | [Nicole Knight](nicole.knight@mail.mcgill.ca) | [Plus de détails](#sem)  |
 | 12:00 - 13:00  | _Dîner_  |   |  |  |
-| 13:00 - 14:30  | Modèles d’occupation [FR] | [Clara Casabona i Amat](Clara.Casabona.I.Amat@USherbrooke.ca) |  [Plus de détails](#occmodels) |
+| 13:00 - 14:30  | Modèles d’occupation* [FR] | [Clara Casabona i Amat](Clara.Casabona.I.Amat@USherbrooke.ca) |  [Plus de détails](#occmodels) |
 | 14:30 - 15:00  | _Pause_ |   |   |
-| 15:00 - 16:30  | Applications web Shiny<br>pour communiquer votre science [EN] |  [Jake Lawlor](jake.lawlor@mail.mcgill.ca) | [Plus de détails](#shiny) |
+| 15:00 - 16:30  | Applications web Shiny<br>pour communiquer votre science* [EN] |  [Jake Lawlor](jake.lawlor@mail.mcgill.ca) | [Plus de détails](#shiny) |
 | À venir  | Événement social (détails à venir) |   |  |
 {{< /bootstrap-table >}}
 
@@ -66,9 +85,9 @@ Les frais de participation au 4ème Symposium R du CSBQ sont de __20$ pour les m
 | 10:30 - 11:00 | _Break_  |   |   |
 | 11:00 - 12:00  | Simulations dans R [EN/FR]  | [Marc-Olivier Beausoleil](marc-olivier.beausoleil@mail.mcgill.ca)  | [Plus de détails](#sims) |
 | 12:00 - 13:00  | _Lunch_  |   |  |
-| 13:00 - 14:00  | Introduction à GitHub et&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [Plus de détails](#git) |
+| 13:00 - 14:00  | Introduction à GitHub et&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions* [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [Plus de détails](#git) |
 | 14:00 - 14:30 | _Break_  |   |   |
-| 14:30 - 16:00  | Introduction à GitHub et&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [Plus de détails](#git) |
+| 14:30 - 16:00  | Introduction à GitHub et&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions* [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [Plus de détails](#git) |
 | 16:00 - 16:30  | Conclusion  | Série d'ateliers R  |   |
 {{< /bootstrap-table >}}
 
