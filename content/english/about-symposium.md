@@ -73,10 +73,10 @@ It is important to note that the workshops will __not__ be run as hybrid worksho
 | 9:00 - 10:00  | Welcome (with coffee!)  | QCBS R Workshop Series |   |
 | 10:00 - 11:30  | Structural equation modelling <br>and ecological inference* [EN] | [Nicole Knight](nicole.knight@mail.mcgill.ca) | [More details](#sem)  |
 | 12:00 - 13:00  | _Lunch_  |   |  |  |
-| 13:00 - 14:30  | Occupation Models* [FR] | [Clara Casabona i Amat](Clara.Casabona.I.Amat@USherbrooke.ca) |  [More details](#occmodels) |
+| 13:00 - 14:30  | Occupancy Models* [FR] | [Clara Casabona i Amat](Clara.Casabona.I.Amat@USherbrooke.ca) |  [More details](#occmodels) |
 | 14:30 - 15:00  | _Break_ |   |   |
 | 15:00 - 16:30  | Shiny Web Apps for <br> Communicating Science* [EN] |  [Jake Lawlor](jake.lawlor@mail.mcgill.ca) | [More details](#shiny) |
-| TBD  | Social event (details to come) |   |  |
+| TBD  | Social event (details in your emails) |   |  |
 {{< /bootstrap-table >}}
 
 ### Day 2: June 23, 2022
