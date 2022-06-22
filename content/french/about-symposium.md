@@ -43,7 +43,7 @@ Les frais de participation au 4ème Symposium R du CSBQ sont de __20$ pour les m
 
 ## Participer à distance
 
-Plusieurs personnes qui contribuent des ateliers pendant le Colloque R ont gentiment accepté de diffuser leur atelier sur Zoom, pour les personnes qui ne peuvent pas participer au Colloque R en personne! 
+Plusieurs personnes qui contribuent des ateliers pendant le Colloque R ont gentiment accepté de diffuser leur atelier sur Zoom, pour les personnes qui ne peuvent pas participer au Colloque R en personne!
 
 Inscrivez-vous à l'avance ici pour assister aux ateliers en streaming sur Zoom (ce lien s'applique aux deux dates du Colloque R) :
 
@@ -70,7 +70,7 @@ Il est important de noter que les ateliers ne seront __pas__ animés en tant qu'
 | 9:00 - 10:00  | Bienvenu (avec café!)  | Série d'ateliers R |   |
 | 10:00 - 11:30  | Modélisation par équations structurelles <br>et inférence écologique* [EN] | [Nicole Knight](nicole.knight@mail.mcgill.ca) | [Plus de détails](#sem)  |
 | 12:00 - 13:00  | _Dîner_  |   |  |  |
-| 13:00 - 14:30  | Modèles d’occupation* [FR] | [Clara Casabona i Amat](Clara.Casabona.I.Amat@USherbrooke.ca) |  [Plus de détails](#occmodels) |
+| 13:00 - 14:30  | Modèles d’occupation - __REPORTÉ__ [FR] | [Clara Casabona i Amat](Clara.Casabona.I.Amat@USherbrooke.ca) |  [Plus de détails](#occmodels) |
 | 14:30 - 15:00  | _Pause_ |   |   |
 | 15:00 - 16:30  | Applications web Shiny<br>pour communiquer votre science* [EN] |  [Jake Lawlor](jake.lawlor@mail.mcgill.ca) | [Plus de détails](#shiny) |
 | À venir  | Événement social (détails à venir) |   |  |
