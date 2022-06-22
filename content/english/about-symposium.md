@@ -50,7 +50,7 @@ The attendance fee for the 4th QCBS R Symposium is __20$ for QCBS members__, and
 | 9:00 - 10:00  | Welcome (with coffee!)  | QCBS R Workshop Series |   |
 | 10:00 - 11:30  | Structural equation modelling <br>and ecological inference [EN] | [Nicole Knight](nicole.knight@mail.mcgill.ca) | [More details](#sem)  |
 | 12:00 - 13:00  | _Lunch_  |   |  |  |
-| 13:00 - 14:30  | Occupation Models [FR] | [Clara Casabona i Amat](Clara.Casabona.I.Amat@USherbrooke.ca) |  [More details](#occmodels) |
+| 13:00 - 14:30  | Occupancy Models - __POSTPONED__ [FR] | [Clara Casabona i Amat](Clara.Casabona.I.Amat@USherbrooke.ca) |  [More details](#occmodels) |
 | 14:30 - 15:00  | _Break_ |   |   |
 | 15:00 - 16:30  | Shiny Web Apps for <br> Communicating Science [EN] |  [Jake Lawlor](jake.lawlor@mail.mcgill.ca) | [More details](#shiny) |
 | TBD  | Social event (details to come) |   |  |
@@ -80,11 +80,11 @@ The attendance fee for the 4th QCBS R Symposium is __20$ for QCBS members__, and
 
 Contributed by [__Nicole Knight__](nicole.knight@mail.mcgill.ca) (McGill University)
 
-Structural equation models (SEM) are a powerful tool for analyzing complex ecological systems, as they can account for direct and indirect relationships by modelling multiple response variables. However, with great statistical power comes great statistical responsibility, and so SEMs must be carefully designed and implemented. 
+Structural equation models (SEM) are a powerful tool for analyzing complex ecological systems, as they can account for direct and indirect relationships by modelling multiple response variables. However, with great statistical power comes great statistical responsibility, and so SEMs must be carefully designed and implemented.
 
 This workshop will provide a conceptual and practical introduction to SEMs. It will emphasize 1) using prior knowledge to create meaningful causal diagrams, 2) translating hypothesized relationships to appropriate model designs, and 3) interpreting statistical output to make valid inferences about ecological relationships. We will go through examples of piecewise SEMs describing ecological systems, and cover additional topics such as latent and composite variables, model validation, and model selection.
 
-### Occupation Modelling {#occmodels}
+### Occupancy Modelling {#occmodels}
 
 Contributed by [__Clara Casabona i Amat__](Clara.Casabona.I.Amat@USherbrooke.ca) (Université de Sherbrooke)
 
