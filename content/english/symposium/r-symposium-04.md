@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Gene expression"]
 description: by Sébastien Renaut
 draft: false
-image: images/symposium/geneexpression.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: English
   label: Language
@@ -22,4 +22,4 @@ Next generation sequencing has promised cheap DNA sequences to the masses. While
 
 ### Workshop material
 
-- The workshop material can be accessed [here](https://github.com/seb951/rnaseq_workshop).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Presentation&message=Open&color=BF616A)](https://github.com/seb951/rnaseq_workshop)

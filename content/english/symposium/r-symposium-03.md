@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Modelling", "Mapping", "SDM"]
 description: by Pedro Henrique P. Braga and Julia Nordlund
 draft: false
-image: images/symposium/sdm.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: English
   label: Language
@@ -22,4 +22,4 @@ Species distribution models (SDM) have been widely applied to address many quest
 
 ### Workshop material
 
-- The workshop material can be accessed [here](https://pedrohbraga.github.io/SpeciesDistribModelling-in-R-Workshop/sdm_workshop.html).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Presentation&message=Open&color=BF616A)](https://pedrohbraga.github.io/SpeciesDistribModelling-in-R-Workshop/sdm_workshop.html)

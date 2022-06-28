@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Mapping", "Spatial analysis", "Reproducibility"]
 description: by Marie-Hélène Brice
 draft: false
-image: images/symposium/geospatial.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: English
   label: Language
@@ -24,5 +24,4 @@ Until recently, spatial analysis in R has largely relied on the package sp and i
 
 ### Workshop material
 
-- The workshop slides can be accessed [here](https://mhbrice.github.io/Rspatial/#1).  
-- The workshop tutorial can be accessed [here](https://mhbrice.github.io/Rspatial/Rspatial_script.html). 
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Presentation&message=Open&color=BF616A)](https://mhbrice.github.io/Rspatial/#1) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Tutorial&message=Open&color=B48EAD)](https://mhbrice.github.io/Rspatial/Rspatial_script.html)

@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Phylogenetics", "Trait evolution"]
 description: by Pedro Henrique P. Braga
 draft: false
-image: images/symposium/phylogenetics.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: English
   label: Language
@@ -36,4 +36,4 @@ By the end of the course, students should be able to:
 
 ### Workshop material
 
-* The workshop tutorial can be accessed [here](https://pedrohbraga.github.io/PhyloCompMethods-in-R-workshop/PhyloCompMethodsMaterial.html).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Tutorial&message=Open&color=BF616A)](https://pedrohbraga.github.io/PhyloCompMethods-in-R-workshop/PhyloCompMethodsMaterial.html)

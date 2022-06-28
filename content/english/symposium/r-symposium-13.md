@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Reproducibility", "Markdown"]
 description: by Steve Vissault and Marie-Hélène Brice
 draft: false
-image: images/symposium/touchdown.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: English
   label: Language
@@ -22,5 +22,4 @@ Publication per peer-review process is made by and for scientists. It is also a 
 
 ### Workshop material
 
-* The workshop slides can be accessed [here](https://insileco.github.io/ResearchDown/#1).
-* The workshop material and requirements can be accessed [here](https://github.com/inSileco/ResearchDown).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Presentation&message=Open&color=BF616A)](https://insileco.github.io/ResearchDown/#1) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&message=Material&color=B48EAD)](https://github.com/inSileco/ResearchDown)

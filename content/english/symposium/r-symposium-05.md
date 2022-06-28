@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Bayesian"]
 description: by Max Farrell and Marc-Olivier Beausoleil
 draft: false
-image: images/symposium/bayesianbiologist.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: English
   label: Language
@@ -22,6 +22,4 @@ Jump with us into the world of probabilities with a workshop on Bayesian inferen
 
 ### Workshop material
 
-- The workshop slides can be accessed [here](https://wiki.qcbs.ca/_media/youre_probably_mbtyt.pdf).  
-- An introductory tutorial to Stan, rstan, and rstanarm can be accessed [here](https://github.com/maxfarrell/qcbs_stan_workshop). 
-- A tutorial about MCMC inference can be accessed [here](https://github.com/beausoleilmo/qcbs_bayesian_workshop).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Presentation&message=Open&color=BF616A)](https://wiki.qcbs.ca/_media/youre_probably_mbtyt.pdf) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Tutorial&message=Stan&color=B48EAD)](https://github.com/maxfarrell/qcbs_stan_workshop) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Tutorial&message=MCMC&color=8FBCBB)](https://github.com/beausoleilmo/qcbs_bayesian_workshop)

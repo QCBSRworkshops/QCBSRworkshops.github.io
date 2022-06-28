@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["eDNA", "Community ecology"]
 description: by Alexis Carteron and Simon Morvan
 draft: false
-image: images/symposium/edna.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: English
   label: Language
@@ -22,4 +22,4 @@ With the democratisation of high-throughput sequencing, the use of DNA as an ide
 
 ### Workshop material
 
-* The workshop material can be accessed [here](https://alexiscarter.github.io/metab/).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Presentation&message=Open&color=BF616A)](https://alexiscarter.github.io/metab/)

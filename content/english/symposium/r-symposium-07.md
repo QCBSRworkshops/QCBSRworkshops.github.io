@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Survival analysis"]
 description: by Julie Landes
 draft: false
-image: images/portfolio/work1.jpg
+image: images/symposium/gradienta.jpeg
 information:
 - info: English
   label: Language

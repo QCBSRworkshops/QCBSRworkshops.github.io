@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Data mining"]
 description: by Gabriel Muñoz
 draft: false
-image: images/symposium/mining.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: English
   label: Language
@@ -22,5 +22,4 @@ Product of centuries of research, a vast amount of information about life on our
 
 ### Workshop material
 
-* The workshop slides are accessible [here](https://docs.google.com/presentation/d/1vUt8GdHCS9j3d_VEn-ftYsdayRgkzFIYKMSEGutoEVQ/edit).
-* To follow the workshop, please download the materials for the [Examples](https://drive.google.com/open?id=1CNIIWZFXsTLdaL5f82hZX7R_4T-n1Prc), [Exercise 1](https://drive.google.com/file/d/1Sp_4oaXPpZvAsC1ymA_aKJxPoWF6KuFX/view?usp=sharing), and [Exercise 2](https://drive.google.com/file/d/1o32RbKgGjaP6MFtc4UZnilt7-F0uMElL/view?usp=sharing).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Presentation&message=Open&color=BF616A)](https://docs.google.com/presentation/d/1vUt8GdHCS9j3d_VEn-ftYsdayRgkzFIYKMSEGutoEVQ/edit) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Examples&message=01&color=B48EAD)](https://drive.google.com/open?id=1CNIIWZFXsTLdaL5f82hZX7R_4T-n1Prc) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Exercise&message=01&color=8FBCBB)](https://drive.google.com/file/d/1Sp_4oaXPpZvAsC1ymA_aKJxPoWF6KuFX/view?usp=sharing) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Exercise&message=02&color=A3BE8C)](https://drive.google.com/file/d/1o32RbKgGjaP6MFtc4UZnilt7-F0uMElL/view?usp=sharing)
