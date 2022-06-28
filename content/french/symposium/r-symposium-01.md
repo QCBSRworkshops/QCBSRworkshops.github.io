@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Reproductibilité", "Science ouverte", "Github", "Markdown"]
 description: par Monica Granados
 draft: false
-image: images/symposium/open.jpeg
+image: images/symposium/gradienta.jpeg
 information:
 - info: Anglais
   label: Langue
@@ -23,4 +23,4 @@ Imaginez que chaque article que vous publiez à partir de maintenant pourrait ê
 
 ### Matériel de l'atelier
 
-- Le matériel de l'atelier est accessible [ici](https://wiki.qcbs.ca/r_symposium_open_science#workshop_5open_science_and_reproducibility_in_r).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Présentation&message=Ouvrir&color=BF616A)](https://wiki.qcbs.ca/r_symposium_open_science#workshop_5open_science_and_reproducibility_in_r)

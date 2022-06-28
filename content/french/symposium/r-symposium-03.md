@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Modélisation", "Cartographie", "SDM"]
 description: par Pedro Henrique P. Braga and Julia Nordlund
 draft: false
-image: images/symposium/sdm.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: Anglais
   label: Langue
@@ -22,4 +22,4 @@ Les modèles de distribution des espèces (SDM) ont été largement appliqués p
 
 ### Matériel de l'atelier
 
-- Le matériel de l'atelier est accessible [ici](https://pedrohbraga.github.io/SpeciesDistribModelling-in-R-Workshop/sdm_workshop.html).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Présentation&message=Ouvrir&color=BF616A)](https://pedrohbraga.github.io/SpeciesDistribModelling-in-R-Workshop/sdm_workshop.html)

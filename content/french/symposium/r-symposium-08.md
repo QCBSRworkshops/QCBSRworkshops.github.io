@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["cartographie", "Analyse spatiale", "Reproductibilité"]
 description: par Marie-Hélène Brice
 draft: false
-image: images/symposium/geospatial.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: Anglais
   label: Langue
@@ -24,5 +24,4 @@ Jusqu'à récemment, l'analyse spatiale en R s'appuyait largement sur le paquet 
 
 ### Matériel de l'atelier
 
-- La présentation est accessible [ici](https://mhbrice.github.io/Rspatial/#1).  
-- Le tutoriel de l'atelier est accessible  [ici](https://mhbrice.github.io/Rspatial/Rspatial_script.html). 
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Présentation&message=Ouvrir&color=BF616A)](https://mhbrice.github.io/Rspatial/#1) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Tutoriel&message=Ouvrir&color=B48EAD)](https://mhbrice.github.io/Rspatial/Rspatial_script.html)

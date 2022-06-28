@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Phylogénétique", "Écologie des communautés"]
 description: par Pedro Henrique P. Braga et Katherine Hébert
 draft: false
-image: images/symposium/phylogenetics2.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: Anglais
   label: Langue
@@ -22,5 +22,4 @@ Comment les espèces s'assemblent-elles en communautés ? Quels sont les mécani
 
 ### Matériel de l'atelier
 
-* Le tutoriel est accessible [ici](https://pedrohbraga.github.io/CommunityPhylogenetics-Workshop/CommunityPhylogenetics-Workshop.html).
-
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Tutoriel&message=Ouvrir&color=BF616A)](https://pedrohbraga.github.io/CommunityPhylogenetics-Workshop/CommunityPhylogenetics-Workshop.html)

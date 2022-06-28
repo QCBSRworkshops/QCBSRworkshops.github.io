@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Reproductibilité", "Markdown"]
 description: par Steve Vissault et Marie-Hélène Brice
 draft: false
-image: images/symposium/touchdown.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: Anglais
   label: Langue
@@ -22,5 +22,4 @@ La publication par le processus d'examen par les pairs est faite par et pour les
 
 ### Matériel de l'atelier
 
-* La présentation est accessible [ici](https://insileco.github.io/ResearchDown/#1).
-* Le matériel requis pour l'atelier est accessibles [ici](https://github.com/inSileco/ResearchDown).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Présentation&message=Ouvrir&color=BF616A)](https://insileco.github.io/ResearchDown/#1) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&message=Matériel&color=B48EAD)](https://github.com/inSileco/ResearchDown)

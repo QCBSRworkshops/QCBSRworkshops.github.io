@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Écologie communautaire", "Diversité beta"]
 description: par Vincent Fugère et Katrine Turgeon
 draft: false
-image: images/symposium/betadiversity.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: Anglais
   label: Langue
@@ -22,4 +22,4 @@ La variation de la composition des espèces d'un site à l'autre est connue sous
 
 ### Matériel de l'atelier
 
-* Le tutoriel de l'atelier est accessible  [ici](https://github.com/VFugere/QCBS_betadiv).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Tutoriel&message=Ouvrir&color=BF616A)](https://github.com/VFugere/QCBS_betadiv)

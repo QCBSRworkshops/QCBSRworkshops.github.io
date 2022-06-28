@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["eDNA", "Écologie des communautés"]
 description: par Alexis Carteron et Simon Morvan
 draft: false
-image: images/symposium/edna.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: Anglais
   label: Langue
@@ -22,4 +22,4 @@ Avec la démocratisation du séquençage à haut débit, l'utilisation de l'ADN 
 
 ### Matériel de l'atelier
 
-* Le matériel de l'atelier est accessible [ici](https://alexiscarter.github.io/metab/).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Présentation&message=Ouvrir&color=BF616A)](https://alexiscarter.github.io/metab/)
