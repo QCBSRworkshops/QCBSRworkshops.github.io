@@ -23,6 +23,8 @@ La recherche sur la biodiversité consiste à essayer de comprendre les phénom�
 
 Les simulations ont l'avantage de rendre explicite la conception expérimentale et de montrer les effets auquel on s'intéresse à déterminer, avant de mener l'étude. La valeur ici est que les étudiant(e)s pourraient mieux comprendre l'implication d'une conception d'étude et sa valeur, sans gaspiller de ressources avec des méthodes d'essais et d'erreurs. Le transport des essais et erreurs in silico accélérerait la compréhension des étudiant(e)s sur la façon dont ils et elles peuvent mieux concevoir leurs études.
 
-### Matériel de l'atelier
+### Matériel de l'atelier 
 
 [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Présentation&message=Ouvrir&color=BF616A)](https://beausoleilmo.github.io/Rsimulation/workshopXX-en.html#1) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Script&message=R&color=B48EAD)](https://github.com/beausoleilmo/Rsimulation/blob/6786d553e657db08ae28a31c5a4764dade704400/workshopXX-En/scripts/workshopXX-en.r) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Cheatsheet&message=R&color=8FBCBB)](https://docs.google.com/presentation/d/11bNgLUCyvlL8Ndq_nF-N6T71dZwgETbhbSHuc40VqvU/edit?usp=sharing)
+
+[![badge](https://img.shields.io/static/v1?style=social&logo=github&label=GitHub&message=beausoleilmo&color=BF616A)](https://github.com/beausoleilmo/Rsimulation)
