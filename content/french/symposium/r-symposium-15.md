@@ -26,3 +26,12 @@ Dans cet atelier, nous allons démontrer et discuter comment GitHub - une platef
 ### Matériel de l'atelier
 
 [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Présentation&message=Ouvrir&color=BF616A)](https://pedrohbraga.github.io/IntroGitHubActions-Workshop/presentation-en/IntroToGitHub_GitHubActions_QCBSRSym2022_KH_PHPB_en.html#1) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Exercice&message=01&color=B48EAD)](https://pedrohbraga.github.io/IntroGitHubActions-Workshop/exercises/Exercise1.html#1) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Exercice&message=02&color=8FBCBB)](https://pedrohbraga.github.io/IntroGitHubActions-Workshop/exercises/IntroGitHubActions_exercise_2.html)
+
+Explorez des démonstrations ici:
+
+[![badge](https://img.shields.io/static/v1?style=social&logo=github&label=GitHub&message=katherinehebert/demo-runRscript&color=BF616A)](https://github.com/katherinehebert/demo-runRscript) 
+
+[![badge](https://img.shields.io/static/v1?style=social&logo=github&label=GitHub&message=katherinehebert/demo-deployshiny&color=BF616A)](https://github.com/katherinehebert/demo-deployshiny) 
+
+Le matériel a été développé sur [![badge](https://img.shields.io/static/v1?style=social&logo=github&label=GitHub&message=pedrohbraga/IntroGitHubActions-Workshop&color=BF616A)](https://github.com/pedrohbraga/IntroGitHubActions-Workshop) 
+

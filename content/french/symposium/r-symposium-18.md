@@ -25,4 +25,4 @@ Cet atelier présentera la programmation réactive dans l'environnement R Shiny,
 
 [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Présentation&message=Ouvrir&color=BF616A)](https://docs.google.com/presentation/d/1PDTU4RXZ2GjaqPxHjK_fnry2MFJUtnnGf1HLl-aaSI8/edit#slide=id.p) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Apps&message=Exemples&color=B48EAD)](https://github.com/jakelawlor/Shiny_App_Tutorial) 
 
-[![badge](https://img.shields.io/static/v1?style=social&logo=github&label=GitHub&message=jakelawlor&color=BF616A)](https://github.com/jakelawlor/Shiny_App_Tutorial) 
+Le matériel a été développé sur [![badge](https://img.shields.io/static/v1?style=social&logo=github&label=GitHub&message=jakelawlor/Shiny_App_Tutorial&color=BF616A)](https://github.com/jakelawlor/Shiny_App_Tutorial) 

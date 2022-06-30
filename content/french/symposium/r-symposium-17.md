@@ -27,5 +27,4 @@ Cet atelier fournira une introduction conceptuelle et pratique aux MES. Il mettr
 
 [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Présentation&message=Ouvrir&color=BF616A)](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/blob/main/static/data/SEM_workshop.pdf) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Script&message=R&color=B48EAD)](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/blob/main/static/data/SEMs_R_symposium.R) 
 
-[![badge](https://img.shields.io/static/v1?style=social&logo=github&label=GitHub&message=nicoleknight0&color=BF616A)](https://github.com/nicoleknight0/RSymposium_SEM_workshop)
-
+Le matériel a été développé sur [![badge](https://img.shields.io/static/v1?style=social&logo=github&label=GitHub&message=nicoleknight0/RSymposium_SEM_workshop&color=BF616A)](https://github.com/nicoleknight0/RSymposium_SEM_workshop) 
