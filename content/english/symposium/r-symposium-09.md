@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Community ecology", "Beta diversity"]
 description: by Vincent Fugère and Katrine Turgeon
 draft: false
-image: images/symposium/betadiversity.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: English
   label: Language
@@ -22,4 +22,4 @@ Variation in species composition across sites is known as beta diversity. This i
 
 ### Workshop material
 
-* The workshop tutorial can be accessed [here](https://github.com/VFugere/QCBS_betadiv).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Tutorial&message=Open&color=BF616A)](https://github.com/VFugere/QCBS_betadiv)

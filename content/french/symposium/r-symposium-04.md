@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Expression génétique"]
 description: par Sébastien Renaut
 draft: false
-image: images/symposium/geneexpression.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: Anglais
   label: Langue
@@ -22,4 +22,4 @@ Le séquençage de nouvelle génération a promis des séquences d'ADN bon march
 
 ### Matériel de l'atelier
 
-- Le matériel de l'atelier est accessible [ici](https://github.com/seb951/rnaseq_workshop).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Présentation&message=Ouvrir&color=BF616A)](https://github.com/seb951/rnaseq_workshop)

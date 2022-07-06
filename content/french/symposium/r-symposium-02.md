@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Bayésien", "Modélisation"]
 description: par Guillaume Blanchet
 draft: false
-image: images/symposium/jointmodelling.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: Anglais
   label: Langue
@@ -22,5 +22,6 @@ Les systèmes naturels sont complexes et leur compréhension est une tâche diff
 
 ### Matériel de l'atelier
 
-- Le matériel de l'atelier est accessible [ici](https://github.com/guiblanchet/jointmodelling). 
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Présentation&message=Ouvrir&color=BF616A)](https://github.com/guiblanchet/jointmodelling) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Installer&message=HMSC&color=B48EAD)](https://github.com/guiblanchet/HMSC)
+
 - La librairie [HMSC](https://github.com/guiblanchet/HMSC) doit être installée pour suivre l'atelier.

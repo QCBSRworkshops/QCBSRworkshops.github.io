@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Bayesian", "Modelling"]
 description: by Guillaume Blanchet
 draft: false
-image: images/symposium/jointmodelling.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: English
   label: Language
@@ -22,5 +22,6 @@ Natural systems are complex and understanding them is a challenging task. In rec
 
 ### Workshop material
 
-- The workshop material can be accessed [here](https://github.com/guiblanchet/jointmodelling). 
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Presentation&message=Open&color=BF616A)](https://github.com/guiblanchet/jointmodelling) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Install&message=HMSC&color=B48EAD)](https://github.com/guiblanchet/HMSC)
+
 - You will need to install the [HMSC](https://github.com/guiblanchet/HMSC) package to work through the material.

@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Reproducibility", "Data visualization"]
 description: by Tania Maxwell
 draft: false
-image: images/symposium/dataviz.png
+image: images/symposium/gradienta.jpeg
 information:
 - info: English
   label: Language
@@ -22,4 +22,4 @@ As scientists, we are writers and artists. Images and figures are excellent and 
 
 ### Workshop material
 
-* The workshop slides are accessible [here](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/blob/main/static/data/Maxwell_data_visualization_2019.pdf).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Presentation&message=Open&color=BF616A)](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io/blob/main/static/data/Maxwell_data_visualization_2019.pdf)

@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Reproducibility", "Open Science", "Github", "Markdown"]
 description: by Monica Granados
 draft: false
-image: images/symposium/open.jpeg
+image: images/symposium/gradienta.jpeg
 information:
 - info: English
   label: Language
@@ -22,4 +22,4 @@ Imagine if every paper you ever publish from now on could be reproduced by anyon
 
 ### Workshop material
 
-- The workshop material can be accessed [here](https://wiki.qcbs.ca/r_symposium_open_science#workshop_5open_science_and_reproducibility_in_r).
+[![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Presentation&message=Open&color=BF616A)](https://wiki.qcbs.ca/r_symposium_open_science#workshop_5open_science_and_reproducibility_in_r)

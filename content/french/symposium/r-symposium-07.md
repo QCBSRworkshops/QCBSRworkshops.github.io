@@ -3,7 +3,7 @@ bg_image: images/symposium/gault.png
 category: ["Analyses de survie"]
 description: par Julie Landes
 draft: false
-image: images/portfolio/work1.jpg
+image: images/symposium/gradienta.jpeg
 information:
 - info: Anglais
   label: Langue
