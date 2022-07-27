@@ -24,4 +24,4 @@ This workshop will introduce reactive programming in the R Shiny environment, an
 
 [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Presentation&message=Open&color=BF616A)](https://docs.google.com/presentation/d/1PDTU4RXZ2GjaqPxHjK_fnry2MFJUtnnGf1HLl-aaSI8/edit#slide=id.p) [![badge](https://img.shields.io/static/v1?style=for-the-badge&label=Apps&message=Examples&color=B48EAD)](https://github.com/jakelawlor/Shiny_App_Tutorial) 
 
-The material was developped on [![badge](https://img.shields.io/static/v1?style=social&logo=github&label=GitHub&message=jakelawlor/Shiny_App_Tutorial&color=BF616A)](https://github.com/jakelawlor/Shiny_App_Tutorial) 
+The material was developed on [![badge](https://img.shields.io/static/v1?style=social&logo=github&label=GitHub&message=jakelawlor/Shiny_App_Tutorial&color=BF616A)](https://github.com/jakelawlor/Shiny_App_Tutorial) 
