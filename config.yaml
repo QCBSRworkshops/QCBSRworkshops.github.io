@@ -5,7 +5,7 @@ paginate: '4'
 summaryLength: '30'
 disableLanguages: [it, de]
 disqusShortname: ''
-googleAnalytics: 'UA-200956415-1'
+googleAnalytics: 'G-D3D28G3DC0'
 outputs:
   home: HTML
 markup:
@@ -27,7 +27,7 @@ params:
       success_image: images/paper-plane.svg
       use_netlify: yes
     location: "\r\n**QCBS R Workshop Series**  \r\n Québec Centre for Biodiversity Science  \r\nQuébec, Canada"
-    #phone: 
+    #phone:
   cookies:
     enable: yes
     expire_days: 2
