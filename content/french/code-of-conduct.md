@@ -2,7 +2,7 @@
 bg_image: images/sigmund-YUuSAJkS3U4-unsplash.jpeg
 description: 
 draft: false
-lastmod: 2022-03-01
+lastmod: 2022-10-15
 layout: faq
 menu:
   main:
@@ -27,7 +27,7 @@ Ce code s'applique à tous les espaces gérés par l'atelier ou affiliés à l'a
 
 Les personnes qui participent aux ateliers qui enfreignent ces règles peuvent être sanctionnées ou expulsées, sans remboursement, à notre discrétion.
 
-### Comportement prévisible
+### Comportement attendu
 
 Toutes les personnes qui participent ou présentent un atelier doivent faire preuve de respect et de courtoisie envers les autres. Toutes les interactions doivent être professionnelles, quelle que soit la plate-forme: en ligne ou en personne. Afin de créer un environnement d'apprentissage positif et professionnel, nous encourageons les comportements suivants dans tous les ateliers et plateformes:
 

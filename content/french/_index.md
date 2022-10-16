@@ -60,7 +60,7 @@ funfacts:
   title: Faits saillants sur la Série R
 menu:
   main:
-    name: Home
+    name: Accueil
     weight: 1
 portfolio:
   bg_image: images/fakurian-design-UqP7U400AZs-unsplash.jpeg
