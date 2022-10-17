@@ -24,6 +24,10 @@ This website presents information about the QCBS R Workshop Series, including:
 
 To edit these pages, modify the file of your choice in `content/english/` or in `content/french`.
 
+To add images or data that can be referenced and used in the website, place files in `static/images` or `static/data`.
+
+To edit the layout of a given page or section, edit the .html file in `themes/airspace-hugo/layouts/` that is referenced as the layout in the YAML header of the .md file containing the page content. You can also make your own html layout for a new page, as we did for the R Symposium and the Workshop pages.
+
 ## Building the website
 
 1. Set your working directory to the website repository folder, or simply open the R project `website.Rproj`.
