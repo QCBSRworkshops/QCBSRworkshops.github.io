@@ -23,7 +23,7 @@ jobs:
           submodules: recursive
         
       - name: Install npm
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v3
 
       - name: Install postcss-cli and autoprefixer
         run: |
@@ -31,21 +31,21 @@ jobs:
           npm install autoprefixer
 
       - name: 💻 Setup R
-        uses: r-lib/actions/setup-r@v1
+        uses: r-lib/actions/setup-r@v2
 
       - name: 💻 Install pandoc and pandoc citeproc
-        uses: r-lib/actions/setup-pandoc@v1
+        uses: r-lib/actions/setup-pandoc@v2
         with:
           pandoc-version: '2.12'
           
       - name: Install TinyTeX
-        uses: r-lib/actions/setup-tinytex@v1
+        uses: r-lib/actions/setup-tinytex@v2
         env:
           # install full prebuilt version
           TINYTEX_INSTALLER: TinyTeX
           
       - name: 💾 Cache R packages
-        uses: actions/cache@v2 # Must be v2 so it accepts the GITHUB_REF from the repository_dispatch
+        uses: actions/cache@v3 # Must be v2 so it accepts the GITHUB_REF from the repository_dispatch
         with:
           path: ${{ env.R_LIBS_USER }}
           key:  r-${{ hashFiles('DESCRIPTION') }}
@@ -69,7 +69,7 @@ jobs:
           Rscript -e 'blogdown::build_site(TRUE)'
 
       - name: 🔺 Upload artifact containing the rendered website
-        uses: actions/upload-artifact@v2.2.3
+        uses: actions/upload-artifact@v3
         with:
           name: website
           path: public/
@@ -90,7 +90,7 @@ jobs:
           persist-credentials: false
           
       - name: 🔻 Download artifact containing the book
-        uses: actions/download-artifact@v1
+        uses: actions/download-artifact@v3
         with:
          # Artifact name
          name: website # optional
