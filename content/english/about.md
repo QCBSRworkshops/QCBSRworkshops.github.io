@@ -20,7 +20,7 @@ about:
   - count: "51"
     icon: ion-ios-wineglass-outline
     name: Contributors
-  - count: "12"
+  - count: "15"
     icon: ion-ios-chatboxes-outline
     name: Coordinators
   - count: "10"
