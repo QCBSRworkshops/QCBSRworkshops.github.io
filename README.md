@@ -45,7 +45,7 @@ The website is built and deployed with the following GitHub Actions workflow: [`
 
 ## Authors
 
-This website was originally developed by Pedro Henrique Pereira Braga and Katherine Hébert, with input from Linley Sherin and Esteban Gongora.
+This website was originally developed by Pedro Henrique Pereira Braga and Katherine Hébert, with input from Antoine Caron-Guay, Linley Sherin and Esteban Gongora.
 
 ## Funding
 
