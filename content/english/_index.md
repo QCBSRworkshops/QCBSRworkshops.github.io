@@ -28,16 +28,16 @@ funfacts:
   description: We are graduate students and post-doctoral fellows from the Québec Centre for Biodiversity Science. We develop and instruct workshops on a wide-array of statistical and computational methods to help other fellow early-career researchers from the network to navigate their analyses in ecology, evolution and biodiversity science.
   enable: true
   funfact_item:
-  - count: "3382"
+  - count: "3656"
     icon: ion-ios-chatboxes-outline
     name: Registrations
-  - count: "646"
+  - count: "735"
     icon: ion-ios-glasses-outline
     name: Participants
-  - count: "95"
+  - count: "105"
     icon: ion-ios-compose-outline
-    name: Instructors
-  - count: "51"
+    name: Presenters
+  - count: "52"
     icon: ion-ios-timer-outline
     name: Contributors
   testimonial_slider:
