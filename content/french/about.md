@@ -8,19 +8,19 @@ about:
     La Série d'ateliers R du CSBQ est une initiative des membres étudiants des cycles supérieurs et postdoctorants du Centre québécois des sciences de la biodiversité (CSBQ). <br>Nous offrons des ateliers sur la programmation et les statistiques pour la recherche en écologie, évolution et biodiversité.
   enable: true
   funfacts:
-  - count: "3518"
+  - count: "3656"
     icon: ion-ios-body-outline
     name: Inscriptions
-  - count: "686"
+  - count: "735"
     icon: ion-ios-body-outline
     name: Personnes participantes
-  - count: "99"
+  - count: "104"
     icon: ion-ios-body-outline
     name: Personnes chargées de l'instruction
-  - count: "51"
+  - count: "52"
     icon: ion-ios-wineglass-outline
     name: Personnes ayant contribué au contenu
-  - count: "12"
+  - count: "15"
     icon: ion-ios-chatboxes-outline
     name: Personnes chargées de la coordination
   - count: "10"
@@ -36,25 +36,24 @@ draft: false
 features:
   enable: true
   feature_item:
-  - content: Université du Québec à Montréal & Concordia University<br>(2017 - current)<br>ph.pereirabraga@gmail.com
+  - content: Université de Montréal<br>(depuis 2022)<br>antoine.caron-guay@umontreal.ca
     icon: ion-happy-outline
-    name: Pedro Henrique P. Braga
-  - content: McGill University<br>(2020 - current)<br>esteban.gongora@mail.mcgill.ca
+    name: Antoine Caron-Guay
+  - content: Université de Sherbrooke<br>(depuis 2022)<br>clara.casabona.i.amat@usherbrooke.ca
     icon: ion-happy-outline
-    name: Esteban Gongora
-  - content: Université de Sherbrooke<br>(2020 - current)<br>katherine.hebert@usherbrooke.ca
+    name: Clara Casabona i Amat
+  - content: Université de Montréal<br>(depuis 2022)<br>paola.lisset.galloso.sanchez@umontreal.ca
     icon: ion-happy-outline
-    name: Katherine Hébert
-  - content: McGill University<br>(2020 - current)<br>linley.sherin@mail.mcgill.ca
-    icon: ion-happy-outline
-    name: Linley Sherin
+    name: Paola Lisset Galloso Sanchez
   title: Équipe de coordination
+
 layout: about
 menu:
   main:
     name: La série d'ateliers R
     parent: À propos
     weight: 1
+
 mission_vision:
   enable: true
   tabs:
@@ -64,9 +63,11 @@ mission_vision:
     name: Nos contributions
   - content: Ces ateliers en accès libre ont été créés par les membres du CSBQ pour les membres du CSBQ et la communauté au sens large. Le contenu de ces ateliers a été continuellement revu par les pairs et développé par les membres du CSBQ depuis leur développement initial en 2014. La série d'ateliers est instruite par des membres du CSBQ en anglais et en français, chaque année.
     name: Notre fonctionnement
-  - content: La série d'ateliers R et le Colloque R annuel sont coordonnées par des membres du CSBQ aux cycles supérieurs ou au postdoctorat. La série est actuellement coordonnée par quatre étudiants et étudiantes du CSBQ - Pedro Henrique P. Braga (depuis 2017), Katherine Hébert (depuis 2020), Linley Sherin (depuis 2020), et Esteban Gongora (depuis 2020). L'équipe de coordination a inclut Marc-Olivier Beausoleil (2018-2019), Léa Blondel (2017-2018), Marie-Hélène Brice (2017-2020), Alexis Carteron (2019-2020), Vincent Fugère (2014-2017), Dalal Hanna (2014-2017), Krista Oke (2016-2017), Jacob Ziegler (2015-2016), Zofia Taranu (2014-2016).
+  - content: La série d'ateliers R et le Colloque R annuel sont coordonnées par des membres du CSBQ aux cycles supérieurs ou au postdoctorat. La série est actuellement coordonnée par trois étudiants et étudiantes du CSBQ - Antoine Caron-Guay (depuis 2022), Clara Casabona i Amat (depuis 2022) et Paola Lisset Galloso Sanchez (depuis 2022). L'équipe de coordination a inclus Pedro Henrique P. Braga (2017-2022), Katherine Hébert (2020-2022), Linley Sherin (2020-2022), Esteban Gongora (2020-2022), Marc-Olivier Beausoleil (2018-2019), Léa Blondel (2017-2018), Marie-Hélène Brice (2017-2020), Alexis Carteron (2019-2020), Vincent Fugère (2014-2017), Dalal Hanna (2014-2017), Krista Oke (2016-2017), Jacob Ziegler (2015-2016), Zofia Taranu (2014-2016).
     name: Qui sommes-nous ?
+
 testimonial:
   enable: true
+
 title: La Série d'Ateliers R du CSBQ
 ---

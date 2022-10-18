@@ -8,16 +8,16 @@ about:
     The QCBS R Workshop Series is graduate student and post-doctoral fellow initiative from the Québec Centre for Biodiversity Science. We organize, develop and instruct R workshops in English and in French to other graduate students and early-career researchers every year to help them navigate statistics for research in ecology, evolution and biodiversity science.
   enable: true
   funfacts:
-  - count: "3518"
+  - count: "3656"
     icon: ion-ios-body-outline
     name: Registrations
-  - count: "686"
+  - count: "735"
     icon: ion-ios-body-outline
     name: Participants
-  - count: "99"
+  - count: "104"
     icon: ion-ios-body-outline
     name: Presenters
-  - count: "51"
+  - count: "52"
     icon: ion-ios-wineglass-outline
     name: Contributors
   - count: "15"
@@ -36,18 +36,15 @@ draft: false
 features:
   enable: true
   feature_item:
-  - content: Université du Québec à Montréal & Concordia University<br>(2017 - current)<br>ph.pereirabraga@gmail.com
+  - content: Université de Montréal<br>(2022 - current)<br>antoine.caron-guay@umontreal.ca
     icon: ion-happy-outline
-    name: Pedro Henrique P. Braga
-  - content: McGill University<br>(2020 - current)<br>esteban.gongora@mail.mcgill.ca
+    name: Antoine Caron-Guay
+  - content: Université de Sherbrooke<br>(2022 - current)<br>clara.casabona.i.amat@usherbrooke.ca
     icon: ion-happy-outline
-    name: Esteban Gongora
-  - content: Université de Sherbrooke<br>(2020 - current)<br>katherine.hebert@usherbrooke.ca
+    name: Clara Casabona i Amat
+  - content: Université de Montréal<br>(2022 - current)<br>paola.lisset.galloso.sanchez@umontreal.ca
     icon: ion-happy-outline
-    name: Katherine Hébert
-  - content: McGill University<br>(2020 - current)<br>linley.sherin@mail.mcgill.ca
-    icon: ion-happy-outline
-    name: Linley Sherin
+    name: Paola Lisset Galloso Sanchez
   title: Coordination Team
 layout: about
 menu:
@@ -64,7 +61,7 @@ mission_vision:
     name: What we do
   - content: These open-access workshops were created by members of the QCBS both for members of the QCBS and the larger community. The content of these workshops has been continuously peer-reviewed and developed by QCBS members since their initial development in 2014. The workshop series is instructed by graduate students and post-doctoral fellows of the QCBS in English and in French every year.
     name: How we work
-  - content: QCBS students coordinate the R Workshop Series and the annual R Symposium. The series is currently coordinated by four QCBS students - Pedro Henrique P. Braga (2017-current), Katherine Hébert (2020-current), Linley Sherin (2020-current), and Esteban Gongora (2020-current). Past coordinators include Marc-Olivier Beausoleil (2018-2019), Léa Blondel (2017-2018), Marie-Hélène Brice (2017-2020), Alexis Carteron (2019-2020), Vincent Fugère (2014-2017), Dalal Hanna (2014-2017), Krista Oke (2016-2017), Jacob Ziegler (2015-2016), Zofia Taranu (2014-2016).
+  - content: QCBS students coordinate the R Workshop Series and the annual R Symposium. The series is currently coordinated by three QCBS students - Antoine Caron-Guay (2022-current), Clara Casabona i Amat (2022-current) and Paola Lisset Galloso Sanchez (2022-current). Past coordinators include Pedro Henrique P. Braga (2017-2022), Katherine Hébert (2020-2022), Linley Sherin (2020-2022), Esteban Gongora (2020-2022), Marc-Olivier Beausoleil (2018-2019), Léa Blondel (2017-2018), Marie-Hélène Brice (2017-2020), Alexis Carteron (2019-2020), Vincent Fugère (2014-2017), Dalal Hanna (2014-2017), Krista Oke (2016-2017), Jacob Ziegler (2015-2016), Zofia Taranu (2014-2016).
     name: Who we are
 testimonial:
   enable: true
