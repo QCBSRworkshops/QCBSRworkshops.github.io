@@ -97,14 +97,3 @@ Any changes will be automatically synced with your Google Calendar.
 <div class="default">
      <a href="https://calendar.google.com/calendar/u/4?cid=Y2djaHBpMGRnMzFoNjc5bXQ0dGtycDM2MzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" class="cta btn-yellow" style="background-color: #8FBCBB; font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-weight:bold; text-decoration: none; padding: 14px 20px; color: #1D2025; border-radius: 5px; display:inline-block; mso-padding-alt:0; box-shadow:0 3px 6px rgba(0,0,0,.2);"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt"> </i><![endif]--><span style="mso-text-raise:15pt;">Subscribe to the calendar of workshops in French</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%"> </i><![endif]--></a>
 </div>
-
-{{< fullcalendar_gcal >}}
-
-
-## Health safety measures
-
-In keeping with recommendations from both local and national health authorities and universities, the QCBS R Workshop Series has decided to suspend all in person activities requiring the gathering of participants and instructors.
-
-We understand that the QCBS R Workshop Series and its related activities are a valuable resource to the many graduate students, post-doctoral researchers and other research professionals that participate in the series.
-
-Therefore, all R workshops will be conducted remotely for both the Fall 2021 and Winter 2022 semesters.

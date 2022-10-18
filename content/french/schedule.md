@@ -101,12 +101,3 @@ Tout changement sera automatiquement synchronisé avec votre Calendrier Google.
 <br>
 <div class="default">
      <a href="https://calendar.google.com/calendar/u/4?cid=Y2djaHBpMGRnMzFoNjc5bXQ0dGtycDM2MzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" class="cta btn-yellow" style="background-color: #8FBCBB; font-size: 12px; font-family: Helvetica, Arial, sans-serif; font-weight:bold; text-decoration: none; padding: 14px 20px; color: #1D2025; border-radius: 5px; display:inline-block; mso-padding-alt:0; box-shadow:0 3px 6px rgba(0,0,0,.2);"><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt"> </i><![endif]--><span style="mso-text-raise:15pt;">Abonnez-vous au calendrier des ateliers en français</span><!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%"> </i><![endif]--></a>
-
-
-## Mesures de sécurité sanitaire
-
-Conformément aux recommandations des autorités sanitaires locales et nationales et des universités, la série d'ateliers R du CSBQ a décidé de suspendre toutes les activités en personne nécessitant le rassemblement des participants et des instructeurs.
-
-Nous comprenons que la série d'ateliers R du CSBQ et ses activités connexes constituent une ressource précieuse pour les nombreux étudiants diplômés, chercheurs post-doctoraux et autres professionnels de la recherche qui participent à la série.
-
-Par conséquent, tous les ateliers R seront menés à distance pour les semestres d'automne 2021 et d'hiver 2022.
