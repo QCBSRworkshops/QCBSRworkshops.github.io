@@ -20,7 +20,7 @@ params:
   author: QCBS R Workshop Series
   contact:
     address_descriptors: no
-    email: qcbs.csbq.r@gmail.com
+    email: 'qcbs.csbq.r@gmail.com'
     form:
       action: '#'
       enable: yes
