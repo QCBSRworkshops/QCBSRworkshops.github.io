@@ -2,7 +2,7 @@
 bg_image: images/feature-bg.jpg
 description: Veuillez lire notre politique d'annulation et de remboursement avant de vous inscrire à un atelier.
 draft: false
-lastmod: 2021-09-21
+lastmod: 2022-10-20
 layout: faq
 menu:
   main:
@@ -17,7 +17,7 @@ title: Annulation & Remboursement
 
 Toutes les annulations et demandes de remboursement doivent être reçues par courriel **au moins 5 jours avant la date de l'atelier**. Des exceptions peuvent être faites pour des circonstances imprévisibles. 
 
-**Pour annuler votre inscription**, veuillez aviser l'équipe de présentation de l'atelier (indiqué dans l'horaire sur la page <a href = "https://wiki.qcbs.ca/r">wiki</a>), et copiez (CC) votre message à l'équipe de coordination des ateliers R [csbq.qcbs.r@gmail.com](mailto:csbq.qcbs.r@gmail.com).
+**Pour annuler votre inscription**, veuillez aviser l'équipe de présentation de l'atelier (indiqué dans l'<a href = "https://r.qcbs.ca/fr/schedule/">horaire</a>), et copiez (CC) votre message à l'équipe de coordination des ateliers R [csbq.qcbs.r@gmail.com](mailto:csbq.qcbs.r@gmail.com).
  
 ### Si vous êtes membre du CSBQ
 
