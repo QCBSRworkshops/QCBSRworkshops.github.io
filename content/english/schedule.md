@@ -21,11 +21,11 @@ subtitle:
 
 |      | Workshop                           | Location | Date       | Time (EST)    | Instructed by |
 |:---: |:----------------------------------:|:--------:|:----------:|:-------------:|:-------------:|
-| WK-1 | Introduction to R                  | Online   | 09-11-2021 | 13:30 - 17:30 | To be announced |
-| WK-2 | Loading and manipulating data      | Online   | 16-11-2021 | 13:30 - 17:30 | To be announced |
-| WK-3 | Introduction to data visualization | Online   | 23-11-2021 | 13:30 - 17:30 | To be announced |
-| WK-4 | Linear models                      | Online   | 30-11-2021 | 13:30 - 17:30 | To be announced |
-| WK-5 | Introduction to Programming in R   | Online   | 07-12-2021 | 13:30 - 17:30 | To be announced |
+| WK-1 | Introduction to R                  | Online   | 09-11-2022 | 13:30 - 17:30 | To be announced |
+| WK-2 | Loading and manipulating data      | Online   | 16-11-2022 | 13:30 - 17:30 | To be announced |
+| WK-3 | Introduction to data visualization | Online   | 23-11-2022 | 13:30 - 17:30 | To be announced |
+| WK-4 | Linear models                      | Online   | 30-11-2022 | 13:30 - 17:30 | To be announced |
+| WK-5 | Introduction to Programming in R   | Online   | 07-12-2022 | 13:30 - 17:30 | To be announced |
 
 {{< /bootstrap-table >}}
 
