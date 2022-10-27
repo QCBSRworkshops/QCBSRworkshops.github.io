@@ -17,7 +17,7 @@ markup:
     ordered: no
     startLevel: 2
 params:
-  author: QCBS R Workshop Series
+  author: Série d'ateliers R du CSBQ / QCBS R Workshop Series
   contact:
     address_descriptors: no
     email: 'csbq.qcbs.r@gmail.com'
@@ -26,7 +26,7 @@ params:
       enable: yes
       success_image: images/paper-plane.svg
       use_netlify: yes
-    location: "\r\n**QCBS R Workshop Series**  \r\n Québec Centre for Biodiversity Science  \r\nQuébec, Canada"
+    location: "\r\n**Série d'ateliers R du CSBQ / QCBS R Workshop Series**  \r\n Centre de la science de la biodiversité du Québec / Quebec Centre for Biodiversity Science  \r\nQuébec, Canada"
     #phone:
   cookies:
     enable: yes
