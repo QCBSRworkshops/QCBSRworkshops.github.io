@@ -40,11 +40,11 @@ subtitle:
 
 |      | Workshop                                    | Location | Date       | Time (EST)    | Instructed by |
 |:----:|:-------------------------------------------:|:--------:|:----------:|:-------------:|:-------------:|
-| WK-1 | Introduction à R                            | En ligne | 10-11-2021 | 13:30 - 17:30 | À venir |
-| WK-2 | Charger et manipuler des données            | En ligne | 17-11-2021 | 13:30 - 17:30 | À venir |
-| WK-3 | Introduction à la visualisation des données | En ligne | 24-11-2021 | 13:30 - 17:30 | À venir |
-| WK-4 | Modèles linéaires                           | En ligne | 01-12-2021 | 13:30 - 17:30 | À venir |
-| WK-5 | Introduction à la programmation avec R      | En ligne | 08-12-2021 | 13:30 - 17:30 | À venir |
+| WK-1 | Introduction à R                            | En ligne | 10-11-2022 | 13:30 - 17:30 | À venir |
+| WK-2 | Charger et manipuler des données            | En ligne | 17-11-2022 | 13:30 - 17:30 | À venir |
+| WK-3 | Introduction à la visualisation des données | En ligne | 24-11-2022 | 13:30 - 17:30 | À venir |
+| WK-4 | Modèles linéaires                           | En ligne | 01-12-2022 | 13:30 - 17:30 | À venir |
+| WK-5 | Introduction à la programmation avec R      | En ligne | 08-12-2022 | 13:30 - 17:30 | À venir |
 
 {{< /bootstrap-table >}}
 
