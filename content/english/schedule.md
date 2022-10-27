@@ -53,7 +53,7 @@ subtitle: null
 </div>
 <br>
 
-## Winter 2022
+## Winter 2023
 
 ### Workshops in English
 
