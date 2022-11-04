@@ -2,7 +2,7 @@
 bg_image: images/feature-bg.jpg
 description: 
 draft: false
-lastmod: 2021-04-01T00:00:00
+lastmod: 2022-11-03
 layout: faq
 menu:
   main:
@@ -80,7 +80,11 @@ If you have specific feedback about the presentation slides or the book content 
 
 Thank you for your interest in contributing to the workshop series! 
 
-We regularly send messages and make Facebook and Twitter posts inviting developers to think critically and apply improvements to the workshop. To make sure we will keep you on the loop, you can begin by filling out the [questionnaire](https://forms.gle/uKbreyjBJmX328AV9) included in our emails and social media posts about which workshops(s) you would like to contribute. All invited contributors to the series are eligible to receive a Learning and Development Award from the QCBS!
+We regularly send messages and make Facebook and Twitter posts inviting QCBS members to get involved as developers to improve the workshops. 
+<!---
+To make sure we will keep you on the loop, you can begin by filling out the [questionnaire](https://forms.gle/uKbreyjBJmX328AV9) included in our emails and social media posts about which workshops(s) you would like to contribute. 
+-->
+All invited contributors to the series are eligible to receive a Learning and Development Award from the QCBS!
 
 **How can I sign up to instruct a workshop for the QCBS R Workshop Series?**
 
@@ -88,8 +92,8 @@ Workshops are currently instructed during the Fall and during the Winter. We reg
 
 **I instructed or developed content for the QCBS R Workshop Series, but have not yet received my Learning and Development Award (LeaDA). What should I do?**
 
-LeaDA are processed according to several steps outlined in our [Presenter and Developer Protocol](https://qcbsrworkshops.github.io/presenter-developer-protocol/payment-en.html). Please ensure that you have completed all the  steps required for your institution and affiliation status. If you do not receive any notification that your payment is being processed within a maximum of 45 days, please contact Dr. Elina (<helen.elina@mcgill.ca>), the Administrative Associate of the QCBS, to follow up on your award request.
+LeaDA are processed according to several steps outlined in our [Presenter and Developer Protocol](https://qcbsrworkshops.github.io/presenter-developer-protocol/payment-en.html). Please ensure that you have completed all the  steps required for your institution and affiliation status. If you do not receive any notification that your payment is being processed within a maximum of 45 days, please contact the administrative and financial manager of the QCBS (<finance@qcbs.ca>), to follow up on your award request.
 
 **Who can I contact if I have suggestions, concerns, or more questions?**
 
-Please, tell us about your concerns, suggestions and other questions by clicking on [this link](mailto:ph.pereirabraga@gmail.com; katherine.hebert@usherbrooke.ca; esteban.gongora@mail.mcgill.ca; linley.sherin@mail.mcgill.ca) to send a message to all the coordinators of the QCBS R Workshop Series.
+Please, tell us about your concerns, suggestions and other questions by clicking on [this link](mailto:antoine.caron-guay@umontreal.ca,paola.lisset.galloso.sanchez@umontreal.ca,clara.casabona.i.amat@usherbrooke.ca) to send a message to all the coordinators of the QCBS R Workshop Series.

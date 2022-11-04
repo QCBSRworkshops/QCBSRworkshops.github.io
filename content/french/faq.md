@@ -2,7 +2,7 @@
 bg_image: images/sigmund-YUuSAJkS3U4-unsplash.jpeg
 description: 
 draft: false
-lastmod: 2021-09-23
+lastmod: 2022-11-03
 layout: faq
 menu:
   main:
@@ -76,7 +76,11 @@ Si vous avez des commentaires spécifiques sur les présentations ou le contenu 
 
 Merci de votre intérêt à contribuer à la série d'ateliers ! 
 
-Nous envoyons régulièrement des courriels et publions des messages sur Facebook et Twitter pour inviter les membres du CSBQ à faire preuve d'esprit critique pour améliorer les ateliers. Pour vous assurer que nous vous tiendrons au courant, vous pouvez commencer par remplir le [questionnaire](https://forms.gle/uKbreyjBJmX328AV9) inclus dans nos courriels et nos messages sur les médias sociaux concernant les ateliers auxquels vous souhaitez contribuer. Toutes les personnes invité(e)s à la série d'ateliers R sont éligibles pour un prix d'apprentissage et de développement du CSBQ!
+Nous envoyons régulièrement des courriels et publions des messages sur Facebook et Twitter pour inviter les membres du CSBQ à s'impliquer comme développeurs pour améliorer les ateliers.
+<!---
+Pour vous assurer que nous vous tiendrons au courant, vous pouvez commencer par remplir le [questionnaire](https://forms.gle/uKbreyjBJmX328AV9) inclus dans nos courriels et nos messages sur les médias sociaux concernant les ateliers auxquels vous souhaitez contribuer. 
+-->
+Toutes les personnes invitées à contribuer à la série d'ateliers R sont éligibles pour un prix d'apprentissage et de développement du CSBQ!
 
 **Comment puis-je m'inscrire pour enseigner un atelier de la série d'ateliers R du CSBQ?**
 
@@ -85,8 +89,8 @@ Les ateliers sont actuellement offerts à l'automne et à l'hiver. Nous envoyons
 
 **J'ai enseigné ou développé du contenu pour la série d'ateliers R du CSBQ, mais je n'ai pas encore reçu mon Prix d'apprentissage et de développement (PAD, ou LeaDA en anglais) du CSBQ. Que devrais-je faire?**
 
-Les Prix d'apprentissage et de développement du CSBQ sont traités selon plusieurs étapes décrites dans notre [Protocole pour l'instruction et le developpement](https://qcbsrworkshops.github.io/presenter-developer-protocol/payment-en.html). Veuillez vous assurer que vous avez effectué toutes les étapes requises pour votre institution et votre statut d'affiliation. Si vous ne recevez aucune notification indiquant que votre paiement est en cours de traitement dans un délai maximum de 45 jours, veuillez contacter la Dre. Elina (<helen.elina@mcgill.ca>), l'associée administrative du CSBQ, pour assurer le suivi de votre demande de bourse.
+Les Prix d'apprentissage et de développement du CSBQ sont traités selon plusieurs étapes décrites dans notre [Protocole pour l'instruction et le developpement](https://qcbsrworkshops.github.io/presenter-developer-protocol/payment-en.html). Veuillez vous assurer que vous avez effectué toutes les étapes requises pour votre institution et votre statut d'affiliation. Si vous ne recevez aucune notification indiquant que votre paiement est en cours de traitement dans un délai maximum de 45 jours, veuillez contacter la personne responsable de l'administration et des finances du CSBQ (<finance@qcbs.ca>), pour assurer le suivi de votre demande de bourse.
 
 **Qui puis-je contacter si j'ai des suggestions, des plaintes ou d'autres questions?**
 
-Faites-nous part de vos commentaires, suggestions et autres questions en cliquant sur [ce lien](mailto:ph.pereirabraga@gmail.com;katherine.hebert@usherbrooke.ca; esteban.gongora@mail.mcgill.ca;linley.sherin@mail.mcgill.ca) pour envoyer un message à toute l'équipe de coordination de la série d'ateliers R du CSBQ.
+Faites-nous part de vos commentaires, suggestions et autres questions en cliquant sur [ce lien](mailto:antoine.caron-guay@umontreal.ca,paola.lisset.galloso.sanchez@umontreal.ca,clara.casabona.i.amat@usherbrooke.ca) pour envoyer un message à toute l'équipe de coordination de la série d'ateliers R du CSBQ.
