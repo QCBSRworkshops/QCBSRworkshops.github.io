@@ -3,7 +3,7 @@ title: "R Workshop Series Schedule"
 bg_image: "images/feature-bg.jpg"
 description: null
 draft: no
-lastmod: "2022-10-15"
+lastmod: "2022-11-30"
 layout: faq
 menu:
   main:
@@ -25,7 +25,7 @@ subtitle: null
 | WK-2 | Loading and manipulating data      | Online   | 16-11-2022 | 13:30 - 17:30 | [Elene Haave Audet, <br> Morgane Henry, <br> Madelaine Anderson](mailto:haaveaud@ualberta.ca,morgane.henry2@mail.mcgill.ca,madelaine.anderson@usherbrooke.ca) |
 | WK-3 | Introduction to data visualization | Online   | 23-11-2022 | 13:30 - 17:30 | [Pedro Henrique P. Braga, <br> Simon Morvan , <br> Anna Crofts](mailto:ph.pereirabraga@gmail.com,simon.morvan@umontreal.ca,anna.leigh.crofts@usherbrooke.ca) |
 | WK-4 | Linear models                      | Online   | 30-11-2022 | 13:30 - 17:30 | [Sara Correa Garcia, <br> Maxime Fraser Franco, <br> Anna Crofts](mailto:sara.garcia@inrs.ca,fraser_franco.maxime@courrier.uqam.ca,anna.leigh.crofts@usherbrooke.ca) |
-| WK-5 | Introduction to Programming in R   | Online   | 07-12-2022 | 13:30 - 17:30 | [Noah Wightman, <br> Jake Lawlor, <br> Pedro Henrique P. Braga](mailto:noah.wightman@mail.mcgill.ca,jake.lawlor@mail.mcgil.ca,ph.pereirabraga@gmail.com) |
+| WK-5 | Introduction to Programming in R   | Online   | 07-12-2022 | 13:30 - 17:30 | [Noah Wightman, <br> Pedro Henrique P. Braga, <br> Marc-Olivier Beausoleil](mailto:noah.wightman@mail.mcgill.ca,ph.pereirabraga@gmail.com,marc-olivier.beausoleil@mail.mcgill.ca) |
 
 {{< /bootstrap-table >}}
 
@@ -44,7 +44,7 @@ subtitle: null
 | WK-2 | Charger et manipuler des données            | En ligne | 17-11-2022 | 13:30 - 17:30 | [Morgane Henry, <br> Sylvain Christin, <br> Marc-Olivier Beausoleil](mailto:morgane.henry2@mail.mcgill.ca,esc2203@umoncton.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
 | WK-3 | Introduction à la visualisation des données | En ligne | 24-11-2022 | 13:30 - 17:30 | [Clara Casabona, <br> Sylvain Christin, <br> Simon Morvan ](mailto:Clara.Casabona.I.Amat@USherbrooke.ca,esc2203@umoncton.ca,simon.morvan@umontreal.ca) |
 | WK-4 | Modèles linéaires                           | En ligne | 01-12-2022 | 13:30 - 17:30 | [Maxime Fraser Franco, <br> Elene Haave Audet, <br> Mathieu Videlier](mailto:fraser_franco.maxime@courrier.uqam.ca,haaveaud@ualbert.ca,videlier.mathieu@courrier.uqam.ca) |
-| WK-5 | Introduction à la programmation avec R      | En ligne | 08-12-2022 | 13:30 - 17:30 | [Marc-Olivier Beausoleil, <br> Sylvain Christin](mailto:marc-olivier.beausoleil@mail.mcgill.ca,esc2203@umoncton.ca) |
+| WK-5 | Introduction à la programmation avec R      | En ligne | 08-12-2022 | 13:30 - 17:30 | [Marc-Olivier Beausoleil, <br> Sylvain Christin, <br> Clara Casabona](mailto:marc-olivier.beausoleil@mail.mcgill.ca,esc2203@umoncton.ca,Clara.Casabona.I.Amat@USherbrooke.ca) |
 
 {{< /bootstrap-table >}}
 
