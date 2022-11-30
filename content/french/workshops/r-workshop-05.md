@@ -51,16 +51,14 @@ Cet atelier vise à vous apprendre les bases de la programmation en R. Vous appr
 [![badge](https://img.shields.io/static/v1?style=flat&label=GitHub&message=05&color=blue&logo=github)](https://github.com/QCBSRworkshops/workshop05) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 {{< bootstrap-table "table table-dark table-striped table-bordered" >}}
- Slides | Book | Script* | Wiki** 
-:-------:|:-----:|:-----:|:------: 
-<a href="https://r.qcbs.ca/workshop05/pres-en/workshop05-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop05/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop05/book-en/workshop05-script-en.R" button type="button" class="btn btn-default">English</button></a> | <a href="https://wiki.qcbs.ca/r_workshop5" button type="button" class="btn btn-default">English</button></a> |
-<a href="https://r.qcbs.ca/workshop05/pres-fr/workshop05-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop05/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop05/book-fr/workshop05-script-fr.R" button type="button" class="btn btn-default">Français</button></a> | <a href="https://wiki.qcbs.ca/r_atelier5" button type="button" class="btn btn-default">Français</button></a> |
+ Diapositives | Livre | Script |
+:-------:|:-----:|:-----:|
+<a href="https://r.qcbs.ca/workshop05/pres-en/workshop05-pres-en.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop05/book-en/index.html" button type="button" class="btn btn-default">English</button></a> | <a href="https://r.qcbs.ca/workshop05/book-en/workshop05-script-en.R" button type="button" class="btn btn-default">English</button></a> |
+<a href="https://r.qcbs.ca/workshop05/pres-fr/workshop05-pres-fr.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop05/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a> | <a href="https://r.qcbs.ca/workshop05/book-fr/workshop05-script-fr.R" button type="button" class="btn btn-default">Français</button></a> |
 {{< /bootstrap-table >}}
 
-
-> **Thank you for your patience as we make the following changes:**  
-> \* *The script and book for this workshop are under construction.* <br>
-> \*\* *The wiki for this workshop is deprecated, and will be replaced by the book.*
+> Note : Le wiki de cet atelier a été converti en Bookdown en septembre 2021. <br>
+> Les pages wiki de cet atelier ne seront plus mises à jour (Archives : [EN](https://wiki.qcbs.ca/r_workshop5), [FR](https://wiki.qcbs.ca/r_atelier5)).
 
 ----
 
