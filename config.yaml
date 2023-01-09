@@ -118,7 +118,7 @@ languages:
     weight: 3
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2021 [QCBS R Workshop Series](qcbsrworkshops.github.io/website). All Rights
+    copyright: Copyright &copy; 2023 [QCBS R Workshop Series](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io). All Rights
       Reserved.
     languageCode: en-US
     languageName: English
@@ -146,7 +146,7 @@ languages:
     weight: 1
   fr:
     contentDir: content/french
-    copyright: Copyright &copy; 2021 [QCBS R Workshop Series](qcbsrworkshops.github.io/website). Tous
+    copyright: Copyright &copy; 2023 [QCBS R Workshop Series](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io). Tous
       droits réservés.
     languageCode: fr-FR
     languageName: Français
