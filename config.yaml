@@ -22,7 +22,7 @@ params:
     address_descriptors: no
     email: "csbq.qcbs.r@gmail.com"
     form:
-      enable: yes
+      enable: no
       provider: formspree
       formspree:
         id: myyaknog
