@@ -28,13 +28,13 @@ funfacts:
   description: Nous sommes des étudiant(e)s des cycles supérieurs et des postdoctorant(e)s du Centre québécois des sciences de la biodiversité. Nous développons et instruisons des ateliers sur un large répertoire de méthodes statistiques et computationelles pour aider d'autres chercheurs et chercheuses en début de carrière à réaliser leurs analyses en écologie, évolution et science de la biodiversité.
   enable: true
   funfact_item:
-  - count: "3656"
+  - count: "3917"
     icon: ion-ios-chatboxes-outline
     name: Inscriptions
-  - count: "735"
+  - count: "803"
     icon: ion-ios-glasses-outline
     name: Personnes participantes
-  - count: "104"
+  - count: "107"
     icon: ion-ios-compose-outline
     name: Personnes chargées de l'instruction
   - count: "52"
