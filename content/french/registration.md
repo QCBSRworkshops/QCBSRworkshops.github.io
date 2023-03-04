@@ -2,7 +2,7 @@
 bg_image: images/feature-bg.jpg
 cta:
   enable: false
-description: Les inscriptions pour les ateliers R ouvriront bientôt!
+description: Veuillez vous inscrire au moins 24 heures avant la séance pour éviter des problèmes avec l'inscription et l'envoi du lien Zoom.
 draft: false
 layout: pricing
 menu:

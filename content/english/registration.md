@@ -2,7 +2,7 @@
 bg_image: images/feature-bg.jpg
 cta:
   enable: false
-description: Registration for R workshops will open soon!
+description: Please register at least 24 hours before the session to avoid problems with registration and sending the Zoom link.
 draft: false
 layout: pricing
 menu:

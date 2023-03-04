@@ -37,10 +37,13 @@ lastmod: "2023-01-09"
 </div>
 <br>
 
+**Veuillez vous inscrire au moins 24 heures avant la séance pour éviter des problèmes avec l'inscription et l'envoi du lien Zoom.**
+
 ### Ateliers en anglais
 
 L'horaire pour les ateliers en anglais est disponible [__ici__](/schedule/#winter-2023).
 
+<br />
 
 ## Automne 2022
 
@@ -62,6 +65,7 @@ L'horaire pour les ateliers en anglais est disponible [__ici__](/schedule/#winte
 
 L'horaire pour les ateliers en anglais est disponible [__ici__](/schedule/#fall-2022).
 
+<br />
 
 ## Abonnez-vous aux calendries d'ateliers R
 

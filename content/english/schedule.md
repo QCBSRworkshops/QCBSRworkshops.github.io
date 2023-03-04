@@ -34,10 +34,13 @@ subtitle: null
 </div>
 <br>
 
+**Please register at least 24 hours before the session to avoid problems with registration and sending the Zoom link.**
+
 ### Workshops in French
 
 The schedule for the workshops in french is avalaible [__here__](/fr/schedule/#hiver-2023).
 
+<br />
 
 ## Fall 2022
 
@@ -59,6 +62,7 @@ The schedule for the workshops in french is avalaible [__here__](/fr/schedule/#h
 
 The schedule for the workshops in french is avalaible [__here__](/fr/schedule/#automne-2022).
 
+<br />
 
 ## Subscribe to the schedules
 
