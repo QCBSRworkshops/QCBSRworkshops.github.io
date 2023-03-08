@@ -28,7 +28,7 @@ lastmod: "2023-01-09"
 | WK-7  | Modèles linéaires et généralisés linéaires mixtes | En ligne | 06-04-2023 | 13:30 - 17:30 | [Clara Casabona, <br> Théophile Kabasele](mailto:Clara.Casabona.I.Amat@USherbrooke.ca,theophile.kabasele.walelu@umontreal.ca) |
 | WK-8  | Modèles additifs généralisés                      | En ligne | 13-04-2023 | 13:30 - 17:30 | [Clara Casabona](mailto:Clara.Casabona.I.Amat@USherbrooke.ca) |
 | WK-9  | Analyses multivariées                             | En ligne | 20-04-2023 | 13:30 - 17:30 | [Théophile Kabasele, <br> Marc-Olivier  Beausoleil](mailto:marc-olivier.beausoleil@mail.mcgill.ca,theophile.kabasele.walelu@umontreal.ca) |
-| WK-10 | Analyses multivariées avancées                    | En ligne | 27-04-2023 | 13:30 - 17:30 | [Simon Laurin-Lemay, <br> Théophile Kabasele, Beausoleil](mailto:evol.simon@gmail.com,theophile.kabasele.walelu@umontreal.ca) |
+| WK-10 | Analyses multivariées avancées                    | En ligne | 27-04-2023 | 13:30 - 17:30 | [Simon Laurin-Lemay, <br> Théophile Kabasele](mailto:evol.simon@gmail.com,theophile.kabasele.walelu@umontreal.ca) |
 
 {{< /bootstrap-table >}}
 
