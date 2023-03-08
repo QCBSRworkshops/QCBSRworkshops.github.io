@@ -21,11 +21,11 @@ subtitle: null
 
 |       | Workshop                                   | Location |    Date    |  Time (EST)   |   Instructed by |
 | :---: | :----------------------------------------- | :------: | :--------: | :-----------: | :------------------------: |
-| WK-6  | Generalized linear models                  | Online   | 29-03-2023 | 13:30 - 17:30 | To be announced |
-| WK-7  | Linear and generalized linear mixed models | Online   | 05-04-2023 | 13:30 - 17:30 | To be announced |
-| WK-8  | Generalized additive models                | Online   | 12-04-2023 | 13:30 - 17:30 | To be announced |
-| WK-9  | Multivariate analyses                      | Online   | 19-04-2023 | 13:30 - 17:30 | To be announced |
-| WK-10 | Advanced multivariate analyses             | Online   | 26-04-2023 | 13:30 - 17:30 | To be announced |
+| WK-6  | Generalized linear models                  | Online   | 29-03-2023 | 13:30 - 17:30 | [Shan Kothari, <br> Marc-Olivier Beausoleil](mailto:shan.kothari@umontreal.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
+| WK-7  | Linear and generalized linear mixed models | Online   | 05-04-2023 | 13:30 - 17:30 | [Danie Schoenig, <br> Pedro Henrique P. Braga](mailto:schonig.daniel@courrier.uqam.ca,ph.pereirabraga@gmail.com) |
+| WK-8  | Generalized additive models                | Online   | 12-04-2023 | 13:30 - 17:30 | [Danie Schoenig](mailto:schonig.daniel@courrier.uqam.ca) |
+| WK-9  | Multivariate analyses                      | Online   | 19-04-2023 | 13:30 - 17:30 | [Sara Correa Garcia, <br> Pedro Henrique P. Braga](mailto:sara.garcia@inrs.ca,ph.pereirabraga@gmail.com ) |
+| WK-10 | Advanced multivariate analyses             | Online   | 26-04-2023 | 13:30 - 17:30 | [Pedro Henrique P. Braga, <br> Anna Crofts](mailto:ph.pereirabraga@gmail.com,croa2104@usherbrooke.ca) |
 
 {{< /bootstrap-table >}}
 
@@ -42,7 +42,7 @@ The schedule for the workshops in french is avalaible [__here__](/fr/schedule/#h
 
 <br />
 
-## Fall 2022
+## Fall 2023
 
 ### Workshops in English
 
@@ -50,11 +50,11 @@ The schedule for the workshops in french is avalaible [__here__](/fr/schedule/#h
 
 |      | Workshop                           | Location | Date       | Time (EST)    | Instructed by |
 |:---: |:----------------------------------:|:--------:|:----------:|:-------------:|:-------------:|
-| WK-1 | Introduction to R                  | Online   | 09-11-2022 | 13:30 - 17:30 | [Simon Morvan, <br> Marc-Olivier Beausoleil, <br> Madelaine Anderson](mailto:simon.morvan@umontreal.ca,marc-olivier.beausoleil@mail.mcgill.ca,madelaine.anderson@usherbrooke.ca) |
-| WK-2 | Loading and manipulating data      | Online   | 16-11-2022 | 13:30 - 17:30 | [Elene Haave Audet, <br> Morgane Henry, <br> Madelaine Anderson](mailto:haaveaud@ualberta.ca,morgane.henry2@mail.mcgill.ca,madelaine.anderson@usherbrooke.ca) |
-| WK-3 | Introduction to data visualization | Online   | 23-11-2022 | 13:30 - 17:30 | [Pedro Henrique P. Braga, <br> Simon Morvan , <br> Anna Crofts](mailto:ph.pereirabraga@gmail.com,simon.morvan@umontreal.ca,anna.leigh.crofts@usherbrooke.ca) |
-| WK-4 | Linear models                      | Online   | 30-11-2022 | 13:30 - 17:30 | [Sara Correa Garcia, <br> Maxime Fraser Franco, <br> Anna Crofts](mailto:sara.garcia@inrs.ca,fraser_franco.maxime@courrier.uqam.ca,anna.leigh.crofts@usherbrooke.ca) |
-| WK-5 | Introduction to Programming in R   | Online   | 07-12-2022 | 13:30 - 17:30 | [Noah Wightman, <br> Pedro Henrique P. Braga, <br> Marc-Olivier Beausoleil](mailto:noah.wightman@mail.mcgill.ca,ph.pereirabraga@gmail.com,marc-olivier.beausoleil@mail.mcgill.ca) |
+| WK-1 | Introduction to R                  | Online   | 09-11-2022 | 13:30 - 17:30 | To be announced |
+| WK-2 | Loading and manipulating data      | Online   | 16-11-2022 | 13:30 - 17:30 | To be announced |
+| WK-3 | Introduction to data visualization | Online   | 23-11-2022 | 13:30 - 17:30 | To be announced |
+| WK-4 | Linear models                      | Online   | 30-11-2022 | 13:30 - 17:30 | To be announced |
+| WK-5 | Introduction to Programming in R   | Online   | 07-12-2022 | 13:30 - 17:30 | To be announced |
 
 {{< /bootstrap-table >}}
 

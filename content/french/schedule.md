@@ -24,11 +24,11 @@ lastmod: "2023-01-09"
 
 |       | Atelier                                           |   Lieu   |    Date    |  Heure (EST)  | Instruit par |
 | :---: | :------------------------------------------------ | :------: | :--------: | :-----------: | :----------: |
-| WK-6  | Modèles linéaires généralisés                     | En ligne | 30-03-2023 | 13:30 - 17:30 | À venir |
-| WK-7  | Modèles linéaires et généralisés linéaires mixtes | En ligne | 06-04-2023 | 13:30 - 17:30 | À venir |
-| WK-8  | Modèles additifs généralisés                      | En ligne | 13-04-2023 | 13:30 - 17:30 | À venir |
-| WK-9  | Analyses multivariées                             | En ligne | 20-04-2023 | 13:30 - 17:30 | À venir |
-| WK-10 | Analyses multivariées avancées                    | En ligne | 27-04-2023 | 13:30 - 17:30 | À venir |
+| WK-6  | Modèles linéaires généralisés                     | En ligne | 30-03-2023 | 13:30 - 17:30 | [Marc-Olivier Beausoleil, <br> Théophile Kabasele ](mailto:marc-olivier.beausoleil@mail.mcgill.ca,theophile.kabasele.walelu@umontreal.ca) |
+| WK-7  | Modèles linéaires et généralisés linéaires mixtes | En ligne | 06-04-2023 | 13:30 - 17:30 | [Clara Casabona, <br> Théophile Kabasele](mailto:Clara.Casabona.I.Amat@USherbrooke.ca,theophile.kabasele.walelu@umontreal.ca) |
+| WK-8  | Modèles additifs généralisés                      | En ligne | 13-04-2023 | 13:30 - 17:30 | [Clara Casabona](mailto:Clara.Casabona.I.Amat@USherbrooke.ca) |
+| WK-9  | Analyses multivariées                             | En ligne | 20-04-2023 | 13:30 - 17:30 | [Théophile Kabasele, <br> Marc-Olivier  Beausoleil](mailto:marc-olivier.beausoleil@mail.mcgill.ca,theophile.kabasele.walelu@umontreal.ca) |
+| WK-10 | Analyses multivariées avancées                    | En ligne | 27-04-2023 | 13:30 - 17:30 | [Simon Laurin-Lemay, <br> Théophile Kabasele, Beausoleil](mailto:evol.simon@gmail.com,theophile.kabasele.walelu@umontreal.ca) |
 
 {{< /bootstrap-table >}}
 
@@ -45,7 +45,7 @@ L'horaire pour les ateliers en anglais est disponible [__ici__](/schedule/#winte
 
 <br />
 
-## Automne 2022
+## Automne 2023
 
 ### Ateliers en français
 
@@ -53,11 +53,11 @@ L'horaire pour les ateliers en anglais est disponible [__ici__](/schedule/#winte
 
 |      | Atelier                                     | Lieu     | Date       | Heure (EST)   | Instruit par |
 |:----:|:-------------------------------------------:|:--------:|:----------:|:-------------:|:------------:|
-| WK-1 | Introduction à R                            | En ligne | 10-11-2022 | 13:30 - 17:30 | [Marc-Olivier Beausoleil, <br> Mathieu Videlier](mailto:marc-olivier.beausoleil@mail.mcgill.ca,videlier.mathieu@courrier.uqam.ca) |
-| WK-2 | Charger et manipuler des données            | En ligne | 17-11-2022 | 13:30 - 17:30 | [Morgane Henry, <br> Sylvain Christin, <br> Marc-Olivier Beausoleil](mailto:morgane.henry2@mail.mcgill.ca,esc2203@umoncton.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
-| WK-3 | Introduction à la visualisation des données | En ligne | 24-11-2022 | 13:30 - 17:30 | [Clara Casabona, <br> Sylvain Christin, <br> Simon Morvan ](mailto:Clara.Casabona.I.Amat@USherbrooke.ca,esc2203@umoncton.ca,simon.morvan@umontreal.ca) |
-| WK-4 | Modèles linéaires                           | En ligne | 01-12-2022 | 13:30 - 17:30 | [Maxime Fraser Franco, <br> Elene Haave Audet, <br> Mathieu Videlier](mailto:fraser_franco.maxime@courrier.uqam.ca,haaveaud@ualbert.ca,videlier.mathieu@courrier.uqam.ca) |
-| WK-5 | Introduction à la programmation avec R      | En ligne | 08-12-2022 | 13:30 - 17:30 | [Marc-Olivier Beausoleil, <br> Sylvain Christin, <br> Clara Casabona](mailto:marc-olivier.beausoleil@mail.mcgill.ca,esc2203@umoncton.ca,Clara.Casabona.I.Amat@USherbrooke.ca) |
+| WK-1 | Introduction à R                            | En ligne | 10-11-2022 | 13:30 - 17:30 |  À venir |
+| WK-2 | Charger et manipuler des données            | En ligne | 17-11-2022 | 13:30 - 17:30 |  À venir |
+| WK-3 | Introduction à la visualisation des données | En ligne | 24-11-2022 | 13:30 - 17:30 |  À venir |
+| WK-4 | Modèles linéaires                           | En ligne | 01-12-2022 | 13:30 - 17:30 |  À venir |
+| WK-5 | Introduction à la programmation avec R      | En ligne | 08-12-2022 | 13:30 - 17:30 |  À venir |
 
 {{< /bootstrap-table >}}
 
