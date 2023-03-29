@@ -23,7 +23,7 @@ subtitle: null
 | :---: | :----------------------------------------- | :------: | :--------: | :-----------: | :------------------------: |
 | WK-6  | Generalized linear models                  | Online   | 29-03-2023 | 13:30 - 17:30 | [Shan Kothari, <br> Marc-Olivier Beausoleil](mailto:shan.kothari@umontreal.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
 | WK-7  | Linear and generalized linear mixed models | Online   | 05-04-2023 | 13:30 - 17:30 | [Daniel Schoenig, <br> Pedro Henrique P. Braga](mailto:schonig.daniel@courrier.uqam.ca,ph.pereirabraga@gmail.com) |
-| WK-8  | Generalized additive models                | Online   | 12-04-2023 | 13:30 - 17:30 | [Daniel Schoenig](mailto:schonig.daniel@courrier.uqam.ca) |
+| WK-8  | Generalized additive models                | Online   | 12-04-2023 | 13:30 - 17:30 | [Daniel Schoenig, <br> Marc-Olivier Beausoleil](mailto:schonig.daniel@courrier.uqam.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
 | WK-9  | Multivariate analyses                      | Online   | 19-04-2023 | 13:30 - 17:30 | [Sara Correa Garcia, <br> Pedro Henrique P. Braga](mailto:sara.garcia@inrs.ca,ph.pereirabraga@gmail.com ) |
 | WK-10 | Advanced multivariate analyses             | Online   | 26-04-2023 | 13:30 - 17:30 | [Pedro Henrique P. Braga, <br> Anna Crofts](mailto:ph.pereirabraga@gmail.com,croa2104@usherbrooke.ca) |
 
