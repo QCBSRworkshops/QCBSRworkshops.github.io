@@ -3,7 +3,7 @@ title: "R Workshop Series Schedule"
 bg_image: "images/feature-bg.jpg"
 description: null
 draft: no
-lastmod: "2023-01-09"
+lastmod: "2023-03-29"
 layout: faq
 menu:
   main:
