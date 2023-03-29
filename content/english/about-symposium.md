@@ -71,11 +71,11 @@ It is important to note that the workshops will __not__ be run as hybrid worksho
  Time (EST) | Event  |  Presented by | Description
 :------:|:---|:---:|:---:|
 | 9:00 - 10:00  | Welcome (with coffee!)  | QCBS R Workshop Series |   |
-| 10:00 - 11:30  | Structural equation modelling <br>and ecological inference* [EN] | [Nicole Knight](nicole.knight@mail.mcgill.ca) | [More details](#sem)  |
+| 10:00 - 11:30  | Structural equation modelling <br>and ecological inference* [EN] | [Nicole Knight](mailto:nicole.knight@mail.mcgill.ca) | [More details](#sem)  |
 | 12:00 - 13:00  | _Lunch_  |   |  |  |
-| 13:00 - 14:30  | Occupancy Models - __POSTPONED__ [FR] | [Clara Casabona i Amat](Clara.Casabona.I.Amat@USherbrooke.ca) |  [More details](#occmodels) |
+| 13:00 - 14:30  | Occupancy Models - __POSTPONED__ [FR] | [Clara Casabona i Amat](mailto:Clara.Casabona.I.Amat@USherbrooke.ca) |  [More details](#occmodels) |
 | 14:30 - 15:00  | _Break_ |   |   |
-| 15:00 - 16:30  | Shiny Web Apps for <br> Communicating Science* [EN] |  [Jake Lawlor](jake.lawlor@mail.mcgill.ca) | [More details](#shiny) |
+| 15:00 - 16:30  | Shiny Web Apps for <br> Communicating Science* [EN] |  [Jake Lawlor](mailto:jake.lawlor@mail.mcgill.ca) | [More details](#shiny) |
 | TBD  | Social event (details in your emails) |   |  |
 {{< /bootstrap-table >}}
 
@@ -84,13 +84,13 @@ It is important to note that the workshops will __not__ be run as hybrid worksho
 {{< bootstrap-table "table table-striped table-bordered" >}}
  Time (EST)  | Event &nbsp;  | Presented by  | Description
 :------:|:---|:---:|:---:
-| 9:00 - 10:30  | Simulations in R  [EN/FR]  | [Marc-Olivier Beausoleil](marc-olivier.beausoleil@mail.mcgill.ca)  | [More details](#sims) |
+| 9:00 - 10:30  | Simulations in R  [EN/FR]  | [Marc-Olivier Beausoleil](mailto:marc-olivier.beausoleil@mail.mcgill.ca)  | [More details](#sims) |
 | 10:30 - 11:00 | _Break_  |   |   |
-| 11:00 - 12:00  | Simulations in R [EN/FR]  | [Marc-Olivier Beausoleil](marc-olivier.beausoleil@mail.mcgill.ca)  | [More details](#sims) |
+| 11:00 - 12:00  | Simulations in R [EN/FR]  | [Marc-Olivier Beausoleil](mailto:marc-olivier.beausoleil@mail.mcgill.ca)  | [More details](#sims) |
 | 12:00 - 13:00  | _Lunch_  |   |  |
-| 13:00 - 14:00  | Introduction to GitHub and&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions* [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [More details](#git) |
+| 13:00 - 14:00  | Introduction to GitHub and&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions* [EN] | [Pedro Henrique P. Braga & <br> Katherine Hébert](mailto:ph.pereirabraga@gmail.com,katherine.hebert@usherbrooke.ca)  | [More details](#git) |
 | 14:00 - 14:30 | _Break_  |   |   |
-| 14:30 - 16:00  | Introduction to GitHub and&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions* [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [More details](#git) |
+| 14:30 - 16:00  | Introduction to GitHub and&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions* [EN] | [Pedro Henrique P. Braga & <br> Katherine Hébert](mailto:ph.pereirabraga@gmail.com,katherine.hebert@usherbrooke.ca)  | [More details](#git) |
 | 16:00 - 16:30  | Wrap-up  | QCBS R Workshop Series  |   |
 {{< /bootstrap-table >}}
 
@@ -99,36 +99,36 @@ It is important to note that the workshops will __not__ be run as hybrid worksho
 
 ## Contributed Workshops
 
-### Structural equation modelling and ecological inference {#sem}
+### [Structural equation modelling and ecological inference](/symposium/r-symposium-17/) {#sem}
 
-Contributed by [__Nicole Knight__](nicole.knight@mail.mcgill.ca) (McGill University)
+Contributed by [__Nicole Knight__](mailto:nicole.knight@mail.mcgill.ca) (McGill University)
 
 Structural equation models (SEM) are a powerful tool for analyzing complex ecological systems, as they can account for direct and indirect relationships by modelling multiple response variables. However, with great statistical power comes great statistical responsibility, and so SEMs must be carefully designed and implemented.
 
 This workshop will provide a conceptual and practical introduction to SEMs. It will emphasize 1) using prior knowledge to create meaningful causal diagrams, 2) translating hypothesized relationships to appropriate model designs, and 3) interpreting statistical output to make valid inferences about ecological relationships. We will go through examples of piecewise SEMs describing ecological systems, and cover additional topics such as latent and composite variables, model validation, and model selection.
 
-### Occupancy Modelling {#occmodels}
+### [Occupancy Modelling](/symposium/r-symposium-19/) {#occmodels}
 
-Contributed by [__Clara Casabona i Amat__](Clara.Casabona.I.Amat@USherbrooke.ca) (Université de Sherbrooke)
+Contributed by [__Clara Casabona i Amat__](mailto:Clara.Casabona.I.Amat@USherbrooke.ca) (Université de Sherbrooke)
 
 Site occupancy models are models that take into account the imperfect detection of organisms to determine the probability of presence of a species at a site. They can be considered as an extension of generalized linear mixed effects models (GLMM). In databases from sampled biological communities, the presence of a species at a site can mean two things: either the species is present in that site and the species was detected. However, the absence of a species at a site can be the result of two phenomena: the species is not present or the species is present, but has not been detected. In occupancy models, we can quantify this uncertainty related to the detection of a species by using sites that have been visited at least twice. We will discuss these issues and practice with examples of applications using the R package `unmarked`.
 
-### Shiny Web Apps for Communicating Science {#shiny}
+### [Shiny Web Apps for Communicating Science](/symposium/r-symposium-18/) {#shiny}
 
-Contributed by [__Jake Lawlor__](jake.lawlor@mail.mcgill.ca) (McGill University)
+Contributed by [__Jake Lawlor__](mailto:jake.lawlor@mail.mcgill.ca) (McGill University)
 
 This workshop will introduce reactive programming in the R Shiny environment, and how Shiny apps can be used for exploring data, sharing results, or generating custom reports from user-generated inputs. We will cover the basic structure and functionality of Shiny Apps, discuss different levels of customization in user interfaces, and tools to extend your existing R skills to fully interactive products including packages for interactive maps, plots, and tables. We will briefly cover generating custom reports through parameterized Rmarkdown scripts, and finally, strategies to deploy Shiny apps for long-term availability. Overall, this workshop will introduce the basics of Shiny app development, and a few of the ways Shiny apps can help share your science with the collaborators, stakeholders, or the public.
 
-### Simulations in R {#sims}
+### [Simulations in R](/symposium/r-symposium-16/) {#sims}
 
-Contributed by [__Marc-Olivier Beausoleil__](marc-olivier.beausoleil@mail.mcgill.ca) (McGill University)
+Contributed by [__Marc-Olivier Beausoleil__](mailto:marc-olivier.beausoleil@mail.mcgill.ca) (McGill University)
 
 Biodiversity research is about trying to understand natural phenomena, which ultimately can help with better predictions of the impact of a change of an ecosystem or the evolution of the populations living in their environment. Simulations are immensely useful as they provide a tool for researchers to accelerate our understanding of biological phenomena. It can help in planning research, testing models, accelerate the way we can test hypotheses, offer pedagogical insights, and much more. In his book Elements of simulation (1984), Byron J. T. Morgan argues that getting long-term data on a particular topic could slow the decision that is taken. He adds that simulations can clearly help explore a vast portfolio of hypothesis in a quick manner such as forest management, epidemics, road congestion, etc. Thus simulations are an excellent addition to the toolkit of researchers that want to explore more questions than they can collect data on.
 Simulations have the advantage to make experimental design explicit and show the effects that a researcher is interested in determining, before conducting the study. The value here is that students could better understand the implication of one study design and the value it, without wasting resources with trial and error methods. Transporting the trial and errors in silico would accelerate students’ understanding of how they can better design their studies.
 
-### Introduction to GitHub and GitHub Actions {#git}
+### [Introduction to GitHub and GitHub Actions](/symposium/r-symposium-15/) {#git}
 
-Contributed by [__Pedro Henrique P. Braga__](ph.pereirabraga@gmail.com) (Concordia University) & [__Katherine Hébert__](katherine.hebert@usherbrooke.ca) (Université de Sherbrooke)
+Contributed by [__Pedro Henrique P. Braga__](mailto:ph.pereirabraga@gmail.com) (Concordia University) & [__Katherine Hébert__](mailto:katherine.hebert@usherbrooke.ca) (Université de Sherbrooke)
 
 Collaborations are rarely static: when people work on projects together, it is a continuously developing process of contributing ideas, giving and getting feedback, and addressing this feedback with changes until a goal is achieved. These steps often overlap, with collaborators simultaneously changing files in the project. This dynamic makes it very challenging (and very confusing!) to work on documents that are passed around the group, with versions of changes being tracked by updating file names with initials, dates or “`document_final_version_number_23123`”. This is where GitHub comes in!
 

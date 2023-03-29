@@ -68,11 +68,11 @@ Il est important de noter que les ateliers ne seront __pas__ animés en tant qu'
  Heure (EST) | Événement  |  Presenté par | Description
 :------:|:---|:---:|:---:|
 | 9:00 - 10:00  | Bienvenu (avec café!)  | Série d'ateliers R |   |
-| 10:00 - 11:30  | Modélisation par équations structurelles <br>et inférence écologique* [EN] | [Nicole Knight](nicole.knight@mail.mcgill.ca) | [Plus de détails](#sem)  |
+| 10:00 - 11:30  | Modélisation par équations structurelles <br>et inférence écologique* [EN] | [Nicole Knight](mailto:nicole.knight@mail.mcgill.ca) | [Plus de détails](#sem)  |
 | 12:00 - 13:00  | _Dîner_  |   |  |  |
-| 13:00 - 14:30  | Modèles d’occupation - __REPORTÉ__ [FR] | [Clara Casabona i Amat](Clara.Casabona.I.Amat@USherbrooke.ca) |  [Plus de détails](#occmodels) |
+| 13:00 - 14:30  | Modèles d’occupation - __REPORTÉ__ [FR] | [Clara Casabona i Amat](mailto:Clara.Casabona.I.Amat@USherbrooke.ca) |  [Plus de détails](#occmodels) |
 | 14:30 - 15:00  | _Pause_ |   |   |
-| 15:00 - 16:30  | Applications web Shiny<br>pour communiquer votre science* [EN] |  [Jake Lawlor](jake.lawlor@mail.mcgill.ca) | [Plus de détails](#shiny) |
+| 15:00 - 16:30  | Applications web Shiny<br>pour communiquer votre science* [EN] |  [Jake Lawlor](mailto:jake.lawlor@mail.mcgill.ca) | [Plus de détails](#shiny) |
 | À venir  | Événement social (détails à venir) |   |  |
 {{< /bootstrap-table >}}
 
@@ -81,13 +81,13 @@ Il est important de noter que les ateliers ne seront __pas__ animés en tant qu'
 {{< bootstrap-table "table table-striped table-bordered" >}}
  Time (EST)  | Event &nbsp;  | Presented by  | Description
 :------:|:---|:---:|:---:
-| 9:00 - 10:30  | Simulations dans R  [EN/FR]  | [Marc-Olivier Beausoleil](marc-olivier.beausoleil@mail.mcgill.ca)  | [Plus de détails](#sims) |
+| 9:00 - 10:30  | Simulations dans R  [EN/FR]  | [Marc-Olivier Beausoleil](mailto:marc-olivier.beausoleil@mail.mcgill.ca)  | [Plus de détails](#sims) |
 | 10:30 - 11:00 | _Break_  |   |   |
-| 11:00 - 12:00  | Simulations dans R [EN/FR]  | [Marc-Olivier Beausoleil](marc-olivier.beausoleil@mail.mcgill.ca)  | [Plus de détails](#sims) |
+| 11:00 - 12:00  | Simulations dans R [EN/FR]  | [Marc-Olivier Beausoleil](mailto:marc-olivier.beausoleil@mail.mcgill.ca)  | [Plus de détails](#sims) |
 | 12:00 - 13:00  | _Lunch_  |   |  |
-| 13:00 - 14:00  | Introduction à GitHub et&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions* [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [Plus de détails](#git) |
+| 13:00 - 14:00  | Introduction à GitHub et&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions* [EN] | [Pedro Henrique P. Braga & <br> Katherine Hébert](mailto:ph.pereirabraga@gmail.com,katherine.hebert@usherbrooke.ca)  | [Plus de détails](#git) |
 | 14:00 - 14:30 | _Break_  |   |   |
-| 14:30 - 16:00  | Introduction à GitHub et&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions* [EN] | [Pedro Henrique P. Braga](ph.pereirabraga@gmail.com) & <br>[Katherine Hébert](katherine.hebert@usherbrooke.ca)  | [Plus de détails](#git) |
+| 14:30 - 16:00  | Introduction à GitHub et&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<br>GitHub Actions* [EN] | [Pedro Henrique P. Braga & <br> Katherine Hébert](mailto:ph.pereirabraga@gmail.com,katherine.hebert@usherbrooke.ca)  | [Plus de détails](#git) |
 | 16:00 - 16:30  | Conclusion  | Série d'ateliers R  |   |
 {{< /bootstrap-table >}}
 
@@ -95,39 +95,39 @@ Il est important de noter que les ateliers ne seront __pas__ animés en tant qu'
 
 ## Ateliers contribués
 
-### Modélisation par équations structurelles et inférence écologique {#sem}
+### [Modélisation par équations structurelles et inférence écologique](/fr/symposium/r-symposium-17/) {#sem}
 
-Contribué par [__Nicole Knight__](nicole.knight@mail.mcgill.ca) (McGill University)
+Contribué par [__Nicole Knight__](mailto:nicole.knight@mail.mcgill.ca) (McGill University)
 
 Les modèles d'équations structurelles (MES) constituent un outil puissant pour l'analyse des systèmes écologiques complexes, car ils peuvent tenir compte des relations directes et indirectes. Cependant, un grand pouvoir statistique implique une grande responsabilité statistique, et les SEM doivent donc être conçus et mis en œuvre avec soin.
 
 Cet atelier fournira une introduction conceptuelle et pratique aux MES. Il mettra l'accent sur 1) l'utilisation des connaissances préalables pour créer des diagrammes causaux significatifs, 2) la traduction des relations hypothétiques en modèles appropriés, et 3) l'interprétation des résultats statistiques pour faire des inférences valides sur les relations écologiques. Nous examinerons des exemples de SEM par morceaux décrivant des systèmes écologiques et couvrirons des sujets supplémentaires tels que les variables latentes et composites, la validation des modèles et la sélection des modèles.
 
-### Modèles d’occupation {#occmodels}
+### [Modèles d’occupation](/fr/symposium/r-symposium-19/) {#occmodels}
 
-Contribué par [__Clara Casabona i Amat__](Clara.Casabona.I.Amat@USherbrooke.ca) (Université de Sherbrooke)
+Contribué par [__Clara Casabona i Amat__](mailto:Clara.Casabona.I.Amat@USherbrooke.ca) (Université de Sherbrooke)
 
 Les modèles d’occupation de sites sont des modèles qui prennent en compte de la détection imparfaite d’organismes pour déterminer la probabilité de présence d’une espèce sur un site. Ils peuvent être considérés comme une extension des modèles linéaires généralisés à effets mixtes (GLMM). Dans les données d'échantillonnage, la présence d’une espèce sur un site est le résultat de deux processus: l’espèce est présente et l’espèce a été détectée. Cependant, l’absence d'une l’espèce sur site peut être le résultat de deux phénomènes: l'espèce n’est pas présente ou l’espèce est présente, mais elle n’a pas été détecté. Dans les modèles d’occupation, nous pouvons quantifier cette incertitude de détection en utilisant des sites qui ont été visités au moins deux fois. Nous allons montrer des exemples d'application en utilisant le package R `unmarked`.
 
 
-### Applications web Shiny pour communiquer votre science {#shiny}
+### [Applications web Shiny pour communiquer votre science](/fr/symposium/r-symposium-18/) {#shiny}
 
-Contribué par [__Jake Lawlor__](jake.lawlor@mail.mcgill.ca) (McGill University)
+Contribué par [__Jake Lawlor__](mailto:jake.lawlor@mail.mcgill.ca) (McGill University)
 
 Cet atelier présentera la programmation réactive dans l'environnement R Shiny, et comment les applications Shiny peuvent être utilisées pour explorer des données, partager des résultats, ou générer des rapports personnalisés à partir d'entrées provenant de l'utilisateur. Nous couvrirons la structure et les fonctionnalités de base des Shiny Apps, discuterons des différents niveaux de personnalisation des interfaces utilisateur, et des outils permettant de pousser vos compétences R existantes vers des produits entièrement interactifs, y compris des packages pour des cartes, des graphiques et des tableaux interactifs. Nous aborderons brièvement la génération de rapports personnalisés par le biais de scripts R markdown paramétrés, et enfin, les stratégies de déploiement des Shiny Apps pour une disponibilité à long terme. Dans l'ensemble, cet atelier présentera les bases du développement d'applications Shiny, et quelques exemples de la façon dont les applications Shiny peuvent aider à partager votre science avec vos collaborations, les parties prenantes ou le public.
 
-### Simulations dans R {#sims}
+### [Simulations dans R](/fr/symposium/r-symposium-16/) {#sims}
 
-Contribué par [__Marc-Olivier Beausoleil__](marc-olivier.beausoleil@mail.mcgill.ca) (McGill University)
+Contribué par [__Marc-Olivier Beausoleil__](mailto:marc-olivier.beausoleil@mail.mcgill.ca) (McGill University)
 
 La recherche sur la biodiversité consiste à essayer de comprendre les phénomènes naturels, ce qui peut aider à mieux prédire l'impact d'une modification d'un écosystème ou l'évolution des populations vivant dans leur environnement. Les simulations sont très utiles, car elles fournissent un outil aux chercheurs pour accélérer notre compréhension des phénomènes biologiques. Cela peut aider à planifier la recherche, tester des modèles, accélérer la façon dont nous pouvons tester des hypothèses, offrir des idées pédagogiques, et bien plus encore. Dans son livre Elements of simulation (1984), Byron J. T. Morgan soutient que l'obtention de données à long terme sur un sujet particulier pourrait ralentir la décision qui est prise. Il ajoute que les simulations peuvent clairement aider à explorer rapidement un vaste portefeuille d'hypothèses telles que la gestion forestière, les épidémies, la congestion routière, etc. Ainsi, les simulations sont un excellent ajout à la boîte à outils des chercheurs qui souhaitent explorer plus de questions avec des données qu'ils ne peuvent en collecter.
 
 Les simulations ont l'avantage de rendre explicite la conception expérimentale et de montrer les effets qu'un chercheur est intéressé à déterminer, avant de mener l'étude. La valeur ici est que les étudiants pourraient mieux comprendre l'implication d'une conception d'étude et sa valeur, sans gaspiller de ressources avec des méthodes d'essais et d'erreurs. Le transport des essais et erreurs in silico accélérerait la compréhension des étudiants sur la façon dont ils peuvent mieux concevoir leurs études.
 
 
-### Introduction à GitHub et GitHub Actions {#git}
+### [Introduction à GitHub et GitHub Actions](/fr/symposium/r-symposium-15/) {#git}
 
-Contribué par [__Pedro Henrique P. Braga__](ph.pereirabraga@gmail.com) (Concordia University) & [__Katherine Hébert__](katherine.hebert@usherbrooke.ca) (Université de Sherbrooke)
+Contribué par [__Pedro Henrique P. Braga__](mailto:ph.pereirabraga@gmail.com) (Concordia University) & [__Katherine Hébert__](mailto:katherine.hebert@usherbrooke.ca) (Université de Sherbrooke)
 
 Les collaborations sont rarement statiques : lorsque des personnes travaillent ensemble sur des projets, il s'agit d'un processus de développement continu qui consiste à apporter des idées, à donner et à recevoir des commentaires, et à répondre à ces recommandations par des modifications jusqu'à ce que l'objectif soit atteint. Ces étapes se chevauchent souvent, les personnes qui collaborent modifiant simultanément les fichiers du projet. Cette dynamique rend très difficile (et très déroutant !) le travail sur des documents qui circulent dans le groupe, les versions des changements étant suivies en mettant à jour les noms de fichiers avec des initiales, des dates ou "`document_version_finale_233`". C'est là que GitHub entre en jeu !
 
