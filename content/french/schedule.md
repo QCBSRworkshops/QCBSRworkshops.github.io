@@ -26,9 +26,9 @@ lastmod: "2023-03-29"
 | :---: | :------------------------------------------------ | :------: | :--------: | :-----------: | :----------: |
 | WK-6  | Modèles linéaires généralisés                     | En ligne | 30-03-2023 | 13:30 - 17:30 | [Marc-Olivier Beausoleil, <br> Théophile Kabasele ](mailto:marc-olivier.beausoleil@mail.mcgill.ca,theophile.kabasele.walelu@umontreal.ca) |
 | WK-7  | Modèles linéaires et généralisés linéaires mixtes | En ligne | 06-04-2023 | 13:30 - 17:30 | [Clara Casabona, <br> Théophile Kabasele](mailto:Clara.Casabona.I.Amat@USherbrooke.ca,theophile.kabasele.walelu@umontreal.ca) |
-| WK-8  | Modèles additifs généralisés                      | En ligne | 13-04-2023 | 13:30 - 17:30 | [Clara Casabona, <br> Marc-Olivier Beausoleil,](mailto:Clara.Casabona.I.Amat@USherbrooke.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
-| WK-9  | Analyses multivariées                             | En ligne | 20-04-2023 | 13:30 - 17:30 | [Théophile Kabasele, <br> Marc-Olivier  Beausoleil](mailto:marc-olivier.beausoleil@mail.mcgill.ca,theophile.kabasele.walelu@umontreal.ca) |
-| WK-10 | Analyses multivariées avancées                    | En ligne | 27-04-2023 | 13:30 - 17:30 | [Simon Laurin-Lemay, <br> Théophile Kabasele](mailto:evol.simon@gmail.com,theophile.kabasele.walelu@umontreal.ca) |
+| WK-8  | Modèles additifs généralisés                      | En ligne | 13-04-2023 | 13:30 - 17:30 | [Clara Casabona, <br> Marc-Olivier  Beausoleil,](mailto:Clara.Casabona.I.Amat@USherbrooke.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
+| WK-9  | Analyses multivariées                             | En ligne | 20-04-2023 | 13:30 - 17:30 | [Marc-Olivier  Beausoleil](mailto:marc-olivier.beausoleil@mail.mcgill.ca) |
+| WK-10 | Analyses multivariées avancées                    | En ligne | 27-04-2023 | 13:30 - 17:30 | [Simon Laurin-Lemay, <br> Marc-Olivier Beausoleil](mailto:evol.simon@gmail.com,marc-olivier.beausoleil@mail.mcgill.ca) |
 
 {{< /bootstrap-table >}}
 
