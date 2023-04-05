@@ -6,7 +6,7 @@ menu:
   main: 
     name: Previous Workshops
     parent: R Symposium
-    weight: 2
+    weight: 3
 title: QCBS R Symposium Workshop Archive
 ---
 

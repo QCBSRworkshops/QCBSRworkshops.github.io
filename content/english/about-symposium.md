@@ -8,7 +8,7 @@ menu:
   main:
     name: R Symposium 2022
     parent: R Symposium
-    weight: 1
+    weight: 2
 subtitle: The QCBS R Symposium provides an opportunity for teaching and participation in a series of contributed R workshops about the application of biodiversity science analyses using R that are not offered during the annual QCBS R Workshop Series.
 title: 4th QCBS R Symposium
 ---

@@ -8,7 +8,7 @@ menu:
   main:
     name: Colloque R 2022
     parent: Colloque R
-    weight: 1
+    weight: 2
 subtitle: L'objectif du Colloque R du CSBQ est de fournir un cadre structuré pour la discussion et l'échange d'idées entre des participants et des contributeurs/contributrices d'ateliers concernant l'utilisation de R dans les analyses de la biodiversité. Pour cela, nous fournissons un lieu d’enseignement et de participation à une série d’ateliers R avancés qui ne sont pas couverts par la série annuelle d’ateliers R du CSBQ.
 title: 4ème Colloque R du CSBQ
 ---

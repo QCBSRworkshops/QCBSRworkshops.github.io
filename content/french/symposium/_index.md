@@ -6,7 +6,7 @@ menu:
   main:
     parent: Colloque R
     name: Archive d'ateliers
-    weight: 2
+    weight: 3
 title: Archive des Colloques R du CSBQ
 ---
 
