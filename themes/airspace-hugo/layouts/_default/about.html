@@ -53,7 +53,7 @@
     {{ end }}
     <div class="row">
       {{ range .feature_item }}
-      <div class="col-md-3">
+      <div class="col-md-4">
         <div class="service-item">
           {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
           {{ with .name }}<h4>{{ . | markdownify }}</h4>{{ end }}
