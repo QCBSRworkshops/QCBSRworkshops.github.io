@@ -27,5 +27,6 @@ __Date:__ 21 & 22 juin 2023.
 
 ## Inscription
 
-Les inscriptions et plus d'information pour le 5e Colloque R du CSBQ seront bientôt disponibles.
+Les frais de participation au 4ème Symposium R du CSBQ sont de __35$ pour les membres du CSBQ__, et de __150$ pour les non-membres du CSBQ__. _Ces frais incluent le hébergement, le dîner et les pauses-café pour les deux journées du Colloque_.
 
+Les inscriptions et plus d'information pour le 5e Colloque R du CSBQ seront bientôt disponibles.

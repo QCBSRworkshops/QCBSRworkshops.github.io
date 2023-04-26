@@ -29,6 +29,9 @@ __Date:__ June 21st & 22nd, 2023.
 
 ## Registration
 
-Registration and more information about the 5th QCBS R Symposium will be available soon. 
+The attendance fee for the 5th QCBS R Symposium is __35$ for QCBS members__, and __150$ for QCBS non-members__. _This fee includes acomodation at the SBl, lunch and coffee breaks on both symposium dates._
+
+Registration and more information for the 5th QCBS R Symposium will be available soon!
+
 
 
