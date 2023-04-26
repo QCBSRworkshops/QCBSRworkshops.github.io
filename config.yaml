@@ -22,10 +22,29 @@ params:
     address_descriptors: no
     email: "csbq.qcbs.r@gmail.com"
     form:
-      enable: no
+      enable: yes
       provider: formspree
       formspree:
         id: myyaknog
+      fields:
+        - name: 'Name'
+          id: 'name'
+          type: 'text'
+          required: true
+        - name: 'Email'
+          id: 'email'
+          type: 'email'
+          required: true
+        - name: 'Subject'
+          id: 'subject'
+          type: 'text'
+          required: true
+        - name: 'Message'
+          id: 'message'
+          type: 'textarea'
+          required: true
+      submit: 'Send'
+      success_message: 'Thank you for your message !'
       #success_image: images/paper-plane.svg
       #use_netlify: yes
     location: "\r\n**Série d'ateliers R du CSBQ / QCBS R Workshop Series**  \r\n Centre de la science de la biodiversité du Québec / Quebec Centre for Biodiversity Science  \r\nQuébec, Canada"
