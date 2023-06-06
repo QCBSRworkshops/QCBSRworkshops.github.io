@@ -13,13 +13,13 @@ subtitle: L'objectif du Colloque R du CSBQ est de fournir un cadre structuré po
 title: 5ème Colloque R du CSBQ
 ---
 
-## Update
+## Mise à jour
 
-__Nous avons le regret de vous informer que la 5ème édition du Colloque R du CSBQ a été annulée en raison du manque de propositions d'ateliers.__
+__Nous avons le regret de vous informer que la 5ème édition du Colloque R du CSBQ en juin 2023 a été annulée en raison du manque de propositions d'ateliers.__
 
-Bien que cette situation soit décevante, notre première priorité est toujours d'organiser et de fournir un cadre structuré pour la discussion et l'échange d'idées en co qui a trait à l'utilisation de R dans les analyses scientifiques de la biodiversité.
+Bien que cette situation puisse être décevante, notre priorité première est toujours d'organiser et de fournir un cadre structuré pour la discussion et l'échange d'idées sur l'utilisation de R dans les analyses scientifiques de la biodiversité.
 
-Nous vous tiendrons au courant de la date et du lieu de l'atelier dès qu'ils seront confirmés. 
+Nous vous tiendrons au courant pour une nouvelle date dès que nous aurons plus de détails. 
 
 N'hésitez pas à nous contacter si vous avez des questions ou si vous souhaitez proposer un atelier à csbq.qcbs.r@gmail.com.
 

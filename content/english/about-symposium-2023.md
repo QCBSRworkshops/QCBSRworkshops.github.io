@@ -15,9 +15,9 @@ title: 5th QCBS R Symposium
 
 ## Update
 
-__We regret to inform you that the 5th edition of the QCBS R Symposium has been canceled due to the lack of workshop proposals.__ 
+__We regret to inform you that the 5th edition of the QCBS R Symposium in June 2023 has been canceled due to the lack of workshop proposals.__ 
 
-While we know this is disappointing, our first priority is always to organize and provide a structured platform for discussion and the exchange of ideas on the use of R in biodiversity science analyses.
+While we know this is disappointing, our first priority is always to organize and provide a structured platform for discussion and exchange of ideas on the use of R in biodiversity science analyses.
 
 We will give updates with a new possible date and location as soon as they are confirmed. 
 
