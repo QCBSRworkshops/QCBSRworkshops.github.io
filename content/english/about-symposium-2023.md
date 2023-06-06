@@ -2,7 +2,7 @@
 bg_image: images/symposium/gault.png
 description:
 draft: false
-lastmod: 2023-04-04
+lastmod: 2023-06-06
 layout: faq
 menu:
   main:
@@ -13,9 +13,16 @@ subtitle: The QCBS R Symposium provides an opportunity for teaching and particip
 title: 5th QCBS R Symposium
 ---
 
-The QCBS R Symposium is back! The 5th edition of the QCBS R Symposium invites you to participate in QCBS member-contributed R workshops to be held __in person__ at the Biological Station of Laurentides (SBL) of the Université de Montréal.
+## Update
 
-The aim of the QCBS R Symposium is to provide a structured setting for the discussion and exchange of ideas between attendees and workshop presenters concerning the use of R in biodiversity analyses. For this, we provide a venue for the instruction and participation in a series of advanced R workshops that are not covered by the annual QCBS R Workshop Series.
+__We regret to inform you that the 5th edition of the QCBS R Symposium has been canceled due to the lack of workshop proposals.__ 
+
+While we know this is disappointing, our first priority is always to organize and provide a structured platform for discussion and the exchange of ideas on the use of R in biodiversity science analyses.
+
+We will give updates with a new possible date and location as soon as they are confirmed. 
+
+Please do not hesitate to contact us if you have any questions or if you would like to propose any workshop at csbq.qcbs.r@gmail.com.
+
 
 ## Venue & Date
 

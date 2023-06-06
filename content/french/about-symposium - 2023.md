@@ -2,7 +2,7 @@
 bg_image: images/symposium/gault.png
 description:
 draft: false
-lastmod: 2023-04-04
+lastmod: 2023-06-06
 layout: faq
 menu:
   main:
@@ -13,9 +13,16 @@ subtitle: L'objectif du Colloque R du CSBQ est de fournir un cadre structuré po
 title: 5ème Colloque R du CSBQ
 ---
 
-Le Colloque R du CSBQ est de retour! La 5ème édition du Colloque R vous invite à participer à des ateliers R contribués par des membres du CSBQ qui auront lieu __en présentiel__ le 21 et 22 juin 2023 à la Station de Biologie des Laurentides de la Université de Motréal.
+## Update
 
-Le but du Colloque R est de fournir un cadre structuré pour la discussion et l’échange d’idées entre les participants et les présentateurs d’ateliers en ce qui a trait à l’utilisation de R pour les analyses en science de la biodiversité. À cette fin, nous fournissons un lieu pour l’enseignement et la participation à une série d’ateliers avancés en R qui ne sont pas offerts par la série d’ateliers annuelles en R du CSBQ.
+__Nous avons le regret de vous informer que la 5ème édition du Colloque R du CSBQ a été annulée en raison du manque de propositions d'ateliers.__
+
+Bien que cette situation soit décevante, notre première priorité est toujours d'organiser et de fournir un cadre structuré pour la discussion et l'échange d'idées en co qui a trait à l'utilisation de R dans les analyses scientifiques de la biodiversité.
+
+Nous vous tiendrons au courant de la date et du lieu de l'atelier dès qu'ils seront confirmés. 
+
+N'hésitez pas à nous contacter si vous avez des questions ou si vous souhaitez proposer un atelier à csbq.qcbs.r@gmail.com.
+
 
 ## Lieu et date
 
