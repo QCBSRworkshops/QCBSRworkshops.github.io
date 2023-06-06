@@ -19,7 +19,7 @@ __Nous avons le regret de vous informer que la 5ème édition du Colloque R du C
 
 Bien que cette situation puisse être décevante, notre priorité première est toujours d'organiser et de fournir un cadre structuré pour la discussion et l'échange d'idées sur l'utilisation de R dans les analyses scientifiques de la biodiversité.
 
-Nous vous tiendrons au courant pour une nouvelle date dès que nous aurons plus de détails. 
+Nous vous tiendrons au courant pour une possible nouvelle date dès que nous aurons plus de détails. 
 
 N'hésitez pas à nous contacter si vous avez des questions ou si vous souhaitez proposer un atelier à csbq.qcbs.r@gmail.com.
 
