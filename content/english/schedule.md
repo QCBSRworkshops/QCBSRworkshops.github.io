@@ -3,7 +3,6 @@ title: "R Workshop Series Schedule"
 bg_image: "images/feature-bg.jpg"
 description: null
 draft: no
-lastmod: "2023-03-29"
 layout: faq
 menu:
   main:
@@ -11,21 +10,22 @@ menu:
     parent: Registration
     weight: 1
 subtitle: null
+lastmod: "2023-07-18"
 ---
 
-## Winter 2023
+## Fall 2023
 
 ### Workshops in English
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 
-|       | Workshop                                   | Location |    Date    |  Time (EST)   |   Instructed by |
-| :---: | :----------------------------------------- | :------: | :--------: | :-----------: | :------------------------: |
-| WK-6  | Generalized linear models                  | Online   | 29-03-2023 | 13:30 - 17:30 | [Shan Kothari, <br> Marc-Olivier Beausoleil](mailto:shan.kothari@umontreal.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
-| WK-7  | Linear and generalized linear mixed models | Online   | 05-04-2023 | 13:30 - 17:30 | [Pedro Henrique P., <br> Shan Kothari, Braga](mailto:shan.kothari@umontreal.ca,ph.pereirabraga@gmail.com) |
-| WK-8  | Generalized additive models                | Online   | 12-04-2023 | 13:30 - 17:30 | [Daniel Schoenig, <br> Marc-Olivier Beausoleil](mailto:schonig.daniel@courrier.uqam.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
-| WK-9  | Multivariate analyses                      | Online   | 19-04-2023 | 13:30 - 17:30 | [Sara Correa Garcia, <br> Pedro Henrique P. Braga](mailto:sara.garcia@inrs.ca,ph.pereirabraga@gmail.com ) |
-| WK-10 | Advanced multivariate analyses             | Online   | 26-04-2023 | 13:30 - 17:30 | [Pedro Henrique P. Braga, <br> Anna Crofts](mailto:ph.pereirabraga@gmail.com,croa2104@usherbrooke.ca) |
+|      | Workshop                           | Location | Date       | Time (EST)    | Instructed by |
+|:---: |:----------------------------------:|:--------:|:----------:|:-------------:|:-------------:|
+| WK-1 | Introduction to R                  | Online   | 08-11-2023 | 13:30 - 17:30 | To be announced |
+| WK-2 | Loading and manipulating data      | Online   | 15-11-2023 | 13:30 - 17:30 | To be announced |
+| WK-3 | Introduction to data visualization | Online   | 22-11-2023 | 13:30 - 17:30 | To be announced |
+| WK-4 | Linear models                      | Online   | 29-11-2023 | 13:30 - 17:30 | To be announced |
+| WK-5 | Introduction to Programming in R   | Online   | 06-12-2023 | 13:30 - 17:30 | To be announced |
 
 {{< /bootstrap-table >}}
 
@@ -36,31 +36,33 @@ subtitle: null
 
 **Please register at least 24 hours before the session to avoid problems with registration and sending the Zoom link.**
 
+**Registration for the Fall 2023 session is not yet open. Please come back in early September to register.**
+
 ### Workshops in French
 
-The schedule for the workshops in french is avalaible [__here__](/fr/schedule/#hiver-2023).
+The schedule for the workshops in french is avalaible [__here__](/fr/schedule/#automne-2023).
 
 <br />
 
-## Fall 2023
+## Winter 2024
 
 ### Workshops in English
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 
-|      | Workshop                           | Location | Date       | Time (EST)    | Instructed by |
-|:---: |:----------------------------------:|:--------:|:----------:|:-------------:|:-------------:|
-| WK-1 | Introduction to R                  | Online   | 09-11-2022 | 13:30 - 17:30 | To be announced |
-| WK-2 | Loading and manipulating data      | Online   | 16-11-2022 | 13:30 - 17:30 | To be announced |
-| WK-3 | Introduction to data visualization | Online   | 23-11-2022 | 13:30 - 17:30 | To be announced |
-| WK-4 | Linear models                      | Online   | 30-11-2022 | 13:30 - 17:30 | To be announced |
-| WK-5 | Introduction to Programming in R   | Online   | 07-12-2022 | 13:30 - 17:30 | To be announced |
+|       | Workshop                                   | Location |    Date    |  Time (EST)   |   Instructed by |
+| :---: | :----------------------------------------- | :------: | :--------: | :-----------: | :------------------------: |
+| WK-6  | Generalized linear models                  | Online   | 27-03-2024 | 13:30 - 17:30 | To be announced |
+| WK-7  | Linear and generalized linear mixed models | Online   | 03-04-2024 | 13:30 - 17:30 | To be announced |
+| WK-8  | Generalized additive models                | Online   | 10-04-2024 | 13:30 - 17:30 | To be announced |
+| WK-9  | Multivariate analyses                      | Online   | 17-04-2024 | 13:30 - 17:30 | To be announced |
+| WK-10 | Advanced multivariate analyses             | Online   | 24-04-2024 | 13:30 - 17:30 | To be announced |
 
 {{< /bootstrap-table >}}
 
 ### Workshops in French
 
-The schedule for the workshops in french is avalaible [__here__](/fr/schedule/#automne-2022).
+The schedule for the workshops in french is avalaible [__here__](/fr/schedule/#hiver-2024).
 
 <br />
 
