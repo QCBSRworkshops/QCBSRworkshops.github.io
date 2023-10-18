@@ -18,6 +18,8 @@ title: Annulation & Remboursement
 Toutes les annulations et demandes de remboursement doivent être reçues par courriel **au moins 5 jours avant la date de l'atelier**. Des exceptions peuvent être faites pour des circonstances imprévisibles. 
 
 **Pour annuler votre inscription**, veuillez aviser l'équipe de présentation de l'atelier (indiqué dans l'<a href = "https://r.qcbs.ca/fr/schedule/">horaire</a>), et copiez (CC) votre message à l'équipe de coordination des ateliers R [csbq.qcbs.r@gmail.com](mailto:csbq.qcbs.r@gmail.com).
+
+**Pour demander le remboursement partiel de vos frais d'inscription (voir les politiques ci-dessous)**, envoyez un courriel à l'adresse du CSBQ (info@qcbs.ca), avec Yella Jovich (Responsable administration et finances du CSBQ, <yella.jovich@mcgill.ca>) et l'équipe de coordination du CSBQ (csbq.qcbs.r@gmail.com) en CC.
  
 ### Si vous êtes membre du CSBQ
 
