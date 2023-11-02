@@ -39,7 +39,6 @@ lastmod: "2023-07-18"
 
 **Veuillez vous inscrire au moins 24 heures avant la séance pour éviter des problèmes avec l'inscription et l'envoi du lien Zoom.** 
 
-**Les inscriptions pour la session d'automne 2023 ne sont pas encore ouvertes. Nous vous prions de revenir au début du mois de septembre afin de pouvoir vous inscrire.**
 
 ### Ateliers en anglais
 

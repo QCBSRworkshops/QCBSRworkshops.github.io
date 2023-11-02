@@ -36,7 +36,6 @@ lastmod: "2023-07-18"
 
 **Please register at least 24 hours before the session to avoid problems with registration and sending the Zoom link.**
 
-**Registration for the Fall 2023 session is not yet open. Please come back in early September to register.**
 
 ### Workshops in French
 
