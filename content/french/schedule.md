@@ -28,7 +28,7 @@ lastmod: "2023-07-18"
 | WK-2 | Charger et manipuler des données            | En ligne | 16-11-2023 | 13:30 - 17:30 | [Théophile Kabasele Walelu, <br> Marc-Olivier Beausoleil](mailto:theophile.kabasele.walelu@umontreal.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
 | WK-3 | Introduction à la visualisation des données | En ligne | 23-11-2023 | 13:30 - 17:30 | [Théophile Kabasele Walelu, <br> Marc-Olivier Beausoleil](mailto:theophile.kabasele.walelu@umontreal.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
 | WK-4 | Modèles linéaires                           | En ligne | 30-11-2023 | 13:30 - 17:30 | [Théophile Kabasele Walelu, <br> Marc-Olivier Beausoleil](mailto:theophile.kabasele.walelu@umontreal.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
-| WK-5 | Introduction à la programmation avec R      | En ligne | 07-12-2023 | 13:30 - 17:30 |  À venir |
+| WK-5 | Introduction à la programmation avec R      | En ligne | 07-12-2023 | 13:30 - 17:30 |  [Gabriel Bergeron, <br> Marc-Olivier Beausoleil](mailto:berg1818@usherbrooke.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
 
 {{< /bootstrap-table >}}
 

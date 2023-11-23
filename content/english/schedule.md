@@ -25,7 +25,7 @@ lastmod: "2023-07-18"
 | WK-2 | Loading and manipulating data      | Online   | 15-11-2023 | 13:30 - 17:30 | [Morgane Henry, <br> Madelaine Anderson](mailto:morgane.henry2@mail.mcgill.ca,madelaine.anderson@usherbrooke.ca) |
 | WK-3 | Introduction to data visualization | Online   | 22-11-2023 | 13:30 - 17:30 | [Anna Crofts, <br> Madelaine Anderson](mailto:croa2104@usherbrooke.ca,madelaine.anderson@usherbrooke.ca) |
 | WK-4 | Linear models                      | Online   | 29-11-2023 | 13:30 - 17:30 | [Marc-Olivier Beausoleil, <br> Anna Crofts](mailto:croa2104@usherbrooke.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
-| WK-5 | Introduction to Programming in R   | Online   | 06-12-2023 | 13:30 - 17:30 | To be announced |
+| WK-5 | Introduction to Programming in R   | Online   | 06-12-2023 | 13:30 - 17:30 | [Anna Crofts, <br> Marc-Olivier Beausoleil](mailto:croa2104@usherbrooke.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
 
 {{< /bootstrap-table >}}
 
