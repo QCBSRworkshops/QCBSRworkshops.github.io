@@ -10,7 +10,7 @@ menu:
     parent: Registration
     weight: 1
 subtitle: null
-lastmod: "2023-07-18"
+lastmod: "2024-02-14"
 ---
 
 ## Winter 2024

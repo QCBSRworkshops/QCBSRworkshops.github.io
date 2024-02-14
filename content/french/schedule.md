@@ -13,7 +13,7 @@ menu:
     weight: 1
 subtitle: null
 bg_image: "images/feature-bg.jpg"
-lastmod: "2023-07-18"
+lastmod: "2024-02-14"
 ---
 
 ## Hiver 2024
