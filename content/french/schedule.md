@@ -16,6 +16,28 @@ bg_image: "images/feature-bg.jpg"
 lastmod: "2023-07-18"
 ---
 
+## Hiver 2024
+
+### Ateliers en français
+
+{{< bootstrap-table "table table-striped table-bordered" >}}
+
+|       | Atelier                                           |   Lieu   |    Date    |  Heure (EST)  | Instruit par |
+| :---: | :------------------------------------------------ | :------: | :--------: | :-----------: | :----------: |
+| WK-6  | Modèles linéaires généralisés                     | En ligne | 28-03-2024 | 13:30 - 17:30 | À venir |
+| WK-7  | Modèles linéaires et généralisés linéaires mixtes | En ligne | 04-04-2024 | 13:30 - 17:30 | À venir |
+| WK-8  | Modèles additifs généralisés                      | En ligne | 11-04-2024 | 13:30 - 17:30 | À venir |
+| WK-9  | Analyses multivariées                             | En ligne | 18-04-2024 | 13:30 - 17:30 | À venir |
+| WK-10 | Analyses multivariées avancées                    | En ligne | 25-04-2024 | 13:30 - 17:30 | À venir |
+
+{{< /bootstrap-table >}}
+
+### Ateliers en anglais
+
+L'horaire pour les ateliers en anglais est disponible [__ici__](/schedule/#winter-2024).
+
+<br />
+
 ## Automne 2023
 
 ### Ateliers en français
@@ -43,28 +65,6 @@ lastmod: "2023-07-18"
 ### Ateliers en anglais
 
 L'horaire pour les ateliers en anglais est disponible [__ici__](/schedule/#fall-2023).
-
-<br />
-
-## Hiver 2024
-
-### Ateliers en français
-
-{{< bootstrap-table "table table-striped table-bordered" >}}
-
-|       | Atelier                                           |   Lieu   |    Date    |  Heure (EST)  | Instruit par |
-| :---: | :------------------------------------------------ | :------: | :--------: | :-----------: | :----------: |
-| WK-6  | Modèles linéaires généralisés                     | En ligne | 28-03-2024 | 13:30 - 17:30 | À venir |
-| WK-7  | Modèles linéaires et généralisés linéaires mixtes | En ligne | 04-04-2024 | 13:30 - 17:30 | À venir |
-| WK-8  | Modèles additifs généralisés                      | En ligne | 11-04-2024 | 13:30 - 17:30 | À venir |
-| WK-9  | Analyses multivariées                             | En ligne | 18-04-2024 | 13:30 - 17:30 | À venir |
-| WK-10 | Analyses multivariées avancées                    | En ligne | 25-04-2024 | 13:30 - 17:30 | À venir |
-
-{{< /bootstrap-table >}}
-
-### Ateliers en anglais
-
-L'horaire pour les ateliers en anglais est disponible [__ici__](/schedule/#winter-2024).
 
 <br />
 

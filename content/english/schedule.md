@@ -13,6 +13,28 @@ subtitle: null
 lastmod: "2023-07-18"
 ---
 
+## Winter 2024
+
+### Workshops in English
+
+{{< bootstrap-table "table table-striped table-bordered" >}}
+
+|       | Workshop                                   | Location |    Date    |  Time (EST)   |   Instructed by |
+| :---: | :----------------------------------------- | :------: | :--------: | :-----------: | :------------------------: |
+| WK-6  | Generalized linear models                  | Online   | 27-03-2024 | 13:30 - 17:30 | To be announced |
+| WK-7  | Linear and generalized linear mixed models | Online   | 03-04-2024 | 13:30 - 17:30 | To be announced |
+| WK-8  | Generalized additive models                | Online   | 10-04-2024 | 13:30 - 17:30 | To be announced |
+| WK-9  | Multivariate analyses                      | Online   | 17-04-2024 | 13:30 - 17:30 | To be announced |
+| WK-10 | Advanced multivariate analyses             | Online   | 24-04-2024 | 13:30 - 17:30 | To be announced |
+
+{{< /bootstrap-table >}}
+
+### Workshops in French
+
+The schedule for the workshops in french is avalaible [__here__](/fr/schedule/#hiver-2024).
+
+<br />
+
 ## Fall 2023
 
 ### Workshops in English
@@ -40,28 +62,6 @@ lastmod: "2023-07-18"
 ### Workshops in French
 
 The schedule for the workshops in french is avalaible [__here__](/fr/schedule/#automne-2023).
-
-<br />
-
-## Winter 2024
-
-### Workshops in English
-
-{{< bootstrap-table "table table-striped table-bordered" >}}
-
-|       | Workshop                                   | Location |    Date    |  Time (EST)   |   Instructed by |
-| :---: | :----------------------------------------- | :------: | :--------: | :-----------: | :------------------------: |
-| WK-6  | Generalized linear models                  | Online   | 27-03-2024 | 13:30 - 17:30 | To be announced |
-| WK-7  | Linear and generalized linear mixed models | Online   | 03-04-2024 | 13:30 - 17:30 | To be announced |
-| WK-8  | Generalized additive models                | Online   | 10-04-2024 | 13:30 - 17:30 | To be announced |
-| WK-9  | Multivariate analyses                      | Online   | 17-04-2024 | 13:30 - 17:30 | To be announced |
-| WK-10 | Advanced multivariate analyses             | Online   | 24-04-2024 | 13:30 - 17:30 | To be announced |
-
-{{< /bootstrap-table >}}
-
-### Workshops in French
-
-The schedule for the workshops in french is avalaible [__here__](/fr/schedule/#hiver-2024).
 
 <br />
 
