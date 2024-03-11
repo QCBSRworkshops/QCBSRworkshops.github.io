@@ -68,7 +68,7 @@ L'horaire pour les ateliers en anglais est disponible [__ici__](/schedule/#fall-
 
 <br />
 
-## Abonnez-vous aux calendries d'ateliers R
+## Abonnez-vous aux calendriers d'ateliers R
 
 Utilisez les boutons ci-dessous pour vous abonner à l'horaire de la série d'ateliers R du CSBQ. 
 
