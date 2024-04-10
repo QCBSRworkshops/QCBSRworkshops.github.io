@@ -26,9 +26,9 @@ lastmod: "2024-02-14"
 | :---: | :------------------------------------------------ | :------: | :--------: | :-----------: | :----------: |
 | WK-6  | Modèles linéaires généralisés                     | En ligne | 28-03-2024 | 13:30 - 17:30 | [Marc-Olivier Beausoleil](mailto:marc-olivier.beausoleil@mail.mcgill.ca) |
 | WK-7  | Modèles linéaires et généralisés linéaires mixtes | En ligne | 04-04-2024 | 13:30 - 17:30 | [Marc-Olivier Beausoleil, <br> Clara Casabona I Amat](mailto:marc-olivier.beausoleil@mail.mcgill.ca,clara.casabona.i.amat@usherbrooke.ca) |
-| WK-8  | Modèles additifs généralisés                      | En ligne | 11-04-2024 | 13:30 - 17:30 | [Abbie Jones](mailto:abbie.jones@mail.mcgill.ca) |
-| WK-9  | Analyses multivariées                             | En ligne | 18-04-2024 | 13:30 - 17:30 | [Jérémi Lepage](mailto:lepj1201@usherbrooke.ca) |
-| WK-10 | Analyses multivariées avancées                    | En ligne | 25-04-2024 | 13:30 - 17:30 | À venir |
+| WK-8  | Modèles additifs généralisés                      | En ligne | 11-04-2024 | 13:30 - 17:30 | [Marc-Olivier Beausoleil, <br> Clara Casabona I Amat](mailto:marc-olivier.beausoleil@mail.mcgill.ca,clara.casabona.i.amat@usherbrooke.ca) |
+| WK-9  | Analyses multivariées                             | En ligne | 18-04-2024 | 13:30 - 17:30 | [Jérémi Lepage, <br> Marc-Olivier Beausoleil](mailto:lepj1201@usherbrooke.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
+| WK-10 | Analyses multivariées avancées                    | En ligne | 25-04-2024 | 13:30 - 17:30 | [Marc-Olivier Beausoleil, <br> Clara Casabona I Amat](mailto:marc-olivier.beausoleil@mail.mcgill.ca,clara.casabona.i.amat@usherbrooke.ca) |
 
 {{< /bootstrap-table >}}
 

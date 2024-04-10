@@ -23,8 +23,8 @@ lastmod: "2024-02-14"
 | :---: | :----------------------------------------- | :------: | :--------: | :-----------: | :------------------------: |
 | WK-6  | Generalized linear models                  | Online   | 27-03-2024 | 13:30 - 17:30 | [Elene Haave Audet](mailto:haave_audet.elene@courrier.uqam.ca) |
 | WK-7  | Linear and generalized linear mixed models | Online   | 03-04-2024 | 13:30 - 17:30 | [Marc-Olivier Beausoleil,<br> Elene Haave Audet](mailto:marc-olivier.beausoleil@mail.mcgill.ca,haave_audet.elene@courrier.uqam.ca) |
-| WK-8  | Generalized additive models                | Online   | 10-04-2024 | 13:30 - 17:30 | [Anna Crofts, <br> Abbie Jones](mailto:croa2104@usherbrooke.ca,Abbie.jones@mail.mcgill.ca) |
-| WK-9  | Multivariate analyses                      | Online   | 17-04-2024 | 13:30 - 17:30 | [Anna Crofts, <br> Animesh Ghose](mailto:croa2104@usherbrooke.ca,animesh.ghose@mail.mcgill.ca) |
+| WK-8  | Generalized additive models                | Online   | 10-04-2024 | 13:30 - 17:30 | [Anna Crofts, <br> Marc-Olivier Beausoleil](mailto:croa2104@usherbrooke.ca,marc-olivier.beausoleil@mail.mcgill.ca) |
+| WK-9  | Multivariate analyses                      | Online   | 17-04-2024 | 13:30 - 17:30 | [Anna Crofts, <br> Jérémi Lepage](mailto:croa2104@usherbrooke.ca,lepj1201@usherbrooke.ca) |
 | WK-10 | Advanced multivariate analyses             | Online   | 24-04-2024 | 13:30 - 17:30 | [Anna Crofts](mailto:croa2104@usherbrooke.ca) |
 
 {{< /bootstrap-table >}}
