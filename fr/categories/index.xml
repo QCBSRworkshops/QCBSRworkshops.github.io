@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on QCBS R Workshop Series</title>
+    <link>/fr/categories/</link>
+    <description>Recent content in Categories on QCBS R Workshop Series</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Copyright &amp;copy; 2023 [QCBS R Workshop Series](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io). Tous droits réservés.</copyright>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Appels</title>
+      <link>/fr/categories/appels/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/categories/appels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sommaire</title>
+      <link>/fr/categories/sommaire/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/categories/sommaire/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
