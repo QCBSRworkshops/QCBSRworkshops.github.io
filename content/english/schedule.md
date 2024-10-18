@@ -21,11 +21,11 @@ lastmod: "2024-09-18"
 
 |      |              Workshop              | Location |    Date    |  Time (EST)   | Instructed by |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| WK-1 |         Introduction to R          |  Online  | 07-11-2024 | 13:30 - 17:30 |      TBA      |
-| WK-2 |   Loading and manipulating data    |  Online  | 14-11-2024 | 13:30 - 17:30 |      TBA      |
-| WK-3 | Introduction to data visualization |  Online  | 21-11-2024 | 13:30 - 17:30 |      TBA      |
-| WK-4 |           Linear models            |  Online  | 28-11-2024 | 13:30 - 17:30 |      TBA      |
-| WK-5 |  Introduction to Programming in R  |  Online  | 05-12-2024 | 13:30 - 17:30 |      TBA      |
+| WK-1 |         Introduction to R          |  Online  | 06-11-2024 | 13:30 - 17:30 |      TBA      |
+| WK-2 |   Loading and manipulating data    |  Online  | 13-11-2024 | 13:30 - 17:30 |      TBA      |
+| WK-3 | Introduction to data visualization |  Online  | 20-11-2024 | 13:30 - 17:30 |      TBA      |
+| WK-4 |           Linear models            |  Online  | 27-11-2024 | 13:30 - 17:30 |      TBA      |
+| WK-5 |  Introduction to Programming in R  |  Online  | 04-12-2024 | 13:30 - 17:30 |      TBA      |
 
 {{< /bootstrap-table >}}
 
