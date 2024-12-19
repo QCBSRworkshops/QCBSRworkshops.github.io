@@ -46,7 +46,7 @@ L'horaire pour les ateliers en anglais est disponible [**ici**](/schedule/#fall-
 
 |       | Atelier                                           |   Lieu   |    Date    |  Heure (EST)  | Instruit par |
 |:----------:|:-----------|:----------:|:----------:|:----------:|:----------:|
-| WK-4  | Modèles linéaires                                 | En ligne | 27-03-2025 | 13:30 - 17:30 |              |
+| WK-4  | Modèles linéaires                                 | En ligne | 27-03-2025 | 13:30 - 17:30 |   À venir    |
 | WK-6  | Modèles linéaires généralisés                     | En ligne | 03-04-2025 | 13:30 - 17:30 |   À venir    |
 | WK-7  | Modèles linéaires et généralisés linéaires mixtes | En ligne | 10-04-2025 | 13:30 - 17:30 |   À venir    |
 | WK-8  | Modèles additifs généralisés                      | En ligne | 17-04-2025 | 13:30 - 17:30 |   À venir    |
