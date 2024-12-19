@@ -13,7 +13,7 @@ menu:
     weight: 1
 subtitle: null
 bg_image: "images/feature-bg.jpg"
-lastmod: "2024-02-14"
+lastmod: "2024-12-19"
 ---
 
 ## Automne 2024
@@ -22,13 +22,13 @@ lastmod: "2024-02-14"
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 
-|      |                   Atelier                   |   Lieu   |    Date    |  Heure (EST)  | Instruit par |
+|      |                   Atelier                   |   Lieu   |    Date    |  Heure (EST)  |                 Instruit par                 |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| WK-1 |              Introduction à R               | En ligne | 07-11-2024 | 13:30 - 17:30 |   À venir    |
-| WK-2 |      Charger et manipuler des données       | En ligne | 14-11-2024 | 13:30 - 17:30 |   À venir    |
-| WK-3 | Introduction à la visualisation des données | En ligne | 21-11-2024 | 13:30 - 17:30 |   À venir    |
-| WK-4 |              Modèles linéaires              | En ligne | 28-11-2024 | 13:30 - 17:30 |   À venir    |
-| WK-5 |   Introduction à la programmation avec R    | En ligne | 05-12-2024 | 13:30 - 17:30 |   À venir    |
+| WK-1 |              Introduction à R               | En ligne | 07-11-2024 | 13:30 - 17:30 |    Thomas Villeneuve & Maurane Bourgouin     |
+| WK-2 |      Charger et manipuler des données       | En ligne | 14-11-2024 | 13:30 - 17:30 | Pedro Henrique Pereira Braga & Morgane Henry |
+| WK-3 | Introduction à la visualisation des données | En ligne | 21-11-2024 | 13:30 - 17:30 | Pedro Henrique Pereira Braga & Morgane Henry |
+| WK-4 |              Modèles linéaires              | En ligne |   ANNULÉ   |    ANNULÉ     |                    ANNULÉ                    |
+| WK-5 |   Introduction à la programmation avec R    | En ligne | 05-12-2024 | 13:30 - 17:30 |    Guillaume Tougas & Marc-Antoine Poulin    |
 
 {{< /bootstrap-table >}}
 
@@ -44,13 +44,14 @@ L'horaire pour les ateliers en anglais est disponible [**ici**](/schedule/#fall-
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 
-|       | Atelier                                           |   Lieu   |  Date   | Heure (EST) | Instruit par |
+|       | Atelier                                           |   Lieu   |    Date    |  Heure (EST)  | Instruit par |
 |:----------:|:-----------|:----------:|:----------:|:----------:|:----------:|
-| WK-6  | Modèles linéaires généralisés                     | En ligne | À venir |   À venir   |   À venir    |
-| WK-7  | Modèles linéaires et généralisés linéaires mixtes | En ligne | À venir |   À venir   |   À venir    |
-| WK-8  | Modèles additifs généralisés                      | En ligne | À venir |   À venir   |   À venir    |
-| WK-9  | Analyses multivariées                             | En ligne | À venir |   À venir   |   À venir    |
-| WK-10 | Analyses multivariées avancées                    | En ligne | À venir |   À venir   |   À venir    |
+| WK-4  | Modèles linéaires                                 | En ligne | 27-03-2025 | 13:30 - 17:30 |              |
+| WK-6  | Modèles linéaires généralisés                     | En ligne | 03-04-2025 | 13:30 - 17:30 |   À venir    |
+| WK-7  | Modèles linéaires et généralisés linéaires mixtes | En ligne | 10-04-2025 | 13:30 - 17:30 |   À venir    |
+| WK-8  | Modèles additifs généralisés                      | En ligne | 17-04-2025 | 13:30 - 17:30 |   À venir    |
+| WK-9  | Analyses multivariées                             | En ligne | 24-04-2025 | 13:30 - 17:30 |   À venir    |
+| WK-10 | Analyses multivariées avancées                    | En ligne | 01-05-2025 | 13:30 - 17:30 |   À venir    |
 
 {{< /bootstrap-table >}}
 

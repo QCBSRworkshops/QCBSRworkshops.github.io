@@ -10,7 +10,7 @@ menu:
     parent: Registration
     weight: 1
 subtitle: null
-lastmod: "2024-09-18"
+lastmod: "2024-12-19"
 ---
 
 ## Fall 2024
@@ -19,13 +19,13 @@ lastmod: "2024-09-18"
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 
-|      |              Workshop              | Location |    Date    |  Time (EST)   | Instructed by |
+|      |              Workshop              | Location |    Date    |  Time (EST)   |               Instructed by                |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| WK-1 |         Introduction to R          |  Online  | 06-11-2024 | 13:30 - 17:30 |      TBA      |
-| WK-2 |   Loading and manipulating data    |  Online  | 13-11-2024 | 13:30 - 17:30 |      TBA      |
-| WK-3 | Introduction to data visualization |  Online  | 20-11-2024 | 13:30 - 17:30 |      TBA      |
-| WK-4 |           Linear models            |  Online  | 27-11-2024 | 13:30 - 17:30 |      TBA      |
-| WK-5 |  Introduction to Programming in R  |  Online  | 04-12-2024 | 13:30 - 17:30 |      TBA      |
+| WK-1 |         Introduction to R          |  Online  | 06-11-2024 | 13:30 - 17:30 |      Madelaine Anderson & Sarah Ishak      |
+| WK-2 |   Loading and manipulating data    |  Online  | 13-11-2024 | 13:30 - 17:30 |      Maria Camila Diaz & Sarah Ishak       |
+| WK-3 | Introduction to data visualization |  Online  | 20-11-2024 | 13:30 - 17:30 |     Morgane Henry & Madelaine Anderson     |
+| WK-4 |           Linear models            |  Online  | 27-11-2024 | 13:30 - 17:30 |      Anna Crofts & Maria Camila Diaz       |
+| WK-5 |  Introduction to Programming in R  |  Online  | 04-12-2024 | 13:30 - 17:30 | Pedro Henrique Pereira Braga & Anna Crofts |
 
 {{< /bootstrap-table >}}
 
@@ -41,13 +41,13 @@ The schedule for the workshops in french is available [**here**](/fr/schedule/#a
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 
-|       | Workshop                                   | Location | Date | Time (EST) | Instructed by |
+|       | Workshop                                   | Location |    Date    |  Time (EST)   | Instructed by |
 |:----------:|:-----------|:----------:|:----------:|:----------:|:----------:|
-| WK-6  | Generalized linear models                  |  Online  | TBA  |    TBA     |      TBA      |
-| WK-7  | Linear and generalized linear mixed models |  Online  | TBA  |    TBA     |      TBA      |
-| WK-8  | Generalized additive models                |  Online  | TBA  |    TBA     |      TBA      |
-| WK-9  | Multivariate analyses                      |  Online  | TBA  |    TBA     |      TBA      |
-| WK-10 | Advanced multivariate analyses             |  Online  | TBA  |    TBA     |      TBA      |
+| WK-6  | Generalized linear models                  |  Online  | 02-04-2025 | 13:30 - 17:30 |      TBA      |
+| WK-7  | Linear and generalized linear mixed models |  Online  | 09-04-2025 | 13:30 - 17:30 |      TBA      |
+| WK-8  | Generalized additive models                |  Online  | 16-04-2025 | 13:30 - 17:30 |      TBA      |
+| WK-9  | Multivariate analyses                      |  Online  | 23-04-2025 | 13:30 - 17:30 |      TBA      |
+| WK-10 | Advanced multivariate analyses             |  Online  | 30-04-2025 | 13:30 - 17:30 |      TBA      |
 
 {{< /bootstrap-table >}}
 
