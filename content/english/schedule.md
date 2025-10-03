@@ -19,13 +19,17 @@ lastmod: "2024-09-18"
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 
-|      |              Workshop              | Location |    Date    |  Time (EST)   | Instructed by |
-|:----------:|:-----------:|:----------:|:----------:|:----------:|:----------:|
-| WK-1 |         Introduction to R          |  Online  | 07-11-2024 | 13:30 - 17:30 |      TBA      |
-| WK-2 |   Loading and manipulating data    |  Online  | 14-11-2024 | 13:30 - 17:30 |      TBA      |
-| WK-3 | Introduction to data visualization |  Online  | 21-11-2024 | 13:30 - 17:30 |      TBA      |
-| WK-4 |           Linear models            |  Online  | 28-11-2024 | 13:30 - 17:30 |      TBA      |
-| WK-5 |  Introduction to Programming in R  |  Online  | 05-12-2024 | 13:30 - 17:30 |      TBA      |
+|      |              Workshop              |        Location         |    Date    |  Time (EST)   | Instructed by |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| WK-1 |         Introduction to R          | Hybrid - Montréal (TBD) | 07-11-2024 | 9h30 - 12h30  |    My cat     |
+| WK-2 |   Loading and manipulating data    | Hybrid - Montréal (TBD) | 14-11-2024 | 13:30 - 17:30 |      TBA      |
+| WK-3 | Introduction to data visualization | Hybrid - Montréal (TBD) | 21-11-2024 | 9h30 - 12h30  |      TBA      |
+| WK-5 |  Introduction to programming in R  | Hybrid - Montréal (TBD) | 28-11-2024 | 13:30 - 17:30 |      TBA      |
+| WK-4 |           Linear Models            | Hybrid - Montréal (TBD) | 05-12-2024 | 9h30 - 12h30  |      TBA      |
+
+|      |                           |                         |            |               |     |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| WK-7 | Generalized Linear Models | Hybrid - Montréal (TBD) | 28-11-2024 | 13:30 - 17:30 | TBA |
 
 {{< /bootstrap-table >}}
 
@@ -42,12 +46,12 @@ The schedule for the workshops in french is available [**here**](/fr/schedule/#a
 {{< bootstrap-table "table table-striped table-bordered" >}}
 
 |       | Workshop                                   | Location | Date | Time (EST) | Instructed by |
-|:----------:|:-------------|:----------:|:----------:|:----------:|:----------:|
-| WK-6  | Generalized linear models                  |  Online  | TBA  |    TBA     |      TBA      |
-| WK-7  | Linear and generalized linear mixed models |  Online  | TBA  |    TBA     |      TBA      |
-| WK-8  | Generalized additive models                |  Online  | TBA  |    TBA     |      TBA      |
-| WK-9  | Multivariate analyses                      |  Online  | TBA  |    TBA     |      TBA      |
-| WK-10 | Advanced multivariate analyses             |  Online  | TBA  |    TBA     |      TBA      |
+|:----------:|:-----------|:----------:|:----------:|:----------:|:----------:|
+| WK-6  | Generalized linear models                  |  Hybrid  | TBA  |    TBA     |      TBA      |
+| WK-7  | Linear and generalized linear mixed models |  Hybrid  | TBA  |    TBA     |      TBA      |
+| WK-8  | Generalized additive models                |  Hybrid  | TBA  |    TBA     |      TBA      |
+| WK-9  | Multivariate analyses                      |  Hybrid  | TBA  |    TBA     |      TBA      |
+| WK-10 | Advanced multivariate analyses             |  Hybrid  | TBA  |    TBA     |      TBA      |
 
 {{< /bootstrap-table >}}
 

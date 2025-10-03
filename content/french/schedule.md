@@ -1,8 +1,9 @@
 ---
 title: "Horaire de la Série d'ateliers R"
 description: null
-draft: no
+draft: false
 output:
+  pdf_document: default
   html_document:
     df_print: paged
 layout: faq
@@ -24,11 +25,12 @@ lastmod: "2024-02-14"
 
 |      |                   Atelier                   |   Lieu   |    Date    |  Heure (EST)  | Instruit par |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| WK-1 |              Introduction à R               | En ligne | 08-11-2024 | 13:30 - 17:30 |   À venir    |
-| WK-2 |      Charger et manipuler des données       | En ligne | 15-11-2024 | 13:30 - 17:30 |   À venir    |
-| WK-3 | Introduction à la visualisation des données | En ligne | 22-11-2024 | 13:30 - 17:30 |   À venir    |
-| WK-4 |              Modèles linéaires              | En ligne | 29-11-2024 | 13:30 - 17:30 |   À venir    |
-| WK-5 |   Introduction à la programmation avec R    | En ligne | 06-12-2024 | 13:30 - 17:30 |   À venir    |
+| WK-1 |              Introduction à R               | Hybrid - Montréal (TBD) | 5-11-2025 | 9:30 - 12:30 |   À venir    |
+| WK-2 |      Charger et manipuler des données       | Hybrid - Montréal (TBD) | 5-11-2025 | 13:30 - 17:30 |   À venir    |
+| WK-3 | Introduction à la visualisation des données | Hybrid - Montréal (TBD) | 12-11-2025 | 9:30 - 12:30 |   À venir    |
+| WK-5 |              Modèles linéaires              | Hybrid - Montréal (TBD) | 12-11-2025 | 9:30 - 12:30 |   À venir    |
+| WK-4 |   Introduction à la programmation avec R    | Hybrid - Montréal (TBD) | 20-11-2025 | 13:30 - 17:30 |   À venir    |
+| WK-7 |   Modèles Généralisés Linéaires    | Hybrid - Montréal (TBD) | 20-11-2025 | 13:30 - 17:30 |   À venir    |
 
 {{< /bootstrap-table >}}
 
