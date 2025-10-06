@@ -90,7 +90,7 @@ jobs:
           persist-credentials: false
           
       - name: 🔻 Download artifact containing the book
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         with:
          # Artifact name
          name: website # optional
