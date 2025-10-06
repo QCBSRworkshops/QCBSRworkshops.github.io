@@ -31,7 +31,7 @@ lastmod: "2025-10-06"
 | WK-3 | Introduction à la visualisation des données | Hybride - Montréal (TBD) | 12-11-2025 | 9:30 - 12:30 | À venir |
 | WK-5 | Introduction à la programmation avec R | Hybride - Montréal (TBD) | 12-11-2025 | 13:30 - 17:30 | À venir |
 | WK-4 | Modèles linéaires | Hybride - Montréal (TBD) | 20-11-2025 | 9:30 - 12:30 | À venir |
-| WK-7 | Modèles Généralisés Linéaires | Hybride - Montréal (TBD) | 20-11-2025 | 13:30 - 17:30 | À venir |
+| WK-7 | Modèles linéaires et généralisés linéaires mixtes | Hybride - Montréal (TBD) | 20-11-2025 | 13:30 - 17:30 | À venir |
 
 {{< /bootstrap-table >}}
 
