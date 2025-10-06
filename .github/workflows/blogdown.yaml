@@ -69,7 +69,7 @@ jobs:
           Rscript -e 'blogdown::build_site(TRUE)'
 
       - name: 🔺 Upload artifact containing the rendered website
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: website
           path: public/
