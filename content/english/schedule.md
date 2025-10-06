@@ -45,7 +45,6 @@ The schedule for the workshops in french is available [**here**](/fr/schedule/#a
 |       | Workshop                                   | Location | Date | Time (EST) | Instructed by |
 |:----------:|:-----------|:----------:|:----------:|:----------:|:----------:|
 | WK-6  | Generalized linear models                  |  Hybrid  | TBA  |    TBA     |      TBA      |
-| WK-7  | Linear and generalized linear mixed models |  Hybrid  | TBA  |    TBA     |      TBA      |
 | WK-8  | Generalized additive models                |  Hybrid  | TBA  |    TBA     |      TBA      |
 | WK-9  | Multivariate analyses                      |  Hybrid  | TBA  |    TBA     |      TBA      |
 | WK-10 | Advanced multivariate analyses             |  Hybrid  | TBA  |    TBA     |      TBA      |
