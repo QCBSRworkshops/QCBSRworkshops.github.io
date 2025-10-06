@@ -21,14 +21,11 @@ lastmod: "2025-09-18"
 
 |      |              Workshop              |        Location         |    Date    |  Time (EST)   | Instructed by |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| WK-1 |         Introduction to R          | Hybrid - Montréal (TBD) | 6-11-2025  | 9h30 - 12h30  |    My cat     |
+| WK-1 |         Introduction to R          | Hybrid - Montréal (TBD) | 6-11-2025  | 9h30 - 12h30  |    TBA     |
 | WK-2 |   Loading and manipulating data    | Hybrid - Montréal (TBD) | 6-11-2025  | 13:30 - 17:30 |      TBA      |
 | WK-3 | Introduction to data visualization | Hybrid - Montréal (TBD) | 13-11-2025 | 9h30 - 12h30  |      TBA      |
 | WK-5 |  Introduction to programming in R  | Hybrid - Montréal (TBD) | 13-11-2025 | 13:30 - 17:30 |      TBA      |
 | WK-4 |           Linear Models            | Hybrid - Montréal (TBD) | 19-12-2025 | 9h30 - 12h30  |      TBA      |
-
-|      |                           |                         |            |               |     |
-|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | WK-7 | Generalized Linear Models | Hybrid - Montréal (TBD) | 19-11-2025 | 13:30 - 17:30 | TBA |
 
 {{< /bootstrap-table >}}
