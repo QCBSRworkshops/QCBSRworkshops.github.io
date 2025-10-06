@@ -26,12 +26,12 @@ lastmod: "2025-10-06"
 
 | | Atelier | Lieu | Date | Heure (EST) | Instruit par |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| WK-1 | Introduction à R | Hybrid - Montréal (TBD) | 5-11-2025 | 9:30 - 12:30 | À venir |
-| WK-2 | Charger et manipuler des données | Hybrid - Montréal (TBD) | 5-11-2025 | 13:30 - 17:30 | À venir |
-| WK-3 | Introduction à la visualisation des données | Hybrid - Montréal (TBD) | 12-11-2025 | 9:30 - 12:30 | À venir |
-| WK-5 | Introduction à la programmation avec R | Hybrid - Montréal (TBD) | 12-11-2025 | 13:30 - 17:30 | À venir |
-| WK-4 | Modèles linéaires | Hybrid - Montréal (TBD) | 20-11-2025 | 9:30 - 12:30 | À venir |
-| WK-7 | Modèles Généralisés Linéaires | Hybrid - Montréal (TBD) | 20-11-2025 | 13:30 - 17:30 | À venir |
+| WK-1 | Introduction à R | Hybride - Montréal (TBD) | 5-11-2025 | 9:30 - 12:30 | À venir |
+| WK-2 | Charger et manipuler des données | Hybride - Montréal (TBD) | 5-11-2025 | 13:30 - 17:30 | À venir |
+| WK-3 | Introduction à la visualisation des données | Hybride - Montréal (TBD) | 12-11-2025 | 9:30 - 12:30 | À venir |
+| WK-5 | Introduction à la programmation avec R | Hybride - Montréal (TBD) | 12-11-2025 | 13:30 - 17:30 | À venir |
+| WK-4 | Modèles linéaires | Hybride - Montréal (TBD) | 20-11-2025 | 9:30 - 12:30 | À venir |
+| WK-7 | Modèles Généralisés Linéaires | Hybride - Montréal (TBD) | 20-11-2025 | 13:30 - 17:30 | À venir |
 
 {{< /bootstrap-table >}}
 
@@ -49,10 +49,10 @@ L'horaire pour les ateliers en anglais est disponible [**ici**](/schedule/#fall-
 
 |       | Atelier                                           |   Lieu   |  Date   | Heure (EST) | Instruit par |
 |:---------:|:----------------|:---------:|:---------:|:---------:|:---------:|
-| WK-6  | Modèles linéaires généralisés                     | En ligne | À venir |   À venir   |   À venir    |
-| WK-8  | Modèles additifs généralisés                      | En ligne | À venir |   À venir   |   À venir    |
-| WK-9  | Analyses multivariées                             | En ligne | À venir |   À venir   |   À venir    |
-| WK-10 | Analyses multivariées avancées                    | En ligne | À venir |   À venir   |   À venir    |
+| WK-6  | Modèles linéaires généralisés                     | Hybride | À venir |   À venir   |   À venir    |
+| WK-8  | Modèles additifs généralisés                      | Hybride | À venir |   À venir   |   À venir    |
+| WK-9  | Analyses multivariées                             | Hybride | À venir |   À venir   |   À venir    |
+| WK-10 | Analyses multivariées avancées                    | Hybride | À venir |   À venir   |   À venir    |
 
 {{< /bootstrap-table >}}
 
