@@ -14,10 +14,10 @@ menu:
     weight: 1
 subtitle: null
 bg_image: "images/feature-bg.jpg"
-lastmod: "2024-02-14"
+lastmod: "2025-10-06"
 ---
 
-## Automne 2024
+## Automne 2025
 
 ### Ateliers en français
 
