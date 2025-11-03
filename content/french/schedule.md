@@ -26,12 +26,12 @@ lastmod: "2025-10-06"
 
 | | Atelier | Lieu | Date | Heure (EST) | Instruit par |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| WK-1 | Introduction à R | Hybride - Montréal (TBD) | 6-11-2025 | 9:30 - 12:30 | À venir |
-| WK-2 | Charger et manipuler des données | Hybride - Montréal (TBD) | 6-11-2025 | 13:30 - 17:30 | À venir |
-| WK-3 | Introduction à la visualisation des données | Hybride - Montréal (TBD) | 13-11-2025 | 9:30 - 12:30 | À venir |
-| WK-5 | Introduction à la programmation avec R | Hybride - Montréal (TBD) | 13-11-2025 | 13:30 - 17:30 | À venir |
-| WK-4 | Modèles linéaires | Hybride - Montréal (TBD) | 20-11-2025 | 9:30 - 12:30 | À venir |
-| WK-7 | Modèles linéaires et généralisés linéaires mixtes | Hybride - Montréal (TBD) | 20-11-2025 | 13:30 - 17:30 | À venir |
+| WK-1 | Introduction à R | Hybride - UQAM Salle SB-M230 | 6-11-2025 | 9:30 - 12:30 | Alexandra Landry & TBD |
+| WK-2 | Charger et manipuler des données | Hybride - UQAM Salle SB-M230 | 6-11-2025 | 13:30 - 17:30 | Alexandra Landry & TBD |
+| WK-3 | Introduction à la visualisation des données | Hybride - UQAM Salle SB-M230 | 13-11-2025 | 9:30 - 12:30 | Maxime Guglielmetti & TBD |
+| WK-5 | Introduction à la programmation avec R | Hybride - UQAM Salle SB-M230 | 13-11-2025 | 13:30 - 17:30 | Maxime Guglielmetti & TBD |
+| WK-4 | Modèles linéaires | Hybride - UQAM Salle SB-M230 | 20-11-2025 | 9:30 - 12:30 | Jérôme Burkiewicz & Maxime Guglielmetti |
+| WK-7 | Modèles linéaires et généralisés linéaires mixtes | Hybride - UQAM Salle SB-M230 | 20-11-2025 | 13:30 - 17:30 | Jérôme Burkiewicz & Maxime Guglielmetti |
 
 {{< /bootstrap-table >}}
 
