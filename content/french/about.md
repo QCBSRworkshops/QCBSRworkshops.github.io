@@ -36,15 +36,18 @@ draft: false
 features:
   enable: true
   feature_item:
-  - content: Université de Montréal<br>(depuis 2022)<br>antoine.caron-guay@umontreal.ca
+  - content: Université de Montréal<br>(depuis 2024)<br>marc-antoine.poulin@umontreal.ca
     icon: ion-happy-outline
-    name: Antoine Caron-Guay
-  - content: Université de Sherbrooke<br>(depuis 2022)<br>clara.casabona.i.amat@usherbrooke.ca
+    name: Marc-Antoine Poulin
+  - content: Université du Québec à Montréal<br>(depuis 2025)<br>claire2014marie@gmail.com
     icon: ion-happy-outline
-    name: Clara Casabona i Amat
-  - content: Université de Montréal<br>(depuis 2022)<br>paola.lisset.galloso.sanchez@umontreal.ca
+    name: Essivi Gagnon Koudji
+  - content: Université du Québec à Montréal<br>(depuis 2025)<br>karimalafore@gmail.com
     icon: ion-happy-outline
-    name: Paola Lisset Galloso Sanchez
+    name: Karima Lafore
+  - content: Université Laval<br>(depuis 2025)<br>jessica-edith.benitez-gonzalez@inrs.ca
+    icon: ion-happy-outline
+    name: Jessiva Benitez
   title: Équipe de coordination
 
 layout: about
