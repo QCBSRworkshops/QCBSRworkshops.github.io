@@ -25,8 +25,8 @@ lastmod: "2025-09-18"
 | WK-2 |   Loading and manipulating data    | Hybrid - UdeM MIL Campus Room A3551 | 5-11-2025  | 13:30 - 17:30 |      Johanna Arnett & Sarah Ishak      |
 | WK-3 | Introduction to data visualization | Hybrid - UdeM MIL Campus Room B2416 | 12-11-2025 | 9h30 - 12h30  |      Anna Lippold & Sarah Ishak      |
 | WK-5 |  Introduction to programming in R  | Hybrid - UdeM MIL Campus Room A3551 | 12-11-2025 | 13:30 - 17:30 |      Anna Lippold & Sarah      |
-| WK-4 |           Linear Models            | Hybrid - UdeM MIL Campus Room B2416 | 19-11-2025 | 9h30 - 12h30  |      TBA      |
-| WK-7 | Linear and generalized linear mixed models | Hybrid - UdeM MIL Campus Room A3551 | 19-11-2025 | 13:30 - 17:30 | TBA |
+| WK-4 |           Linear Models            | Postponed | Winter 2026 | 9h30 - 12h30  |      TBA      |
+| WK-7 | Linear and generalized linear mixed models | Postponed | Winter 2026 | 13:30 - 17:30 | TBA |
 
 {{< /bootstrap-table >}}
 
