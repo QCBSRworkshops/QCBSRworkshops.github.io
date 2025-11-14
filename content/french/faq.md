@@ -93,4 +93,4 @@ Les Prix d'apprentissage et de développement du CSBQ sont traités selon plusie
 
 **Qui puis-je contacter si j'ai des suggestions, des plaintes ou d'autres questions?**
 
-Faites-nous part de vos commentaires, suggestions et autres questions en cliquant sur [ce lien](mailto:antoine.caron-guay@umontreal.ca,paola.lisset.galloso.sanchez@umontreal.ca,clara.casabona.i.amat@usherbrooke.ca) pour envoyer un message à toute l'équipe de coordination de la série d'ateliers R du CSBQ.
+Faites-nous part de vos commentaires, suggestions et autres questions en cliquant sur [ce lien](mailto:marc-antoine.poulin@gmail.com,claire2014marie@gmail.com,karimalafore@gmail.com,jessica-edith.benitez-gonzalez@inrs.ca) pour envoyer un message à toute l'équipe de coordination de la série d'ateliers R du CSBQ.

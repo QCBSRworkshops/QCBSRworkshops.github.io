@@ -96,4 +96,4 @@ LeaDA are processed according to several steps outlined in our [Presenter and De
 
 **Who can I contact if I have suggestions, concerns, or more questions?**
 
-Please, tell us about your concerns, suggestions and other questions by clicking on [this link](mailto:antoine.caron-guay@umontreal.ca,paola.lisset.galloso.sanchez@umontreal.ca,clara.casabona.i.amat@usherbrooke.ca) to send a message to all the coordinators of the QCBS R Workshop Series.
+Please, tell us about your concerns, suggestions and other questions by clicking on [this link](mailto:marc-antoine.poulin@gmail.com,claire2014marie@gmail.com,karimalafore@gmail.com,jessica-edith.benitez-gonzalez@inrs.ca) to send a message to all the coordinators of the QCBS R Workshop Series.
