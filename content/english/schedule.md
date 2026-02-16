@@ -21,7 +21,7 @@ lastmod: "2025-09-18"
 
 |      |              Workshop              |        Location         |    Date    |  Time (EST)   | Instructed by |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| WK-1 |         Introduction to R          | aaa- UdeM MIL Campus Room B2416 | 5-11-2025  | 9h30 - 12h30  |    Johanna Arnett & Sarah Ishak     |
+| WK-1 |         Introduction to R          | Hybrid- UdeM MIL Campus Room B2416 | 5-11-2025  | 9h30 - 12h30  |    Johanna Arnett & Sarah Ishak     |
 | WK-2 |   Loading and manipulating data    | Hybrid - UdeM MIL Campus Room A3551 | 5-11-2025  | 13:30 - 17:30 |      Johanna Arnett & Sarah Ishak      |
 | WK-3 | Introduction to data visualization | Hybrid - UdeM MIL Campus Room B2416 | 12-11-2025 | 9h30 - 12h30  |      Anna Lippold & Sarah Ishak      |
 | WK-5 |  Introduction to programming in R  | Hybrid - UdeM MIL Campus Room A3551 | 12-11-2025 | 13:30 - 17:30 |      Anna Lippold & Sarah      |
@@ -36,7 +36,7 @@ The schedule for the workshops in french is available [**here**](/fr/schedule/#a
 
 <br />
 
-## Winter 2025
+## Winter 2026
 
 ### Workshops in English
 
@@ -44,12 +44,12 @@ The schedule for the workshops in french is available [**here**](/fr/schedule/#a
 
 |       | Workshop                                   | Location | Date | Time (EST) | Instructed by |
 |:----------:|:-----------|:----------:|:----------:|:----------:|:----------:|
-| WK-4 |           Linear Models            | Hybrid | Winter 2026 | TBA  |      TBA      |
-| WK-7 | Linear and generalized linear mixed models | Hybrid| Winter 2026 | TBA | TBA |
-| WK-6  | Generalized linear models                  |  Hybrid  | TBA  |    TBA     |      TBA      |
-| WK-8  | Generalized additive models                |  Hybrid  | TBA  |    TBA     |      TBA      |
-| WK-9  | Multivariate analyses                      |  Hybrid  | TBA  |    TBA     |      TBA      |
-| WK-10 | Advanced multivariate analyses             |  Hybrid  | TBA  |    TBA     |      TBA      |
+| WK-4 |           Linear Models            | Hybrid TBA | 12-3-2026 |13:30 - 17:30   |   Ana Livia Oliveira  & Mackenzie Guest |
+| WK-7 | Linear and generalized linear mixed models | Hybrid TBA | 13-3-2026 | 13:30 - 17:30| Nicole Kester | 
+| WK-6  | Generalized linear models                  |  Hybrid TBA  | 19-3-2026  |    13:30 - 17:30     |      Emily Beasley      |
+| WK-8  | Generalized additive models                |  Hybrid TBA  | 26-3-2026  |    13:30 - 17:30     |      TBA      |
+| WK-9  | Multivariate analyses                      |  Hybrid TBA  | 2-4-2026 |    13:30 - 17:30     |      TBA      |
+| WK-10 | Advanced multivariate analyses             |  Hybrid TBA  | 9-4-2026  |    13:30 - 17:30     |      TBA      |
 
 {{< /bootstrap-table >}}
 
