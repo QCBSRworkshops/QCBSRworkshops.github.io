@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The R Workshop Series on QCBS R Workshop Series</title>
+    <link>/workshops/</link>
+    <description>Recent content in The R Workshop Series on QCBS R Workshop Series</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright &amp;copy; 2023 [QCBS R Workshop Series](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io). All Rights Reserved.</copyright><atom:link href="/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WK-01 - Introduction to R</title>
+      <link>/workshops/r-workshop-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshops/r-workshop-01/</guid>
+      <description>All workshops   WK 1: Intro to R WK 2: Data manipulation WK 3: Data visualisation WK 4: Linear models WK 5: Programming WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Multivariate WK 10: Advanced multivariate    Workshop 1: Introduction to R In this introductory R Workshop you will learn what R open-source statistical software is, why you should absolutely start using it, and all the first steps to help you get started in R.</description>
+    </item>
+    
+    <item>
+      <title>WK-02 -  Loading and manipulating data in R</title>
+      <link>/workshops/r-workshop-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshops/r-workshop-02/</guid>
+      <description>All workshops   WK 1: Intro to R WK 2: Data manipulation WK 3: Data visualisation WK 4: Linear models WK 5: Programming WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Multivariate WK 10: Advanced multivariate    Workshop 2: Loading and manipulating data in R In this workshop, you will learn how to load, view, and manipulate your data in R.</description>
+    </item>
+    
+    <item>
+      <title>WK-03 - Introduction to data visualisation with `ggplot2`</title>
+      <link>/workshops/r-workshop-03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshops/r-workshop-03/</guid>
+      <description>All workshops   WK 1: Intro to R WK 2: Data manipulation WK 3: Data visualisation WK 4: Linear models WK 5: Programming WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Multivariate WK 10: Advanced multivariate    Workshop 3: Introduction to data visualization in R using ggplot2 In this workshop, you will improve your data manipulation and visualization skills using ggplot2.</description>
+    </item>
+    
+    <item>
+      <title>WK-04 - Linear models</title>
+      <link>/workshops/r-workshop-04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshops/r-workshop-04/</guid>
+      <description>All workshops   WK 1: Intro to R WK 2: Data manipulation WK 3: Data visualisation WK 4: Linear models WK 5: Programming WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Multivariate WK 10: Advanced multivariate    Workshop 4: Linear models in R In this workshop, you will learn how to implement basic linear models commonly used in ecology such as simple regression, analysis of variance (ANOVA), analysis of covariance (ANCOVA), and multiple regression in R.</description>
+    </item>
+    
+    <item>
+      <title>WK-05 - Programming in R</title>
+      <link>/workshops/r-workshop-05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshops/r-workshop-05/</guid>
+      <description>All workshops   WK 1: Intro to R WK 2: Data manipulation WK 3: Data visualisation WK 4: Linear models WK 5: Programming WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Multivariate WK 10: Advanced multivariate    Workshop 5: Programming in R This workshop focuses on basic programming in R.</description>
+    </item>
+    
+    <item>
+      <title>WK-06 - Generalized linear models</title>
+      <link>/workshops/r-workshop-06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshops/r-workshop-06/</guid>
+      <description>All workshops   WK 1: Intro to R WK 2: Data manipulation WK 3: Data visualisation WK 4: Linear models WK 5: Programming WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Multivariate WK 10: Advanced multivariate    Workshop 6: Generalized linear models in R A significant limitation of linear models is that they cannot accommodate response variables that do not have a normal error distribution.</description>
+    </item>
+    
+    <item>
+      <title>WK-07 - Linear and generalized linear mixed models</title>
+      <link>/workshops/r-workshop-07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshops/r-workshop-07/</guid>
+      <description>All workshops   WK 1: Intro to R WK 2: Data manipulation WK 3: Data visualisation WK 4: Linear models WK 5: Programming WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Multivariate WK 10: Advanced multivariate    Workshop 7: Linear and generalized linear mixed models (LMM and GLMM) in R Mixed effects models allow ecologists to overcome a number of limitations associated with traditional linear models.</description>
+    </item>
+    
+    <item>
+      <title>WK-08 - Generalized additive models</title>
+      <link>/workshops/r-workshop-08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshops/r-workshop-08/</guid>
+      <description>All workshops   WK 1: Intro to R WK 2: Data manipulation WK 3: Data visualisation WK 4: Linear models WK 5: Programming WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Multivariate WK 10: Advanced multivariate    Workshop 8: Generalized additive models in R The goal of this workshop will be to first examine what is a non-linear model, and how Generalized Additive Models (GAM) allow us to handle non-linear relationships.</description>
+    </item>
+    
+    <item>
+      <title>WK-09 - Multivariate analyses</title>
+      <link>/workshops/r-workshop-09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshops/r-workshop-09/</guid>
+      <description>All workshops   WK 1: Intro to R WK 2: Data manipulation WK 3: Data visualisation WK 4: Linear models WK 5: Programming WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Multivariate WK 10: Advanced multivariate    Workshop 9: Multivariate analyses in R In this workshop, you will learn the basics of multivariate analyses that will allow you to reveal patterns in your community composition data.</description>
+    </item>
+    
+    <item>
+      <title>WK-10 - Advanced multivariate analyses</title>
+      <link>/workshops/r-workshop-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshops/r-workshop-10/</guid>
+      <description>All workshops   WK 1: Intro to R WK 2: Data manipulation WK 3: Data visualisation WK 4: Linear models WK 5: Programming WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Multivariate WK 10: Advanced multivariate    Workshop 10: Advanced multivariate analyses in R In this workshop, you will learn how to perform advanced multivariate analyses on community data.</description>
+    </item>
+    
+  </channel>
+</rss>

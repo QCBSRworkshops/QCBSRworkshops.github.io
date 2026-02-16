@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archive des Colloques R du CSBQ on QCBS R Workshop Series</title>
+    <link>/fr/symposium/</link>
+    <description>Recent content in Archive des Colloques R du CSBQ on QCBS R Workshop Series</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Copyright &amp;copy; 2023 [QCBS R Workshop Series](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io). Tous droits réservés.</copyright><atom:link href="/fr/symposium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyses de survie avec R</title>
+      <link>/fr/symposium/r-symposium-07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-07/</guid>
+      <description>Analyses de survie avec R Au cours de cet atelier, vous apprendrez à réaliser des analyses de survie avec R. Ces modèles permettent d&amp;rsquo;étudier le temps écoulé jusqu&amp;rsquo;à un événement d&amp;rsquo;intérêt (par exemple, la mort, la première reproduction, l&amp;rsquo;observation d&amp;rsquo;un comportement, &amp;hellip;), et les facteurs qui affectent ce temps.</description>
+    </item>
+    
+    <item>
+      <title>Analyses géospatiales et cartographie avec R</title>
+      <link>/fr/symposium/r-symposium-08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-08/</guid>
+      <description>Analyses géospatiales et cartographie avec R Le traitement et l&amp;rsquo;analyse de données spatiales sous R remonte à plus d&amp;rsquo;une décennie. Grâce à un large éventail de packages, R permet d&amp;rsquo;effectuer des statistiques, des modélisations et des visualisations géospatiales avancées.</description>
+    </item>
+    
+    <item>
+      <title>Applications Shiny pour communiquer votre science</title>
+      <link>/fr/symposium/r-symposium-18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-18/</guid>
+      <description>Applications Shiny pour communiquer votre science Cet atelier présentera la programmation réactive dans l&amp;rsquo;environnement R Shiny, et comment les applications Shiny peuvent être utilisées pour explorer des données, partager des résultats, ou générer des rapports personnalisés à partir d&amp;rsquo;entrées provenant de l&amp;rsquo;utilisateur.</description>
+    </item>
+    
+    <item>
+      <title>Extraire des informations sur la biodiversité au niveau des espèces à partir de la littérature publiée</title>
+      <link>/fr/symposium/r-symposium-12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-12/</guid>
+      <description>Extraire des informations sur la biodiversité au niveau des espèces à partir de la littérature publiée Produit de siècles de recherche, une grande quantité d&amp;rsquo;informations sur la vie sur notre planète est stockée dans la littérature publiée sur le web.</description>
+    </item>
+    
+    <item>
+      <title>Introduction à GitHub et à GitHub Actions</title>
+      <link>/fr/symposium/r-symposium-15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-15/</guid>
+      <description>Introduction à GitHub et GitHub Actions Les collaborations sont rarement statiques : lorsque des personnes travaillent ensemble sur des projets, il s&amp;rsquo;agit d&amp;rsquo;un processus de développement continu qui consiste à apporter des idées, à donner et à recevoir des commentaires, et à répondre à ces recommandations par des modifications jusqu&amp;rsquo;à ce que l&amp;rsquo;objectif soit atteint.</description>
+    </item>
+    
+    <item>
+      <title>Introduction à l&#39;analyse de l&#39;expression génétique en R</title>
+      <link>/fr/symposium/r-symposium-04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-04/</guid>
+      <description>Introduction à l&amp;rsquo;analyse de l&amp;rsquo;expression génétique en R Le séquençage de nouvelle génération a promis des séquences d&amp;rsquo;ADN bon marché aux masses. Bien que cela soit vrai, le goulot d&amp;rsquo;étranglement s&amp;rsquo;est déplacé de la production de données à leur analyse.</description>
+    </item>
+    
+    <item>
+      <title>La diversité beta dans l&#39;espace et le temps</title>
+      <link>/fr/symposium/r-symposium-09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-09/</guid>
+      <description>La diversité beta dans l&amp;rsquo;espace et le temps La variation de la composition des espèces d&amp;rsquo;un site à l&amp;rsquo;autre est connue sous le nom de diversité beta. Cette dimension importante de la biodiversité, qui relie la diversité à l&amp;rsquo;échelle locale (alpha) à la diversité régionale (gamma), est de plus en plus reconnue comme un facteur clé influençant le fonctionnement des métacommunautés et comme une cible importante pour les actions de conservation.</description>
+    </item>
+    
+    <item>
+      <title>Les bases d&#39;une visualisation de données efficace et reproductible</title>
+      <link>/fr/symposium/r-symposium-14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-14/</guid>
+      <description>Les bases d&amp;rsquo;une visualisation de données efficace et reproductible En tant que scientifiques, nous sommes des écrivains et des artistes. Les images et les figures sont excellentes et indispensables pour partager des informations et communiquer nos résultats.</description>
+    </item>
+    
+    <item>
+      <title>Lier l&#39;écologie des communautés et la biologie évolutive à vos connaissances en programmation</title>
+      <link>/fr/symposium/r-symposium-11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-11/</guid>
+      <description>Phylogénétique des communautés: lier l&amp;rsquo;écologie des communautés et la biologie évolutive à vos connaissances en programmation Comment les espèces s&amp;rsquo;assemblent-elles en communautés ? Quels sont les mécanismes impliqués ? Ces questions fascinent les écologistes depuis des décennies.</description>
+    </item>
+    
+    <item>
+      <title>Modèles d’occupation</title>
+      <link>/fr/symposium/r-symposium-19/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-19/</guid>
+      <description>Modèles d’occupation Les modèles d’occupation de sites sont des modèles qui prennent en compte de la détection imparfaite d’organismes pour déterminer la probabilité de présence d’une espèce sur un site. Ils peuvent être considérés comme une extension des modèles linéaires généralisés à effets mixtes (GLMM).</description>
+    </item>
+    
+    <item>
+      <title>Modélisation jointe</title>
+      <link>/fr/symposium/r-symposium-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-02/</guid>
+      <description>Modélisation jointe Les systèmes naturels sont complexes et leur compréhension est une tâche difficile. Ces dernières années, on a assisté à une explosion de la quantité de données recueillies et mises à disposition qui peuvent potentiellement accroître nos connaissances sur le pourquoi et le comment de la répartition des espèces.</description>
+    </item>
+    
+    <item>
+      <title>Modélisation par équations structurelles et inférence écologique</title>
+      <link>/fr/symposium/r-symposium-17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-17/</guid>
+      <description>Modélisation par équations structurelles et inférence écologique Les modèles d&amp;rsquo;équations structurelles (MES) constituent un outil puissant pour l&amp;rsquo;analyse des systèmes écologiques complexes, car ils peuvent tenir compte des relations directes et indirectes.</description>
+    </item>
+    
+    <item>
+      <title>Métabarcodage de l&#39;ADN environnemental</title>
+      <link>/fr/symposium/r-symposium-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-10/</guid>
+      <description>Métabarcodage de l&amp;rsquo;ADN environnemental Avec la démocratisation du séquençage à haut débit, l&amp;rsquo;utilisation de l&amp;rsquo;ADN comme méthode d&amp;rsquo;identification est devenue une pratique courante. Les gènes marqueurs (ARNr 16S, ARNr 18S, ITS, etc.</description>
+    </item>
+    
+    <item>
+      <title>Méthodes comparatives phylogénétiques en R</title>
+      <link>/fr/symposium/r-symposium-06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-06/</guid>
+      <description>Méthodes comparatives phylogénétiques en R Theodosius Dobzhansky a déclaré en 1973 que &amp;ldquo;rien en biologie n&amp;rsquo;a de sens si ce n&amp;rsquo;est à la lumière de l&amp;rsquo;évolution&amp;rdquo;. Les méthodes statistiques de phylogénétique comparative sont l&amp;rsquo;un des moyens qui nous permettent de comprendre les schémas historiques de la vie dans un contexte évolutif.</description>
+    </item>
+    
+    <item>
+      <title>Open Science and Reproducibility in R</title>
+      <link>/fr/symposium/r-symposium-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-01/</guid>
+      <description>Science ouverte et reproductibilité en R Imaginez que chaque article que vous publiez à partir de maintenant pourrait être reproduit par n&amp;rsquo;importe qui dans le monde. Ou qu&amp;rsquo;une plateforme vous donne le pouvoir d&amp;rsquo;intégrer de nouvelles données de manière transparente dans un manuscrit complet avec texte et figures.</description>
+    </item>
+    
+    <item>
+      <title>Prédire la répartition géographique des espèces avec R</title>
+      <link>/fr/symposium/r-symposium-03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-03/</guid>
+      <description>Prédire la répartition géographique des espèces avec R Les modèles de distribution des espèces (SDM) ont été largement appliqués pour répondre à de nombreuses questions en biologie, notamment dans les domaines de l&amp;rsquo;écologie, de l&amp;rsquo;évolution, de la biogéographie et de la conservation.</description>
+    </item>
+    
+    <item>
+      <title>Simulations dans R</title>
+      <link>/fr/symposium/r-symposium-16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-16/</guid>
+      <description>Simulations dans R La recherche sur la biodiversité consiste à essayer de comprendre les phénomènes naturels, ce qui peut aider à mieux prédire l&amp;rsquo;impact d&amp;rsquo;une modification d&amp;rsquo;un écosystème ou l&amp;rsquo;évolution des populations vivant dans leur environnement.</description>
+    </item>
+    
+    <item>
+      <title>Touchdown votre recherche!</title>
+      <link>/fr/symposium/r-symposium-13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-13/</guid>
+      <description>Touchdown votre recherche! La publication par le processus d&amp;rsquo;examen par les pairs est faite par et pour les scientifiques. C&amp;rsquo;est également un canal de communication lent et fermé, qui limite notre capacité à atteindre efficacement un public plus large au sein et en dehors du milieu universitaire.</description>
+    </item>
+    
+    <item>
+      <title>Vous êtes probablement plus bayésien que vous pensez</title>
+      <link>/fr/symposium/r-symposium-05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/symposium/r-symposium-05/</guid>
+      <description>Biologiste Bayésien: Vous êtes probablement plus bayésien que vous pensez. Sautez avec nous dans le monde des probabilités avec un atelier sur l&amp;rsquo;inférence bayésienne. Nous allons explorer ce cadre statistique avec des exemples simples et significatifs pour les biologistes.</description>
+    </item>
+    
+  </channel>
+</rss>
