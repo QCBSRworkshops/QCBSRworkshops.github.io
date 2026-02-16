@@ -21,7 +21,7 @@ lastmod: "2025-09-18"
 
 |      |              Workshop              |        Location         |    Date    |  Time (EST)   | Instructed by |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| WK-1 |         Introduction to R          | Hybrid - UdeM MIL Campus Room B2416 | 5-11-2025  | 9h30 - 12h30  |    Johanna Arnett & Sarah Ishak     |
+| WK-1 |         Introduction to R          | aaa- UdeM MIL Campus Room B2416 | 5-11-2025  | 9h30 - 12h30  |    Johanna Arnett & Sarah Ishak     |
 | WK-2 |   Loading and manipulating data    | Hybrid - UdeM MIL Campus Room A3551 | 5-11-2025  | 13:30 - 17:30 |      Johanna Arnett & Sarah Ishak      |
 | WK-3 | Introduction to data visualization | Hybrid - UdeM MIL Campus Room B2416 | 12-11-2025 | 9h30 - 12h30  |      Anna Lippold & Sarah Ishak      |
 | WK-5 |  Introduction to programming in R  | Hybrid - UdeM MIL Campus Room A3551 | 12-11-2025 | 13:30 - 17:30 |      Anna Lippold & Sarah      |
