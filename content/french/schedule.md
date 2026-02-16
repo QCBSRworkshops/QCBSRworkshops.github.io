@@ -41,18 +41,18 @@ L'horaire pour les ateliers en anglais est disponible [**ici**](/schedule/#fall-
 
 <br />
 
-## Hiver 2025
+## Hiver 2026
 
 ### Ateliers en français
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 
-|       | Atelier                                           |   Lieu   |  Date   | Heure (EST) | Instruit par |
+|       | Atelier              |   Lieu   |  Date   | Heure (EST) | Instruit par |
 |:---------:|:----------------|:---------:|:---------:|:---------:|:---------:|
-| WK-6  | Modèles linéaires généralisés                     | Hybride | À venir |   À venir   |   À venir    |
-| WK-8  | Modèles additifs généralisés                      | Hybride | À venir |   À venir   |   À venir    |
-| WK-9  | Analyses multivariées                             | Hybride | À venir |   À venir   |   À venir    |
-| WK-10 | Analyses multivariées avancées                    | Hybride | À venir |   À venir   |   À venir    |
+| WK-6  | Modèles linéaires généralisés         | Hybride- UQAM-salle SBR430 | 20-3-2026 |   13:30-17:30   |    Magalie Wzietek   |
+| WK-8  | Modèles additifs généralisés          | Hybride- UQAM-salle SBR430 | 27-3-2026 |  13:30-17:30   |   À venir    |
+| WK-9  | Analyses multivariées                 | Hybride- UQAM-salle SBR430 | 3-4-2026 |  13:30-17:30  |  Simon Pesant   |
+| WK-10 | Analyses multivariées avancées        | Hybride- UQAM-salle SBR430 | 10-4-2026 |  13:30-17:30   |   Simon Pesant   |
 
 {{< /bootstrap-table >}}
 
