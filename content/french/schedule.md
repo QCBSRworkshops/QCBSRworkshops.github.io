@@ -51,7 +51,7 @@ L'horaire pour les ateliers en anglais est disponible [**ici**](/schedule/#fall-
 |:---------:|:----------------|:---------:|:---------:|:---------:|:---------:|
 | WK-6  | Modèles linéaires généralisés         | Hybride- UQAM-salle SBR430 | 20-3-2026 |   13:30-17:30   |    Magalie Wzietek   |
 | WK-8  | Modèles additifs généralisés          | Hybride- UQAM-salle SBR430 | 27-3-2026 |  13:30-17:30   |   À venir    |
-| WK-9  | Analyses multivariées                 | Hybride- UQAM-salle SBR430 | 3-4-2026 |  13:30-17:30  |  Simon Pesant   |
+| WK-9  | Analyses multivariées                 | Hybride- UQAM-salle SBR430 | 3-4-2026 |  13:30-17:30  |  Simon Pesant and Maxime Guglielmetti |
 | WK-10 | Analyses multivariées avancées        | Hybride- UQAM-salle SBR430 | 10-4-2026 |  13:30-17:30   |   Simon Pesant   |
 
 {{< /bootstrap-table >}}
