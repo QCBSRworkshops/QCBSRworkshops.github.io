@@ -44,12 +44,12 @@ The schedule for the workshops in french is available [**here**](/fr/schedule/#a
 
 |       | Workshop                                   | Location | Date | Time (EST) | Instructed by |
 |:----------:|:-----------|:----------:|:----------:|:----------:|:----------:|
-| WK-4 |           Linear Models            | Hybrid TBA | 12-3-2026 |13:30 - 17:30   |   Ana Livia Oliveira  & Mackenzie Guest |
-| WK-7 | Linear and generalized linear mixed models | Hybrid TBA | 13-3-2026 | 13:30 - 17:30| Nicole Kester | 
-| WK-6  | Generalized linear models                  |  Hybrid TBA  | 19-3-2026  |    13:30 - 17:30     |      Emily Beasley      |
-| WK-8  | Generalized additive models                |  Hybrid TBA  | 26-3-2026  |    13:30 - 17:30     |      TBA      |
-| WK-9  | Multivariate analyses                      |  Hybrid TBA  | 2-4-2026 |    13:30 - 17:30     |      TBA      |
-| WK-10 | Advanced multivariate analyses             |  Hybrid TBA  | 9-4-2026  |    13:30 - 17:30     |      TBA      |
+| WK-4 |           Linear Models            | Hybrid UQAM-Room SBM220 | 12-3-2026 |13:30 - 17:30   |   Ana Livia Oliveira  & Mackenzie Guest |
+| WK-7 | Linear and generalized linear mixed models | Hybrid UQAM-Room SBM220 | 13-3-2026 | 13:30 - 17:30| Nicole Kester | 
+| WK-6  | Generalized linear models                  |  Hybrid UQAM-Room SBM220| 19-3-2026  |    13:30 - 17:30     |      Emily Beasley & Animesh Ghose    |
+| WK-8  | Generalized additive models                |  Hybrid UQAM-Room SBM220  | 26-3-2026  |    13:30 - 17:30     |      TBA      |
+| WK-9  | Multivariate analyses                      |  Hybrid UQAM-Room SBM220  | 2-4-2026 |    13:30 - 17:30     |  Maxime Guglielmetti & Animesh Ghose      |
+| WK-10 | Advanced multivariate analyses             |  Hybrid UQAM-Room SBM220  | 9-4-2026  |    13:30 - 17:30     |      TBA      |
 
 {{< /bootstrap-table >}}
 
