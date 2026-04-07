@@ -48,8 +48,8 @@ The schedule for the workshops in french is available [**here**](/fr/schedule/#a
 | WK-7 | Linear and generalized linear mixed models | Hybrid UQAM-Room SBM220 | 13-3-2026 | 13:30 - 17:30| Cancelled | 
 | WK-6  | Generalized linear models                  |  Hybrid UQAM-Room SBM220| 19-3-2026  |    13:30 - 17:30     |     Animesh Ghose    |
 | WK-8  | Generalized additive models                |  Hybrid UQAM-Room SBM220  | 26-3-2026  |    13:30 - 17:30     |     Animesh Ghose    |
-| WK-9  | Multivariate analyses                      |  Hybrid UQAM-Room SBM220  | 2-4-2026 |    13:30 - 17:30     |  Maxime Guglielmetti & Animesh Ghose     |
-| WK-10 | Advanced multivariate analyses             |  Hybrid UQAM-Room SBM220  | 9-4-2026  |    13:30 - 17:30     |     Animesh Ghose     |
+| WK-9  | Multivariate analyses                      |  Hybrid UQAM-Room SBM220  | 2-4-2026 |    13:30 - 17:30     |  Maxime Guglielmetti    |
+| WK-10 | Advanced multivariate analyses             |  Hybrid UQAM-Room SBM220  | 9-4-2026  |    13:30 - 17:30     |     Animesh Ghose    |
 
 {{< /bootstrap-table >}}
 
