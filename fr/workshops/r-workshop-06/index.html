@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="fr-FR"><head>
+  <meta charset="utf-8">
+  <title>AT-06 - Modèles linéaires généralisés</title>
+
+  <!-- Mobile responsive metadata -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="Permettons à notre variable de réponse d&#39;avoir des erreurs non Normales.">
+  <meta name="author" content="Série d&#39;ateliers R du CSBQ / QCBS R Workshop Series">
+  <meta name="generator" content="Hugo 0.83.1" />
+
+  <!-- Open Graph image and Twitter Card metadata -->
+  <meta property="og:image" content="/images/workshops/forest1.png" />
+    <meta name="twitter:image" content="/images/workshops/forest1.png"/>
+        <meta name="twitter:card" content="summary_large_image">
+      <meta property="og:image:width" content="1125">
+      <meta property="og:image:height" content="579">
+      <meta property="og:image:type" content="image/png">
+  <meta name="twitter:title" content="AT-06 - Modèles linéaires généralisés"/>
+  <meta name="twitter:description" content="Permettons à notre variable de réponse d&#39;avoir des erreurs non Normales."/>
+  <meta property="og:title" content="AT-06 - Modèles linéaires généralisés" />
+<meta property="og:description" content="Permettons à notre variable de réponse d&#39;avoir des erreurs non Normales." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/fr/workshops/r-workshop-06/" /><meta property="article:section" content="workshops" />
+
+
+
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D3D28G3DC0"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-D3D28G3DC0', { 'anonymize_ip': false });
+}
+</script>
+
+
+  <!-- Plugins -->
+  <link rel="stylesheet" href="/plugins/bootstrap/css/bootstrap.min.css" media='screen'>
+  <link rel="stylesheet" href="/plugins/ionicons/css/ionicons.min.css" >
+  <link rel="stylesheet" href="/plugins/magnific-popup/magnific-popup.min.css" >
+  <link rel="stylesheet" href="/plugins/slick/slick.css" >
+  
+
+  <!-- Main stylesheet -->
+  <link rel="stylesheet" href="/scss/bundled.min.css" media="screen">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="/images/favicon.png" type="image/x-icon">
+
+
+</head>
+<body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+
+
+<header class="navigation">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        
+        <nav class="navbar">
+          
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/fr">
+              <img src="/images/qcbs_logo_image0032.png" alt="QCBS R Workshop Series" width="90px" class="img-responsive">
+            </a>
+          </div>
+          
+          <div class="collapse navbar-collapse" id="navigation">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="/fr/">Accueil</a></li><li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  À propos <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/fr/about/">La série d&#39;ateliers R</a></li><li><a href="/fr/code-of-conduct/">Code de conduite</a></li><li><a href="/fr/contributing/">Contributions</a></li><li><a href="/fr/faq/">FAQ</a></li>
+                </ul>
+              </li>
+              <li><a href="/fr/workshops/">Ateliers R</a></li><li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  Colloque R <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/fr/about-symposium-2023/">Colloque R 2023</a></li><li><a href="/fr/about-symposium/">Colloque R 2022</a></li><li><a href="/fr/symposium/">Archive d&#39;ateliers</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  Inscription <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/fr/schedule/">Horaire</a></li><li><a href="/fr/registration/">Inscrivez-vous</a></li><li><a href="/fr/cancellation/">Politique d&#39;annulation</a></li>
+                </ul>
+              </li>
+              <li><a href="/fr/news/">Nouvelles</a></li><li><a href="/fr/contact/">Contact</a></li>
+
+              
+              <li>
+                <select id="select-language" onchange="location = this.value;">
+                  <option id="en" value="/workshops/r-workshop-06/">
+                    English
+                  </option><option id="fr" value="/fr/workshops/r-workshop-06/" selected>
+                    Français
+                  </option>
+                  
+                </select>
+              </li>
+              
+            </ul>
+          </div>
+        </nav>
+        
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+<section class="page-title bg-2" style="background-image: url('/images/feature-bg.jpg');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>AT-06 - Modèles linéaires généralisés</h1>
+          <p>Permettons à notre variable de réponse d&#39;avoir des erreurs non Normales.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<section class="portfolio-single-page section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="project-content mt-50">
+          <div class="btn-group" role="group" aria-label="...">
+  <a href="https://r.qcbs.ca/workshops/r-workshop-05/" button type="button" class="btn btn-default"><</button></a>
+  <a href="https://r.qcbs.ca/workshops/r-workshop-07/"button type="button" class="btn btn-default">></button></a>
+<div class="btn-group" role="group">
+    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      Tous les ateliers
+      <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu">
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-01/">WK 1: Intro à R</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-02/">WK 2: Manipulation de données</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-03/">WK 3: Visualisation de données</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-04/">WK 4: Modèles linéaires</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-05/">WK 5: Programmation</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-06/">WK 6: GLMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-07/">WK 7: LMMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-08/">WK 8: GAMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-09/">WK 9: Analyses multivariés</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-10/">WK 10: Analyses multivariés avancés</a></li>
+    </ul>
+  </div>
+</div>
+<h2 id="atelier-6-modèles-linéaires-généralisés">Atelier 6: Modèles linéaires généralisés</h2>
+<p>Les modèles linéaires généralisés sont des outils importants afin de surmonter un problème récurrent des modèles linéaires, c.-à-d. les variables réponses n&rsquo;ayant pas une distribution normale des résidus. Dans cet atelier, vous apprendrez les distributions principales en fonction de la nature de la variable réponse, le concept de fonction de lien, et comment vérifier les suppositions de base de ces modèles.</p>
+<hr>
+<h3 id="matériel">Matériel</h3>
+<p><a href="https://github.com/QCBSRworkshops/workshop06"><img src="https://img.shields.io/static/v1?style=flat&amp;label=GitHub&amp;message=06&amp;color=blue&amp;logo=github" alt="badge"></a> <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg" alt="License: CC BY-NC-SA 4.0"></a></p>
+
+
+
+
+
+
+
+<table class="table table-dark table-striped table-bordered">
+<thead>
+<tr>
+<th style="text-align:center">Présentation</th>
+<th style="text-align:center">Livre</th>
+<th style="text-align:center">Script</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><a href="https://r.qcbs.ca/workshop06/pres-en/workshop06-pres-en.html" button type="button" class="btn btn-default">English</button></a></td>
+<td style="text-align:center"><a href="https://r.qcbs.ca/workshop06/book-en/index.html" button type="button" class="btn btn-default">English</button></a></td>
+<td style="text-align:center"><a href="https://r.qcbs.ca/workshop06/book-en/workshop06-script-en.R" button type="button" class="btn btn-default">English</button></a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://r.qcbs.ca/workshop06/pres-fr/workshop06-pres-fr.html" button type="button" class="btn btn-default">Français</button></a></td>
+<td style="text-align:center"><a href="https://r.qcbs.ca/workshop06/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a></td>
+<td style="text-align:center"><a href="https://r.qcbs.ca/workshop06/book-fr/workshop06-script-fr.R" button type="button" class="btn btn-default">Français</button></a></td>
+</tr>
+</tbody>
+</table>
+
+
+<blockquote>
+<p>Note : Le wiki de cet atelier a été converti en Bookdown en février 2021. <br>
+Les pages wiki de cet atelier ne seront plus mises à jour (Archives : <a href="https://wiki.qcbs.ca/r_workshop7">EN</a>, <a href="https://wiki.qcbs.ca/r_atelier7">FR</a>).</p>
+</blockquote>
+<h4 id="jeux-de-données">Jeux de données</h4>
+<p><a href="https://r.qcbs.ca/workshop06/pres-fr/data/mites.csv" button type="button" class="btn btn-primary">mites.csv</button></a> <a href="https://r.qcbs.ca/workshop06/pres-fr/data/faramea.csv" button type="button" class="btn btn-primary">faramea.csv</button></a></p>
+<hr>
+<h3 id="contributions">Contributions</h3>
+<p>Cet atelier a été développé à l&rsquo;origine par Cédric Frenette Dussault, Vincent Fugère, Thomas Lamy, and Zofia Taranu.</p>
+<p>Depuis 2014, plusieurs membres du CSBQ ont contribué à développer et à mettre à jour cet atelier collaborativement sur une base régulière, dans le cadre du <em>Prix d&rsquo;apprentissage et de développement</em> du Centre de science de la biodiversité du Québec. Ces membres sont:</p>
+
+
+
+
+
+
+
+<table class="table table-dark table-striped table-bordered">
+<thead>
+<tr>
+<th style="text-align:center">2022 - 2021 - 2020</th>
+<th style="text-align:center">2019 - 2018 - 2017</th>
+<th style="text-align:center">2016 - 2015 - 2014</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Pedro Henrique P. Braga</td>
+<td style="text-align:center">Azenor Bideault</td>
+<td style="text-align:center">Cédric Frenette Dussault</td>
+</tr>
+<tr>
+<td style="text-align:center">Katherine Hébert</td>
+<td style="text-align:center">Willian Vieira</td>
+<td style="text-align:center">Thomas Lamy</td>
+</tr>
+<tr>
+<td style="text-align:center">Alex Arkilanian</td>
+<td style="text-align:center">Pedro Henrique P. Braga</td>
+<td style="text-align:center">Zofia Taranu</td>
+</tr>
+<tr>
+<td style="text-align:center">Mathieu Vaillancourt</td>
+<td style="text-align:center">Marie Hélène Brice</td>
+<td style="text-align:center">Vincent Fugère</td>
+</tr>
+<tr>
+<td style="text-align:center">Laurie Maynard</td>
+<td style="text-align:center">Kevin Cazelles</td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
+<td style="text-align:center">Esteban Góngora</td>
+<td style="text-align:center">Marc-Olivier Beausoleil</td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+
+
+
+        </div>
+      </div>
+   </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-menu">
+          <ul>
+            
+            <li><a href="/fr/workshops">Ateliers R</a></li>
+            
+            <li><a href="/fr/news">Nouvelles</a></li>
+            
+            <li><a href="/fr/contact">Contact</a></li>
+            
+          </ul>
+        </div>
+        <p class="copyright">Copyright © 2023 <a href="https://github.com/QCBSRworkshops/QCBSRworkshops.github.io">QCBS R Workshop Series</a>. Tous droits réservés.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+
+<script src="/plugins/jquery/jquery.min.js" ></script>
+
+<script src="/plugins/bootstrap/js/bootstrap.min.js" ></script>
+
+<script src="/plugins/slick/slick.min.js" ></script>
+
+<script src="/plugins/magnific-popup/magnific-popup.min.js" ></script>
+
+<script src="/plugins/shuffle/shuffle.min.js" ></script>
+
+<script src="/plugins/google-map/gmap.js" defer></script>
+
+
+
+
+<script src="/js/bundled.min.js"></script>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+  This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-main btn-solid-border">I Accept</span>
+</div>
+<script>
+  (function ($) {
+    const cookieBox = document.getElementById('js-cookie-box');
+    const cookieButton = document.getElementById('js-cookie-button');
+    if (!Cookies.get('cookie-box')) {
+      cookieBox.classList.remove('cookie-box-hide');
+      cookieButton.onclick = function () {
+        Cookies.set('cookie-box', true, {
+          expires:  2 
+        });
+        cookieBox.classList.add('cookie-box-hide');
+      };
+    }
+  })(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+
+</body>
+
+</html>

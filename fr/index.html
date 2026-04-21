@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="fr-FR"><head>
+  <meta charset="utf-8">
+  <title>QCBS R Workshop Series</title>
+
+  <!-- Mobile responsive metadata -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="The QCBS R Workshop Series helps researchers navigate programming and statistics for research in ecology, evolution and biodiversity.">
+  <meta name="author" content="Série d&#39;ateliers R du CSBQ / QCBS R Workshop Series">
+  <meta name="generator" content="Hugo 0.83.1" />
+
+  <!-- Open Graph image and Twitter Card metadata -->
+  <meta property="og:image" content="/images/qcbs_logo_image0032.png" />
+    <meta name="twitter:image" content="/images/qcbs_logo_image0032.png"/>
+        <meta name="twitter:card" content="summary_large_image">
+      <meta property="og:image:width" content="322">
+      <meta property="og:image:height" content="203">
+      <meta property="og:image:type" content="image/png">
+  <meta name="twitter:title" content="QCBS R Workshop Series"/>
+  <meta name="twitter:description" content="The QCBS R Workshop Series helps researchers navigate programming and statistics for research in ecology, evolution and biodiversity."/>
+  <meta property="og:title" content="" />
+<meta property="og:description" content="The QCBS R Workshop Series helps researchers navigate programming and statistics for research in ecology, evolution and biodiversity." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/fr/" />
+
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D3D28G3DC0"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-D3D28G3DC0', { 'anonymize_ip': false });
+}
+</script>
+
+
+  <!-- Plugins -->
+  <link rel="stylesheet" href="/plugins/bootstrap/css/bootstrap.min.css" media='screen'>
+  <link rel="stylesheet" href="/plugins/ionicons/css/ionicons.min.css" >
+  <link rel="stylesheet" href="/plugins/magnific-popup/magnific-popup.min.css" >
+  <link rel="stylesheet" href="/plugins/slick/slick.css" >
+  
+
+  <!-- Main stylesheet -->
+  <link rel="stylesheet" href="/scss/bundled.min.css" media="screen">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="/images/favicon.png" type="image/x-icon">
+
+
+</head>
+<body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+
+
+<header class="navigation">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        
+        <nav class="navbar">
+          
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/fr">
+              <img src="/images/qcbs_logo_image0032.png" alt="QCBS R Workshop Series" width="90px" class="img-responsive">
+            </a>
+          </div>
+          
+          <div class="collapse navbar-collapse" id="navigation">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="/fr/" class="current">Accueil</a></li><li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  À propos <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/fr/about/">La série d&#39;ateliers R</a></li><li><a href="/fr/code-of-conduct/">Code de conduite</a></li><li><a href="/fr/contributing/">Contributions</a></li><li><a href="/fr/faq/">FAQ</a></li>
+                </ul>
+              </li>
+              <li><a href="/fr/workshops/">Ateliers R</a></li><li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  Colloque R <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/fr/about-symposium-2023/">Colloque R 2023</a></li><li><a href="/fr/about-symposium/">Colloque R 2022</a></li><li><a href="/fr/symposium/">Archive d&#39;ateliers</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  Inscription <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/fr/schedule/">Horaire</a></li><li><a href="/fr/registration/">Inscrivez-vous</a></li><li><a href="/fr/cancellation/">Politique d&#39;annulation</a></li>
+                </ul>
+              </li>
+              <li><a href="/fr/news/">Nouvelles</a></li><li><a href="/fr/contact/">Contact</a></li>
+
+              
+              <li>
+                <select id="select-language" onchange="location = this.value;">
+                  <option id="en" value="/">
+                    English
+                  </option><option id="fr" value="/fr/" selected>
+                    Français
+                  </option>
+                  
+                </select>
+              </li>
+              
+            </ul>
+          </div>
+        </nav>
+        
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+
+
+
+<section class="slider overly" style="background-image: url('/images/homebanner.jpeg');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>Série d&rsquo;Ateliers R du CSBQ</h1>
+          <p>Une initiative des étudiant(e)s des cycles supérieurs et des postdoctorant(e)s du Centre québécois des sciences de la biodiversité (CSBQ). <br>Nous offrons des ateliers à d&rsquo;autres étudiant(e)s des cycles supérieurs et des postdoctorant(e)s pour les aider à s&rsquo;orienter dans les statistiques pour la recherche en écologie, évolution et biodiversité.</p>
+
+          
+          
+          <a href="/fr/workshops" class="btn btn-main animated fadeInUp">Découvrez nos ateliers</a>
+          
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+<section class="about section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7 col-sm-12">
+        <div class="block">
+          <div class="section-title">
+            <h2>À propos de la Série d&rsquo;Ateliers R</h2>
+            <p>Organisé par des étudiant(e)s, pour toute la communauté, cette série de 10 ateliers apprend aux participant(e)s comment utiliser le programme R pour toutes sortes d’analyse statistiques, pertinentes aux recherches en biologie et écologie.</p>
+
+          </div>
+          <p>Ces ateliers en accès libre ont été créés par les membres du CSBQ pour les membres du CSBQ et la communauté au sens large. Le contenu de ces ateliers a été continuellement revu par les pairs et développé par les membres du CSBQ depuis leur développement initial en 2014. La série d&rsquo;ateliers est instruite par des étudiant(e)s des cycles supérieurs et des postdoctorant(e)s du CSBQ, en anglais et en français, chaque année.</p>
+
+        </div>
+      </div>
+      <div class="col-md-5 col-sm-12">
+        <div class="block">
+          <img src="/images/canva-R.png" class="img-responsive" alt="Img">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+<section class="feature bg-2" style="background-image: url('/images/fakurian-design-UqP7U400AZs-unsplash.jpeg')">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-6">
+        <h2 class="section-subtitle">R EST POUR TOUT LE MONDE</h2>
+        <p>Apprendre R peut être un défi, même pour les chercheurs et chercheuses les plus compétent(e)s. Lorsque vous ajoutez des analyses statistiques à tout ça, il est facile de se sentir débordé. La série d&rsquo;ateliers R du CSBQ est là pour aider la communauté du CSBQ (et au-delà!) à se familiariser avec R, les stratégies de programmation, et les librairies R les plus populaires afin que vous puissiez commencer à gérer vos données, à les visualiser et à effectuer les analyses statistiques dont vous avez besoin pour répondre aux questions de recherche qui vous intéressent.</p>
+
+        
+        
+        <a href="/fr/registration" class="btn btn-view-works">COMMENT S&#39;INSCRIRE</a>
+        
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="call-to-action bg-1 section-sm overly" style="background-image: url('/images/call-to-action-bg.jpeg');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h2>Vous voulez vous impliquer?</h2>
+          <p>Cette série est un projet en constante évolution qui est rendu possible par l&rsquo;engagement d&rsquo;une communauté enthousiaste d&rsquo;étudiant(e)s des cycles supérieurs et des postdoctorant(e)s. Si vous souhaitez vous joindre à cette communauté et renforcer vos capacités d&rsquo;enseignement et d&rsquo;apprentissage, n&rsquo;hésitez pas à nous contacter au sujet de l&rsquo;enseignement et/ou du développement de la série d&rsquo;ateliers R du CSBQ.</p>
+          
+          
+          <a class="btn btn-main btn-solid-border" href="/fr/contact">Contactez-nous</a>
+          
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+<section class="testimonial">
+  <div class="container">
+    <div class="row">
+      <div class="section-title text-center">
+        <h2>Faits saillants sur la Série R</h2>
+        <p>Nous sommes des étudiant(e)s des cycles supérieurs et des postdoctorant(e)s du Centre québécois des sciences de la biodiversité. Nous développons et instruisons des ateliers sur un large répertoire de méthodes statistiques et computationelles pour aider d&rsquo;autres chercheurs et chercheuses en début de carrière à réaliser leurs analyses en écologie, évolution et science de la biodiversité.</p>
+
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="block">
+          <ul class="counter-box clearfix">
+            
+            <li class="counter-item">
+              <i class="ion-ios-chatboxes-outline"></i>
+              <h4 class="count" data-count="3917">0</h4>
+              <span>Inscriptions</span>
+            </li>
+            
+            <li class="counter-item">
+              <i class="ion-ios-glasses-outline"></i>
+              <h4 class="count" data-count="803">0</h4>
+              <span>Personnes participantes</span>
+            </li>
+            
+            <li class="counter-item">
+              <i class="ion-ios-compose-outline"></i>
+              <h4 class="count" data-count="107">0</h4>
+              <span>Personnes chargées de l&rsquo;instruction</span>
+            </li>
+            
+            <li class="counter-item">
+              <i class="ion-ios-timer-outline"></i>
+              <h4 class="count" data-count="52">0</h4>
+              <span>Personnes ayant contribué au contenu</span>
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-5 col-md-offset-1">
+        <div class="testimonial-carousel text-center">
+          <div class="testimonial-slider owl-carousel">
+            
+            <div>
+              <i class="ion-quote"></i>
+              <p>I love the QCBS courses and am so grateful that it is available online for free. It&rsquo;s exactly what I need for my Master&rsquo;s research and I have not been able to find any other resources that are so helpful, clear, and applicable to ecological research.</p>
+
+              <div class="user">
+                <img src="/images/clients/happy-outline.svg" alt="client">
+                <p><span>Anonymous</span> Étudiant(e) des cycles supérieurs du CSBQ</p>
+              </div>
+            </div>
+            
+            <div>
+              <i class="ion-quote"></i>
+              <p>La formation était bien construite, un parfait dosage entre notions théoriques et exercices!</p>
+
+              <div class="user">
+                <img src="/images/clients/happy-outline.svg" alt="client">
+                <p><span>Anonyme</span> Étudiant(e) des cycles supérieurs du CSBQ</p>
+              </div>
+            </div>
+            
+            <div>
+              <i class="ion-quote"></i>
+              <p>I am amazed by the high quality of the workshops, the presenters are very knowledgeable with the topics, and they are really good at teaching (i.e. using different ways to explain something). I also liked the discussion and advices based on the presenters' experiences.</p>
+
+              <div class="user">
+                <img src="/images/clients/happy-outline.svg" alt="client">
+                <p><span>Anonyme</span> Étudiant(e) des cycles supérieurs du CSBQ</p>
+              </div>
+            </div>
+            
+            <div>
+              <i class="ion-quote"></i>
+              <p>C&rsquo;était vraiment bien réussi! Je trouve que Maxime a très bien expliqué les concepts en mettant l&rsquo;accent sur les notions les plus importantes. J&rsquo;avais déjà suivi les instructions de l&rsquo;atelier en ligne, mais le fait d&rsquo;avoir une présentation en personne a beaucoup amélioré ma compréhension.</p>
+
+              <div class="user">
+                <img src="/images/clients/happy-outline.svg" alt="client">
+                <p><span>Anonyme</span> Étudiant(e) des cycles supérieurs du CSBQ</p>
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-menu">
+          <ul>
+            
+            <li><a href="/fr/workshops">Ateliers R</a></li>
+            
+            <li><a href="/fr/news">Nouvelles</a></li>
+            
+            <li><a href="/fr/contact">Contact</a></li>
+            
+          </ul>
+        </div>
+        <p class="copyright">Copyright © 2023 <a href="https://github.com/QCBSRworkshops/QCBSRworkshops.github.io">QCBS R Workshop Series</a>. Tous droits réservés.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+
+<script src="/plugins/jquery/jquery.min.js" ></script>
+
+<script src="/plugins/bootstrap/js/bootstrap.min.js" ></script>
+
+<script src="/plugins/slick/slick.min.js" ></script>
+
+<script src="/plugins/magnific-popup/magnific-popup.min.js" ></script>
+
+<script src="/plugins/shuffle/shuffle.min.js" ></script>
+
+<script src="/plugins/google-map/gmap.js" defer></script>
+
+
+
+
+<script src="/js/bundled.min.js"></script>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+  This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-main btn-solid-border">I Accept</span>
+</div>
+<script>
+  (function ($) {
+    const cookieBox = document.getElementById('js-cookie-box');
+    const cookieButton = document.getElementById('js-cookie-button');
+    if (!Cookies.get('cookie-box')) {
+      cookieBox.classList.remove('cookie-box-hide');
+      cookieButton.onclick = function () {
+        Cookies.set('cookie-box', true, {
+          expires:  2 
+        });
+        cookieBox.classList.add('cookie-box-hide');
+      };
+    }
+  })(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+
+</body>
+
+</html>

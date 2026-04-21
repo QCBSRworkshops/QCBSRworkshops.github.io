@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en-US"><head>
+  <meta charset="utf-8">
+  <title>WK-07 - Linear and generalized linear mixed models</title>
+
+  <!-- Mobile responsive metadata -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="Learn how to work with random and fixed effects using LMM and GLMM!">
+  <meta name="author" content="Série d&#39;ateliers R du CSBQ / QCBS R Workshop Series">
+  <meta name="generator" content="Hugo 0.83.1" />
+
+  <!-- Open Graph image and Twitter Card metadata -->
+  <meta property="og:image" content="/images/workshops/forest2.png" />
+    <meta name="twitter:image" content="/images/workshops/forest2.png"/>
+        <meta name="twitter:card" content="summary_large_image">
+      <meta property="og:image:width" content="1125">
+      <meta property="og:image:height" content="579">
+      <meta property="og:image:type" content="image/png">
+  <meta name="twitter:title" content="WK-07 - Linear and generalized linear mixed models"/>
+  <meta name="twitter:description" content="Learn how to work with random and fixed effects using LMM and GLMM!"/>
+  <meta property="og:title" content="WK-07 - Linear and generalized linear mixed models" />
+<meta property="og:description" content="Learn how to work with random and fixed effects using LMM and GLMM!" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/workshops/r-workshop-07/" /><meta property="article:section" content="workshops" />
+
+
+
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D3D28G3DC0"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-D3D28G3DC0', { 'anonymize_ip': false });
+}
+</script>
+
+
+  <!-- Plugins -->
+  <link rel="stylesheet" href="/plugins/bootstrap/css/bootstrap.min.css" media='screen'>
+  <link rel="stylesheet" href="/plugins/ionicons/css/ionicons.min.css" >
+  <link rel="stylesheet" href="/plugins/magnific-popup/magnific-popup.min.css" >
+  <link rel="stylesheet" href="/plugins/slick/slick.css" >
+  
+
+  <!-- Main stylesheet -->
+  <link rel="stylesheet" href="/scss/bundled.min.css" media="screen">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="/images/favicon.png" type="image/x-icon">
+
+
+</head>
+<body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+
+
+<header class="navigation">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        
+        <nav class="navbar">
+          
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">
+              <img src="/images/qcbs_logo_image0032.png" alt="QCBS R Workshop Series" width="90px" class="img-responsive">
+            </a>
+          </div>
+          
+          <div class="collapse navbar-collapse" id="navigation">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="/">Home</a></li><li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  About <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/about/">The QCBS R Series</a></li><li><a href="/code-of-conduct/">Code of conduct</a></li><li><a href="/contributing/">Contributing</a></li><li><a href="/faq/">FAQ</a></li>
+                </ul>
+              </li>
+              <li><a href="/workshops/">R Workshops</a></li><li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  R Symposium <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/about-symposium-2023/">R Symposium 2023</a></li><li><a href="/about-symposium/">R Symposium 2022</a></li><li><a href="/symposium/">Previous Workshops</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  Registration <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/schedule/">Workshop schedule</a></li><li><a href="/registration/">Register</a></li><li><a href="/cancellation/">Cancellation policy</a></li>
+                </ul>
+              </li>
+              <li><a href="/news/">News</a></li><li><a href="/contact/">Contact</a></li>
+
+              
+              <li>
+                <select id="select-language" onchange="location = this.value;">
+                  <option id="en" value="/workshops/r-workshop-07/" selected>
+                    English
+                  </option>
+                  <option id="fr" value="/fr/workshops/r-workshop-07/">
+                    Français
+                  </option>
+                </select>
+              </li>
+              
+            </ul>
+          </div>
+        </nav>
+        
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+<section class="page-title bg-2" style="background-image: url('/images/feature-bg.jpg');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>WK-07 - Linear and generalized linear mixed models</h1>
+          <p>Learn how to work with random and fixed effects using LMM and GLMM!</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<section class="portfolio-single-page section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="project-content mt-50">
+          <div class="btn-group" role="group" aria-label="...">
+  <a href="https://r.qcbs.ca/workshops/r-workshop-06/" button type="button" class="btn btn-default"><</button></a>
+  <a href="https://r.qcbs.ca/workshops/r-workshop-08/"button type="button" class="btn btn-default">></button></a>
+  <div class="btn-group" role="group">
+    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      All workshops
+      <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu">
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-01/">WK 1: Intro to R</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-02/">WK 2: Data manipulation</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-03/">WK 3: Data visualisation</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-04/">WK 4: Linear models</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-05/">WK 5: Programming</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-06/">WK 6: GLMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-07/">WK 7: LMMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-08/">WK 8: GAMs</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-09/">WK 9: Multivariate</a></li>
+      <li><a href="https://r.qcbs.ca/workshops/r-workshop-10/">WK 10: Advanced multivariate</a></li>
+    </ul>
+  </div>
+</div>
+<h2 id="workshop-7-linear-and-generalized-linear-mixed-models-lmm-and-glmm-in-r">Workshop 7: Linear and generalized linear mixed models (LMM and GLMM) in <code>R</code></h2>
+<p>Mixed effects models allow ecologists to overcome a number of limitations associated with traditional linear models.</p>
+<p>In this workshop, you will learn when it is important to use a mixed effects model to analyze your data.</p>
+<p>We will walk you through the steps to conduct a linear mixed model analysis, check its assumptions, report results, and visually represent your model in R.</p>
+<hr>
+<h3 id="material">Material</h3>
+<p><a href="https://github.com/QCBSRworkshops/workshop07"><img src="https://img.shields.io/static/v1?style=flat&amp;label=Workshop&amp;message=07&amp;color=blue&amp;logo=github" alt="badge"></a> <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-orange.svg" alt="License: CC BY-NC-SA 4.0"></a></p>
+
+
+
+
+
+
+
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th style="text-align:center">Slides</th>
+<th style="text-align:center">Book</th>
+<th style="text-align:center">Script</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><a href="https://r.qcbs.ca/workshop07/pres-en/workshop07-pres-en.html" button type="button" class="btn btn-default">English</button></a></td>
+<td style="text-align:center"><a href="https://r.qcbs.ca/workshop07/book-en/index.html" button type="button" class="btn btn-default">English</button></a></td>
+<td style="text-align:center"><a href="https://r.qcbs.ca/workshop07/book-en/workshop07-script-en.R" button type="button" class="btn btn-default">English</button></a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://r.qcbs.ca/workshop07/pres-fr/workshop07-pres-fr.html" button type="button" class="btn btn-default">Français</button></a></td>
+<td style="text-align:center"><a href="https://r.qcbs.ca/workshop07/book-fr/index.html" button type="button" class="btn btn-default">Français</button></a></td>
+<td style="text-align:center"><a href="https://r.qcbs.ca/workshop07/book-fr/workshop07-script-fr.R" button type="button" class="btn btn-default">Français</button></a></td>
+</tr>
+</tbody>
+</table>
+
+
+<blockquote>
+<p>Note: The wiki for this workshop was converted to Bookdown in February 2021. <br>
+The wiki pages for this workshop will no longer be updated (Archive: <a href="https://wiki.qcbs.ca/r_workshop6">EN</a>, <a href="https://wiki.qcbs.ca/r_atelier6">FR</a>).</p>
+</blockquote>
+<h4 id="datasets">Datasets</h4>
+<p><a href="https://r.qcbs.ca/workshop07/pres-en/data/fishdata.csv" button type="button" class="btn btn-primary">fishdata.csv</button></a> <a href="https://r.qcbs.ca/workshop07/pres-en/data/arabidopsis.csv" button type="button" class="btn btn-primary">arabidopsis.csv</button></a> <a href="https://r.qcbs.ca/workshop07/pres-en/data/inverts.csv" button type="button" class="btn btn-primary">invertsdata.csv</button></a></p>
+<h4 id="additional-scripts">Additional scripts</h4>
+<p><a href="https://r.qcbs.ca/workshop07/pres-en/data/glmm_funs.R" button type="button" class="btn btn-primary">glmm_funs.R</button></a></p>
+<hr>
+<h3 id="contributors">Contributors</h3>
+<p>This workshop was originally developed by Catherine Baltazar, Dalal Hanna, Jacob Ziegler. Content about GLMMs was developed by Cédric Frenette Dussault, Vincent Fugère, Thomas Lamy, Zofia Taranu.</p>
+<p>Since 2014, several QCBS members contributed to consistently and collaboratively develop and update this workshop, as part of the <em>Learning and Development Award</em> from the Québec Centre for Biodiversity Science. They were:</p>
+
+
+
+
+
+
+
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th style="text-align:center">2022 - 2021 - 2020</th>
+<th style="text-align:center">2019 - 2018 - 2017</th>
+<th style="text-align:center">2016 - 2015 - 2014</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Maxime Fraser Franco</td>
+<td style="text-align:center">Nicolas Pinceloup</td>
+<td style="text-align:center">Catherine Baltazar</td>
+</tr>
+<tr>
+<td style="text-align:center">Hassen Allegue</td>
+<td style="text-align:center">Marie Hélène Brice</td>
+<td style="text-align:center">Dalal Hanna</td>
+</tr>
+<tr>
+<td style="text-align:center">Linley Sherin</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">Jacob Ziegler</td>
+</tr>
+<tr>
+<td style="text-align:center">Pedro Henrique P. Braga</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">Cédric Frenette Dussault</td>
+</tr>
+<tr>
+<td style="text-align:center">Katherine Hébert</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">Vincent Fugère</td>
+</tr>
+<tr>
+<td style="text-align:center">Kevin Cazelles</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">Thomas Lamy</td>
+</tr>
+<tr>
+<td style="text-align:center">Janaína Serrano</td>
+<td style="text-align:center"></td>
+<td style="text-align:center">Zofia Taranu</td>
+</tr>
+<tr>
+<td style="text-align:center">Dominique Caron</td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+
+
+
+        </div>
+      </div>
+   </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-menu">
+          <ul>
+            
+            <li><a href="/workshops">R Workshops</a></li>
+            
+            <li><a href="/news">News</a></li>
+            
+            <li><a href="/contact">Contact</a></li>
+            
+          </ul>
+        </div>
+        <p class="copyright">Copyright © 2023 <a href="https://github.com/QCBSRworkshops/QCBSRworkshops.github.io">QCBS R Workshop Series</a>. All Rights Reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+
+<script src="/plugins/jquery/jquery.min.js" ></script>
+
+<script src="/plugins/bootstrap/js/bootstrap.min.js" ></script>
+
+<script src="/plugins/slick/slick.min.js" ></script>
+
+<script src="/plugins/magnific-popup/magnific-popup.min.js" ></script>
+
+<script src="/plugins/shuffle/shuffle.min.js" ></script>
+
+<script src="/plugins/google-map/gmap.js" defer></script>
+
+
+
+
+<script src="/js/bundled.min.js"></script>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+  This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-main btn-solid-border">I Accept</span>
+</div>
+<script>
+  (function ($) {
+    const cookieBox = document.getElementById('js-cookie-box');
+    const cookieButton = document.getElementById('js-cookie-button');
+    if (!Cookies.get('cookie-box')) {
+      cookieBox.classList.remove('cookie-box-hide');
+      cookieButton.onclick = function () {
+        Cookies.set('cookie-box', true, {
+          expires:  2 
+        });
+        cookieBox.classList.add('cookie-box-hide');
+      };
+    }
+  })(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+
+</body>
+
+</html>
