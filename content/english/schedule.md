@@ -10,10 +10,10 @@ menu:
     parent: Registration
     weight: 1
 subtitle: null
-lastmod: "2025-09-18"
+lastmod: "2026-09-18"
 ---
 
-## Fall 2025
+## Fall 2026
 
 ### Workshops in English
 
