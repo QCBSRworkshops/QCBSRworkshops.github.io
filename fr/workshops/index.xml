@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Série d&#39;ateliers R on QCBS R Workshop Series</title>
+    <link>/fr/workshops/</link>
+    <description>Recent content in Série d&#39;ateliers R on QCBS R Workshop Series</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Copyright &amp;copy; 2023 [QCBS R Workshop Series](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io). Tous droits réservés.</copyright><atom:link href="/fr/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AT-01 - Introduction à R</title>
+      <link>/fr/workshops/r-workshop-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/workshops/r-workshop-01/</guid>
+      <description>Tous les ateliers   WK 1: Intro à R WK 2: Manipulation de données WK 3: Visualisation de données WK 4: Modèles linéaires WK 5: Programmation WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Analyses multivariés WK 10: Analyses multivariés avancés    Atelier 1: Introduction à R Dans cet atelier d’introduction à R, vous apprendrez ce qu’est le logiciel d’analyse statistique R, vous verrez plusieurs raisons pourquoi vous devriez absolument l’utiliser (!</description>
+    </item>
+    
+    <item>
+      <title>AT-02 - Charger et manipuler des données</title>
+      <link>/fr/workshops/r-workshop-02/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/workshops/r-workshop-02/</guid>
+      <description>Tous les ateliers   WK 1: Intro à R WK 2: Manipulation de données WK 3: Visualisation de données WK 4: Modèles linéaires WK 5: Programmation WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Analyses multivariés WK 10: Analyses multivariés avancés    Atelier 2: Charger et manipuler des données Durant cet atelier, vous apprendrez comment charger et visualiser des données dans R.</description>
+    </item>
+    
+    <item>
+      <title>AT-03 -Introduction à la visualisation des données avec `ggplot2`</title>
+      <link>/fr/workshops/r-workshop-03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/workshops/r-workshop-03/</guid>
+      <description>Tous les ateliers   WK 1: Intro à R WK 2: Manipulation de données WK 3: Visualisation de données WK 4: Modèles linéaires WK 5: Programmation WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Analyses multivariés WK 10: Analyses multivariés avancés    Atelier 3: Introduction à la visualisation des données avec ggplot2 Pendant cet atelier, vous perfectionnerez vos compétences en visualisation et manipulation de jeux de données à l&amp;rsquo;aide de la bibliothèque ggplot2.</description>
+    </item>
+    
+    <item>
+      <title>AT-04 - Modéles linéaires</title>
+      <link>/fr/workshops/r-workshop-04/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/workshops/r-workshop-04/</guid>
+      <description>Tous les ateliers   WK 1: Intro à R WK 2: Manipulation de données WK 3: Visualisation de données WK 4: Modèles linéaires WK 5: Programmation WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Analyses multivariés WK 10: Analyses multivariés avancés    Atelier 4: Modéles linéaires Dans cet atelier, vous apprendrez comment effectuer en R les modèles linéaires fréquemment utilisés en écologie tels que la régression simple, l’analyse de variance (ANOVA), l’analyse de covariance (ANCOVA) et la régression multiple.</description>
+    </item>
+    
+    <item>
+      <title>AT-05 - Programmation en R</title>
+      <link>/fr/workshops/r-workshop-05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/workshops/r-workshop-05/</guid>
+      <description>Tous les ateliers   WK 1: Intro à R WK 2: Manipulation de données WK 3: Visualisation de données WK 4: Modèles linéaires WK 5: Programmation WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Analyses multivariés WK 10: Analyses multivariés avancés    Atelier 5: Programmation en R Cet atelier vise à vous apprendre les bases de la programmation en R.</description>
+    </item>
+    
+    <item>
+      <title>AT-06 - Modèles linéaires généralisés</title>
+      <link>/fr/workshops/r-workshop-06/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/workshops/r-workshop-06/</guid>
+      <description>Tous les ateliers   WK 1: Intro à R WK 2: Manipulation de données WK 3: Visualisation de données WK 4: Modèles linéaires WK 5: Programmation WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Analyses multivariés WK 10: Analyses multivariés avancés    Atelier 6: Modèles linéaires généralisés Les modèles linéaires généralisés sont des outils importants afin de surmonter un problème récurrent des modèles linéaires, c.</description>
+    </item>
+    
+    <item>
+      <title>AT-07 - Modèles linéaires et généralisés linéaires mixtes</title>
+      <link>/fr/workshops/r-workshop-07/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/workshops/r-workshop-07/</guid>
+      <description>Tous les ateliers   WK 1: Intro à R WK 2: Manipulation de données WK 3: Visualisation de données WK 4: Modèles linéaires WK 5: Programmation WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Analyses multivariés WK 10: Analyses multivariés avancés    Atelier 7: Modèles linéaires et généralisés linéaires mixtes (LMM et GLMM) Les modèles à effets mixtes permettent aux écologistes de surmonter un certain nombre de limitations liées aux modèles linéaires traditionnels.</description>
+    </item>
+    
+    <item>
+      <title>AT-08 - Modèles additifs généralisés</title>
+      <link>/fr/workshops/r-workshop-08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/workshops/r-workshop-08/</guid>
+      <description>Tous les ateliers   WK 1: Intro à R WK 2: Manipulation de données WK 3: Visualisation de données WK 4: Modèles linéaires WK 5: Programmation WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Analyses multivariés WK 10: Analyses multivariés avancés    Atelier 8 : Modèles additifs généralisés L&amp;rsquo;objectif de cet atelier sera d&amp;rsquo;examiner ce qu&amp;rsquo;est un modèle non-linéaire et comment les modèles additifs généralisés (GAM) nous permettent de modéliser les relations non-linéaires.</description>
+    </item>
+    
+    <item>
+      <title>AT-09 - Analyses multivariées</title>
+      <link>/fr/workshops/r-workshop-09/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/workshops/r-workshop-09/</guid>
+      <description>Tous les ateliers   WK 1: Intro à R WK 2: Manipulation de données WK 3: Visualisation de données WK 4: Modèles linéaires WK 5: Programmation WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Analyses multivariés WK 10: Analyses multivariés avancés    Atelier 9: Analyses multivariées Dans cet atelier, vous apprendrez les bases des analyses multivariées qui vous permettront de révéler les patrons de diversité dans vos données de communautés.</description>
+    </item>
+    
+    <item>
+      <title>AT-10 - Analyses multivariées avancées</title>
+      <link>/fr/workshops/r-workshop-10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/workshops/r-workshop-10/</guid>
+      <description>Tous les ateliers   WK 1: Intro à R WK 2: Manipulation de données WK 3: Visualisation de données WK 4: Modèles linéaires WK 5: Programmation WK 6: GLMs WK 7: LMMs WK 8: GAMs WK 9: Analyses multivariés WK 10: Analyses multivariés avancés    Atelier 10: Analyses multivariées avancées Dans cet atelier, vous apprendrez à réaliser des analyses multivariées avancées sur des données de communauté.</description>
+    </item>
+    
+  </channel>
+</rss>

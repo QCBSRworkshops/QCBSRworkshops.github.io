@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Review on QCBS R Workshop Series</title>
+    <link>/fr/tags/review/</link>
+    <description>Recent content in Review on QCBS R Workshop Series</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>Copyright &amp;copy; 2023 [QCBS R Workshop Series](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io). Tous droits réservés.</copyright>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/fr/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ateliers R du CSBQ 2023-2024</title>
+      <link>/fr/news/01062024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/news/01062024/</guid>
+      <description>Les Ateliers R du CSBQ pour l’année 2023-2024 ont une fois de plus été un succès, offerts à distance en anglais et en français. Plus de 70 personnes ont participé, bénéficiant du dévouement et du travail des 9 présentateurs qui ont offert une expérience d’apprentissage enrichissante.</description>
+    </item>
+    
+    <item>
+      <title>Ateliers R du CSBQ 2022-2023</title>
+      <link>/fr/news/01062023/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/news/01062023/</guid>
+      <description>Les Ateliers R du CSBQ pour l’année 2022-2023 ont été offerts à distance en anglais et en français. En prenant les rênes en début d’automne 2022, notre équipe de coordination composée d’Antoine Caron-Guay (UdeM), Clara Casabona Amat (UdeS) et Paola Lisset Galloso Sanchez (UdeM) s’est engagée à assurer la continuité et le bon déroulement de ces ateliers.</description>
+    </item>
+    
+    <item>
+      <title>Conclusion de la série 2020-2021</title>
+      <link>/fr/news/08072021/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/news/08072021/</guid>
+      <description>La série d&amp;rsquo;ateliers R du CSBQ a connu plusieurs changements majeurs en 2020-2021 : nous avons mis en place des ateliers à distance pour la toute première fois, en raison de l&amp;rsquo;impossibilité d&amp;rsquo;offrir des ateliers en personne dans les universités pendant la pandémie de COVID-19, et nous avons accueilli une nouvelle cohorte de coordination!</description>
+    </item>
+    
+  </channel>
+</rss>
