@@ -10,7 +10,7 @@ menu:
     parent: Registration
     weight: 1
 subtitle: null
-lastmod: "2026-09-18"
+lastmod: "2026-09-16"
 ---
 
 ## Fall 2026
