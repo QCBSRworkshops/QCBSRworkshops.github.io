@@ -13,7 +13,7 @@ subtitle: null
 lastmod: "2026-09-16"
 ---
 
-## Fall 2026
+## Fall 2026-2027
 
 ### Workshops in English
 
