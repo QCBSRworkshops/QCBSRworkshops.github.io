@@ -21,12 +21,12 @@ lastmod: "2026-09-16"
 
 |      |              Workshop              |        Location         |    Date    |  Time (EST)   | Instructed by |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| WK-1 |         Introduction to R          | Hybrid- UdeM MIL Campus Room B2416 | 5-11-2025  | 9h30 - 12h30  |    Johanna Arnett & Sarah Ishak     |
-| WK-2 |   Loading and manipulating data    | Hybrid - UdeM MIL Campus Room A3551 | 5-11-2025  | 13:30 - 17:30 |      Johanna Arnett & Sarah Ishak      |
-| WK-3 | Introduction to data visualization | Hybrid - UdeM MIL Campus Room B2416 | 12-11-2025 | 9h30 - 12h30  |      Anna Lippold & Sarah Ishak      |
-| WK-5 |  Introduction to programming in R  | Hybrid - UdeM MIL Campus Room A3551 | 12-11-2025 | 13:30 - 17:30 |      Anna Lippold & Sarah      |
-| WK-4 |           Linear Models            | Postponed | Winter 2026 | 9h30 - 12h30  |      TBA      |
-| WK-7 | Linear and generalized linear mixed models | Postponed | Winter 2026 | 13:30 - 17:30 | TBA |
+| WK-1 |         Introduction to R          | Hybrid-  TBD | Winter 2027  | 9h00 - 12h00  |   TBD     |
+| WK-2 |   Loading and manipulating data    | Hybrid - TBD | Winter 2027  | 9h00 - 12h00 |    TBD     |
+| WK-3 | Introduction to data visualization | Hybrid - TBD | Winter 2027 | 9h00 - 12h00  |   TBD        |
+| WK-4 |  Linear Models   | Hybrid - TBD | Winter 2027 | 9h00 - 12h00 |    TBD        |
+| WK-5 |       Introduction to programming in R         | Hybrid - TBD | Winter 2027 | 9h00 - 12h00  |      TBD     |
+
 
 {{< /bootstrap-table >}}
 
@@ -36,20 +36,20 @@ The schedule for the workshops in french is available [**here**](/fr/schedule/#a
 
 <br />
 
-## Winter 2026
+## Winter 2027
 
 ### Workshops in English
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
 
-|       | Workshop                                   | Location | Date | Time (EST) | Instructed by |
-|:----------:|:-----------|:----------:|:----------:|:----------:|:----------:|
-| WK-4 |           Linear Models           | Hybrid UQAM-Room SBM220 | 12-3-2026 |13:30 - 17:30   |  Cancelled  |
-| WK-7 | Linear and generalized linear mixed models | Hybrid UQAM-Room SBM220 | 13-3-2026 | 13:30 - 17:30| Cancelled | 
-| WK-6  | Generalized linear models                  |  Hybrid UQAM-Room SBM220| 19-3-2026  |    13:30 - 17:30     |     Animesh Ghose    |
-| WK-8  | Generalized additive models                |  Hybrid UQAM-Room SBM220  | 26-3-2026  |    13:30 - 17:30     |     Animesh Ghose    |
-| WK-9  | Multivariate analyses                      |  Hybrid UQAM-Room SBM220  | 2-4-2026 |    13:30 - 17:30     |  Maxime Guglielmetti    |
-| WK-10 | Advanced multivariate analyses             |  Hybrid UQAM-Room SBM220  | 9-4-2026  |    13:30 - 17:30     |     Animesh Ghose    |
+|      |              Workshop              |        Location         |    Date    |  Time (EST)   | Instructed by |
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+| WK-1 |         Introduction to R          | Hybrid-  TBD | Winter 2027  | 9h00 - 12h00  |   TBD     |
+| WK-2 |   Loading and manipulating data    | Hybrid - TBD | Winter 2027  | 9h00 - 12h00 |    TBD     |
+| WK-3 | Introduction to data visualization | Hybrid - TBD | Winter 2027 | 9h00 - 12h00  |   TBD        |
+| WK-4 |  Linear Models   | Hybrid - TBD | Winter 2027 | 9h00 - 12h00 |    TBD        |
+| WK-5 |       Introduction to programming in R         | Hybrid - TBD | Winter 2027 | 9h00 - 12h00  |      TBD     |
+
 
 {{< /bootstrap-table >}}
 
