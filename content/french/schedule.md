@@ -44,17 +44,7 @@ L'horaire pour les ateliers en anglais est disponible [**ici**](/schedule/#fall-
 
 ### Ateliers en français
 
-{{< bootstrap-table "table table-striped table-bordered" >}}
-| | Atelier | Lieu | Date | Heure (EST) | Instruit par |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| WK-1 | Introduction à R | Hybride - TBD | 8-10-2026 | 9h00 - 12h00 |TBA |
-| WK-2 | Charger et manipuler des données | Hybride - TBD | 15-10-2026 | 9h00 - 12h00 | TBA |
-| WK-3 | Introduction à la visualisation des données | Hybride - TBD | 12-11-2026 |9h00 - 12h00 | TBA |
-| WK-4 | Modèles linéaires | Hybride - TBD | 19-11-2026 | 9h00 - 12h00 | TBA |
-| WK-5 | Introduction à la programmation avec R | Hybride - TBD | 26-11-2026 | 9h00 - 12h00 | TBA |
-
-{{< /bootstrap-table >}}
-
+### Veuillez noter qu'aucun atelier ne sera offert en français durant la session d'hiver. Les ateliers de cette session seront donnés uniquement en anglais.
 
 
 <div class="default">
