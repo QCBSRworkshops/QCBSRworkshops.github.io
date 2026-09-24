@@ -17,19 +17,7 @@ lastmod: "2026-09-16"
 
 ### Workshops in English
 
-{{< bootstrap-table "table table-striped table-bordered" >}}
-
-|      |              Workshop              |        Location         |    Date    |  Time (EST)   | Instructed by |
-|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| WK-1 |         Introduction to R          | Hybrid-  TBD | Winter 2027  | 9h00 - 12h00  |   TBD     |
-| WK-2 |   Loading and manipulating data    | Hybrid - TBD | Winter 2027  | 9h00 - 12h00 |    TBD     |
-| WK-3 | Introduction to data visualization | Hybrid - TBD | Winter 2027 | 9h00 - 12h00  |   TBD        |
-| WK-4 |  Linear Models   | Hybrid - TBD | Winter 2027 | 9h00 - 12h00 |    TBD        |
-| WK-5 |       Introduction to programming in R         | Hybrid - TBD | Winter 2027 | 9h00 - 12h00  |      TBD     |
-
-
-{{< /bootstrap-table >}}
-
+## Please note that workshops taught in English will be offered exclusively during the Winter session. In the Fall session, workshops will be offered only in French.
 ### Workshops in French
 
 The schedule for the workshops in french is available [**here**](/fr/schedule/#automne-2024).
