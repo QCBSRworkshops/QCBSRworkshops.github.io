@@ -18,7 +18,7 @@ bg_image: "images/feature-bg.jpg"
 lastmod: "2025-10-06"
 ---
 
-## Automne 2025
+## Automne 2026
 
 ### Ateliers en français
 
@@ -26,12 +26,11 @@ lastmod: "2025-10-06"
 
 | | Atelier | Lieu | Date | Heure (EST) | Instruit par |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| WK-1 | Introduction à R | Hybride - UQAM Salle SB-M230 | 6-11-2025 | 9:30 - 12:30 | Alexandra Landry & Essivi Gagnon Koudji |
-| WK-2 | Charger et manipuler des données | Hybride - UQAM Salle SB-M230 | 6-11-2025 | 13:30 - 17:30 | Alexandra Landry & Karima Lafore |
-| WK-3 | Introduction à la visualisation des données | Hybride - UQAM Salle SB-M230 | 13-11-2025 | 9:30 - 12:30 | Maxime Guglielmetti & Karima Lafore |
-| WK-5 | Introduction à la programmation avec R | Hybride - UQAM Salle SB-M230 | 13-11-2025 | 13:30 - 17:30 | Maxime Guglielmetti & Marc-Antoine Poulin |
-| WK-4 | Modèles linéaires | Hybride - UQAM Salle SB-M230 | 20-11-2025 | 9:30 - 12:30 | Jérôme Burkiewicz & Maxime Guglielmetti |
-| WK-7 | Modèles linéaires et généralisés linéaires mixtes | Hybride - UQAM Salle SB-M230 | 20-11-2025 | 13:30 - 17:30 | Jérôme Burkiewicz & Maxime Guglielmetti |
+| WK-1 | Introduction à R | Hybride - TBD | 8-10-2026 | 9h00 - 12h00 |TBA |
+| WK-2 | Charger et manipuler des données | Hybride - TBD | 15-10-2026 | 9h00 - 12h00 | TBA |
+| WK-3 | Introduction à la visualisation des données | Hybride - TBD | 12-11-2026 |9h00 - 12h00 | TBA |
+| WK-4 | Modèles linéaires | Hybride - TBD | 19-11-2026 | 9h00 - 12h00 | TBA |
+| WK-5 | Introduction à la programmation avec R | Hybride - TBD | 26-11-2026 | 9h00 - 12h00 | TBA |
 
 {{< /bootstrap-table >}}
 
@@ -41,20 +40,18 @@ L'horaire pour les ateliers en anglais est disponible [**ici**](/schedule/#fall-
 
 <br />
 
-## Hiver 2026
+## Hiver 2027
 
 ### Ateliers en français
 
 {{< bootstrap-table "table table-striped table-bordered" >}}
-
-|       | Atelier              |   Lieu   |  Date   | Heure (EST) | Instruit par |
-|:---------:|:----------------|:---------:|:---------:|:---------:|:---------:|
-| WK-6  | Modèles linéaires généralisés         | Hybride- UQAM-salle SBR430 | 20-3-2026 |   13:30-17:30   |    Magalie Wzietek   |
-| WK-8  | Modèles additifs généralisés          | Hybride- UQAM-salle SBR430 | 27-3-2026 |  13:30-17:30   | Daniel Schoening|
-| WK-9  | Analyses multivariées                 | Hybride- UQAM-salle SBR430 | 3-4-2026 |  13:30-17:30  |  Simon Pesant & Maxime Guglielmetti |
-| WK-8  | Modèles additifs généralisés          | Hybride- UQAM-salle SBR430 | 27-3-2026 |  13:30-17:30   |   Daniel Schoenig    |
-| WK-9  | Analyses multivariées                 | Hybride- UQAM-salle SBR430 | 3-4-2026 |  13:30-17:30  |  Simon Pesant and Maxime Guglielmetti |
-| WK-10 | Analyses multivariées avancées        | Hybride- UQAM-salle SBR430 | 10-4-2026 |  13:30-17:30   |   Simon Pesant   |
+| | Atelier | Lieu | Date | Heure (EST) | Instruit par |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| WK-1 | Introduction à R | Hybride - TBD | 8-10-2026 | 9h00 - 12h00 |TBA |
+| WK-2 | Charger et manipuler des données | Hybride - TBD | 15-10-2026 | 9h00 - 12h00 | TBA |
+| WK-3 | Introduction à la visualisation des données | Hybride - TBD | 12-11-2026 |9h00 - 12h00 | TBA |
+| WK-4 | Modèles linéaires | Hybride - TBD | 19-11-2026 | 9h00 - 12h00 | TBA |
+| WK-5 | Introduction à la programmation avec R | Hybride - TBD | 26-11-2026 | 9h00 - 12h00 | TBA |
 
 {{< /bootstrap-table >}}
 
