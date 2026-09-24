@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="fr-FR"><head>
+  <meta charset="utf-8">
+  <title>Prédire la répartition géographique des espèces avec R</title>
+
+  <!-- Mobile responsive metadata -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="par Pedro Henrique P. Braga and Julia Nordlund">
+  <meta name="author" content="Série d&#39;ateliers R du CSBQ / QCBS R Workshop Series">
+  <meta name="generator" content="Hugo 0.83.1" />
+
+  <!-- Open Graph image and Twitter Card metadata -->
+  <meta property="og:image" content="/images/symposium/gradienta.jpeg" />
+    <meta name="twitter:image" content="/images/symposium/gradienta.jpeg"/>
+        <meta name="twitter:card" content="summary_large_image">
+      <meta property="og:image:width" content="3810">
+      <meta property="og:image:height" content="1412">
+      <meta property="og:image:type" content="image/jpeg">
+  <meta name="twitter:title" content="Prédire la répartition géographique des espèces avec R"/>
+  <meta name="twitter:description" content="par Pedro Henrique P. Braga and Julia Nordlund"/>
+  <meta property="og:title" content="Prédire la répartition géographique des espèces avec R" />
+<meta property="og:description" content="par Pedro Henrique P. Braga and Julia Nordlund" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/fr/symposium/r-symposium-03/" /><meta property="article:section" content="symposium" />
+
+
+
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D3D28G3DC0"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-D3D28G3DC0', { 'anonymize_ip': false });
+}
+</script>
+
+
+  <!-- Plugins -->
+  <link rel="stylesheet" href="/plugins/bootstrap/css/bootstrap.min.css" media='screen'>
+  <link rel="stylesheet" href="/plugins/ionicons/css/ionicons.min.css" >
+  <link rel="stylesheet" href="/plugins/magnific-popup/magnific-popup.min.css" >
+  <link rel="stylesheet" href="/plugins/slick/slick.css" >
+  
+
+  <!-- Main stylesheet -->
+  <link rel="stylesheet" href="/scss/bundled.min.css" media="screen">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="/images/favicon.png" type="image/x-icon">
+
+
+</head>
+<body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+
+
+<header class="navigation">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        
+        <nav class="navbar">
+          
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/fr">
+              <img src="/images/qcbs_logo_image0032.png" alt="QCBS R Workshop Series" width="90px" class="img-responsive">
+            </a>
+          </div>
+          
+          <div class="collapse navbar-collapse" id="navigation">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="/fr/">Accueil</a></li><li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  À propos <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/fr/about/">La série d&#39;ateliers R</a></li><li><a href="/fr/code-of-conduct/">Code de conduite</a></li><li><a href="/fr/contributing/">Contributions</a></li><li><a href="/fr/faq/">FAQ</a></li>
+                </ul>
+              </li>
+              <li><a href="/fr/workshops/">Ateliers R</a></li><li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  Colloque R <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/fr/about-symposium-2023/">Colloque R 2023</a></li><li><a href="/fr/about-symposium/">Colloque R 2022</a></li><li><a href="/fr/symposium/">Archive d&#39;ateliers</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  Inscription <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/fr/schedule/">Horaire</a></li><li><a href="/fr/registration/">Inscrivez-vous</a></li><li><a href="/fr/cancellation/">Politique d&#39;annulation</a></li>
+                </ul>
+              </li>
+              <li><a href="/fr/news/">Nouvelles</a></li><li><a href="/fr/contact/">Contact</a></li>
+
+              
+              <li>
+                <select id="select-language" onchange="location = this.value;">
+                  <option id="en" value="/symposium/r-symposium-03/">
+                    English
+                  </option><option id="fr" value="/fr/symposium/r-symposium-03/" selected>
+                    Français
+                  </option>
+                  
+                </select>
+              </li>
+              
+            </ul>
+          </div>
+        </nav>
+        
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+<section class="page-title bg-2" style="background-image: url('/images/symposium/gault.png');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>Prédire la répartition géographique des espèces avec R</h1>
+          <p>par Pedro Henrique P. Braga and Julia Nordlund</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<section class="portfolio-single-page section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <div class="project-details">
+          <h4>Project Details</h4>
+          <ul>
+            
+            <li><span>Langue :</span><br> <strong>Anglais</strong></li>
+            
+            <li><span>Matériel requis :</span><br> <strong>R and RStudio</strong></li>
+            
+            <li><span>Instruit :</span><br> <strong>Colloque R 2017</strong></li>
+            
+            <li><span>Contribué par :</span><br> <strong>Pedro Henrique P. Braga and Julia Nordlund</strong></li>
+            
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-9">
+        <div class="project-content mt-50">
+          <h2 id="prédire-la-répartition-géographique-des-espèces-avec-r">Prédire la répartition géographique des espèces avec R</h2>
+<p>Les modèles de distribution des espèces (SDM) ont été largement appliqués pour répondre à de nombreuses questions en biologie, notamment dans les domaines de l&rsquo;écologie, de l&rsquo;évolution, de la biogéographie et de la conservation. Les applications sont nombreuses et peuvent inclure la projection des impacts potentiels du changement climatique, la prévision des invasions d&rsquo;espèces, la planification de la conservation, les questions d&rsquo;évolution des niches écologiques et l&rsquo;estimation de la propagation potentielle des maladies. Parallèlement à l&rsquo;augmentation de la popularité des modèles de distribution des espèces, de nombreuses méthodes et outils ont été développés au cours des dernières décennies. La plupart de ces outils sont désormais disponibles dans des packages R. Ce cours présente les concepts fondamentaux qui sous-tendent les modèles de distribution des espèces, en décrivant certaines des méthodes les plus importantes actuellement utilisées, et en discutant des forces et des limites de ces modèles pour différentes applications.</p>
+<h3 id="matériel-de-latelier">Matériel de l&rsquo;atelier</h3>
+<p><a href="https://pedrohbraga.github.io/SpeciesDistribModelling-in-R-Workshop/sdm_workshop.html"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=Pr%C3%A9sentation&amp;message=Ouvrir&amp;color=BF616A" alt="badge"></a></p>
+
+        </div>
+      </div>
+   </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-menu">
+          <ul>
+            
+            <li><a href="/fr/workshops">Ateliers R</a></li>
+            
+            <li><a href="/fr/news">Nouvelles</a></li>
+            
+            <li><a href="/fr/contact">Contact</a></li>
+            
+          </ul>
+        </div>
+        <p class="copyright">Copyright © 2023 <a href="https://github.com/QCBSRworkshops/QCBSRworkshops.github.io">QCBS R Workshop Series</a>. Tous droits réservés.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+
+<script src="/plugins/jquery/jquery.min.js" ></script>
+
+<script src="/plugins/bootstrap/js/bootstrap.min.js" ></script>
+
+<script src="/plugins/slick/slick.min.js" ></script>
+
+<script src="/plugins/magnific-popup/magnific-popup.min.js" ></script>
+
+<script src="/plugins/shuffle/shuffle.min.js" ></script>
+
+<script src="/plugins/google-map/gmap.js" defer></script>
+
+
+
+
+<script src="/js/bundled.min.js"></script>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+  This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-main btn-solid-border">I Accept</span>
+</div>
+<script>
+  (function ($) {
+    const cookieBox = document.getElementById('js-cookie-box');
+    const cookieButton = document.getElementById('js-cookie-button');
+    if (!Cookies.get('cookie-box')) {
+      cookieBox.classList.remove('cookie-box-hide');
+      cookieButton.onclick = function () {
+        Cookies.set('cookie-box', true, {
+          expires:  2 
+        });
+        cookieBox.classList.add('cookie-box-hide');
+      };
+    }
+  })(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+
+</body>
+
+</html>

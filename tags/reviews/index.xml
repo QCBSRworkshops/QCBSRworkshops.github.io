@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on QCBS R Workshop Series</title>
+    <link>/tags/reviews/</link>
+    <description>Recent content in Reviews on QCBS R Workshop Series</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright &amp;copy; 2023 [QCBS R Workshop Series](https://github.com/QCBSRworkshops/QCBSRworkshops.github.io). All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QCBS R Workshops 2023-2024</title>
+      <link>/news/01062024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/news/01062024/</guid>
+      <description>The QCBS R Workshops for 2023-2024 were once again a success, offered remotely in both English and French. Over 70 people participated, benefiting from the dedication and hard work of the 9 presenters who provided an enriching learning experience.</description>
+    </item>
+    
+    <item>
+      <title>QCBS R Workshops 2022-2023</title>
+      <link>/news/01062023/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/news/01062023/</guid>
+      <description>The QCBS R Workshops for 2022-2023 were offered remotely in English and French. When we took over the reins at the beginning of fall 2022, our coordinating team of Antoine Caron-Guay (UdeM), Clara Casabona Amat (UdeS) and Paola Lisset Galloso Sanchez (UdeM) committed to ensuring the continuity and smooth running of these workshops.</description>
+    </item>
+    
+  </channel>
+</rss>
