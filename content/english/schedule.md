@@ -17,7 +17,7 @@ lastmod: "2026-09-16"
 
 ### Workshops in English
 
-## Please note that workshops taught in English will be offered exclusively during the Winter session. In the Fall session, workshops will be offered only in French.
+### Please note that workshops taught in English will be offered exclusively during the Winter session. In the Fall session, workshops will be offered only in French.
 ### Workshops in French
 
 The schedule for the workshops in french is available [**here**](/fr/schedule/#automne-2024).
