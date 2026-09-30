@@ -26,11 +26,11 @@ lastmod: "2025-10-06"
 
 | | Atelier | Lieu | Date | Heure (EST) | Instruit par |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| WK-1 | Introduction à R | Hybride - TBD | 8-10-2026 | 9h00 - 12h00 |TBA |
-| WK-2 | Charger et manipuler des données | Hybride - TBD | 15-10-2026 | 9h00 - 12h00 | TBA |
-| WK-3 | Introduction à la visualisation des données | Hybride - TBD | 12-11-2026 |9h00 - 12h00 | TBA |
-| WK-4 | Modèles linéaires | Hybride - TBD | 19-11-2026 | 9h00 - 12h00 | TBA |
-| WK-5 | Introduction à la programmation avec R | Hybride - TBD | 26-11-2026 | 9h00 - 12h00 | TBA |
+| WK-1 | Introduction à R | Hybride - UQAM/SH-3540 | 8-10-2026 | 9h00 - 12h00 | Morgane Henry |
+| WK-2 | Charger et manipuler des données | Hybride - UQAM/SH-3540 | 15-10-2026 | 9h00 - 12h00 | TBA |
+| WK-3 | Introduction à la visualisation des données | Hybride - UQAM/SH-3540 | 12-11-2026 |9h00 - 12h00 | TBA |
+| WK-4 | Modèles linéaires | Hybride - UQAM/SH-3540 | 19-11-2026 | 9h00 - 12h00 | TBA |
+| WK-5 | Introduction à la programmation avec R | Hybride - UQAM/SH-3540 | 26-11-2026 | 9h00 - 12h00 | TBA |
 
 {{< /bootstrap-table >}}
 
