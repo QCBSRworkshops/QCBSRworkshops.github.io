@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en-US"><head>
+  <meta charset="utf-8">
+  <title>eDNA metabarcoding</title>
+
+  <!-- Mobile responsive metadata -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="by Alexis Carteron and Simon Morvan">
+  <meta name="author" content="Série d&#39;ateliers R du CSBQ / QCBS R Workshop Series">
+  <meta name="generator" content="Hugo 0.83.1" />
+
+  <!-- Open Graph image and Twitter Card metadata -->
+  <meta property="og:image" content="/images/symposium/gradienta.jpeg" />
+    <meta name="twitter:image" content="/images/symposium/gradienta.jpeg"/>
+        <meta name="twitter:card" content="summary_large_image">
+      <meta property="og:image:width" content="3810">
+      <meta property="og:image:height" content="1412">
+      <meta property="og:image:type" content="image/jpeg">
+  <meta name="twitter:title" content="eDNA metabarcoding"/>
+  <meta name="twitter:description" content="by Alexis Carteron and Simon Morvan"/>
+  <meta property="og:title" content="eDNA metabarcoding" />
+<meta property="og:description" content="by Alexis Carteron and Simon Morvan" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/symposium/r-symposium-10/" /><meta property="article:section" content="symposium" />
+
+
+
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D3D28G3DC0"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-D3D28G3DC0', { 'anonymize_ip': false });
+}
+</script>
+
+
+  <!-- Plugins -->
+  <link rel="stylesheet" href="/plugins/bootstrap/css/bootstrap.min.css" media='screen'>
+  <link rel="stylesheet" href="/plugins/ionicons/css/ionicons.min.css" >
+  <link rel="stylesheet" href="/plugins/magnific-popup/magnific-popup.min.css" >
+  <link rel="stylesheet" href="/plugins/slick/slick.css" >
+  
+
+  <!-- Main stylesheet -->
+  <link rel="stylesheet" href="/scss/bundled.min.css" media="screen">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
+<link rel="icon" href="/images/favicon.png" type="image/x-icon">
+
+
+</head>
+<body>
+<!-- preloader start -->
+<div class="preloader">
+  
+</div>
+<!-- preloader end -->
+
+
+<header class="navigation">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12">
+        
+        <nav class="navbar">
+          
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navigation">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">
+              <img src="/images/qcbs_logo_image0032.png" alt="QCBS R Workshop Series" width="90px" class="img-responsive">
+            </a>
+          </div>
+          
+          <div class="collapse navbar-collapse" id="navigation">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="/">Home</a></li><li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  About <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/about/">The QCBS R Series</a></li><li><a href="/code-of-conduct/">Code of conduct</a></li><li><a href="/contributing/">Contributing</a></li><li><a href="/faq/">FAQ</a></li>
+                </ul>
+              </li>
+              <li><a href="/workshops/">R Workshops</a></li><li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  R Symposium <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/about-symposium-2023/">R Symposium 2023</a></li><li><a href="/about-symposium/">R Symposium 2022</a></li><li><a href="/symposium/">Previous Workshops</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  Registration <span class="ion-ios-arrow-down"></span>
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a href="/schedule/">Workshop schedule</a></li><li><a href="/registration/">Register</a></li><li><a href="/cancellation/">Cancellation policy</a></li>
+                </ul>
+              </li>
+              <li><a href="/news/">News</a></li><li><a href="/contact/">Contact</a></li>
+
+              
+              <li>
+                <select id="select-language" onchange="location = this.value;">
+                  <option id="en" value="/symposium/r-symposium-10/" selected>
+                    English
+                  </option>
+                  <option id="fr" value="/fr/symposium/r-symposium-10/">
+                    Français
+                  </option>
+                </select>
+              </li>
+              
+            </ul>
+          </div>
+        </nav>
+        
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+<section class="page-title bg-2" style="background-image: url('/images/symposium/gault.png');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>eDNA metabarcoding</h1>
+          <p>by Alexis Carteron and Simon Morvan</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<section class="portfolio-single-page section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <div class="project-details">
+          <h4>Project Details</h4>
+          <ul>
+            
+            <li><span>Language :</span><br> <strong>English</strong></li>
+            
+            <li><span>Material required :</span><br> <strong>R and RStudio</strong></li>
+            
+            <li><span>Instructed :</span><br> <strong>R Symposium 2018</strong></li>
+            
+            <li><span>Contributed by :</span><br> <strong>Alexis Carteron and Simon Morvan</strong></li>
+            
+          </ul>
+        </div>
+      </div>
+      <div class="col-md-9">
+        <div class="project-content mt-50">
+          <h2 id="edna-metabarcoding-from-raw-data-to-rda">eDNA metabarcoding: From raw data to RDA</h2>
+<p>With the democratisation of high-throughput sequencing, the use of DNA as an identification method has become standard practice. The marker genes (16S rRNA, 18S rRNA, ITS, etc.) can be compared to databases and give an overview of the communities present in your samples. No more cultivating, isolating and identifying based on morphology and chemical reactions ! However time-gaining DNA sequencing may be, the full process of turning raw DNA reads into exploitable taxonomic units can be tricky. Due to the quick turnover in bioinformatics techniques and the profusion of methods available, it can be hard to decide on a pipeline. In this workshop, we would like to present to you a complete reproducible workflow in R dedicated to the processing of raw DNA sequences using the DADA2 package, followed by community analysis and visualisation using the Phyloseq package.</p>
+<h3 id="workshop-material">Workshop material</h3>
+<p><a href="https://alexiscarter.github.io/metab/"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;label=Presentation&amp;message=Open&amp;color=BF616A" alt="badge"></a></p>
+
+        </div>
+      </div>
+   </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-menu">
+          <ul>
+            
+            <li><a href="/workshops">R Workshops</a></li>
+            
+            <li><a href="/news">News</a></li>
+            
+            <li><a href="/contact">Contact</a></li>
+            
+          </ul>
+        </div>
+        <p class="copyright">Copyright © 2023 <a href="https://github.com/QCBSRworkshops/QCBSRworkshops.github.io">QCBS R Workshop Series</a>. All Rights Reserved.</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+
+
+
+
+<script src="/plugins/jquery/jquery.min.js" ></script>
+
+<script src="/plugins/bootstrap/js/bootstrap.min.js" ></script>
+
+<script src="/plugins/slick/slick.min.js" ></script>
+
+<script src="/plugins/magnific-popup/magnific-popup.min.js" ></script>
+
+<script src="/plugins/shuffle/shuffle.min.js" ></script>
+
+<script src="/plugins/google-map/gmap.js" defer></script>
+
+
+
+
+<script src="/js/bundled.min.js"></script>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+<div id="js-cookie-box" class="cookie-box cookie-box-hide">
+  This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-main btn-solid-border">I Accept</span>
+</div>
+<script>
+  (function ($) {
+    const cookieBox = document.getElementById('js-cookie-box');
+    const cookieButton = document.getElementById('js-cookie-button');
+    if (!Cookies.get('cookie-box')) {
+      cookieBox.classList.remove('cookie-box-hide');
+      cookieButton.onclick = function () {
+        Cookies.set('cookie-box', true, {
+          expires:  2 
+        });
+        cookieBox.classList.add('cookie-box-hide');
+      };
+    }
+  })(jQuery);
+</script>
+
+
+<style>
+.cookie-box {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: 9999;
+  padding: 1rem 2rem;
+  background: rgb(71, 71, 71);
+  transition: all .75s cubic-bezier(.19, 1, .22, 1);
+  color: #fdfdfd;
+}
+
+.cookie-box-hide {
+  display: none;
+}
+</style>
+
+</body>
+
+</html>
